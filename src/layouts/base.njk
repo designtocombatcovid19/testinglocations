@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html class="no-js" lang="{{ meta.lang }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>
+      {%- if title -%}
+        {{ title }} | {{ meta.title }}
+      {%- else -%}
+        {{ meta.title }}
+      {%- endif -%}
+    </title>
+    {# <link rel="stylesheet" href="/css/styles.css"> #}
+    <style>{% include "../css/styles.css" %}</style>
+    <script>{% include "../static/scripts/list.min.js" %}</script>
+
+    {% include "meta.njk" %}
+  </head>
+  <body class="font-sans antialiased bg-white flex flex-col min-h-screen">
+    {% include "notification.njk" %}
+
+    {%- if page.url == "/" -%}
+      {% include "header-main.njk" %}
+    {%- else -%}
+      {% include "header.njk"%}
+    {%- endif -%}
+    <main class="flex-grow">
+      {{ content | safe }}
+    </main>
+    {% include "footer.njk" %}
+
+    {% if build.env === 'production' %}
+      <script src="{{ '/static/scripts/offline.js' | url }}" async="async" defer="defer"></script>
+    {% endif %}
+  </body>
+</html>

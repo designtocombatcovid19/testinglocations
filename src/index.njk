@@ -1,0 +1,89 @@
+---
+layout: base
+title: COVID-19 Testing
+subtitle: Locations and requirements for testing in the United States.
+buttonName: Self Test
+buttonUrl: /self-test/
+buttonSecondName: Submit New Location
+buttonSecondUrl: /submit/
+---
+
+<div id="testing-list">
+
+  <div class="bg-white shadow p-4 flex">
+    <span class="w-auto justify-end items-center text-grey p-2">
+      <p class="text-xl font-bold">Search</p>
+    </span>
+    <input class="search w-full rounded p-2" type="text" placeholder="Enter your location...">
+  </div>
+
+  <ul class="list p-6">
+    <li class="p-6">
+      <p class="state font-bold pb-2">California</p>
+      <a class="location" href="https://pvmedgroup.com">Palos Verdes Medical Group</a>
+      {# TODO: Link to apple/google maps on click/tap #}
+      <address class="address">550 Deep Valley Dr #319,<br/>Rolling Hills Estates, CA 90274</address>
+      <p class="hours pt-1">1pm to 5pm</p>
+      <p class="days">Monday through Friday</p>
+      <p class=""><a href="tel:310-544-6858">310-544-6858</a></p>
+      <p class="eligibility">Appointment only. Please call ahead.</p>
+    </li>
+    <li class="p-6">
+      <p class="state font-bold pb-2">Washington</p>
+      <a class="location" href="https://med.stanford.edu/news/all-news/2020/03/stanford-offers-drive-through-coronavirus-test.html">Stanford Medicine - Express Care's Hoover Pavillion</a>
+      <address><p class="address"><a href="https://maps.apple.com/?daddr=211+Quarry+Rd,+Palo+Alto+CA">211 Quarry Rd<br/>Palo Alto, WA 98045</a></p></address>
+      <p class="hours pt-1">9am to 6pm</p>
+      <p class="days">Sunday through Saturday</p>
+      <a class="phone" href="tel:650-550-3923">650-550-3923</a>
+      <p class="eligibility">Physician referall with symptoms. Appointment only. Cannot use taxi or ride-sharing service.</p>
+    </li>
+    <li class="p-6">
+      <p class="state font-bold pb-2">Oregon</p>
+      <a class="location" href="https://pvmedgroup.com">Palos Verdes Medical Group</a>
+      {# TODO: Link to apple/google maps on click/tap #}
+      <address class="address">550 Deep Valley Dr #319,<br/>Rolling Hills Estates, CA 90274</address>
+      <p class="hours pt-1">1pm to 5pm</p>
+      <p class="days">Monday through Friday</p>
+      <p class=""><a href="tel:310-544-6858">310-544-6858</a></p>
+      <p class="eligibility">Appointment only. Please call ahead.</p>
+    </li>
+    <li class="p-6">
+      <p class="state font-bold pb-2">Oregon</p>
+      <a class="location" href="https://med.stanford.edu/news/all-news/2020/03/stanford-offers-drive-through-coronavirus-test.html">Stanford Medicine - Express Care's Hoover Pavillion</a>
+      <address><p class="address"><a href="https://maps.apple.com/?daddr=211+Quarry+Rd,+Palo+Alto+CA">211 Quarry Rd<br/>Palo Alto, WA 98045</a></p></address>
+      <p class="hours pt-1">9am to 6pm</p>
+      <p class="days">Sunday through Saturday</p>
+      <a class="phone" href="tel:650-550-3923">650-550-3923</a>
+      <p class="eligibility">Physician referall with symptoms. Appointment only. Cannot use taxi or ride-sharing service.</p>
+    </li>
+  </ul>
+
+</div>
+
+<script>
+  var options = {
+    valueNames: [ 'state' ]
+  };
+
+  var testingList = new List('testing-list', options);
+</script>
+
+
+{# <div class="max-w-4xl px-6 mx-auto mt-24">
+  <div class="mb-4 sm:flex sm:-mx-4">
+    <div class="sm:w-1/2 sm:px-4">
+      <h3 class="mb-0 text-3xl font-black leading-tight">Faster than most solutions</h3>
+      <p class="mt-2 mb-0 text-gray-700 sm:text-lg">
+        Modern web frameworks are often bloated, slow to load on weak internet connections, and a battery drain on mobile devices.
+      </p>
+    </div>
+    <div class="mt-10 sm:w-1/2 sm:px-4 sm:mt-0">
+      <h3 class="mb-0 text-3xl font-black leading-tight">Yet easy to maintain</h3>
+      <p class="mt-2 mb-0 text-gray-700 sm:text-lg">
+        Using Github, Netlify, and Netlify CMS, this toolkit is quick to deploy and content is easy to edit.
+      </p>
+    </div>
+  </div>
+</div>
+
+{% include "cta.njk" %} #}

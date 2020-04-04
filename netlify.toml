@@ -1,0 +1,21 @@
+[build]
+    command = "npm run build"
+    publish = "dist"
+
+[context.production.environment]
+    NODE_ENV = "production"
+
+[template.environment]
+    META_TITLE = "DCC19 Toolkit"
+    META_URL = "https://github.com/designtocombatcovid19/dcc19-toolkit"
+    META_DESC = "Templates, assets, and documentation for starting new DCC19 projects."
+    META_LANG = "en"
+    META_COLOR = "the primary color hex code, e.g. '#FF0000'"
+    META_EMAIL = "branden.byers@designtocombatcovid19.com"
+    META_TELEPHONE = "the main contact phone number"
+    # TZ = "the timezone for your site, e.g. America/New_York"
+
+[[redirects]]
+    from = "*"
+    to = "/404"
+    status = 404

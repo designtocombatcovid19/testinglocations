@@ -1,0 +1,29 @@
+---
+layout: base
+title: 'Toolkits in the Wild'
+subtitle: 'See how others are using the DCC19 Toolkit'
+---
+{%
+  set exampleList = [
+    { "url": "#" , "name": "Example 1", "img": "example.img"},
+    { "url": "#" , "name": "Example 2", "img": "example.img"},
+    { "url": "#" , "name": "Example 3", "img": "example.img"},
+    { "url": "#" , "name": "Example 4", "img": "example.img"}
+  ]
+%}
+
+<div class="px-3 py-6 -mb-12 bg-body">
+  <div class="flex flex-wrap">
+{% for example in exampleList %}
+    <div class="w-full min-w-0 p-3 sm:w-1/2 md:w-1/3 xl:w-1/4">
+      <a target="_blank" class="block shadow-sm rounded-sm p-3 text-gray-900 bg-white hover:text-primary" href={{ example.url }}>
+        <img class="max-w-full rounded-sm" src={{ example.img }}>
+        <div class="pt-2 text-sm font-semibold">
+          <div class="truncate">{{ example.name }}</div>
+          <div class="text-xs font-normal text-gray-500 truncate">{{ example.url }}</div>
+        </div>
+      </a>
+    </div>
+{% endfor %}
+  </div>
+</div>
