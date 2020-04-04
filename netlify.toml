@@ -6,13 +6,13 @@
     NODE_ENV = "production"
 
 [template.environment]
-    META_TITLE = "DCC19 Toolkit"
-    META_URL = "https://github.com/designtocombatcovid19/dcc19-toolkit"
-    META_DESC = "Templates, assets, and documentation for starting new DCC19 projects."
+    META_TITLE = "Testing for COVID-19"
+    META_URL = "https://github.com/designtocombatcovid19/testing-locations"
+    META_DESC = "Locations, hours, and eligibility for COVID-19 testing in the United States."
     META_LANG = "en"
-    META_COLOR = "the primary color hex code, e.g. '#FF0000'"
+    META_COLOR = ""
     META_EMAIL = "branden.byers@designtocombatcovid19.com"
-    META_TELEPHONE = "the main contact phone number"
+    META_TELEPHONE = ""
     # TZ = "the timezone for your site, e.g. America/New_York"
 
 [[redirects]]
