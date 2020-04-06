@@ -24,6 +24,7 @@
     "@11ty/eleventy": "^0.10.0",
     "@11ty/eleventy-plugin-rss": "^1.0.7",
     "@fullhuman/postcss-purgecss": "^1.3.0",
+    "airtable": "^0.8.1",
     "clean-css": "^4.2.3",
     "cssnano": "^4.1.10",
     "del-cli": "^3.0.0",
