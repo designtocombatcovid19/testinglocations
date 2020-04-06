@@ -10,9 +10,9 @@ const {
 } = process.env
 
 module.exports = {
-  title: META_TITLE || 'DCC19 Toolkit',
+  title: META_TITLE || 'COVID-19 Testing Locations',
   url: META_URL || '',
-  description: META_DESC || 'An emergency information website.',
+  description: META_DESC || 'Locations and requirements for coronavirus testing in the United States.',
   lang: META_LANG || 'en',
   primaryColor: META_COLOR || '#DB0000',
   email: META_EMAIL || undefined,

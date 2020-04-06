@@ -77,7 +77,7 @@ function offlineHandler() {
   const checkConnectivity = () => {
     if (typeof navigator.onLine !== 'undefined' && !navigator.onLine) {
       new Notification(
-        'You are currently offline. You can still use this site, but content might not be up to date.',
+        'You are currently offline. You can access this site, but testing location information might not be up to date.',
         10000
       )
     }
