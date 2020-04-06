@@ -9,52 +9,27 @@ buttonSecondUrl: /submit/
 ---
 
 <div id="testing-list">
-  <div class="bg-white shadow p-4 flex">
-    <span class="w-auto justify-end items-center text-grey p-2">
+  <div class="bg-white mx-8 sm:mx-12 pt-10 pb-2 flex border-b">
+    <span class="w-auto justify-end items-center text-gray-900 pt-1 sm:pt-2">
       {# <p class="text-xl font-bold">Search</p> #}
-      <svg fill="currentColor" viewBox="0 0 20 20" class="w-8 h-8"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd"></path></svg>
+      <svg fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd"></path></svg>
     </span>
-    <input class="search w-full rounded p-2" type="text" placeholder="Which state do you live in?">
+    <input class="search w-full rounded px-2 text-xl sm:text-2xl text-gray-900 " type="text" placeholder="Which state do you live in?">
   </div>
 
-  <ul class="list p-6">
-    <li class="p-6">
-      <p class="state font-bold pb-2">California</p>
-      <a class="location" href="https://pvmedgroup.com">Palos Verdes Medical Group</a>
+  <ul class="list pt-4 px-8 sm:px-12">
+    <li class="pt-4 pb-4 border-b border-dashed border-gray-500">
+      <p class="state font-bold">California</p>
+      <p class="city font-normal">Echo Park</p>
+      <a class="location" href="https://carbonhealth.com/echo-park">Carbon Health</a>
       {# TODO: Link to apple/google maps on click/tap #}
-      <address class="address">550 Deep Valley Dr #319,<br/>Rolling Hills Estates, CA 90274</address>
-      <p class="hours pt-1">1pm to 5pm</p>
-      <p class="days">Monday through Friday</p>
-      <p class=""><a href="tel:310-544-6858">310-544-6858</a></p>
-      <p class="eligibility">Appointment only. Please call ahead.</p>
-    </li>
-    <li class="p-6">
-      <p class="state font-bold pb-2">Washington</p>
-      <a class="location" href="https://med.stanford.edu/news/all-news/2020/03/stanford-offers-drive-through-coronavirus-test.html">Stanford Medicine - Express Care's Hoover Pavillion</a>
-      <address><p class="address"><a href="https://maps.apple.com/?daddr=211+Quarry+Rd,+Palo+Alto+CA">211 Quarry Rd<br/>Palo Alto, WA 98045</a></p></address>
-      <p class="hours pt-1">9am to 6pm</p>
-      <p class="days">Sunday through Saturday</p>
-      <a class="phone" href="tel:650-550-3923">650-550-3923</a>
-      <p class="eligibility">Physician referall with symptoms. Appointment only. Cannot use taxi or ride-sharing service.</p>
-    </li>
-    <li class="p-6">
-      <p class="state font-bold pb-2">Oregon</p>
-      <a class="location" href="https://pvmedgroup.com">Palos Verdes Medical Group</a>
-      {# TODO: Link to apple/google maps on click/tap #}
-      <address class="address">550 Deep Valley Dr #319,<br/>Rolling Hills Estates, CA 90274</address>
-      <p class="hours pt-1">1pm to 5pm</p>
-      <p class="days">Monday through Friday</p>
-      <p class=""><a href="tel:310-544-6858">310-544-6858</a></p>
-      <p class="eligibility">Appointment only. Please call ahead.</p>
-    </li>
-    <li class="p-6">
-      <p class="state font-bold pb-2">Oregon</p>
-      <a class="location" href="https://med.stanford.edu/news/all-news/2020/03/stanford-offers-drive-through-coronavirus-test.html">Stanford Medicine - Express Care's Hoover Pavillion</a>
-      <address><p class="address"><a href="https://maps.apple.com/?daddr=211+Quarry+Rd,+Palo+Alto+CA">211 Quarry Rd<br/>Palo Alto, WA 98045</a></p></address>
-      <p class="hours pt-1">9am to 6pm</p>
-      <p class="days">Sunday through Saturday</p>
-      <a class="phone" href="tel:650-550-3923">650-550-3923</a>
-      <p class="eligibility">Physician referall with symptoms. Appointment only. Cannot use taxi or ride-sharing service.</p>
+      <address class="address not-italic">2110 Sunset Blvd Suite M<br/>Los Angeles, CA 90026</address>
+      <p class="days">M-Su</p>
+      <p class="hours">9AM-7PM</p>
+      <p class="location-type">Walk-in</p>
+      {# <p class=""><a href="tel:310-544-6858">310-544-6858</a></p> #}
+      <p class="notes">Privately owned. Minimum cost of $145 for visit.</p>
+      <a class="learn-more" href="https://carbonhealth.com/echo-park">Make an appointment</a>
     </li>
   </ul>
 
