@@ -10,7 +10,7 @@ const workboxOptions = {
   cacheId: 'emergency-site',
   swDest: './dist/sw.js',
   globPatterns: ['**/*.html', 'static/scripts/offline.js'],
-  globIgnores: ['admin/**/*', '404/**/*', 'data/location-test.json'],
+  globIgnores: ['admin/**/*', '404/**/*'],
   importScripts: ['/static/scripts/worker.js'],
   skipWaiting: false
 }
@@ -56,7 +56,7 @@ module.exports = function (config) {
   config.addPassthroughCopy("./src/css");
 
   // Deep-Merge
-  config.setDataDeepMerge(true)
+  config.setDataDeepMerge(false)
 
   // Base Config
   return {

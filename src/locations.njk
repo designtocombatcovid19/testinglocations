@@ -1,11 +1,11 @@
 ---
 layout: base
 pagination:
-  data: location-list
+  data: locations
   size: 1
   alias: location
 permalink: "locations/{{ location.State | slug }}/{{ location.City | slug }}/{{ location.Name | slug }}/"
-tags: locations
+tags: loc
 renderData:
   title: "{{ location.Name }}"
 ---

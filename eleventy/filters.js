@@ -15,5 +15,9 @@ module.exports = {
 
   cssmin: function (css) {
     return new CleanCSS({}).minify(css).styles
+  },
+
+  keys: function (obj) {
+    return Object.keys(obj)
   }
 }
