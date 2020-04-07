@@ -1,0 +1,14 @@
+---
+layout: base
+pagination:
+  data: location-list
+  size: 1
+  alias: location
+permalink: "locations/{{ location.State | slug }}/{{ location.City | slug }}/{{ location.Name | slug }}/"
+tags: locations
+renderData:
+  title: "{{ location.Name }}"
+---
+
+<h1>{{ location.Name }}</h1>
+<p>{{ location.State }}</p>

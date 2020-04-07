@@ -10,7 +10,7 @@ const workboxOptions = {
   cacheId: 'emergency-site',
   swDest: './dist/sw.js',
   globPatterns: ['**/*.html', 'static/scripts/offline.js'],
-  globIgnores: ['admin/**/*', '404/**/*'],
+  globIgnores: ['admin/**/*', '404/**/*', 'data/location-test.json'],
   importScripts: ['/static/scripts/worker.js'],
   skipWaiting: false
 }

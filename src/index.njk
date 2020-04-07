@@ -83,6 +83,12 @@ buttonSecondUrl: /submit/
 
 </div>
 
+<ul>
+{%- for loc in collections.locations -%}
+  <li>{{ loc.title }}</li>
+{%- endfor -%}
+</ul>
+
 <script>
   var options = {
     valueNames: [ 'state' ]
