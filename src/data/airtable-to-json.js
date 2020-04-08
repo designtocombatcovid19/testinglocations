@@ -5,6 +5,7 @@ const Airtable = require('airtable');
 const base = new Airtable({apiKey: process.env.AIRTABLE_KEY}).base(process.env.AIRTABLE_BASE);
 
 var recordFieldsJSON = []
+var count = 0
 
 base('Testing Locations').select({
     maxRecords: 9999,
@@ -16,6 +17,7 @@ base('Testing Locations').select({
     //console.log(JSON.stringify(records, null, 2))
     records.forEach(function(record) {
       recordFieldsJSON.push(record.fields)
+      generatePost(record.fields)
     });
 
     // To fetch the next page of records, call `fetchNextPage`.
@@ -54,3 +56,19 @@ base('Testing Locations').select({
     //     console.log('Retrieved', record.get('Name'));
     // });
 });
+
+function generatePost(location) {
+    count += 1
+    let fileString = `---
+layout: base
+permalink: "locations/{{ ${location.State} | slug }}/{{ ${location.City} | slug }}/{{ ${location.Name} | punc | slug }}/"
+tags: locations
+title: ${location.Name}
+---`
+    try {
+      console.log(`Generating ${location.Name}`)
+      fs.writeFileSync(process.cwd() + `/src/locations/location-${count}.md`, fileString)
+    } catch (err) {
+        console.error(err)
+    }
+}
