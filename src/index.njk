@@ -92,7 +92,7 @@ buttonSecondUrl: /submit/
 <p>{{ collections | keys | dump(2) | safe }}</p>
 <section>
   {%- for tag, posts in collections %}
-  tag: {{ tag }}, posts: {{ posts | length }}<br/>
+  tag: {{ tag }}, posts: {{ posts | dump }}<br/>
   {%- endfor %}
 </section>
 <hr>
@@ -101,6 +101,7 @@ buttonSecondUrl: /submit/
   tag: {{ tag2 }}, posts: {{ posts2 | length }};<br/>
   {%- endfor %}
 </section>
+
 <script>
   var options = {
     valueNames: [ 'state' ]

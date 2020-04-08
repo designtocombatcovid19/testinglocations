@@ -1,5 +1,6 @@
 const { DateTime } = require('luxon')
 const CleanCSS = require('clean-css')
+const util = require('util')
 
 module.exports = {
   dateToFormat: function (date, format) {
@@ -19,5 +20,9 @@ module.exports = {
 
   keys: function (obj) {
     return Object.keys(obj)
+  },
+
+  dump: function (obj) {
+    return util.inspect(obj)
   }
 }
