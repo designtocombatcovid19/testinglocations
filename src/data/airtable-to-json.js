@@ -6,8 +6,6 @@ const base = new Airtable({apiKey: process.env.AIRTABLE_KEY}).base(process.env.A
 
 var recordFieldsJSON = []
 
-console.log(`\n\n\n\n\n\n\n ${process.env.AIRTABLE_KEY}`)
-
 base('Testing Locations').select({
     maxRecords: 9999,
     view: "Verified Locations",
