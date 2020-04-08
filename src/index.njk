@@ -92,7 +92,8 @@ buttonSecondUrl: /submit/
 <p>{{ collections | keys | dump(2) | safe }}</p>
 <section>
   {%- for tag, posts in collections %}
-  tag: {{ tag }}, posts: {{ posts | dump }}<br/>
+  tag: {{ tag }}, posts: {{ posts | length }}<br/>
+  <pre>{{ posts | dump }}</pre>
   {%- endfor %}
 </section>
 <hr>
