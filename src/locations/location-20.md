@@ -10,5 +10,11 @@ city: Aurora
 zip: 80010
 locationType: Drive-thru
 phone: (303) 360-6276
+website: https://stridechc.org/
+onlineBooking: undefined
+closed: undefined
+notesOther: "Closes periodically due to lack of supplies. Please check website before going."
+days: Weekdays
+hours: 9AM-4PM
 ---
-## Colorado
+## STRIDE CHC- Aurora Health & Wellness Plaza

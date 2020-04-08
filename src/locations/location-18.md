@@ -10,5 +10,10 @@ city: Redondo Beach
 zip: 90278
 locationType: Drive-thru
 phone: undefined
+website: https://lacovidprod.service-now.com/rrs
+onlineBooking: true
+closed: undefined
+notesOther: "undefined"
+days: Unknown hours
 ---
-## California
+## South Bay Galleria

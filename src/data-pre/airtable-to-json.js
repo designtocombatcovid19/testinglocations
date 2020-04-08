@@ -61,14 +61,7 @@ base('Testing Locations').select({
 })
 
 function generatePost(location) {
-    let hours = ""
     count += 1
-    // TODO: check for 24 hours here first
-    if (location.DaysOfWeek) {
-      hours = location.DaysOfWeek
-    } else {
-      hours = "Unknown hours of operation"
-    }
 
     let fileString = `---
 layout: base
@@ -81,22 +74,12 @@ address: ${location.Address}
 city: ${location.City}
 zip: ${location.Zip}
 locationType: ${location.LocationType}
-hours: ${hours}
 phone: ${location.Phone}
 website: ${location.Website}
 onlineBooking: ${location.OnlineBooking}
 closed: ${location.Closed}
-notes: ${location.Notes}
-notesOther: ${location.NotesOther}
-daysOfWeek: ${location.DaysOfWeek}
-opensAt: ${location.OpensAt}
-closesAt: ${location.ClosesAt}
-altDaysOfWeek: ${location.AltDaysOfWeek}
-altOpensAt: ${location.AltOpensAt}
-altClosesAt: ${location.AltClosesAt}
-alt2DaysOfWeek: ${location.Alt2DaysOfWeek}
-alt2OpensAt: ${location.Alt2OpensAt}
-alt2ClosesAt: ${location.Alt2ClosesAt}
+notesOther: "${location.NotesOther}"
+${hoursOfOperation(location)}
 ---
 ## ${location.Name}`
 
@@ -106,6 +89,37 @@ alt2ClosesAt: ${location.Alt2ClosesAt}
   } catch (err) {
     console.error(err)
   }
+}
+
+function hoursOfOperation(location) {
+  let days = location.DaysOfWeek
+  let opensAt = location.OpensAt
+  let closesAt = location.ClosesAt
+  let altDays = location.AltDaysOfWeek
+  let altOpensAt = location.AltOpensAt
+  let altClosesAt = location.AltClosesAt
+  let alt2Days = location.Alt2DaysOfWeek
+  let alt2OpensAt = location.Alt2OpensAt
+  let alt2ClosesAt = location.Alt2ClosesAt
+
+  let open = ""
+
+  if (days && opensAt && closesAt) {
+    if (opensAt === "Open 24 hours") {
+      return "days: Open 24/7"
+    } else {
+      open = `days: ${rangeDaysOfWeek(days)}\nhours: ${opensAt}-${closesAt}`
+      if (altDays && altOpensAt && altClosesAt) {
+        open = open + `\naltDays: ${rangeDaysOfWeek(altDays)}\naltHours: ${altOpensAt}-${altClosesAt}`
+      }
+      if (alt2Days && alt2OpensAt && alt2ClosesAt) {
+        open = open + `\nalt2Days: ${rangeDaysOfWeek(alt2Days)}\nalt2Hours: ${alt2OpensAt}-${alt2ClosesAt}`
+      }
+    }
+  } else {
+    return "days: Unknown hours"
+  }
+  return open
 }
 
 function rangeDaysOfWeek(arr) {
@@ -123,36 +137,36 @@ function rangeDaysOfWeek(arr) {
   let saturday = ["Saturday"]
   let mwf = ["Monday", "Wednesday","Friday"].sort()
   let tt = ["Tuesday","Thursday"].sort()
-  let all = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"].sort()
 
   if (equals(days, all)) {
-    let range = "Everyday"
+    range = "Everyday"
   } else if (equals(days, weekdays)) {
-    let range = "Weekdays"
+    range = "Weekdays"
   } else if (equals(days, weekends)) {
-    let range = "Weekends"
+    range = "Weekends"
   } else if (equals(days, sunday)) {
-    let range = "Sundays"
+    range = "Sundays"
   } else if (equals(days, monday)) {
-    let range = "Mondays"
+    range = "Mondays"
   } else if (equals(days, tuesday)) {
-    let range = "Tuesdays"
+    range = "Tuesdays"
   } else if (equals(days, wednesday)) {
-    let range = "Wednesdays"
+    range = "Wednesdays"
   } else if (equals(days, thursday)) {
-    let range = "Thursdays"
+    range = "Thursdays"
   } else if (equals(days, friday)) {
-    let range = "Fridays"
+    range = "Fridays"
   } else if (equals(days, saturday)) {
-    let range = "Saturdays"
+    range = "Saturdays"
   } else if (equals(days, mwf)) {
-    let range = "M, W, F"
+    range = "M, W, F"
   } else if (equals(days, tt)) {
-    let range = "Tu, Th"
+    range = "Tu, Th"
   } else {
-    let range = "ERROR"
+    range = "ERROR"
   }
   // TODOD: add remaining combos
+  console.log(range)
   return range
 }
 

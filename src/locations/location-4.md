@@ -10,5 +10,11 @@ city: Inglewood
 zip: 90301
 locationType: Walk-in
 phone: undefined
+website: undefined
+onlineBooking: undefined
+closed: true
+notesOther: "undefined"
+days: Weekdays
+hours: 8AM-4:30PM
 ---
-## California
+## Curtis R. Tucker Public Health Center

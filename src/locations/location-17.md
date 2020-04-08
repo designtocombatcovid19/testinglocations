@@ -10,5 +10,10 @@ city: Palmdale
 zip: 93551
 locationType: Drive-thru
 phone: undefined
+website: https://corona-virus.la/
+onlineBooking: true
+closed: undefined
+notesOther: "undefined"
+days: Unknown hours
 ---
-## California
+## The Antelope Valley Mall

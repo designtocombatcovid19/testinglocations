@@ -10,5 +10,10 @@ city: Los Angeles
 zip: 90073
 locationType: Drive-thru
 phone: 310-478-3711
+website: https://lacovidprod.service-now.com/rrs
+onlineBooking: true
+closed: undefined
+notesOther: "undefined"
+days: Open 24/7
 ---
-## California
+## The West LA Veteran’s Administration Lot 15

@@ -10,5 +10,10 @@ city: Glendale
 zip: 91204
 locationType: Drive-thru
 phone: undefined
+website: https://lacovidprod.service-now.com/rrs
+onlineBooking: true
+closed: undefined
+notesOther: "Download form to have your doctor order the test"
+days: Unknown hours
 ---
-## California
+## Glendale Memorial Hospital

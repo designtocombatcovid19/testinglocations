@@ -10,5 +10,11 @@ city: Northridge
 zip: 91328
 locationType: Drive-thru
 phone: undefined
+website: https://lacovidprod.service-now.com/rrs
+onlineBooking: true
+closed: undefined
+notesOther: "undefined"
+days: Weekdays
+hours: 8AM-4PM
 ---
-## California
+## Northridge Hospital Medical Center

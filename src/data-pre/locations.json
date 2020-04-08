@@ -5,11 +5,11 @@
       "Drive-thru"
     ],
     "DaysOfWeek": [
+      "Friday",
       "Monday",
-      "Tuesday",
-      "Wednesday",
       "Thursday",
-      "Friday"
+      "Tuesday",
+      "Wednesday"
     ],
     "Alt2DaysOfWeek": [
       "Sunday"
@@ -41,13 +41,13 @@
       "Drive-thru"
     ],
     "DaysOfWeek": [
-      "Sunday",
-      "Monday",
-      "Tuesday",
-      "Wednesday",
-      "Thursday",
       "Friday",
-      "Saturday"
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
     ],
     "City": "Anchorage",
     "ClosesAt": "7PM",
@@ -68,13 +68,13 @@
     ],
     "OnlineBooking": true,
     "DaysOfWeek": [
-      "Sunday",
-      "Monday",
-      "Tuesday",
-      "Wednesday",
-      "Thursday",
       "Friday",
-      "Saturday"
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
     ],
     "City": "Los Angeles",
     "ClosesAt": "7PM",
@@ -96,11 +96,11 @@
       "Walk-in"
     ],
     "DaysOfWeek": [
+      "Friday",
       "Monday",
-      "Tuesday",
-      "Wednesday",
       "Thursday",
-      "Friday"
+      "Tuesday",
+      "Wednesday"
     ],
     "City": "Inglewood",
     "ClosesAt": "4:30PM",
@@ -120,13 +120,13 @@
     ],
     "OnlineBooking": true,
     "DaysOfWeek": [
-      "Sunday",
-      "Monday",
-      "Tuesday",
-      "Wednesday",
-      "Thursday",
       "Friday",
-      "Saturday"
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
     ],
     "City": "Los Angeles",
     "NotesOther": "Send a picture ID (front and back) and insurance ID (front and back) to COVID19@LAENT.COM",
@@ -197,11 +197,11 @@
       "Drive-thru"
     ],
     "DaysOfWeek": [
-      "Tuesday",
-      "Wednesday",
-      "Thursday",
       "Friday",
-      "Saturday"
+      "Saturday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
     ],
     "City": "Indio",
     "NotesOther": "Testing will take place in the parking lots 5 and 5A near Arabia Street, between Highway 111 and Dr Carreon Boulevard",
@@ -224,11 +224,11 @@
     ],
     "OnlineBooking": true,
     "DaysOfWeek": [
-      "Sunday",
       "Monday",
+      "Sunday",
+      "Thursday",
       "Tuesday",
-      "Wednesday",
-      "Thursday"
+      "Wednesday"
     ],
     "City": "Lake Elsinore",
     "NotesOther": "Over 1 hour wait time for a phone appointment",
@@ -274,12 +274,12 @@
     ],
     "OnlineBooking": true,
     "DaysOfWeek": [
-      "Monday",
-      "Tuesday",
-      "Wednesday",
-      "Thursday",
       "Friday",
-      "Saturday"
+      "Monday",
+      "Saturday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
     ],
     "City": "Lancaster",
     "NotesOther": "Addtional requirements: must be 65 or older OR have underlying health conditions",
@@ -343,11 +343,11 @@
     ],
     "OnlineBooking": true,
     "DaysOfWeek": [
+      "Friday",
       "Monday",
-      "Tuesday",
-      "Wednesday",
       "Thursday",
-      "Friday"
+      "Tuesday",
+      "Wednesday"
     ],
     "City": "Northridge",
     "ClosesAt": "4PM",
@@ -516,11 +516,11 @@
       "Drive-thru"
     ],
     "DaysOfWeek": [
+      "Friday",
       "Monday",
-      "Tuesday",
-      "Wednesday",
       "Thursday",
-      "Friday"
+      "Tuesday",
+      "Wednesday"
     ],
     "City": "Aurora",
     "NotesOther": "Closes periodically due to lack of supplies. Please check website before going.",
@@ -543,11 +543,11 @@
       "Drive-thru"
     ],
     "DaysOfWeek": [
+      "Friday",
       "Monday",
-      "Tuesday",
-      "Wednesday",
       "Thursday",
-      "Friday"
+      "Tuesday",
+      "Wednesday"
     ],
     "AltClosesAt": "1PM",
     "City": "Wheat Ridge",
@@ -575,13 +575,13 @@
       "Drive-thru"
     ],
     "DaysOfWeek": [
-      "Sunday",
-      "Monday",
-      "Tuesday",
-      "Wednesday",
-      "Thursday",
       "Friday",
-      "Saturday"
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
     ],
     "City": "West Barnstable",
     "NotesOther": "If you do not have a primary care provider, please call a Cape Cod Healthcare urgent care center or 508-862-5595 to reach their dedicated call center.",

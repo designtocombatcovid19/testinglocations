@@ -10,5 +10,11 @@ city: Anchorage
 zip: 99508
 locationType: Drive-thru
 phone: undefined
+website: undefined
+onlineBooking: undefined
+closed: undefined
+notesOther: "undefined"
+days: Everyday
+hours: 9AM-7PM
 ---
-## Alaska
+## Lake Otis Pkwy & E 42nd

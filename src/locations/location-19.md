@@ -10,5 +10,10 @@ city: Pomona
 zip: 91768
 locationType: Drive-thru
 phone: undefined
+website: coronavirus.lacity.org/Testing
+onlineBooking: true
+closed: undefined
+notesOther: "Only performing 200 tests a day"
+days: Unknown hours
 ---
-## California
+## The Pomona Fairplex Gate 17

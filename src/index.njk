@@ -31,13 +31,17 @@ buttonSecondUrl: /submit/
           <div class="my-4 pl-10 pr-4 w-1/2 overflow-hidden sm:w-3/12">
             {# TODO: Link to apple/google maps on click/tap #}
             {# <address class="address not-italic">Carbon Health<br/>2110 Sunset Blvd Suite M<br/>Los Angeles, CA 90026</address> #}
-            <address class="address not-italic">{{ location.data.title }}<br/>{{ location.data.address }}<br/>{{ location.data.city }}, CA {{ location.data.zip }}</address>
+            <address class="address not-italic"><span class="font-bold">{{ location.data.title }}</span><br/>{{ location.data.address }}<br/>{{ location.data.city }}, CA {{ location.data.zip }}</address>
           </div>
 
           <div class="my-4 px-4 w-1/2 overflow-hidden sm:w-2/12">
-            <p class="days">Mon-Sun</p>
-            <p class="hours">9:30AM-7:30PM</p>
-            <p class="location-type">{{ location.data.locationType }}</p>
+            <p class="location-type font-bold">{{ location.data.locationType }}</p>
+            <p class="days">{{ location.data.days }}</p>
+            <p class="hours">{{ location.data.hours }}</p>
+            <p class="altDays">{{ location.data.altDays }}</p>
+            <p class="altHours">{{ location.data.altHours }}</p>
+            <p class="alt2Days">{{ location.data.alt2Days }}</p>
+            <p class="alt2Hours">{{ location.data.alt2Hours }}</p>
           </div>
 
           <div class="my-4 px-3 w-1/2 overflow-hidden sm:w-3/12">

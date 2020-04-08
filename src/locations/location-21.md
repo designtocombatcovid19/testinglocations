@@ -10,5 +10,13 @@ city: Wheat Ridge
 zip: 80033
 locationType: Drive-thru
 phone: (303) 360-6276
+website: https://stridechc.org/
+onlineBooking: undefined
+closed: undefined
+notesOther: "Closes periodically due to lack of supplies. Please check website before going."
+days: Weekdays
+hours: 9AM-4PM
+altDays: Saturdays
+altHours: 9AM-1PM
 ---
-## Colorado
+## STRIDE CHC- Jeffco Family Health Services Center 
