@@ -84,8 +84,16 @@ buttonSecondUrl: /submit/
 </div>
 
 <ul>
-{%- for loc in collections.all -%}
-  <li>{{ loc.renderData.title | title }}</li>
+{%- for loc in collections.loc -%}
+  <li>{{ loc.title | title }}</li>
+{%- endfor -%}
+</ul>
+
+<ul>
+  <li>test</li>
+  <li>{{ collections.loc[0].data.renderData.title }}</li>
+{%- for loc in collections.loc[0] -%}
+  <li>{{ loc.title }}</li>
 {%- endfor -%}
 </ul>
 
