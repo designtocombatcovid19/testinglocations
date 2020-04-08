@@ -14,8 +14,5 @@ module.exports = {
   url: META_URL || '',
   description: META_DESC || 'Locations and requirements for coronavirus testing in the United States.',
   lang: META_LANG || 'en',
-  primaryColor: META_COLOR || '#DB0000',
-  email: META_EMAIL || undefined,
-  telephone: META_TELEPHONE || undefined,
   dateFormat: 'dd LLLL yyyy'
 }
