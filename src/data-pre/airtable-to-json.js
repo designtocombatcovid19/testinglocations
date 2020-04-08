@@ -66,6 +66,13 @@ layout: base
 permalink: "locations/${betterSlug(location.State)}/${betterSlug(location.City)}/${betterSlug(location.Name)}/"
 tags: locations
 title: ${location.Name}
+state: ${location.State}
+hood: ${location.Neighborhood ? location.Neighborhood : location.City}
+address: ${location.Address}
+city: ${location.City}
+zip: ${location.Zip}
+locationType: ${location.LocationType}
+phone: ${location.Phone}
 ---
 ## ${location.State}`
 
