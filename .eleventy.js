@@ -54,9 +54,10 @@ module.exports = function (config) {
   config.addPassthroughCopy('src/static')
   config.addPassthroughCopy('src/robots.txt')
   config.addPassthroughCopy("./src/css");
+  config.addPassthroughCopy("src/pre-data");
 
   // Deep-Merge
-  config.setDataDeepMerge(false)
+  config.setDataDeepMerge(true)
 
   // Base Config
   return {

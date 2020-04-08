@@ -1,6 +1,7 @@
 ---
 layout: base
-permalink: locations/{{ California | slug }}/{{ Lake View Terrace | slug }}/{{ Hansen Dam | punc | slug }}/
+permalink: "locations/california/lake-view-terrace/hansen-dam/"
 tags: locations
 title: Hansen Dam
 ---
+## California

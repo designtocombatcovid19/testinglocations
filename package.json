@@ -3,16 +3,18 @@
   "version": "1.0.0",
   "description": "A boilerplate for websites combating COVID-19",
   "scripts": {
-    "build": "npm-run-all clean rmCSS build:css build:html",
+    "airtable": "node src/data-pre/airtable-to-json",
+    "build": "npm-run-all airtable clean rmCSS build:css build:html",
+    "build-without-airtable": "npm-run-all clean rmCSS build:css build:html",
     "build:css": "postcss src/includes/css/tailwind.css -o src/css/styles.css",
     "build:html": "eleventy",
     "watch": "npm-run-all --parallel watch:css watch:html",
     "watch:css": "postcss src/includes/css/tailwind.css -o src/css/styles.css --watch",
-    "watch:html": "eleventy --serve --port=8181",
+    "watch:html": "ELEVENTY_ENV=development eleventy --serve --port=8181",
     "debug": "DEBUG=* eleventy",
     "rmCSS": "rm src/css/styles.css",
     "clean": "del-cli dist",
-    "start": "npm-run-all build watch"
+    "start": "npm-run-all build-without-airtable watch"
   },
   "repository": {
     "type": "git",
@@ -30,12 +32,14 @@
     "del-cli": "^3.0.0",
     "dotenv": "^8.2.0",
     "eleventy-plugin-pwa": "^1.0.8",
+    "escape-string-regexp": "^3.0.0",
     "html-minifier": "^4.0.0",
     "luxon": "^1.22.0",
     "markdown-it": "^10.0.0",
     "markdown-it-anchor": "^5.2.5",
     "npm-run-all": "^4.1.5",
     "postcss-cli": "^7.1.0",
+    "slugify": "^1.4.0",
     "tailwindcss": "^1.2.0"
   }
 }

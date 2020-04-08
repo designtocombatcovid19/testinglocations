@@ -1,6 +1,7 @@
 ---
 layout: base
-permalink: locations/{{ California | slug }}/{{ Palmdale | slug }}/{{ The Antelope Valley Mall | punc | slug }}/
+permalink: "locations/california/palmdale/the-antelope-valley-mall/"
 tags: locations
 title: The Antelope Valley Mall
 ---
+## California

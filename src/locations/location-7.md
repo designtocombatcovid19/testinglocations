@@ -1,6 +1,7 @@
 ---
 layout: base
-permalink: locations/{{ California | slug }}/{{ Indio | slug }}/{{ Riverside County Fairgrounds | punc | slug }}/
+permalink: "locations/california/indio/riverside-county-fairgrounds/"
 tags: locations
 title: Riverside County Fairgrounds
 ---
+## California

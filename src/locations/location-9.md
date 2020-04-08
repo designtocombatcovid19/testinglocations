@@ -1,6 +1,7 @@
 ---
 layout: base
-permalink: locations/{{ California | slug }}/{{ Los Angeles | slug }}/{{ Lincoln Park Recreation Center | punc | slug }}/
+permalink: "locations/california/los-angeles/lincoln-park-recreation-center/"
 tags: locations
 title: Lincoln Park Recreation Center
 ---
+## California

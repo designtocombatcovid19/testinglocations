@@ -1,6 +1,7 @@
 ---
 layout: base
-permalink: locations/{{ California | slug }}/{{ Lancaster | slug }}/{{ High Desert Medical Group Office | punc | slug }}/
+permalink: "locations/california/lancaster/high-desert-medical-group-office/"
 tags: locations
 title: High Desert Medical Group Office
 ---
+## California

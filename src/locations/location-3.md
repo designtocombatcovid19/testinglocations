@@ -1,6 +1,7 @@
 ---
 layout: base
-permalink: locations/{{ California | slug }}/{{ Los Angeles | slug }}/{{ Carbon Health | punc | slug }}/
+permalink: "locations/california/los-angeles/carbon-health/"
 tags: locations
 title: Carbon Health
 ---
+## California

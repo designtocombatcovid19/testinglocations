@@ -1,6 +1,7 @@
 ---
 layout: base
-permalink: locations/{{ Colorado | slug }}/{{ Wheat Ridge | slug }}/{{ STRIDE CHC- Jeffco Family Health Services Center  | punc | slug }}/
+permalink: "locations/colorado/wheat-ridge/stride-chc-jeffco-family-health-services-center/"
 tags: locations
 title: STRIDE CHC- Jeffco Family Health Services Center 
 ---
+## Colorado

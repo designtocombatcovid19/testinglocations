@@ -1,6 +1,7 @@
 ---
 layout: base
-permalink: locations/{{ California | slug }}/{{ Los Angeles | slug }}/{{ Hotchkins Memorial Training Center | punc | slug }}/
+permalink: "locations/california/los-angeles/hotchkins-memorial-training-center/"
 tags: locations
 title: Hotchkins Memorial Training Center
 ---
+## California

@@ -1,6 +1,7 @@
 ---
 layout: base
-permalink: locations/{{ California | slug }}/{{ Los Angeles | slug }}/{{ Crenshaw Christian Center | punc | slug }}/
+permalink: "locations/california/los-angeles/crenshaw-christian-center/"
 tags: locations
 title: Crenshaw Christian Center
 ---
+## California

@@ -1,6 +1,7 @@
 ---
 layout: base
-permalink: locations/{{ California | slug }}/{{ Redondo Beach | slug }}/{{ South Bay Galleria | punc | slug }}/
+permalink: "locations/california/redondo-beach/south-bay-galleria/"
 tags: locations
 title: South Bay Galleria
 ---
+## California

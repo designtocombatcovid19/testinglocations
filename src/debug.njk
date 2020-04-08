@@ -1,0 +1,30 @@
+---
+layout: base
+title: debug
+---
+
+<ul>
+{%- for loc in collections.loc -%}
+  <li>{{ loc.title | title }}</li>
+{%- endfor -%}
+</ul>
+
+<ul>
+  <li>{{ collections.loc[0].data.renderData.title }}</li>
+{%- for loc in collections.loc[0] -%}
+  <li>{{ loc.title }}</li>
+{%- endfor -%}
+</ul>
+
+<section class="py-12">
+  <p>{{ collections | keys | dump(2) | safe }}</p>
+  {%- for tag2, posts2 in collections | dictsort %}
+  tag: {{ tag2 }}, posts: {{ posts2 | length }};<br/>
+  {%- endfor %}
+</section>
+<section>
+  {%- for tag, posts in collections %}
+  tag: {{ tag }}, posts: {{ posts | length }}<br/>
+  <pre>{{ posts | dump }}</pre>
+  {%- endfor %}
+</section>

@@ -1,6 +1,7 @@
 ---
 layout: base
-permalink: locations/{{ California | slug }}/{{ Inglewood | slug }}/{{ Curtis R. Tucker Public Health Center | punc | slug }}/
+permalink: "locations/california/inglewood/curtis-r-tucker-public-health-center/"
 tags: locations
 title: Curtis R. Tucker Public Health Center
 ---
+## California

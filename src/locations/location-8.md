@@ -1,6 +1,7 @@
 ---
 layout: base
-permalink: locations/{{ California | slug }}/{{ Lake Elsinore | slug }}/{{ Diamond Stadium Lot C | punc | slug }}/
+permalink: "locations/california/lake-elsinore/diamond-stadium-lot-c/"
 tags: locations
 title: Diamond Stadium Lot C
 ---
+## California

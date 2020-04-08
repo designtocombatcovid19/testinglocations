@@ -1,6 +1,7 @@
 ---
 layout: base
-permalink: locations/{{ Massachusetts | slug }}/{{ West Barnstable | slug }}/{{ Cape Cod Community College | punc | slug }}/
+permalink: "locations/massachusetts/west-barnstable/cape-cod-community-college/"
 tags: locations
 title: Cape Cod Community College
 ---
+## Massachusetts

@@ -1,6 +1,7 @@
 ---
 layout: base
-permalink: locations/{{ Alabama | slug }}/{{ East Tuscaloosa | slug }}/{{ DCH Regional Medical Center | punc | slug }}/
+permalink: "locations/alabama/east-tuscaloosa/dch-regional-medical-center/"
 tags: locations
 title: DCH Regional Medical Center
 ---
+## Alabama

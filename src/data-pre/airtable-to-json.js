@@ -1,8 +1,10 @@
+const slugify = require('slugify')
+const escapeStringRegexp = require("escape-string-regexp")
 const fs = require('fs')
-const dotenv = require('dotenv');
-dotenv.config();
-const Airtable = require('airtable');
-const base = new Airtable({apiKey: process.env.AIRTABLE_KEY}).base(process.env.AIRTABLE_BASE);
+const dotenv = require('dotenv')
+dotenv.config()
+const Airtable = require('airtable')
+const base = new Airtable({apiKey: process.env.AIRTABLE_KEY}).base(process.env.AIRTABLE_BASE)
 
 var recordFieldsJSON = []
 var count = 0
@@ -18,7 +20,7 @@ base('Testing Locations').select({
     records.forEach(function(record) {
       recordFieldsJSON.push(record.fields)
       generatePost(record.fields)
-    });
+    })
 
     // To fetch the next page of records, call `fetchNextPage`.
     // If there are more records, `page` will get called again.
@@ -44,7 +46,7 @@ base('Testing Locations').select({
     }
 }, function done(err) {
     if (err) { console.error(err); return; }
-});
+})
 
 // If you only want the first page of records, you can
 // use `firstPage` instead of `eachPage`.
@@ -55,20 +57,44 @@ base('Testing Locations').select({
     // records.forEach(function(record) {
     //     console.log('Retrieved', record.get('Name'));
     // });
-});
+})
 
 function generatePost(location) {
     count += 1
     let fileString = `---
 layout: base
-permalink: "locations/{{ ${location.State} | slug }}/{{ ${location.City} | slug }}/{{ ${location.Name} | punc | slug }}/"
+permalink: "locations/${betterSlug(location.State)}/${betterSlug(location.City)}/${betterSlug(location.Name)}/"
 tags: locations
 title: ${location.Name}
----`
-    try {
-      console.log(`Generating ${location.Name}`)
-      fs.writeFileSync(process.cwd() + `/src/locations/location-${count}.md`, fileString)
-    } catch (err) {
-        console.error(err)
-    }
+---
+## ${location.State}`
+
+  try {
+    console.log(`${count} Generating ${location.Name}`)
+    fs.writeFileSync(process.cwd() + `/src/locations/location-${count}.md`, fileString)
+  } catch (err) {
+    console.error(err)
+  }
+}
+
+function betterSlug(input, options = {}) {
+  const removals = "<>.~\":/?#[]{}()@!$'()*+,;="
+  // Extend default configuration
+  options = {
+    ...{
+      extensions: {},
+      removals: removals
+    },
+    ...options
+  }
+
+  if (options.extensions) {
+    slugify.extend(options.extensions);
+  }
+
+  return slugify(input, {
+    replacement: "-",
+    remove: new RegExp("[" + escapeStringRegexp(options.removals) + "]", "g"),
+    lower: true
+  })
 }

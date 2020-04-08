@@ -84,32 +84,18 @@ buttonSecondUrl: /submit/
 </div>
 
 <ul>
-{%- for loc in collections.loc -%}
-  <li>{{ loc.title | title }}</li>
+{%- for location in collections.locations -%}
+  <li>{{ location.data.title | title }}</li>
 {%- endfor -%}
 </ul>
 
-<ul>
-  <li>test</li>
-  <li>{{ collections.loc[0].data.renderData.title }}</li>
-{%- for loc in collections.loc[0] -%}
-  <li>{{ loc.title }}</li>
-{%- endfor -%}
-</ul>
-
-<p>{{ collections | keys | dump(2) | safe }}</p>
-<section>
+{# <section>
   {%- for tag, posts in collections %}
   tag: {{ tag }}, posts: {{ posts | length }}<br/>
   <pre>{{ posts | dump }}</pre>
   {%- endfor %}
 </section>
-<hr>
-<section>
-  {%- for tag2, posts2 in collections | dictsort %}
-  tag: {{ tag2 }}, posts: {{ posts2 | length }};<br/>
-  {%- endfor %}
-</section>
+<hr> #}
 
 <script>
   var options = {
