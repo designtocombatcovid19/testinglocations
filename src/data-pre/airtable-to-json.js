@@ -1,5 +1,6 @@
 const slugify = require('slugify')
 const escapeStringRegexp = require("escape-string-regexp")
+const equals = require('shallow-equals')
 const fs = require('fs')
 const dotenv = require('dotenv')
 dotenv.config()
@@ -60,7 +61,15 @@ base('Testing Locations').select({
 })
 
 function generatePost(location) {
+    let hours = ""
     count += 1
+    // TODO: check for 24 hours here first
+    if (location.DaysOfWeek) {
+      hours = location.DaysOfWeek
+    } else {
+      hours = "Unknown hours of operation"
+    }
+
     let fileString = `---
 layout: base
 permalink: "locations/${betterSlug(location.State)}/${betterSlug(location.City)}/${betterSlug(location.Name)}/"
@@ -72,9 +81,24 @@ address: ${location.Address}
 city: ${location.City}
 zip: ${location.Zip}
 locationType: ${location.LocationType}
+hours: ${hours}
 phone: ${location.Phone}
+website: ${location.Website}
+onlineBooking: ${location.OnlineBooking}
+closed: ${location.Closed}
+notes: ${location.Notes}
+notesOther: ${location.NotesOther}
+daysOfWeek: ${location.DaysOfWeek}
+opensAt: ${location.OpensAt}
+closesAt: ${location.ClosesAt}
+altDaysOfWeek: ${location.AltDaysOfWeek}
+altOpensAt: ${location.AltOpensAt}
+altClosesAt: ${location.AltClosesAt}
+alt2DaysOfWeek: ${location.Alt2DaysOfWeek}
+alt2OpensAt: ${location.Alt2OpensAt}
+alt2ClosesAt: ${location.Alt2ClosesAt}
 ---
-## ${location.State}`
+## ${location.Name}`
 
   try {
     console.log(`${count} Generating ${location.Name}`)
@@ -82,6 +106,54 @@ phone: ${location.Phone}
   } catch (err) {
     console.error(err)
   }
+}
+
+function rangeDaysOfWeek(arr) {
+  let range = ""
+  let days = arr.sort()
+  let all = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"].sort()
+  let weekdays = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"].sort()
+  let weekends = ["Sunday", "Saturday"].sort()
+  let sunday = ["Sunday"]
+  let monday = ["Monday"]
+  let tuesday = ["Tuesday"]
+  let wednesday = ["Wednesday"]
+  let thursday = ["Thursday"]
+  let friday = ["Friday"]
+  let saturday = ["Saturday"]
+  let mwf = ["Monday", "Wednesday","Friday"].sort()
+  let tt = ["Tuesday","Thursday"].sort()
+  let all = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"].sort()
+
+  if (equals(days, all)) {
+    let range = "Everyday"
+  } else if (equals(days, weekdays)) {
+    let range = "Weekdays"
+  } else if (equals(days, weekends)) {
+    let range = "Weekends"
+  } else if (equals(days, sunday)) {
+    let range = "Sundays"
+  } else if (equals(days, monday)) {
+    let range = "Mondays"
+  } else if (equals(days, tuesday)) {
+    let range = "Tuesdays"
+  } else if (equals(days, wednesday)) {
+    let range = "Wednesdays"
+  } else if (equals(days, thursday)) {
+    let range = "Thursdays"
+  } else if (equals(days, friday)) {
+    let range = "Fridays"
+  } else if (equals(days, saturday)) {
+    let range = "Saturdays"
+  } else if (equals(days, mwf)) {
+    let range = "M, W, F"
+  } else if (equals(days, tt)) {
+    let range = "Tu, Th"
+  } else {
+    let range = "ERROR"
+  }
+  // TODOD: add remaining combos
+  return range
 }
 
 function betterSlug(input, options = {}) {
