@@ -100,13 +100,13 @@ function callToAction(location) {
     url: "",
   }
   if (location.Closed && location.Website) {
-    ctaMessage = `${location.LastClosedUpdate} Closed.\nclosed: true\nctaUrl: "${location.Website}.trim()"`
+    ctaMessage = `${location.LastClosedUpdate} Closed.\nclosed: true\nctaUrl: "${location.Website.trim()}"`
   } else if (location.Closed) {
     ctaMessage = `${location.LastClosedUpdate} Closed.\nclosed: true`
   } else if (location.Website && location.OnlineBooking) {
-    ctaMessage = `Make an appointment\nctaUrl: "${location.Website}.trim()"`
+    ctaMessage = `Make an appointment\nctaUrl: "${location.Website.trim()}"`
   } else if (location.Website) {
-    ctaMessage = `Learn more\nctaUrl: "${location.Website}.trim()"`
+    ctaMessage = `Learn more\nctaUrl: "${location.Website.trim()}"`
   } else if (location.Phone) {
     ctaMessage = `Call ${location.Phone}\nctaUrl: "tel:${location.Phone.trim()}"`
   } else {
@@ -118,7 +118,7 @@ function callToAction(location) {
 function collectNotes(location) {
   if (location.Notes) {
     let notesArr = location.Notes
-    let otherNote = location.NotesOther
+    let otherNote = location.NotesOther.trim()
     let notes = ""
     let otherCount = 0
 
