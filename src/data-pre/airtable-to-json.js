@@ -12,45 +12,46 @@ var recordFieldsJSON = []
 var count = 0
 
 base('Testing Locations').select({
-    maxRecords: 9999,
-    view: "Verified Locations",
-    sort: [{field: "State", direction: "asc"}]
+  maxRecords: 9999,
+  view: "Verified Locations",
+  sort: [{field: "State", direction: "asc"}]
 }).eachPage(function page(records, fetchNextPage) {
-    // This function (`page`) will get called for each page of records.
-    records.forEach(function(record) {
-      recordFieldsJSON.push(record.fields)
-      generatePost(record.fields)
-    })
+  // This function (`page`) will get called for each page of records.
+  records.forEach(function(record) {
+    recordFieldsJSON.push(record.fields)
+    generatePost(record.fields)
+  })
 
-    // To fetch the next page of records, call `fetchNextPage`.
-    // If there are more records, `page` will get called again.
-    // If there are no more records, `done` will get called.
-    fetchNextPage();
-    try {
-      console.log('Writing locations.json')
-      fs.writeFileSync(__dirname + '/locations.json', JSON.stringify(recordFieldsJSON, null, 2))
-    } catch (err) {
-        console.error(err)
-    }
+  // To fetch the next page of records, call `fetchNextPage`.
+  // If there are more records, `page` will get called again.
+  // If there are no more records, `done` will get called.
+  fetchNextPage();
+
+  try {
+    console.log('Writing locations.json')
+    fs.writeFileSync(__dirname + '/locations.json', JSON.stringify(recordFieldsJSON, null, 2))
+  } catch (err) {
+    console.error(err)
+  }
 }, function done(err) {
-    if (err) { console.error(err); return; }
+  if (err) { console.error(err); return; }
 })
 
 // If you only want the first page of records, you can
 // use `firstPage` instead of `eachPage`.
 base('Testing Locations').select({
-    view: 'Verified Locations'
+  view: 'Verified Locations'
 }).firstPage(function(err, records) {
-    if (err) { console.error(err); return; }
-    // records.forEach(function(record) {
-    //     console.log('Retrieved', record.get('Name'));
-    // });
+  if (err) { console.error(err); return; }
+  records.forEach(function(record) {
+    console.log('Retrieved', record.get('Name'));
+  });
 })
 
 function generatePost(location) {
-    count += 1
-    let cta = callToAction(location)
-    let fileString = `---
+  count += 1
+  let cta = callToAction(location)
+  let fileString = `---
 layout: base
 permalink: "locations/${betterSlug(location.State)}/${betterSlug(location.City)}/${betterSlug(location.Name)}/"
 tags: locations
@@ -73,7 +74,6 @@ ctaMessage: ${ctaMessage}
 ## ${location.Name}`
 
   try {
-    console.log(`${count} Generating ${location.Name}`)
     fs.writeFileSync(process.cwd() + `/src/locations/location-${count}.md`, fileString)
   } catch (err) {
     console.error(err)
@@ -109,7 +109,6 @@ function collectNotes(location) {
     let otherCount = 0
 
     notesArr.forEach((note) => {
-      console.log("NOTE:", note)
       if (note !== "Other") {
         if (notes !== "") {
           notes = `${notes} ${note}`
@@ -120,7 +119,6 @@ function collectNotes(location) {
         otherCount += 1
       }
     })
-    console.log ("Other Count:", otherCount, "notesArr Length:", notesArr.length)
     if (otherCount !== notesArr.length) {
       note = `${notes} ${otherNote}`
       return notes
@@ -207,7 +205,6 @@ function rangeDaysOfWeek(arr) {
     range = "ERROR"
   }
   // TODOD: add remaining combos
-  console.log(range)
   return range
 }
 
@@ -234,27 +231,27 @@ function betterSlug(input, replacement = "-", lower = true, options = {}) {
 }
 
 function getStateAbbr( state ) {
-  var parts,
-      abbr,
-      len,
-      i;
+  let parts
+  let abbr
+  let len
+  let i
 
   // Ensure the first letter of each word comprising a state name is capitalized...
   parts = state.split( ' ' );
   len = parts.length;
   state = '';
   for ( i = 0; i < len; i++ ) {
-      state += parts[ i ][ 0 ].toUpperCase() + parts[ i ].substring( 1 );
-      if ( i < len-1 ) {
-          state += ' ';
-      }
+    state += parts[ i ][ 0 ].toUpperCase() + parts[ i ].substring( 1 );
+    if ( i < len-1 ) {
+      state += ' ';
+    }
   }
   // Get the state abbreviation:
   abbr = statesTable[ state ];
 
   // Ensure a valid state name was provided...
   if ( abbr === void 0 ) {
-      throw new Error( 'unrecognized state name. Value: `' + state + '`.' );
+    throw new Error( 'unrecognized state name. Value: `' + state + '`.' );
   }
   return abbr;
 }
