@@ -12,11 +12,10 @@ locationType: Walk-in
 phone: undefined
 website: https://carbonhealth.com/echo-park
 onlineBooking: true
-closed: undefined
 notes: "Privately owned."
 days: Everyday
 hours: 9AM-7PM
-ctaMessage: "Make an appointment."
-ctaUrl: "https://carbonhealth.com/echo-park"
+ctaMessage: Make an appointment
+ctaUrl: "https://carbonhealth.com/echo-park.trim()"
 ---
 ## Carbon Health

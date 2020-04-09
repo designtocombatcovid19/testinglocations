@@ -77,11 +77,9 @@ locationType: ${location.LocationType}
 phone: ${location.Phone}
 website: ${location.Website}
 onlineBooking: ${location.OnlineBooking}
-closed: ${location.Closed}
 notes: "${collectNotes(location)}"
 ${hoursOfOperation(location)}
-ctaMessage: "${cta.message}"
-ctaUrl: "${cta.url}"
+ctaMessage: ${ctaMessage}
 ---
 ## ${location.Name}`
 
@@ -96,20 +94,20 @@ ctaUrl: "${cta.url}"
 function callToAction(location) {
   let cta = {
     message: "",
-    url: ""
+    url: "",
   }
-
-  if (location.Website && location.OnlineBooking) {
-    cta.message = "Make an appointment."
-    cta.url = location.Website
+  if (location.Closed && location.Website) {
+    ctaMessage = `${location.LastClosedUpdate} Closed.\nclosed: true\nctaUrl: "${location.Website}.trim()"`
+  } else if (location.Closed) {
+    ctaMessage = `${location.LastClosedUpdate} Closed.\nclosed: true`
+  } else if (location.Website && location.OnlineBooking) {
+    ctaMessage = `Make an appointment\nctaUrl: "${location.Website}.trim()"`
   } else if (location.Website) {
-    cta.message = "Learn more."
-    cta.url = location.Website
+    ctaMessage = `Learn more\nctaUrl: "${location.Website}.trim()"`
   } else if (location.Phone) {
-    cta.message = `Call ${location.Phone}.`
-    cta.url = `tel:${location.Phone}`
+    ctaMessage = `Call ${location.Phone}\nctaUrl: "tel:${location.Phone.trim()}"`
   } else {
-    cta.message = "No contact info available."
+    ctaMessage = "No contact info available."
   }
   return cta
 }

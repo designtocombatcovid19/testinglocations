@@ -12,10 +12,9 @@ locationType: Drive-thru
 phone: undefined
 website: https://lacovidprod.service-now.com/rrs
 onlineBooking: true
-closed: undefined
 notes: "By appointment only. Free."
-days: Unknown hours
-ctaMessage: "Make an appointment."
-ctaUrl: "https://lacovidprod.service-now.com/rrs"
+days: Hours unknown
+ctaMessage: Make an appointment
+ctaUrl: "https://lacovidprod.service-now.com/rrs.trim()"
 ---
 ## Lincoln Park Recreation Center

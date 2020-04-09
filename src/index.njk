@@ -14,7 +14,7 @@ buttonSecondUrl: /submit/
       {# <p class="text-xl font-bold">Search</p> #}
       <svg fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd"></path></svg>
     </span>
-    <input class="search w-full rounded px-2 text-xl sm:text-2xl text-gray-900 " type="text" placeholder="Which state do you live in?">
+    <input class="search outline-none w-full rounded px-2 text-xl sm:text-2xl text-gray-900 " type="search" autocomplete="on" autocorrect="on" aria-label="Search by city or state in the USA." placeholder="Which state or city do you live in?">
   </div>
 
   <div class="flex">
@@ -49,48 +49,28 @@ buttonSecondUrl: /submit/
           </div>
 
           <div class="my-4 pl-3 pr-4 w-1/2 overflow-hidden sm:w-2/12">
-            <a class="learn-more" href="{{ location.data.ctaUrl }}">{{ location.data.ctaMessage }}</a>
+            {% if (location.data.ctaUrl) and (not location.data.closed) %}
+              <a class="learn-more" href="{{ location.data.ctaUrl }}">{{ location.data.ctaMessage }}</a>
+            {% elif (location.data.ctaUrl) and (location.data.closed) %}
+              <a class="closed text-red-600" href="{{ location.data.ctaUrl }}">{{ location.data.ctaMessage }}</a>
+            {% elif location.data.closed %}
+              <p class="closed text-red-600">{{ location.data.ctaMessage }}</p>
+            {% else %}
+              <p class="no-contact text-gray-600">{{ location.data.ctaMessage }}</p>
+            {% endif%}
             {# <p class=""><a href="tel:310-544-6858">310-544-6858</a></p> #}
           </div>
         </div>
       {%- endfor -%}
-
     </div>
   </div>
-
 </div>
-
-{# <section>
-  {%- for tag, posts in collections %}
-  tag: {{ tag }}, posts: {{ posts | length }}<br/>
-  <pre>{{ posts | dump }}</pre>
-  {%- endfor %}
-</section>
-<hr> #}
 
 <script>
   var options = {
-    valueNames: [ 'state' ]
+    valueNames: [ 'state', 'city' ]
   };
   var testingList = new List('testing-list', options);
 </script>
 
-
-{# <div class="max-w-4xl px-6 mx-auto mt-24">
-  <div class="mb-4 sm:flex sm:-mx-4">
-    <div class="sm:w-1/2 sm:px-4">
-      <h3 class="mb-0 text-3xl font-black leading-tight">Faster than most solutions</h3>
-      <p class="mt-2 mb-0 text-gray-700 sm:text-lg">
-        Modern web frameworks are often bloated, slow to load on weak internet connections, and a battery drain on mobile devices.
-      </p>
-    </div>
-    <div class="mt-10 sm:w-1/2 sm:px-4 sm:mt-0">
-      <h3 class="mb-0 text-3xl font-black leading-tight">Yet easy to maintain</h3>
-      <p class="mt-2 mb-0 text-gray-700 sm:text-lg">
-        Using Github, Netlify, and Netlify CMS, this toolkit is quick to deploy and content is easy to edit.
-      </p>
-    </div>
-  </div>
-</div>
-
-{% include "cta.njk" %} #}
+{# {% include "cta.njk" %} #}

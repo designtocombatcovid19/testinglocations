@@ -12,11 +12,10 @@ locationType: Drive-thru
 phone:  323-375-1986
 website: https://www.coronavirustestingla.com/
 onlineBooking: true
-closed: undefined
 notes: "Privately owned."
 days: Everyday
 hours: 8AM-5PM
-ctaMessage: "Make an appointment."
-ctaUrl: "https://www.coronavirustestingla.com/"
+ctaMessage: Make an appointment
+ctaUrl: "https://www.coronavirustestingla.com/.trim()"
 ---
 ## Los Angeles Center for Ear, Nose, Throat and Allergy

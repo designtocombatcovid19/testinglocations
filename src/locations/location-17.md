@@ -12,10 +12,9 @@ locationType: Drive-thru
 phone: undefined
 website: https://corona-virus.la/
 onlineBooking: true
-closed: undefined
 notes: "By appointment only."
-days: Unknown hours
-ctaMessage: "Make an appointment."
-ctaUrl: "https://corona-virus.la/"
+days: Hours unknown
+ctaMessage: Make an appointment
+ctaUrl: "https://corona-virus.la/.trim()"
 ---
 ## The Antelope Valley Mall

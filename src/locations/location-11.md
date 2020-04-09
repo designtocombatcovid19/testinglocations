@@ -12,10 +12,9 @@ locationType: Drive-thru
 phone: undefined
 website: https://lacovidprod.service-now.com/rrs
 onlineBooking: true
-closed: undefined
 notes: "Requires doctor's referral. Prioritizes first responders."
-days: Unknown hours
-ctaMessage: "Make an appointment."
-ctaUrl: "https://lacovidprod.service-now.com/rrs"
+days: Hours unknown
+ctaMessage: Make an appointment
+ctaUrl: "https://lacovidprod.service-now.com/rrs.trim()"
 ---
 ## Glendale Memorial Hospital

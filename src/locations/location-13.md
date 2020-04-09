@@ -12,10 +12,9 @@ locationType: Drive-thru
 phone: 310-478-3711
 website: https://lacovidprod.service-now.com/rrs
 onlineBooking: true
-closed: undefined
 notes: "By appointment only."
 days: Open 24/7
-ctaMessage: "Make an appointment."
-ctaUrl: "https://lacovidprod.service-now.com/rrs"
+ctaMessage: Make an appointment
+ctaUrl: "https://lacovidprod.service-now.com/rrs.trim()"
 ---
 ## The West LA Veteran’s Administration Lot 15

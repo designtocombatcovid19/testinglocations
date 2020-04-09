@@ -12,10 +12,9 @@ locationType: Drive-thru
 phone: undefined
 website: coronavirus.lacity.org/Testing
 onlineBooking: true
-closed: undefined
 notes: "By appointment only. Limited test kits available."
-days: Unknown hours
-ctaMessage: "Make an appointment."
-ctaUrl: "coronavirus.lacity.org/Testing"
+days: Hours unknown
+ctaMessage: Make an appointment
+ctaUrl: "coronavirus.lacity.org/Testing.trim()"
 ---
 ## The Pomona Fairplex Gate 17

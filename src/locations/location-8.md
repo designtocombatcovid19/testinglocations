@@ -12,11 +12,10 @@ locationType: Drive-thru
 phone: 800-945-6171
 website: https://www.projectbaseline.com/study/covid-19/
 onlineBooking: true
-closed: undefined
 notes: "By appointment only. Only for individuals with symptoms."
 days: ERROR
 hours: 9:30AM-3PM
-ctaMessage: "Make an appointment."
-ctaUrl: "https://www.projectbaseline.com/study/covid-19/"
+ctaMessage: Make an appointment
+ctaUrl: "https://www.projectbaseline.com/study/covid-19/.trim()"
 ---
 ## Diamond Stadium Lot C

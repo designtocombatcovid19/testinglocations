@@ -12,13 +12,12 @@ locationType: Drive-thru
 phone: (303) 360-6276
 website: https://stridechc.org/
 onlineBooking: undefined
-closed: undefined
 notes: "Free. Limited test kits available."
 days: Weekdays
 hours: 9AM-4PM
 altDays: Saturdays
 altHours: 9AM-1PM
-ctaMessage: "Learn more."
-ctaUrl: "https://stridechc.org/"
+ctaMessage: Learn more
+ctaUrl: "https://stridechc.org/.trim()"
 ---
 ## STRIDE CHC- Jeffco Family Health Services Center 

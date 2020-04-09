@@ -12,11 +12,10 @@ locationType: Drive-thru
 phone: undefined
 website: https://lacovidprod.service-now.com/rrs
 onlineBooking: true
-closed: undefined
 notes: "By appointment only."
 days: Weekdays
 hours: 8AM-4PM
-ctaMessage: "Make an appointment."
-ctaUrl: "https://lacovidprod.service-now.com/rrs"
+ctaMessage: Make an appointment
+ctaUrl: "https://lacovidprod.service-now.com/rrs.trim()"
 ---
 ## Northridge Hospital Medical Center

@@ -12,11 +12,9 @@ locationType: Drive-thru
 phone: undefined
 website: undefined
 onlineBooking: undefined
-closed: undefined
 notes: "Free. Requires doctor's referral."
 days: Everyday
 hours: 9AM-7PM
-ctaMessage: "No contact info available."
-ctaUrl: ""
+ctaMessage: No contact info available.
 ---
 ## Lake Otis Pkwy & E 42nd
