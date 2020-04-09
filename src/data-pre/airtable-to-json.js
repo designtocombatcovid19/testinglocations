@@ -17,8 +17,6 @@ base('Testing Locations').select({
     sort: [{field: "State", direction: "asc"}]
 }).eachPage(function page(records, fetchNextPage) {
     // This function (`page`) will get called for each page of records.
-
-    //console.log(JSON.stringify(records, null, 2))
     records.forEach(function(record) {
       recordFieldsJSON.push(record.fields)
       generatePost(record.fields)
@@ -28,21 +26,9 @@ base('Testing Locations').select({
     // If there are more records, `page` will get called again.
     // If there are no more records, `done` will get called.
     fetchNextPage();
-    // console.log(JSON.stringify(recordFieldsJSON, null, 2))
     try {
-        if (fs.existsSync(__dirname + '/locations.json')) {
-            const minuteAgo = new Date( Date.now() - 1000 * 60)
-            const fileDate = fs.statSync(__dirname + '/locations.json').mtime
-            if (minuteAgo.getTime() > fileDate.getTime()) {
-                console.log('Writing locations.json')
-                fs.writeFileSync(__dirname + '/locations.json', JSON.stringify(recordFieldsJSON, null, 2))
-            } else {
-                console.log('Skipping re-write of locations.json because it is less than one minute old.')
-            }
-        } else {
-            console.log('Writing locations.json')
-            fs.writeFileSync(__dirname + '/locations.json', JSON.stringify(recordFieldsJSON, null, 2))
-        }
+      console.log('Writing locations.json')
+      fs.writeFileSync(__dirname + '/locations.json', JSON.stringify(recordFieldsJSON, null, 2))
     } catch (err) {
         console.error(err)
     }
