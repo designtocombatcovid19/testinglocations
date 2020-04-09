@@ -75,7 +75,7 @@ hood: ${location.Neighborhood ? location.Neighborhood : location.City}
 address: ${location.Address}
 city: ${location.City}
 zip: ${location.Zip}
-mapUrl: "http://maps.apple.com/?q=${betterSlug(location.Name, '=')}&address=${betterSlug(location.Address, '+')},${betterSlug(location.City, '+')},${betterSlug(location.State, '+')},${location.Zip}"
+mapUrl: "http://maps.apple.com/?q=${betterSlug(location.Name, '+')}&address=${betterSlug(location.Address, '+')},${betterSlug(location.City, '+')},${betterSlug(location.State, '+')},${location.Zip}"
 locationType: ${location.LocationType}
 phone: ${location.Phone}
 website: ${location.Website}
