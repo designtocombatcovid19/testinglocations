@@ -18,6 +18,6 @@ notes: "By appointment only."
 days: Weekdays
 hours: 8AM-4PM
 ctaMessage: Make an appointment
-ctaUrl: "https://lacovidprod.service-now.com/rrs.trim()"
+ctaUrl: "https://lacovidprod.service-now.com/rrs"
 ---
 ## Northridge Hospital Medical Center

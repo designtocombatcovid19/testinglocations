@@ -17,6 +17,6 @@ onlineBooking: true
 notes: "By appointment only."
 days: Open 24/7
 ctaMessage: Make an appointment
-ctaUrl: "https://lacovidprod.service-now.com/rrs.trim()"
+ctaUrl: "https://lacovidprod.service-now.com/rrs"
 ---
 ## The West LA Veteran’s Administration Lot 15

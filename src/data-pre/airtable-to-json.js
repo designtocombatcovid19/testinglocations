@@ -104,7 +104,7 @@ function callToAction(location) {
 function collectNotes(location) {
   if (location.Notes) {
     let notesArr = location.Notes
-    let otherNote = location.NotesOther.trim()
+    let otherNote = location.NotesOther
     let notes = ""
     let otherCount = 0
 

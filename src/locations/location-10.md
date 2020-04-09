@@ -18,6 +18,6 @@ notes: "By appointment only. Only for individuals with symptoms. Free."
 days: ERROR
 hours: 9AM-5PM
 ctaMessage: Make an appointment
-ctaUrl: "https://lacovidprod.service-now.com/rrs.trim()"
+ctaUrl: "https://lacovidprod.service-now.com/rrs"
 ---
 ## High Desert Medical Group Office

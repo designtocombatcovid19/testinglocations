@@ -18,6 +18,6 @@ notes: "By appointment only. Requires referral from a primary health provider. R
 days: Everyday
 hours: 8AM-6PM
 ctaMessage: Learn more
-ctaUrl: "https://www.capecodhealth.org/medical-services/infectious-disease/coronavirus/covid-19-testing-process/.trim()"
+ctaUrl: "https://www.capecodhealth.org/medical-services/infectious-disease/coronavirus/covid-19-testing-process/"
 ---
 ## Cape Cod Community College

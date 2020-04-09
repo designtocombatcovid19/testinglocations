@@ -22,6 +22,6 @@ altHours: 8AM-Noon
 alt2Days: Sundays
 alt2Hours: 2PM-5PM
 ctaMessage: Learn more
-ctaUrl: "https://www.dchsystem.com/Articles/dch_to_offer_remote_screening_facility_for_coronavirus.aspx.trim()"
+ctaUrl: "https://www.dchsystem.com/Articles/dch_to_offer_remote_screening_facility_for_coronavirus.aspx"
 ---
 ## DCH Regional Medical Center

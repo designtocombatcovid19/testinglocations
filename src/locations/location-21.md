@@ -20,6 +20,6 @@ hours: 9AM-4PM
 altDays: Saturdays
 altHours: 9AM-1PM
 ctaMessage: Learn more
-ctaUrl: "https://stridechc.org/.trim()"
+ctaUrl: "https://stridechc.org/"
 ---
 ## STRIDE CHC- Jeffco Family Health Services Center 

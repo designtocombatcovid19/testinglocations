@@ -17,6 +17,6 @@ onlineBooking: true
 notes: "By appointment only. Limited test kits available."
 days: Hours unknown
 ctaMessage: Make an appointment
-ctaUrl: "coronavirus.lacity.org/Testing.trim()"
+ctaUrl: "coronavirus.lacity.org/Testing"
 ---
 ## The Pomona Fairplex Gate 17

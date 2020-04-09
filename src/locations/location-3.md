@@ -18,6 +18,6 @@ notes: "Privately owned."
 days: Everyday
 hours: 9AM-7PM
 ctaMessage: Make an appointment
-ctaUrl: "https://carbonhealth.com/echo-park.trim()"
+ctaUrl: "https://carbonhealth.com/echo-park"
 ---
 ## Carbon Health

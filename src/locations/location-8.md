@@ -18,6 +18,6 @@ notes: "By appointment only. Only for individuals with symptoms."
 days: ERROR
 hours: 9:30AM-3PM
 ctaMessage: Make an appointment
-ctaUrl: "https://www.projectbaseline.com/study/covid-19/.trim()"
+ctaUrl: "https://www.projectbaseline.com/study/covid-19/"
 ---
 ## Diamond Stadium Lot C

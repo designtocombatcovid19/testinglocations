@@ -17,6 +17,6 @@ onlineBooking: true
 notes: "Requires doctor's referral. Prioritizes first responders."
 days: Hours unknown
 ctaMessage: Make an appointment
-ctaUrl: "https://lacovidprod.service-now.com/rrs.trim()"
+ctaUrl: "https://lacovidprod.service-now.com/rrs"
 ---
 ## Glendale Memorial Hospital

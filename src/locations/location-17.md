@@ -17,6 +17,6 @@ onlineBooking: true
 notes: "By appointment only."
 days: Hours unknown
 ctaMessage: Make an appointment
-ctaUrl: "https://corona-virus.la/.trim()"
+ctaUrl: "https://corona-virus.la/"
 ---
 ## The Antelope Valley Mall

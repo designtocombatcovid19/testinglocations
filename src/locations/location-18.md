@@ -17,6 +17,6 @@ onlineBooking: true
 notes: "By appointment only."
 days: Hours unknown
 ctaMessage: Make an appointment
-ctaUrl: "https://lacovidprod.service-now.com/rrs.trim()"
+ctaUrl: "https://lacovidprod.service-now.com/rrs"
 ---
 ## South Bay Galleria

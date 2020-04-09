@@ -18,6 +18,6 @@ notes: "Privately owned."
 days: Everyday
 hours: 8AM-5PM
 ctaMessage: Make an appointment
-ctaUrl: "https://www.coronavirustestingla.com/.trim()"
+ctaUrl: "https://www.coronavirustestingla.com/"
 ---
 ## Los Angeles Center for Ear, Nose, Throat and Allergy
