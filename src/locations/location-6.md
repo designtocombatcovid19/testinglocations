@@ -9,7 +9,7 @@ hood: Riverside
 address: 6115 Arlington Ave
 city: Riverside
 zip: 92504
-mapUrl: "http://maps.apple.com/?q=harvest=christian=fellowship=church&address=6115+arlington+ave,riverside,california,92504"
+mapUrl: "http://maps.apple.com/?q=Harvest+Christian+Fellowship+Church&address=6115+Arlington+Ave,Riverside,California,92504"
 locationType: Drive-thru
 phone: 800-945-6171 
 website: undefined

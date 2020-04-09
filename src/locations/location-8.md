@@ -9,7 +9,7 @@ hood: Lake Elsinore
 address: 500 Diamond Dr
 city: Lake Elsinore
 zip: 92530
-mapUrl: "http://maps.apple.com/?q=diamond=stadium=lot=c&address=500+diamond+dr,lake+elsinore,california,92530"
+mapUrl: "http://maps.apple.com/?q=Diamond+Stadium+Lot+C&address=500+Diamond+Dr,Lake+Elsinore,California,92530"
 locationType: Drive-thru
 phone: 800-945-6171
 website: https://www.projectbaseline.com/study/covid-19/

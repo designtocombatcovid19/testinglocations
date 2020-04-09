@@ -9,7 +9,7 @@ hood: Northridge
 address: 18300 Roscoe Boulevard
 city: Northridge
 zip: 91328
-mapUrl: "http://maps.apple.com/?q=northridge=hospital=medical=center&address=18300+roscoe+boulevard,northridge,california,91328"
+mapUrl: "http://maps.apple.com/?q=Northridge+Hospital+Medical+Center&address=18300+Roscoe+Boulevard,Northridge,California,91328"
 locationType: Drive-thru
 phone: undefined
 website: https://lacovidprod.service-now.com/rrs

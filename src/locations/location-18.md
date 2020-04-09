@@ -9,7 +9,7 @@ hood: Redondo Beach
 address: 1815 Hawthorne Blvd
 city: Redondo Beach
 zip: 90278
-mapUrl: "http://maps.apple.com/?q=south=bay=galleria&address=1815+hawthorne+blvd,redondo+beach,california,90278"
+mapUrl: "http://maps.apple.com/?q=South+Bay+Galleria&address=1815+Hawthorne+Blvd,Redondo+Beach,California,90278"
 locationType: Drive-thru
 phone: undefined
 website: https://lacovidprod.service-now.com/rrs

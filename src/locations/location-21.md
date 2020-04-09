@@ -9,7 +9,7 @@ hood: Wheat Ridge
 address: 7495 W. 29th Avenue
 city: Wheat Ridge
 zip: 80033
-mapUrl: "http://maps.apple.com/?q=stride=chc-=jeffco=family=health=services=center&address=7495+w+29th+avenue,wheat+ridge,colorado,80033"
+mapUrl: "http://maps.apple.com/?q=STRIDE+CHC-+Jeffco+Family+Health+Services+Center&address=7495+W+29th+Avenue,Wheat+Ridge,Colorado,80033"
 locationType: Drive-thru
 phone: (303) 360-6276
 website: https://stridechc.org/

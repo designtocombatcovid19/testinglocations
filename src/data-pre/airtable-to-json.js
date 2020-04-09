@@ -75,7 +75,7 @@ hood: ${location.Neighborhood ? location.Neighborhood : location.City}
 address: ${location.Address}
 city: ${location.City}
 zip: ${location.Zip}
-mapUrl: "http://maps.apple.com/?q=${betterSlug(location.Name, '+')}&address=${betterSlug(location.Address, '+')},${betterSlug(location.City, '+')},${betterSlug(location.State, '+')},${location.Zip}"
+mapUrl: "http://maps.apple.com/?q=${betterSlug(location.Name, '+', false)}&address=${betterSlug(location.Address, '+', false)},${betterSlug(location.City, '+', false)},${betterSlug(location.State, '+', false)},${location.Zip}"
 locationType: ${location.LocationType}
 phone: ${location.Phone}
 website: ${location.Website}
@@ -225,7 +225,7 @@ function rangeDaysOfWeek(arr) {
   return range
 }
 
-function betterSlug(input, replacement = "-", options = {}) {
+function betterSlug(input, replacement = "-", lower = true, options = {}) {
   const removals = "<>.~\":/?#[]{}()@!$'()*+,;="
   // Extend default configuration
   options = {
@@ -243,7 +243,7 @@ function betterSlug(input, replacement = "-", options = {}) {
   return slugify(input, {
     replacement: replacement,
     remove: new RegExp("[" + escapeStringRegexp(options.removals) + "]", "g"),
-    lower: true
+    lower: lower
   })
 }
 

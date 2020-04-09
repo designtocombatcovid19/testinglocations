@@ -9,7 +9,7 @@ hood: Los Angeles
 address: 11301 Wilshire Blvd
 city: Los Angeles
 zip: 90073
-mapUrl: "http://maps.apple.com/?q=the=west=la=veterans=administration=lot=15&address=11301+wilshire+blvd,los+angeles,california,90073"
+mapUrl: "http://maps.apple.com/?q=The+West+LA+Veterans+Administration+Lot+15&address=11301+Wilshire+Blvd,Los+Angeles,California,90073"
 locationType: Drive-thru
 phone: 310-478-3711
 website: https://lacovidprod.service-now.com/rrs

@@ -9,7 +9,7 @@ hood: Anchorage
 address: corner of Lake Otis Parkway and East 42nd Avenue
 city: Anchorage
 zip: 99508
-mapUrl: "http://maps.apple.com/?q=lake=otis=pkwy=and=e=42nd&address=corner+of+lake+otis+parkway+and+east+42nd+avenue,anchorage,alaska,99508"
+mapUrl: "http://maps.apple.com/?q=Lake+Otis+Pkwy+and+E+42nd&address=corner+of+Lake+Otis+Parkway+and+East+42nd+Avenue,Anchorage,Alaska,99508"
 locationType: Drive-thru
 phone: undefined
 website: undefined

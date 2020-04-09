@@ -9,7 +9,7 @@ hood: Crenshaw
 address: 7901 S. Vermont Avenue
 city: Los Angeles
 zip: 90044
-mapUrl: "http://maps.apple.com/?q=crenshaw=christian=center&address=7901+s+vermont+avenue,los+angeles,california,90044"
+mapUrl: "http://maps.apple.com/?q=Crenshaw+Christian+Center&address=7901+S+Vermont+Avenue,Los+Angeles,California,90044"
 locationType: Drive-thru
 phone: undefined
 website: https://lacovidprod.service-now.com/rrs
