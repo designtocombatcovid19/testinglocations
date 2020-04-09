@@ -13,7 +13,9 @@ phone: undefined
 website: coronavirus.lacity.org/Testing
 onlineBooking: true
 closed: undefined
-notesOther: "Only performing 200 tests a day"
+notes: "By appointment only. Limited test kits available."
 days: Unknown hours
+ctaMessage: "Make an appointment."
+ctaUrl: "coronavirus.lacity.org/Testing"
 ---
 ## The Pomona Fairplex Gate 17

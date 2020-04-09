@@ -13,8 +13,10 @@ phone:  323-375-1986
 website: https://www.coronavirustestingla.com/
 onlineBooking: true
 closed: undefined
-notesOther: "Send a picture ID (front and back) and insurance ID (front and back) to COVID19@LAENT.COM"
+notes: "Privately owned."
 days: Everyday
 hours: 8AM-5PM
+ctaMessage: "Make an appointment."
+ctaUrl: "https://www.coronavirustestingla.com/"
 ---
 ## Los Angeles Center for Ear, Nose, Throat and Allergy

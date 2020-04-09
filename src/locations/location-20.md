@@ -13,8 +13,10 @@ phone: (303) 360-6276
 website: https://stridechc.org/
 onlineBooking: undefined
 closed: undefined
-notesOther: "Closes periodically due to lack of supplies. Please check website before going."
+notes: "Free. Limited test kits available."
 days: Weekdays
 hours: 9AM-4PM
+ctaMessage: "Learn more."
+ctaUrl: "https://stridechc.org/"
 ---
 ## STRIDE CHC- Aurora Health & Wellness Plaza

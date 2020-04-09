@@ -13,7 +13,9 @@ phone: undefined
 website: https://lacovidprod.service-now.com/rrs
 onlineBooking: true
 closed: undefined
-notesOther: "Download form to have your doctor order the test"
+notes: "Requires doctor's referral. Prioritizes first responders."
 days: Unknown hours
+ctaMessage: "Make an appointment."
+ctaUrl: "https://lacovidprod.service-now.com/rrs"
 ---
 ## Glendale Memorial Hospital

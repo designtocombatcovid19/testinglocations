@@ -13,8 +13,10 @@ phone: undefined
 website: undefined
 onlineBooking: undefined
 closed: undefined
-notesOther: "undefined"
+notes: "Free. Requires doctor's referral."
 days: Everyday
 hours: 9AM-7PM
+ctaMessage: "No contact info available."
+ctaUrl: ""
 ---
 ## Lake Otis Pkwy & E 42nd

@@ -13,7 +13,9 @@ phone: undefined
 website: https://lacovidprod.service-now.com/rrs
 onlineBooking: true
 closed: undefined
-notesOther: "undefined"
+notes: "By appointment only. Free."
 days: Unknown hours
+ctaMessage: "Make an appointment."
+ctaUrl: "https://lacovidprod.service-now.com/rrs"
 ---
 ## Lincoln Park Recreation Center

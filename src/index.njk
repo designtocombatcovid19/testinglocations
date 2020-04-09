@@ -45,11 +45,11 @@ buttonSecondUrl: /submit/
           </div>
 
           <div class="my-4 px-3 w-1/2 overflow-hidden sm:w-3/12">
-            <p class="notes">Privately owned. Minimum cost of $145 per visit.</p>
+            <p class="notes">{{ location.data.notes }}</p>
           </div>
 
           <div class="my-4 pl-3 pr-4 w-1/2 overflow-hidden sm:w-2/12">
-            <a class="learn-more" href="https://carbonhealth.com/echo-park">Make an appointment</a>
+            <a class="learn-more" href="{{ location.data.ctaUrl }}">{{ location.data.ctaMessage }}</a>
             {# <p class=""><a href="tel:310-544-6858">310-544-6858</a></p> #}
           </div>
         </div>

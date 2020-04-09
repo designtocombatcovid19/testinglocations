@@ -13,7 +13,9 @@ phone: 800-945-6171
 website: undefined
 onlineBooking: undefined
 closed: undefined
-notesOther: "Drive-ups without an appointment will not be tested"
+notes: "By appointment only. Only for individuals with symptoms. Open to all."
 days: Unknown hours
+ctaMessage: "Call 800-945-6171 ."
+ctaUrl: "tel:800-945-6171 "
 ---
 ## Harvest Christian Fellowship Church

@@ -13,8 +13,10 @@ phone: undefined
 website: undefined
 onlineBooking: undefined
 closed: true
-notesOther: "undefined"
+notes: ""
 days: Weekdays
 hours: 8AM-4:30PM
+ctaMessage: "No contact info available."
+ctaUrl: ""
 ---
 ## Curtis R. Tucker Public Health Center

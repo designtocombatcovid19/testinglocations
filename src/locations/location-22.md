@@ -13,8 +13,10 @@ phone: undefined
 website: https://www.capecodhealth.org/medical-services/infectious-disease/coronavirus/covid-19-testing-process/
 onlineBooking: undefined
 closed: undefined
-notesOther: "If you do not have a primary care provider, please call a Cape Cod Healthcare urgent care center or 508-862-5595 to reach their dedicated call center."
+notes: "By appointment only. Requires referral from a primary health provider. Requires doctor's referral. For all members of the community."
 days: Everyday
 hours: 8AM-6PM
+ctaMessage: "Learn more."
+ctaUrl: "https://www.capecodhealth.org/medical-services/infectious-disease/coronavirus/covid-19-testing-process/"
 ---
 ## Cape Cod Community College

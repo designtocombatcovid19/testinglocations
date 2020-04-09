@@ -13,8 +13,10 @@ phone: 800-945-6171
 website: undefined
 onlineBooking: undefined
 closed: undefined
-notesOther: "Testing will take place in the parking lots 5 and 5A near Arabia Street, between Highway 111 and Dr Carreon Boulevard"
+notes: "Must have fever and other symptoms. By appointment only."
 days: ERROR
 hours: 9AM-3PM
+ctaMessage: "Call 800-945-6171."
+ctaUrl: "tel:800-945-6171"
 ---
 ## Riverside County Fairgrounds

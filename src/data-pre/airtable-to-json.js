@@ -62,7 +62,7 @@ base('Testing Locations').select({
 
 function generatePost(location) {
     count += 1
-
+    let cta = callToAction(location)
     let fileString = `---
 layout: base
 permalink: "locations/${betterSlug(location.State)}/${betterSlug(location.City)}/${betterSlug(location.Name)}/"
@@ -78,8 +78,10 @@ phone: ${location.Phone}
 website: ${location.Website}
 onlineBooking: ${location.OnlineBooking}
 closed: ${location.Closed}
-notesOther: "${location.NotesOther}"
+notes: "${collectNotes(location)}"
 ${hoursOfOperation(location)}
+ctaMessage: "${cta.message}"
+ctaUrl: "${cta.url}"
 ---
 ## ${location.Name}`
 
@@ -89,6 +91,58 @@ ${hoursOfOperation(location)}
   } catch (err) {
     console.error(err)
   }
+}
+
+function callToAction(location) {
+  let cta = {
+    message: "",
+    url: ""
+  }
+
+  if (location.Website && location.OnlineBooking) {
+    cta.message = "Make an appointment."
+    cta.url = location.Website
+  } else if (location.Website) {
+    cta.message = "Learn more."
+    cta.url = location.Website
+  } else if (location.Phone) {
+    cta.message = `Call ${location.Phone}.`
+    cta.url = `tel:${location.Phone}`
+  } else {
+    cta.message = "No contact info available."
+  }
+  return cta
+}
+
+function collectNotes(location) {
+  if (location.Notes) {
+    let notesArr = location.Notes
+    let otherNote = location.NotesOther
+    let notes = ""
+    let otherCount = 0
+
+    notesArr.forEach((note) => {
+      console.log("NOTE:", note)
+      if (note !== "Other") {
+        if (notes !== "") {
+          notes = `${notes} ${note}`
+        } else {
+          notes = `${note}`
+        }
+      } else {
+        otherCount += 1
+      }
+    })
+    console.log ("Other Count:", otherCount, "notesArr Length:", notesArr.length)
+    if (otherCount !== notesArr.length) {
+      note = `${notes} ${otherNote}`
+      return notes
+    } else {
+      note = `${otherNote}`
+      return notes
+    }
+  }
+  return ""
 }
 
 function hoursOfOperation(location) {

@@ -13,7 +13,9 @@ phone: undefined
 website: https://corona-virus.la/
 onlineBooking: true
 closed: undefined
-notesOther: "undefined"
+notes: "By appointment only."
 days: Unknown hours
+ctaMessage: "Make an appointment."
+ctaUrl: "https://corona-virus.la/"
 ---
 ## The Antelope Valley Mall
