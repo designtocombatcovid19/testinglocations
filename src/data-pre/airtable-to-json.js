@@ -171,7 +171,7 @@ function hoursOfOperation(location) {
       }
     }
   } else {
-    return "days: Unknown hours"
+    return "days: Hours unknown"
   }
   return open
 }
