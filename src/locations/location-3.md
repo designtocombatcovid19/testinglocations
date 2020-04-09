@@ -4,10 +4,12 @@ permalink: "locations/california/los-angeles/carbon-health/"
 tags: locations
 title: Carbon Health
 state: California
+stateAbbr: CA
 hood: Echo Park
 address: 2110 Sunset Blvd. Suite M
 city: Los Angeles
 zip: 90026
+mapUrl: "http://maps.apple.com/?q=carbon=health&address=2110+sunset+blvd+suite+m,los+angeles,california,90026"
 locationType: Walk-in
 phone: undefined
 website: https://carbonhealth.com/echo-park

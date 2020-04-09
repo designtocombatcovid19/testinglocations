@@ -1,6 +1,7 @@
 const slugify = require('slugify')
 const escapeStringRegexp = require("escape-string-regexp")
 const equals = require('shallow-equals')
+const statesTable = require('datasets-us-states-names-abbr')
 const fs = require('fs')
 const dotenv = require('dotenv')
 dotenv.config()
@@ -69,10 +70,12 @@ permalink: "locations/${betterSlug(location.State)}/${betterSlug(location.City)}
 tags: locations
 title: ${location.Name}
 state: ${location.State}
+stateAbbr: ${getStateAbbr(location.State)}
 hood: ${location.Neighborhood ? location.Neighborhood : location.City}
 address: ${location.Address}
 city: ${location.City}
 zip: ${location.Zip}
+mapUrl: "http://maps.apple.com/?q=${betterSlug(location.Name, '=')}&address=${betterSlug(location.Address, '+')},${betterSlug(location.City, '+')},${betterSlug(location.State, '+')},${location.Zip}"
 locationType: ${location.LocationType}
 phone: ${location.Phone}
 website: ${location.Website}
@@ -222,7 +225,7 @@ function rangeDaysOfWeek(arr) {
   return range
 }
 
-function betterSlug(input, options = {}) {
+function betterSlug(input, replacement = "-", options = {}) {
   const removals = "<>.~\":/?#[]{}()@!$'()*+,;="
   // Extend default configuration
   options = {
@@ -238,8 +241,34 @@ function betterSlug(input, options = {}) {
   }
 
   return slugify(input, {
-    replacement: "-",
+    replacement: replacement,
     remove: new RegExp("[" + escapeStringRegexp(options.removals) + "]", "g"),
     lower: true
   })
+}
+
+function getStateAbbr( state ) {
+  var parts,
+      abbr,
+      len,
+      i;
+
+  // Ensure the first letter of each word comprising a state name is capitalized...
+  parts = state.split( ' ' );
+  len = parts.length;
+  state = '';
+  for ( i = 0; i < len; i++ ) {
+      state += parts[ i ][ 0 ].toUpperCase() + parts[ i ].substring( 1 );
+      if ( i < len-1 ) {
+          state += ' ';
+      }
+  }
+  // Get the state abbreviation:
+  abbr = statesTable[ state ];
+
+  // Ensure a valid state name was provided...
+  if ( abbr === void 0 ) {
+      throw new Error( 'unrecognized state name. Value: `' + state + '`.' );
+  }
+  return abbr;
 }

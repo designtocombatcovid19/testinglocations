@@ -4,10 +4,12 @@ permalink: "locations/california/palmdale/the-antelope-valley-mall/"
 tags: locations
 title: The Antelope Valley Mall
 state: California
+stateAbbr: CA
 hood: Palmdale
 address: 1233 Rancho Vista Blvd
 city: Palmdale
 zip: 93551
+mapUrl: "http://maps.apple.com/?q=the=antelope=valley=mall&address=1233+rancho+vista+blvd,palmdale,california,93551"
 locationType: Drive-thru
 phone: undefined
 website: https://corona-virus.la/

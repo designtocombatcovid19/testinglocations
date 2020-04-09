@@ -4,10 +4,12 @@ permalink: "locations/california/lake-view-terrace/hansen-dam/"
 tags: locations
 title: Hansen Dam
 state: California
+stateAbbr: CA
 hood: Lake View Terrace
 address: 11798 Foothill Blvd
 city: Lake View Terrace
 zip: 91342
+mapUrl: "http://maps.apple.com/?q=hansen=dam&address=11798+foothill+blvd,lake+view+terrace,california,91342"
 locationType: Drive-thru
 phone: undefined
 website: https://lacovidprod.service-now.com/rrs

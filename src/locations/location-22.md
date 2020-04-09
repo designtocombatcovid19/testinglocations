@@ -4,10 +4,12 @@ permalink: "locations/massachusetts/west-barnstable/cape-cod-community-college/"
 tags: locations
 title: Cape Cod Community College
 state: Massachusetts
+stateAbbr: MA
 hood: West Barnstable
 address: 2240 Lyannough Rd
 city: West Barnstable
 zip: 02668
+mapUrl: "http://maps.apple.com/?q=cape=cod=community=college&address=2240+lyannough+rd,west+barnstable,massachusetts,02668"
 locationType: Drive-thru
 phone: undefined
 website: https://www.capecodhealth.org/medical-services/infectious-disease/coronavirus/covid-19-testing-process/

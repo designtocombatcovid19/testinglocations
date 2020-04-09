@@ -4,10 +4,12 @@ permalink: "locations/california/glendale/glendale-memorial-hospital/"
 tags: locations
 title: Glendale Memorial Hospital
 state: California
+stateAbbr: CA
 hood: Glendale
 address: 1420 S Central Ave
 city: Glendale
 zip: 91204
+mapUrl: "http://maps.apple.com/?q=glendale=memorial=hospital&address=1420+s+central+ave,glendale,california,91204"
 locationType: Drive-thru
 phone: undefined
 website: https://lacovidprod.service-now.com/rrs

@@ -4,10 +4,12 @@ permalink: "locations/california/lake-elsinore/diamond-stadium-lot-c/"
 tags: locations
 title: Diamond Stadium Lot C
 state: California
+stateAbbr: CA
 hood: Lake Elsinore
 address: 500 Diamond Dr
 city: Lake Elsinore
 zip: 92530
+mapUrl: "http://maps.apple.com/?q=diamond=stadium=lot=c&address=500+diamond+dr,lake+elsinore,california,92530"
 locationType: Drive-thru
 phone: 800-945-6171
 website: https://www.projectbaseline.com/study/covid-19/

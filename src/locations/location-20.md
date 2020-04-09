@@ -4,10 +4,12 @@ permalink: "locations/colorado/aurora/stride-chc-aurora-health-and-wellness-plaz
 tags: locations
 title: STRIDE CHC- Aurora Health & Wellness Plaza
 state: Colorado
+stateAbbr: CO
 hood: Aurora
 address: 10680 Del Mar Parkway
 city: Aurora
 zip: 80010
+mapUrl: "http://maps.apple.com/?q=stride=chc-=aurora=health=and=wellness=plaza&address=10680+del+mar+parkway,aurora,colorado,80010"
 locationType: Drive-thru
 phone: (303) 360-6276
 website: https://stridechc.org/

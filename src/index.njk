@@ -31,7 +31,7 @@ buttonSecondUrl: /submit/
           <div class="my-4 pl-10 pr-4 w-1/2 overflow-hidden sm:w-3/12">
             {# TODO: Link to apple/google maps on click/tap #}
             {# <address class="address not-italic">Carbon Health<br/>2110 Sunset Blvd Suite M<br/>Los Angeles, CA 90026</address> #}
-            <address class="address not-italic"><span class="font-bold">{{ location.data.title }}</span><br/>{{ location.data.address }}<br/>{{ location.data.city }}, CA {{ location.data.zip }}</address>
+            <a href="{{ location.data.mapUrl }}"><address class="address not-italic"><span class="font-bold">{{ location.data.title }}</span><br/>{{ location.data.address }}<br/>{{ location.data.city }}, {{ location.data.stateAbbr }} {{ location.data.zip }}</address></a>
           </div>
 
           <div class="my-4 px-4 w-1/2 overflow-hidden sm:w-2/12">
@@ -73,4 +73,4 @@ buttonSecondUrl: /submit/
   var testingList = new List('testing-list', options);
 </script>
 
-{# {% include "cta.njk" %} #}
+{% include "cta.njk" %}
