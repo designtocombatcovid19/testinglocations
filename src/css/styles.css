@@ -417,7 +417,7 @@ ul {
  */
 
 html {
-  font-family: Avenir, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji; /* 1 */
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji; /* 1 */
   line-height: 1.5; /* 2 */
 }
 
@@ -3698,7 +3698,7 @@ video {
 }
 
 .font-sans {
-  font-family: Avenir, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
 }
 
 .font-hairline {
@@ -17014,7 +17014,7 @@ video {
   }
 
   .sm\:font-sans {
-    font-family: Avenir, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
   }
 
   .sm\:font-hairline {
@@ -30331,7 +30331,7 @@ video {
   }
 
   .md\:font-sans {
-    font-family: Avenir, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
   }
 
   .md\:font-hairline {
@@ -43648,7 +43648,7 @@ video {
   }
 
   .lg\:font-sans {
-    font-family: Avenir, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
   }
 
   .lg\:font-hairline {
@@ -56965,7 +56965,7 @@ video {
   }
 
   .xl\:font-sans {
-    font-family: Avenir, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
   }
 
   .xl\:font-hairline {
