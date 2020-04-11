@@ -1,22 +1,23 @@
 ---
 layout: base
-permalink: "locations/california/lake-view-terrace/hansen-dam/"
+permalink: "locations/california/northridge/northridge-hospital-medical-center/"
 tags: locations
-title: Hansen Dam
+title: Northridge Hospital Medical Center
 state: California
 stateAbbr: CA
-hood: Lake View Terrace
-address: 11798 Foothill Blvd
-city: Lake View Terrace
-zip: 91342
-mapUrl: "http://maps.apple.com/?q=Hansen+Dam&address=11798+Foothill+Blvd,Lake+View+Terrace,California,91342"
+hood: Northridge
+address: 18300 Roscoe Boulevard
+city: Northridge
+zip: 91328
+mapUrl: "http://maps.apple.com/?q=Northridge+Hospital+Medical+Center&address=18300+Roscoe+Boulevard,Northridge,California,91328"
 locationType: Drive-thru
 phone: undefined
 website: https://lacovidprod.service-now.com/rrs
 onlineBooking: true
-notes: "By appointment only. Only for individuals with symptoms."
-days: Hours unknown
-ctaMessage: Make an appointment
+notes: "By appointment only."
+days: Weekdays
+hours: 8AM-4PM
+ctaMessage: Schedule a test
 ctaUrl: "https://lacovidprod.service-now.com/rrs"
 ---
-## Hansen Dam
+## Northridge Hospital Medical Center

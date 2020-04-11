@@ -1,22 +1,23 @@
 ---
 layout: base
-permalink: "locations/alaska/anchorage/lake-otis-pkwy-and-e-42nd/"
+permalink: "locations/alabama/anniston/rmc-health-system/"
 tags: locations
-title: Lake Otis Pkwy & E 42nd
-state: Alaska
-stateAbbr: AK
-hood: Anchorage
-address: corner of Lake Otis Parkway and East 42nd Avenue
-city: Anchorage
-zip: 99508
-mapUrl: "http://maps.apple.com/?q=Lake+Otis+Pkwy+and+E+42nd&address=corner+of+Lake+Otis+Parkway+and+East+42nd+Avenue,Anchorage,Alaska,99508"
+title: RMC Health System
+state: Alabama
+stateAbbr: AL
+hood: Anniston
+address: 400 East 10th Street
+city: Anniston
+zip: 36207
+mapUrl: "http://maps.apple.com/?q=RMC+Health+System&address=400+East+10th+Street,Anniston,Alabama,36207"
 locationType: Drive-thru
-phone: undefined
+phone: 256-235-5600
 website: undefined
 onlineBooking: undefined
-notes: "Free. Requires doctor's referral."
-days: Everyday
-hours: 9AM-7PM
-ctaMessage: No contact info available.
+notes: "Requires referral from a primary health provider. Requires doctor's referral."
+days: Weekdays
+hours: 8:30AM-4:30PM
+ctaMessage: Call 256-235-5600
+ctaUrl: "tel:256-235-5600"
 ---
-## Lake Otis Pkwy & E 42nd
+## RMC Health System

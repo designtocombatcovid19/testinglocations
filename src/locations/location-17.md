@@ -1,22 +1,22 @@
 ---
 layout: base
-permalink: "locations/california/palmdale/the-antelope-valley-mall/"
+permalink: "locations/california/los-angeles/the-west-la-veterans-administration-lot-15/"
 tags: locations
-title: The Antelope Valley Mall
+title: The West LA Veteran’s Administration Lot 15
 state: California
 stateAbbr: CA
-hood: Palmdale
-address: 1233 Rancho Vista Blvd
-city: Palmdale
-zip: 93551
-mapUrl: "http://maps.apple.com/?q=The+Antelope+Valley+Mall&address=1233+Rancho+Vista+Blvd,Palmdale,California,93551"
+hood: Los Angeles
+address: 11301 Wilshire Blvd
+city: Los Angeles
+zip: 90073
+mapUrl: "http://maps.apple.com/?q=The+West+LA+Veterans+Administration+Lot+15&address=11301+Wilshire+Blvd,Los+Angeles,California,90073"
 locationType: Drive-thru
-phone: undefined
-website: https://corona-virus.la/
+phone: 310-478-3711
+website: https://lacovidprod.service-now.com/rrs
 onlineBooking: true
 notes: "By appointment only."
-days: Hours unknown
-ctaMessage: Make an appointment
-ctaUrl: "https://corona-virus.la/"
+days: Open 24/7
+ctaMessage: Schedule a test
+ctaUrl: "https://lacovidprod.service-now.com/rrs"
 ---
-## The Antelope Valley Mall
+## The West LA Veteran’s Administration Lot 15

@@ -1,23 +1,23 @@
 ---
 layout: base
-permalink: "locations/california/lake-elsinore/diamond-stadium-lot-c/"
+permalink: "locations/california/inglewood/curtis-r-tucker-public-health-center/"
 tags: locations
-title: Diamond Stadium Lot C
+title: Curtis R. Tucker Public Health Center
 state: California
 stateAbbr: CA
-hood: Lake Elsinore
-address: 500 Diamond Dr
-city: Lake Elsinore
-zip: 92530
-mapUrl: "http://maps.apple.com/?q=Diamond+Stadium+Lot+C&address=500+Diamond+Dr,Lake+Elsinore,California,92530"
-locationType: Drive-thru
-phone: 800-945-6171
-website: https://www.projectbaseline.com/study/covid-19/
-onlineBooking: true
-notes: "By appointment only. Only for individuals with symptoms."
-days: ERROR
-hours: 9:30AM-3PM
-ctaMessage: Make an appointment
-ctaUrl: "https://www.projectbaseline.com/study/covid-19/"
+hood: Inglewood
+address: 123 W Manchester Blvd
+city: Inglewood
+zip: 90301
+mapUrl: "http://maps.apple.com/?q=Curtis+R+Tucker+Public+Health+Center&address=123+W+Manchester+Blvd,Inglewood,California,90301"
+locationType: Walk-in
+phone: undefined
+website: undefined
+onlineBooking: undefined
+notes: ""
+days: Weekdays
+hours: 8AM-4:30PM
+ctaMessage: 2020-04-06 Closed.
+closed: true
 ---
-## Diamond Stadium Lot C
+## Curtis R. Tucker Public Health Center

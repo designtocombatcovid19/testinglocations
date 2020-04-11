@@ -1,23 +1,22 @@
 ---
 layout: base
-permalink: "locations/california/inglewood/curtis-r-tucker-public-health-center/"
+permalink: "locations/alabama/gadsden/gadsden-regional-medical-center/"
 tags: locations
-title: Curtis R. Tucker Public Health Center
-state: California
-stateAbbr: CA
-hood: Inglewood
-address: 123 W Manchester Blvd
-city: Inglewood
-zip: 90301
-mapUrl: "http://maps.apple.com/?q=Curtis+R+Tucker+Public+Health+Center&address=123+W+Manchester+Blvd,Inglewood,California,90301"
+title: Gadsden Regional Medical Center
+state: Alabama
+stateAbbr: AL
+hood: Gadsden
+address: 1007 Goodyear Avenue
+city: Gadsden
+zip: 35903
+mapUrl: "http://maps.apple.com/?q=Gadsden+Regional+Medical+Center&address=1007+Goodyear+Avenue,Gadsden,Alabama,35903"
 locationType: Walk-in
-phone: undefined
+phone: 877-696-3972
 website: undefined
 onlineBooking: undefined
-notes: ""
-days: Weekdays
-hours: 8AM-4:30PM
-ctaMessage: 2020-04-06 Closed.
-closed: true
+notes: "By appointment only."
+days: Open 24/7
+ctaMessage: Call 877-696-3972
+ctaUrl: "tel:877-696-3972"
 ---
-## Curtis R. Tucker Public Health Center
+## Gadsden Regional Medical Center

@@ -1,23 +1,22 @@
 ---
 layout: base
-permalink: "locations/california/lancaster/high-desert-medical-group-office/"
+permalink: "locations/california/riverside/harvest-christian-fellowship-church/"
 tags: locations
-title: High Desert Medical Group Office
+title: Harvest Christian Fellowship Church
 state: California
 stateAbbr: CA
-hood: Lancaster
-address: 43839 N. 15th Street West
-city: Lancaster
-zip: 93534
-mapUrl: "http://maps.apple.com/?q=High+Desert+Medical+Group+Office&address=43839+N+15th+Street+West,Lancaster,California,93534"
+hood: Riverside
+address: 6115 Arlington Ave
+city: Riverside
+zip: 92504
+mapUrl: "http://maps.apple.com/?q=Harvest+Christian+Fellowship+Church&address=6115+Arlington+Ave,Riverside,California,92504"
 locationType: Drive-thru
-phone: (661) 945-5984
-website: https://lacovidprod.service-now.com/rrs
-onlineBooking: true
-notes: "By appointment only. Only for individuals with symptoms. Free."
-days: ERROR
-hours: 9AM-5PM
-ctaMessage: Make an appointment
-ctaUrl: "https://lacovidprod.service-now.com/rrs"
+phone: 800-945-6171 
+website: undefined
+onlineBooking: undefined
+notes: "By appointment only. Only for individuals with symptoms. Open to all."
+days: Hours unknown
+ctaMessage: Call 800-945-6171 
+ctaUrl: "tel:800-945-6171"
 ---
-## High Desert Medical Group Office
+## Harvest Christian Fellowship Church

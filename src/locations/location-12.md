@@ -1,23 +1,23 @@
 ---
 layout: base
-permalink: "locations/california/northridge/northridge-hospital-medical-center/"
+permalink: "locations/california/lake-elsinore/diamond-stadium-lot-c/"
 tags: locations
-title: Northridge Hospital Medical Center
+title: Diamond Stadium Lot C
 state: California
 stateAbbr: CA
-hood: Northridge
-address: 18300 Roscoe Boulevard
-city: Northridge
-zip: 91328
-mapUrl: "http://maps.apple.com/?q=Northridge+Hospital+Medical+Center&address=18300+Roscoe+Boulevard,Northridge,California,91328"
+hood: Lake Elsinore
+address: 500 Diamond Dr
+city: Lake Elsinore
+zip: 92530
+mapUrl: "http://maps.apple.com/?q=Diamond+Stadium+Lot+C&address=500+Diamond+Dr,Lake+Elsinore,California,92530"
 locationType: Drive-thru
-phone: undefined
-website: https://lacovidprod.service-now.com/rrs
+phone: 800-945-6171
+website: https://www.projectbaseline.com/study/covid-19/
 onlineBooking: true
-notes: "By appointment only."
-days: Weekdays
-hours: 8AM-4PM
-ctaMessage: Make an appointment
-ctaUrl: "https://lacovidprod.service-now.com/rrs"
+notes: "By appointment only. Only for individuals with symptoms."
+days: ERROR
+hours: 9:30AM-3PM
+ctaMessage: Schedule a test
+ctaUrl: "https://www.projectbaseline.com/study/covid-19/"
 ---
-## Northridge Hospital Medical Center
+## Diamond Stadium Lot C

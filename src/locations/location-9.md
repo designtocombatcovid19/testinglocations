@@ -1,22 +1,23 @@
 ---
 layout: base
-permalink: "locations/california/los-angeles/lincoln-park-recreation-center/"
+permalink: "locations/california/los-angeles/los-angeles-center-for-ear-nose-throat-and-allergy/"
 tags: locations
-title: Lincoln Park Recreation Center
+title: Los Angeles Center for Ear, Nose, Throat and Allergy
 state: California
 stateAbbr: CA
-hood: Lincoln Heights
-address: 3501 Valley Blvd
+hood: Huntington Park
+address: 1700 East Cesar E Chavez Avenue #2500
 city: Los Angeles
-zip: 90031
-mapUrl: "http://maps.apple.com/?q=Lincoln+Park+Recreation+Center&address=3501+Valley+Blvd,Los+Angeles,California,90031"
+zip: 90033
+mapUrl: "http://maps.apple.com/?q=Los+Angeles+Center+for+Ear+Nose+Throat+and+Allergy&address=1700+East+Cesar+E+Chavez+Avenue+2500,Los+Angeles,California,90033"
 locationType: Drive-thru
-phone: undefined
-website: https://lacovidprod.service-now.com/rrs
+phone:  323-375-1986
+website: https://www.coronavirustestingla.com/
 onlineBooking: true
-notes: "By appointment only. Free."
-days: Hours unknown
-ctaMessage: Make an appointment
-ctaUrl: "https://lacovidprod.service-now.com/rrs"
+notes: "Privately owned."
+days: Everyday
+hours: 8AM-5PM
+ctaMessage: Schedule a test
+ctaUrl: "https://www.coronavirustestingla.com/"
 ---
-## Lincoln Park Recreation Center
+## Los Angeles Center for Ear, Nose, Throat and Allergy

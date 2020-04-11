@@ -1,23 +1,23 @@
 ---
 layout: base
-permalink: "locations/california/los-angeles/carbon-health/"
+permalink: "locations/alabama/birmingham/the-university-of-alabama-hospital/"
 tags: locations
-title: Carbon Health
-state: California
-stateAbbr: CA
-hood: Echo Park
-address: 2110 Sunset Blvd. Suite M
-city: Los Angeles
-zip: 90026
-mapUrl: "http://maps.apple.com/?q=Carbon+Health&address=2110+Sunset+Blvd+Suite+M,Los+Angeles,California,90026"
-locationType: Walk-in
-phone: undefined
-website: https://carbonhealth.com/echo-park
-onlineBooking: true
-notes: "Privately owned."
+title: The University of Alabama Hospital
+state: Alabama
+stateAbbr: AL
+hood: Birmingham
+address: 1802 6th Ave St South
+city: Birmingham
+zip: 35233
+mapUrl: "http://maps.apple.com/?q=The+University+of+Alabama+Hospital&address=1802+6th+Ave+St+South,Birmingham,Alabama,35233"
+locationType: Drive-thru
+phone: 205-975-1881
+website: undefined
+onlineBooking: undefined
+notes: "By appointment only."
 days: Everyday
-hours: 9AM-7PM
-ctaMessage: Make an appointment
-ctaUrl: "https://carbonhealth.com/echo-park"
+hours: 9AM-1:30PM
+ctaMessage: Call 205-975-1881
+ctaUrl: "tel:205-975-1881"
 ---
-## Carbon Health
+## The University of Alabama Hospital

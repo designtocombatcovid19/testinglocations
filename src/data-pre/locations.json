@@ -1,9 +1,15 @@
 [
   {
-    "Address": "809 University Blvd",
-    "LocationType": [
-      "Drive-thru"
+    "Name": "DCH Regional Medical Center",
+    "Notes": [
+      "Only for individuals with symptoms."
     ],
+    "State": "Alabama",
+    "Address": "809 University Blvd",
+    "City": "East Tuscaloosa",
+    "Zip": "35401",
+    "Phone": "205-759-7111",
+    "Website": "https://www.dchsystem.com/Articles/dch_to_offer_remote_screening_facility_for_coronavirus.aspx",
     "DaysOfWeek": [
       "Friday",
       "Monday",
@@ -11,90 +17,35 @@
       "Tuesday",
       "Wednesday"
     ],
-    "Alt2DaysOfWeek": [
-      "Sunday"
-    ],
-    "AltClosesAt": "Noon",
-    "City": "East Tuscaloosa",
-    "AltOpensAt": "8AM",
-    "NotesOther": "Testing is available as long as supplies remain available and the weather allows for the process to safely continue. Call ahead to make sure they are still doing testing.",
+    "OpensAt": "8AM",
     "ClosesAt": "5PM",
-    "Zip": "35401",
-    "Alt2OpensAt": "2PM",
     "AltDaysOfWeek": [
       "Saturday"
     ],
-    "Alt2ClosesAt": "5PM",
-    "State": "Alabama",
-    "Verified": true,
-    "OpensAt": "8AM",
-    "Phone": "205-759-7111",
-    "Name": "DCH Regional Medical Center",
-    "Website": "https://www.dchsystem.com/Articles/dch_to_offer_remote_screening_facility_for_coronavirus.aspx",
-    "Notes": [
-      "Only for individuals with symptoms."
-    ]
-  },
-  {
-    "Address": "corner of Lake Otis Parkway and East 42nd Avenue",
+    "AltOpensAt": "8AM",
+    "AltClosesAt": "Noon",
     "LocationType": [
       "Drive-thru"
     ],
-    "DaysOfWeek": [
-      "Friday",
-      "Monday",
-      "Saturday",
-      "Sunday",
-      "Thursday",
-      "Tuesday",
-      "Wednesday"
-    ],
-    "City": "Anchorage",
-    "ClosesAt": "7PM",
-    "Zip": "99508",
-    "State": "Alaska",
+    "NotesOther": "Testing is available as long as supplies remain available and the weather allows for the process to safely continue. Call ahead to make sure they are still doing testing.",
     "Verified": true,
-    "OpensAt": "9AM",
-    "Name": "Lake Otis Pkwy & E 42nd",
+    "Alt2DaysOfWeek": [
+      "Sunday"
+    ],
+    "Alt2OpensAt": "2PM",
+    "Alt2ClosesAt": "5PM"
+  },
+  {
+    "Name": "RMC Health System",
     "Notes": [
-      "Free.",
+      "Requires referral from a primary health provider.",
       "Requires doctor's referral."
-    ]
-  },
-  {
-    "Address": "2110 Sunset Blvd. Suite M",
-    "LocationType": [
-      "Walk-in"
     ],
-    "OnlineBooking": true,
-    "DaysOfWeek": [
-      "Friday",
-      "Monday",
-      "Saturday",
-      "Sunday",
-      "Thursday",
-      "Tuesday",
-      "Wednesday"
-    ],
-    "City": "Los Angeles",
-    "ClosesAt": "7PM",
-    "Zip": "90026",
-    "Neighborhood": "Echo Park",
-    "State": "California",
-    "Verified": true,
-    "OpensAt": "9AM",
-    "Name": "Carbon Health",
-    "Website": "https://carbonhealth.com/echo-park",
-    "Notes": [
-      "Privately owned."
-    ],
-    "LastClosedUpdate": "2020-04-06"
-  },
-  {
-    "Address": "123 W Manchester Blvd",
-    "LocationType": [
-      "Walk-in"
-    ],
+    "State": "Alabama",
+    "Address": "400 East 10th Street",
+    "City": "Anniston",
+    "Zip": "36207",
+    "Phone": "256-235-5600",
     "DaysOfWeek": [
       "Friday",
       "Monday",
@@ -102,23 +53,24 @@
       "Tuesday",
       "Wednesday"
     ],
-    "City": "Inglewood",
+    "OpensAt": "8:30AM",
     "ClosesAt": "4:30PM",
-    "Zip": "90301",
-    "Neighborhood": "Inglewood",
-    "Closed": true,
-    "State": "California",
-    "Verified": true,
-    "OpensAt": "8AM",
-    "Name": "Curtis R. Tucker Public Health Center",
-    "LastClosedUpdate": "2020-04-06"
-  },
-  {
-    "Address": "1700 East Cesar E Chavez Avenue #2500",
     "LocationType": [
       "Drive-thru"
     ],
-    "OnlineBooking": true,
+    "NotesOther": "Results take 5-7 days.",
+    "Verified": true
+  },
+  {
+    "Name": "The University of Alabama Hospital",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Alabama",
+    "Address": "1802 6th Ave St South",
+    "City": "Birmingham",
+    "Zip": "35233",
+    "Phone": "205-975-1881",
     "DaysOfWeek": [
       "Friday",
       "Monday",
@@ -128,35 +80,184 @@
       "Tuesday",
       "Wednesday"
     ],
-    "City": "Los Angeles",
-    "NotesOther": "Send a picture ID (front and back) and insurance ID (front and back) to COVID19@LAENT.COM",
-    "ClosesAt": "5PM",
-    "Zip": "90033",
-    "Neighborhood": "Huntington Park",
-    "State": "California",
-    "Verified": true,
-    "OpensAt": "8AM",
-    "Phone": " 323-375-1986",
-    "Name": "Los Angeles Center for Ear, Nose, Throat and Allergy",
-    "Website": "https://www.coronavirustestingla.com/",
-    "Notes": [
-      "Privately owned.",
-      "Other"
-    ]
-  },
-  {
-    "Address": "6115 Arlington Ave",
+    "OpensAt": "9AM",
+    "ClosesAt": "1:30PM",
     "LocationType": [
       "Drive-thru"
     ],
+    "NotesOther": "Make an appointment between 7AM and 11PM",
+    "Verified": true
+  },
+  {
+    "Name": "Gadsden Regional Medical Center",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Alabama",
+    "Address": "1007 Goodyear Avenue",
+    "City": "Gadsden",
+    "Zip": "35903",
+    "Phone": "877-696-3972",
     "DaysOfWeek": [
+      "Sunday",
+      "Monday",
       "Tuesday",
       "Wednesday",
       "Thursday",
       "Friday",
       "Saturday"
     ],
-    "City": "Riverside",
+    "OpensAt": "Open 24 hours",
+    "ClosesAt": "Open 24 hours",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "Other contact information: (256) 494-4000",
+    "Verified": true
+  },
+  {
+    "Name": "Ross Bridge Medical Center",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Alabama",
+    "Address": "3635 Market Street",
+    "City": "Hoover",
+    "Zip": "35226",
+    "Phone": "205-494-7677",
+    "Website": "https://www.rossbridgemedicalcenter.com/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "4:30PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Lake Otis Pkwy & E 42nd",
+    "Notes": [
+      "Free.",
+      "Requires doctor's referral."
+    ],
+    "State": "Alaska",
+    "Address": "corner of Lake Otis Parkway and East 42nd Avenue",
+    "City": "Anchorage",
+    "Zip": "99508",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "7PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Carbon Health",
+    "Notes": [
+      "Privately owned."
+    ],
+    "State": "California",
+    "Address": "2110 Sunset Blvd. Suite M",
+    "City": "Los Angeles",
+    "Zip": "90026",
+    "Neighborhood": "Echo Park",
+    "Website": "https://carbonhealth.com/echo-park",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "7PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true,
+    "LastClosedUpdate": "2020-04-06"
+  },
+  {
+    "Name": "Curtis R. Tucker Public Health Center",
+    "State": "California",
+    "Address": "123 W Manchester Blvd",
+    "City": "Inglewood",
+    "Zip": "90301",
+    "Neighborhood": "Inglewood",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "Closed": true,
+    "ClosesAt": "4:30PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true,
+    "LastClosedUpdate": "2020-04-06"
+  },
+  {
+    "Name": "Los Angeles Center for Ear, Nose, Throat and Allergy",
+    "Notes": [
+      "Privately owned.",
+      "Other"
+    ],
+    "State": "California",
+    "Address": "1700 East Cesar E Chavez Avenue #2500",
+    "City": "Los Angeles",
+    "Zip": "90033",
+    "Neighborhood": "Huntington Park",
+    "Phone": " 323-375-1986",
+    "Website": "https://www.coronavirustestingla.com/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Send a picture ID (front and back) and insurance ID (front and back) to COVID19@LAENT.COM",
+    "Verified": true
+  },
+  {
+    "Name": "Harvest Christian Fellowship Church",
+    "Notes": [
+      "By appointment only.",
+      "Only for individuals with symptoms.",
+      "Open to all.",
+      "Other"
+    ],
     "Attachments": [
       {
         "id": "attikLBN4hjhd8XNk",
@@ -178,24 +279,35 @@
         }
       }
     ],
-    "NotesOther": "Drive-ups without an appointment will not be tested",
-    "Zip": "92504",
     "State": "California",
-    "Verified": true,
+    "Address": "6115 Arlington Ave",
+    "City": "Riverside",
+    "Zip": "92504",
     "Phone": "800-945-6171 ",
-    "Name": "Harvest Christian Fellowship Church",
-    "Notes": [
-      "By appointment only.",
-      "Only for individuals with symptoms.",
-      "Open to all.",
-      "Other"
-    ]
-  },
-  {
-    "Address": "46517 Arabia St",
+    "DaysOfWeek": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
     "LocationType": [
       "Drive-thru"
     ],
+    "NotesOther": "Drive-ups without an appointment will not be tested",
+    "Verified": true
+  },
+  {
+    "Name": "Riverside County Fairgrounds",
+    "Notes": [
+      "Must have fever and other symptoms.",
+      "By appointment only."
+    ],
+    "State": "California",
+    "Address": "46517 Arabia St",
+    "City": "Indio",
+    "Zip": "92201",
+    "Phone": "800-945-6171",
     "DaysOfWeek": [
       "Friday",
       "Saturday",
@@ -203,25 +315,26 @@
       "Tuesday",
       "Wednesday"
     ],
-    "City": "Indio",
-    "NotesOther": "Testing will take place in the parking lots 5 and 5A near Arabia Street, between Highway 111 and Dr Carreon Boulevard",
-    "ClosesAt": "3PM",
-    "Zip": "92201",
-    "State": "California",
-    "Verified": true,
     "OpensAt": "9AM",
-    "Phone": "800-945-6171",
-    "Name": "Riverside County Fairgrounds",
-    "Notes": [
-      "Must have fever and other symptoms.",
-      "By appointment only."
-    ]
-  },
-  {
-    "Address": "500 Diamond Dr",
+    "ClosesAt": "3PM",
     "LocationType": [
       "Drive-thru"
     ],
+    "NotesOther": "Testing will take place in the parking lots 5 and 5A near Arabia Street, between Highway 111 and Dr Carreon Boulevard",
+    "Verified": true
+  },
+  {
+    "Name": "Diamond Stadium Lot C",
+    "Notes": [
+      "By appointment only.",
+      "Only for individuals with symptoms."
+    ],
+    "State": "California",
+    "Address": "500 Diamond Dr",
+    "City": "Lake Elsinore",
+    "Zip": "92530",
+    "Phone": "800-945-6171",
+    "Website": "https://www.projectbaseline.com/study/covid-19/",
     "OnlineBooking": true,
     "DaysOfWeek": [
       "Monday",
@@ -230,48 +343,49 @@
       "Tuesday",
       "Wednesday"
     ],
-    "City": "Lake Elsinore",
-    "NotesOther": "Over 1 hour wait time for a phone appointment",
-    "ClosesAt": "3PM",
-    "Zip": "92530",
-    "State": "California",
-    "Verified": true,
     "OpensAt": "9:30AM",
-    "Phone": "800-945-6171",
-    "Name": "Diamond Stadium Lot C",
-    "Website": "https://www.projectbaseline.com/study/covid-19/",
-    "Notes": [
-      "By appointment only.",
-      "Only for individuals with symptoms."
-    ]
-  },
-  {
-    "Address": "3501 Valley Blvd",
+    "ClosesAt": "3PM",
     "LocationType": [
       "Drive-thru"
     ],
+    "NotesOther": "Over 1 hour wait time for a phone appointment",
+    "Verified": true
+  },
+  {
+    "Name": "Lincoln Park Recreation Center",
+    "Notes": [
+      "By appointment only.",
+      "Free."
+    ],
+    "State": "California",
+    "Address": "3501 Valley Blvd",
+    "City": "Los Angeles",
+    "Zip": "90031",
+    "Neighborhood": "Lincoln Heights",
+    "Website": "https://lacovidprod.service-now.com/rrs",
     "OnlineBooking": true,
     "DaysOfWeek": [
       "Sunday"
     ],
-    "City": "Los Angeles",
-    "Zip": "90031",
-    "Neighborhood": "Lincoln Heights",
-    "State": "California",
-    "Verified": true,
     "OpensAt": "9AM",
-    "Name": "Lincoln Park Recreation Center",
-    "Website": "https://lacovidprod.service-now.com/rrs",
-    "Notes": [
-      "By appointment only.",
-      "Free."
-    ]
-  },
-  {
-    "Address": "43839 N. 15th Street West",
     "LocationType": [
       "Drive-thru"
     ],
+    "Verified": true
+  },
+  {
+    "Name": "High Desert Medical Group Office",
+    "Notes": [
+      "By appointment only.",
+      "Only for individuals with symptoms.",
+      "Free."
+    ],
+    "State": "California",
+    "Address": "43839 N. 15th Street West",
+    "City": "Lancaster",
+    "Zip": "93534",
+    "Phone": "(661) 945-5984",
+    "Website": "https://lacovidprod.service-now.com/rrs",
     "OnlineBooking": true,
     "DaysOfWeek": [
       "Friday",
@@ -281,29 +395,20 @@
       "Tuesday",
       "Wednesday"
     ],
-    "City": "Lancaster",
-    "NotesOther": "Addtional requirements: must be 65 or older OR have underlying health conditions",
-    "ClosesAt": "5PM",
-    "Zip": "93534",
-    "State": "California",
-    "Verified": true,
     "OpensAt": "9AM",
-    "Phone": "(661) 945-5984",
-    "Name": "High Desert Medical Group Office",
-    "Website": "https://lacovidprod.service-now.com/rrs",
-    "Notes": [
-      "By appointment only.",
-      "Only for individuals with symptoms.",
-      "Free."
-    ]
-  },
-  {
-    "Address": "1420 S Central Ave",
+    "ClosesAt": "5PM",
     "LocationType": [
       "Drive-thru"
     ],
-    "OnlineBooking": true,
-    "City": "Glendale",
+    "NotesOther": "Addtional requirements: must be 65 or older OR have underlying health conditions",
+    "Verified": true
+  },
+  {
+    "Name": "Glendale Memorial Hospital",
+    "Notes": [
+      "Requires doctor's referral.",
+      "Prioritizes first responders."
+    ],
     "Attachments": [
       {
         "id": "attIcuW9Fbs7aHtGB",
@@ -325,22 +430,28 @@
         }
       }
     ],
-    "NotesOther": "Download form to have your doctor order the test",
-    "Zip": "91204",
     "State": "California",
-    "Verified": true,
-    "Name": "Glendale Memorial Hospital",
+    "Address": "1420 S Central Ave",
+    "City": "Glendale",
+    "Zip": "91204",
     "Website": "https://lacovidprod.service-now.com/rrs",
-    "Notes": [
-      "Requires doctor's referral.",
-      "Prioritizes first responders."
-    ]
-  },
-  {
-    "Address": "18300 Roscoe Boulevard",
+    "OnlineBooking": true,
     "LocationType": [
       "Drive-thru"
     ],
+    "NotesOther": "Download form to have your doctor order the test",
+    "Verified": true
+  },
+  {
+    "Name": "Northridge Hospital Medical Center",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "California",
+    "Address": "18300 Roscoe Boulevard",
+    "City": "Northridge",
+    "Zip": "91328",
+    "Website": "https://lacovidprod.service-now.com/rrs",
     "OnlineBooking": true,
     "DaysOfWeek": [
       "Friday",
@@ -349,23 +460,24 @@
       "Tuesday",
       "Wednesday"
     ],
-    "City": "Northridge",
-    "ClosesAt": "4PM",
-    "Zip": "91328",
-    "State": "California",
-    "Verified": true,
     "OpensAt": "8AM",
-    "Name": "Northridge Hospital Medical Center",
-    "Website": "https://lacovidprod.service-now.com/rrs",
-    "Notes": [
-      "By appointment only."
-    ]
-  },
-  {
-    "Address": "11301 Wilshire Blvd",
+    "ClosesAt": "4PM",
     "LocationType": [
       "Drive-thru"
     ],
+    "Verified": true
+  },
+  {
+    "Name": "The West LA Veteran’s Administration Lot 15",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "California",
+    "Address": "11301 Wilshire Blvd",
+    "City": "Los Angeles",
+    "Zip": "90073",
+    "Phone": "310-478-3711",
+    "Website": "https://lacovidprod.service-now.com/rrs",
     "OnlineBooking": true,
     "DaysOfWeek": [
       "Sunday",
@@ -376,117 +488,117 @@
       "Friday",
       "Saturday"
     ],
-    "City": "Los Angeles",
-    "ClosesAt": "Open 24 hours",
-    "Zip": "90073",
-    "State": "California",
-    "Verified": true,
     "OpensAt": "Open 24 hours",
-    "Phone": "310-478-3711",
-    "Name": "The West LA Veteran’s Administration Lot 15",
-    "Website": "https://lacovidprod.service-now.com/rrs",
-    "Notes": [
-      "By appointment only."
-    ]
-  },
-  {
-    "Address": "7901 S. Vermont Avenue",
+    "ClosesAt": "Open 24 hours",
     "LocationType": [
       "Drive-thru"
     ],
-    "OnlineBooking": true,
+    "Verified": true
+  },
+  {
+    "Name": "Crenshaw Christian Center",
+    "Notes": [
+      "By appointment only.",
+      "Only for individuals with symptoms."
+    ],
+    "State": "California",
+    "Address": "7901 S. Vermont Avenue",
     "City": "Los Angeles",
     "Zip": "90044",
     "Neighborhood": "Crenshaw",
-    "State": "California",
-    "Verified": true,
-    "Name": "Crenshaw Christian Center",
     "Website": "https://lacovidprod.service-now.com/rrs",
-    "Notes": [
-      "By appointment only.",
-      "Only for individuals with symptoms."
-    ]
-  },
-  {
-    "Address": "1700 Stadium Way",
+    "OnlineBooking": true,
     "LocationType": [
       "Drive-thru"
     ],
-    "DaysOfWeek": [
-      "Monday"
-    ],
-    "City": "Los Angeles",
-    "NotesOther": "For LAFD employees and family members",
-    "ClosesAt": "Noon",
-    "Zip": "90012",
-    "State": "California",
-    "Verified": true,
-    "OpensAt": "9AM",
+    "Verified": true
+  },
+  {
     "Name": "Hotchkins Memorial Training Center",
-    "Website": "https://docs.google.com/forms/d/e/1FAIpQLScO3zt_Ktf9LWCzvXJeojr3QfbtSI58X969-IP4mQvcs3fC0w/viewform",
     "Notes": [
       "Only for individuals with symptoms.",
       "Employees only."
-    ]
-  },
-  {
-    "Address": "11798 Foothill Blvd",
+    ],
+    "State": "California",
+    "Address": "1700 Stadium Way",
+    "City": "Los Angeles",
+    "Zip": "90012",
+    "Website": "https://docs.google.com/forms/d/e/1FAIpQLScO3zt_Ktf9LWCzvXJeojr3QfbtSI58X969-IP4mQvcs3fC0w/viewform",
+    "DaysOfWeek": [
+      "Monday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "Noon",
     "LocationType": [
       "Drive-thru"
     ],
-    "OnlineBooking": true,
-    "City": "Lake View Terrace",
-    "Zip": "91342",
-    "Neighborhood": "Lake View Terrace",
-    "State": "California",
-    "Verified": true,
+    "NotesOther": "For LAFD employees and family members",
+    "Verified": true
+  },
+  {
     "Name": "Hansen Dam",
-    "Website": "https://lacovidprod.service-now.com/rrs",
     "Notes": [
       "By appointment only.",
       "Only for individuals with symptoms."
-    ]
-  },
-  {
-    "Address": "1233 Rancho Vista Blvd",
+    ],
+    "State": "California",
+    "Address": "11798 Foothill Blvd",
+    "City": "Lake View Terrace",
+    "Zip": "91342",
+    "Neighborhood": "Lake View Terrace",
+    "Website": "https://lacovidprod.service-now.com/rrs",
+    "OnlineBooking": true,
     "LocationType": [
       "Drive-thru"
     ],
-    "OnlineBooking": true,
-    "City": "Palmdale",
-    "ClosesAt": "4PM",
-    "Zip": "93551",
-    "State": "California",
-    "Verified": true,
-    "OpensAt": "9AM",
+    "Verified": true
+  },
+  {
     "Name": "The Antelope Valley Mall",
-    "Website": "https://corona-virus.la/",
     "Notes": [
       "By appointment only."
-    ]
-  },
-  {
-    "Address": "1815 Hawthorne Blvd",
+    ],
+    "State": "California",
+    "Address": "1233 Rancho Vista Blvd",
+    "City": "Palmdale",
+    "Zip": "93551",
+    "Website": "https://corona-virus.la/",
+    "OnlineBooking": true,
+    "OpensAt": "9AM",
+    "ClosesAt": "4PM",
     "LocationType": [
       "Drive-thru"
     ],
-    "OnlineBooking": true,
+    "Verified": true
+  },
+  {
+    "Name": "South Bay Galleria",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "California",
+    "Address": "1815 Hawthorne Blvd",
     "City": "Redondo Beach",
     "Zip": "90278",
-    "State": "California",
-    "Verified": true,
-    "OpensAt": "9AM",
-    "Name": "South Bay Galleria",
     "Website": "https://lacovidprod.service-now.com/rrs",
-    "Notes": [
-      "By appointment only."
-    ]
-  },
-  {
-    "Address": "1101 W McKinley Ave",
+    "OnlineBooking": true,
+    "OpensAt": "9AM",
     "LocationType": [
       "Drive-thru"
     ],
+    "Verified": true
+  },
+  {
+    "Name": "The Pomona Fairplex Gate 17",
+    "Notes": [
+      "By appointment only.",
+      "Limited test kits available."
+    ],
+    "State": "California",
+    "Address": "1101 W McKinley Ave",
+    "City": "Pomona",
+    "Zip": "91768",
+    "Website": "coronavirus.lacity.org/Testing",
     "OnlineBooking": true,
     "DaysOfWeek": [
       "Sunday",
@@ -497,51 +609,25 @@
       "Friday",
       "Saturday"
     ],
-    "City": "Pomona",
-    "NotesOther": "Only performing 200 tests a day",
-    "Zip": "91768",
-    "State": "California",
-    "Verified": true,
     "OpensAt": "9AM",
-    "Name": "The Pomona Fairplex Gate 17",
-    "Website": "coronavirus.lacity.org/Testing",
-    "Notes": [
-      "By appointment only.",
-      "Limited test kits available."
-    ]
-  },
-  {
-    "Address": "10680 Del Mar Parkway",
     "LocationType": [
       "Drive-thru"
     ],
-    "DaysOfWeek": [
-      "Friday",
-      "Monday",
-      "Thursday",
-      "Tuesday",
-      "Wednesday"
-    ],
-    "City": "Aurora",
-    "NotesOther": "Closes periodically due to lack of supplies. Please check website before going.",
-    "ClosesAt": "4PM",
-    "Zip": "80010",
-    "State": "Colorado",
-    "Verified": true,
-    "OpensAt": "9AM",
-    "Phone": "(303) 360-6276",
+    "NotesOther": "Only performing 200 tests a day",
+    "Verified": true
+  },
+  {
     "Name": "STRIDE CHC- Aurora Health & Wellness Plaza",
-    "Website": "https://stridechc.org/",
     "Notes": [
       "Free.",
       "Limited test kits available."
-    ]
-  },
-  {
-    "Address": "7495 W. 29th Avenue",
-    "LocationType": [
-      "Drive-thru"
     ],
+    "State": "Colorado",
+    "Address": "10680 Del Mar Parkway",
+    "City": "Aurora",
+    "Zip": "80010",
+    "Phone": "(303) 360-6276",
+    "Website": "https://stridechc.org/",
     "DaysOfWeek": [
       "Friday",
       "Monday",
@@ -549,31 +635,113 @@
       "Tuesday",
       "Wednesday"
     ],
-    "AltClosesAt": "1PM",
-    "City": "Wheat Ridge",
-    "AltOpensAt": "9AM",
-    "NotesOther": "Closes periodically due to lack of supplies. Please check website before going.",
+    "OpensAt": "9AM",
     "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Closes periodically due to lack of supplies. Please check website before going.",
+    "Verified": true
+  },
+  {
+    "Name": "STRIDE CHC- Jeffco Family Health Services Center ",
+    "Notes": [
+      "Free.",
+      "Limited test kits available."
+    ],
+    "State": "Colorado",
+    "Address": "7495 W. 29th Avenue",
+    "City": "Wheat Ridge",
     "Zip": "80033",
+    "Phone": "(303) 360-6276",
+    "Website": "https://stridechc.org/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "4PM",
     "AltDaysOfWeek": [
       "Saturday"
     ],
-    "State": "Colorado",
-    "Verified": true,
-    "OpensAt": "9AM",
-    "Phone": "(303) 360-6276",
-    "Name": "STRIDE CHC- Jeffco Family Health Services Center ",
-    "Website": "https://stridechc.org/",
-    "Notes": [
-      "Free.",
-      "Limited test kits available."
-    ]
-  },
-  {
-    "Address": "2240 Lyannough Rd",
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "1PM",
     "LocationType": [
       "Drive-thru"
     ],
+    "NotesOther": "Closes periodically due to lack of supplies. Please check website before going.",
+    "Verified": true
+  },
+  {
+    "Name": "Bridgeport Hospital",
+    "Notes": [
+      "Requires phone screen.",
+      "By appointment only."
+    ],
+    "State": "Connecticut",
+    "Address": "267 Grant Street",
+    "City": "Bridgeport",
+    "Zip": "06610",
+    "Phone": "203-384-3000",
+    "DaysOfWeek": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "OpensAt": "Open 24 hours",
+    "ClosesAt": "Open 24 hours",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "General questions about COVID-19: 833-275-9644",
+    "Verified": true
+  },
+  {
+    "Name": "Bristol Health",
+    "Notes": [
+      "Limited test kits available.",
+      "By appointment only.",
+      "Requires referral from a primary health provider."
+    ],
+    "State": "Connecticut",
+    "Address": "145 Queen St",
+    "City": "Bristol",
+    "Zip": "06010",
+    "Phone": "860-261-6855 ",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Only testing 40 people a day. Must bring valid ID, lab order, insurance card ",
+    "Verified": true
+  },
+  {
+    "Name": "Charlotte Hungerford Hospital",
+    "Notes": [
+      "Requires doctor's referral.",
+      "Requires phone screen."
+    ],
+    "State": "Connecticut",
+    "Address": "540 Litchfield Street",
+    "City": "Torrington",
+    "Zip": "06790",
+    "Phone": "860-972-8100",
     "DaysOfWeek": [
       "Friday",
       "Monday",
@@ -583,21 +751,261 @@
       "Tuesday",
       "Wednesday"
     ],
-    "City": "West Barnstable",
-    "NotesOther": "If you do not have a primary care provider, please call a Cape Cod Healthcare urgent care center or 508-862-5595 to reach their dedicated call center.",
-    "ClosesAt": "6PM",
-    "Zip": "02668",
-    "State": "Massachusetts",
-    "Verified": true,
     "OpensAt": "8AM",
+    "ClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Will receive results within 4 days",
+    "Verified": true
+  },
+  {
+    "Name": "Chesapeake College",
+    "Notes": [
+      "Requires doctor's referral."
+    ],
+    "State": "Maryland",
+    "Address": "1000 College Circle",
+    "City": "Wye Mills",
+    "Zip": "21679",
+    "Neighborhood": "Queen Anne's County",
+    "Phone": "443-262-9900 (M - F 8 AM - 4:30 PM)",
+    "Website": "https://www.chesapeake.edu/coronavirus",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Wednesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "2PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
     "Name": "Cape Cod Community College",
-    "Website": "https://www.capecodhealth.org/medical-services/infectious-disease/coronavirus/covid-19-testing-process/",
     "Notes": [
       "By appointment only.",
       "Requires referral from a primary health provider.",
       "Requires doctor's referral.",
       "For all members of the community.",
       "Other"
-    ]
+    ],
+    "State": "Massachusetts",
+    "Address": "2240 Lyannough Rd",
+    "City": "West Barnstable",
+    "Zip": "02668",
+    "Website": "https://www.capecodhealth.org/medical-services/infectious-disease/coronavirus/covid-19-testing-process/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "6PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "If you do not have a primary care provider, please call a Cape Cod Healthcare urgent care center or 508-862-5595 to reach their dedicated call center.",
+    "Verified": true
+  },
+  {
+    "Name": "County College of Morris",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Local residents only."
+    ],
+    "State": "New Jersey",
+    "Address": "Dover Chester Road, Parking Lot 1",
+    "City": "Randolph",
+    "Zip": "07869",
+    "Neighborhood": "Morris County",
+    "Website": "https://booknow.appointment-plus.com/b8hq2y7k/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Thursday"
+    ],
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Kean University",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Only for individuals with symptoms.",
+      "Local residents only.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "Requires phone screen."
+    ],
+    "State": "New Jersey",
+    "Address": "1000 Morris Ave",
+    "City": "Union",
+    "Zip": "07083",
+    "Neighborhood": "Union County",
+    "Phone": "908-373-5105 / 908-214-7107",
+    "Website": "https://ucnj.org/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "AltDaysOfWeek": [
+      "Saturday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "2PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Weequahik Park Drive",
+    "Notes": [
+      "By appointment only.",
+      "Local residents only."
+    ],
+    "State": "New Jersey",
+    "Address": "Elizabeth Ave & Meeker Ave",
+    "City": "Newark",
+    "Zip": "07112",
+    "Neighborhood": "Essex County",
+    "Website": "https://essexcovid.org",
+    "Closed": true,
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true,
+    "LastClosedUpdate": "2020-04-09"
+  },
+  {
+    "Name": "Jersey City",
+    "Notes": [
+      "By appointment only.",
+      "Local residents only."
+    ],
+    "State": "New Jersey",
+    "Address": "575 Route 440 ",
+    "City": "Jersey City",
+    "Zip": "07305",
+    "Neighborhood": "Jersey City",
+    "Phone": "201-547-5535",
+    "Website": "https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus",
+    "DaysOfWeek": [
+      "Friday"
+    ],
+    "OpensAt": "9AM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Hudson Regional Hospital ",
+    "Notes": [
+      "By appointment only.",
+      "Only for individuals with symptoms.",
+      "Local residents only.",
+      "Prioritizes first responders."
+    ],
+    "State": "New Jersey",
+    "Address": "55 Meadowlands Pkwy",
+    "City": "Secaucus",
+    "Zip": "07094",
+    "Neighborhood": "Hudson County",
+    "Phone": "(201) 392-3278",
+    "Website": "https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus",
+    "DaysOfWeek": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "OpensAt": "Open 24 hours",
+    "ClosesAt": "Open 24 hours",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Alexandria Immediate Care",
+    "Notes": [
+      "By appointment only.",
+      "For all members of the community.",
+      "Requires phone screen."
+    ],
+    "State": "Virginia",
+    "Address": "6020 Richmond Hwy",
+    "City": "Alexandria",
+    "Zip": "22303",
+    "Neighborhood": "Alexandria",
+    "Phone": "571-308-6776",
+    "Website": "https://allcarefamilymed.com/coronavirus",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "Noon",
+    "ClosesAt": "1:30PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Lorton Immediate Care",
+    "Notes": [
+      "By appointment only.",
+      "For all members of the community.",
+      "Requires phone screen."
+    ],
+    "State": "Virginia",
+    "Address": "7740 Gunston Plaza",
+    "City": "Lorton",
+    "Zip": "22079",
+    "Neighborhood": "Lorton",
+    "Phone": "703-339-5858",
+    "Website": "https://allcarefamilymed.com/coronavirus",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "Noon",
+    "ClosesAt": "1:30PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
   }
 ]

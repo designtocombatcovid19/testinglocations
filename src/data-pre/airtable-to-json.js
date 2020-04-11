@@ -90,7 +90,7 @@ function callToAction(location) {
   } else if (location.Closed) {
     ctaMessage = `${location.LastClosedUpdate} Closed.\nclosed: true`
   } else if (location.Website && location.OnlineBooking) {
-    ctaMessage = `Make an appointment\nctaUrl: "${location.Website.trim()}"`
+    ctaMessage = `Schedule a test\nctaUrl: "${location.Website.trim()}"`
   } else if (location.Website) {
     ctaMessage = `Learn more\nctaUrl: "${location.Website.trim()}"`
   } else if (location.Phone) {

@@ -13,7 +13,7 @@ buttonSecondUrl: /submit/
     <span class="w-auto justify-end items-center text-gray-900 pt-1 sm:pt-2">
       <svg fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd"></path></svg>
     </span>
-    <input class="search outline-none w-full rounded px-2 text-xl sm:text-2xl text-gray-900 " type="search" autocomplete="on" autocorrect="on" aria-label="Search by city or state in the USA." placeholder="Which state or city do you live in?">
+    <input class="search focus:outline-none focus:bg-gray-100 w-full rounded-sm px-2 text-l sm:text-2xl text-gray-900 " type="search" autocomplete="on" autocorrect="on" aria-label="Search by city or state in the USA." placeholder="Which city or state do you live in?">
   </div>
 
   <div class="flex">
@@ -28,7 +28,7 @@ buttonSecondUrl: /submit/
           </div>
 
           <div class="my-4 pl-10 pr-4 w-1/2 overflow-hidden sm:w-3/12">
-            <a href="{{ location.data.mapUrl }}"><address class="address not-italic"><span class="font-bold">{{ location.data.title }}</span><br/>{{ location.data.address }}<br/>{{ location.data.city }}, {{ location.data.stateAbbr }} {{ location.data.zip }}</address></a>
+            <a class="" href="{{ location.data.mapUrl }}"><address class="address not-italic"><span class="font-bold">{{ location.data.title }}</span><br/>{{ location.data.address }}<br/>{{ location.data.city }}, {{ location.data.stateAbbr }} {{ location.data.zip }}</address></a>
           </div>
 
           <div class="my-4 px-4 w-1/2 overflow-hidden sm:w-2/12">
@@ -47,7 +47,7 @@ buttonSecondUrl: /submit/
 
           <div class="my-4 pl-3 pr-4 w-1/2 overflow-hidden sm:w-2/12">
             {% if (location.data.ctaUrl) and (not location.data.closed) %}
-              <a class="learn-more" href="{{ location.data.ctaUrl }}">{{ location.data.ctaMessage }}</a>
+              <a class="learn-more border-b border-black hover:text-gray-700 hover:border-gray-700" href="{{ location.data.ctaUrl }}">{{ location.data.ctaMessage }}</a>
             {% elif (location.data.ctaUrl) and (location.data.closed) %}
               <a class="closed text-red-600" href="{{ location.data.ctaUrl }}">{{ location.data.ctaMessage }}</a>
             {% elif location.data.closed %}

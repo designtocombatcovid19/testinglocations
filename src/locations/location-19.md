@@ -1,22 +1,23 @@
 ---
 layout: base
-permalink: "locations/california/pomona/the-pomona-fairplex-gate-17/"
+permalink: "locations/california/los-angeles/hotchkins-memorial-training-center/"
 tags: locations
-title: The Pomona Fairplex Gate 17
+title: Hotchkins Memorial Training Center
 state: California
 stateAbbr: CA
-hood: Pomona
-address: 1101 W McKinley Ave
-city: Pomona
-zip: 91768
-mapUrl: "http://maps.apple.com/?q=The+Pomona+Fairplex+Gate+17&address=1101+W+McKinley+Ave,Pomona,California,91768"
+hood: Los Angeles
+address: 1700 Stadium Way
+city: Los Angeles
+zip: 90012
+mapUrl: "http://maps.apple.com/?q=Hotchkins+Memorial+Training+Center&address=1700+Stadium+Way,Los+Angeles,California,90012"
 locationType: Drive-thru
 phone: undefined
-website: coronavirus.lacity.org/Testing
-onlineBooking: true
-notes: "By appointment only. Limited test kits available."
-days: Hours unknown
-ctaMessage: Make an appointment
-ctaUrl: "coronavirus.lacity.org/Testing"
+website: https://docs.google.com/forms/d/e/1FAIpQLScO3zt_Ktf9LWCzvXJeojr3QfbtSI58X969-IP4mQvcs3fC0w/viewform
+onlineBooking: undefined
+notes: "Only for individuals with symptoms. Employees only."
+days: Mondays
+hours: 9AM-Noon
+ctaMessage: Learn more
+ctaUrl: "https://docs.google.com/forms/d/e/1FAIpQLScO3zt_Ktf9LWCzvXJeojr3QfbtSI58X969-IP4mQvcs3fC0w/viewform"
 ---
-## The Pomona Fairplex Gate 17
+## Hotchkins Memorial Training Center

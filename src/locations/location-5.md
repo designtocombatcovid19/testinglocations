@@ -1,23 +1,23 @@
 ---
 layout: base
-permalink: "locations/california/los-angeles/los-angeles-center-for-ear-nose-throat-and-allergy/"
+permalink: "locations/alabama/hoover/ross-bridge-medical-center/"
 tags: locations
-title: Los Angeles Center for Ear, Nose, Throat and Allergy
-state: California
-stateAbbr: CA
-hood: Huntington Park
-address: 1700 East Cesar E Chavez Avenue #2500
-city: Los Angeles
-zip: 90033
-mapUrl: "http://maps.apple.com/?q=Los+Angeles+Center+for+Ear+Nose+Throat+and+Allergy&address=1700+East+Cesar+E+Chavez+Avenue+2500,Los+Angeles,California,90033"
-locationType: Drive-thru
-phone:  323-375-1986
-website: https://www.coronavirustestingla.com/
+title: Ross Bridge Medical Center
+state: Alabama
+stateAbbr: AL
+hood: Hoover
+address: 3635 Market Street
+city: Hoover
+zip: 35226
+mapUrl: "http://maps.apple.com/?q=Ross+Bridge+Medical+Center&address=3635+Market+Street,Hoover,Alabama,35226"
+locationType: Walk-in
+phone: 205-494-7677
+website: https://www.rossbridgemedicalcenter.com/
 onlineBooking: true
-notes: "Privately owned."
-days: Everyday
-hours: 8AM-5PM
-ctaMessage: Make an appointment
-ctaUrl: "https://www.coronavirustestingla.com/"
+notes: "By appointment only."
+days: Weekdays
+hours: 9AM-4:30PM
+ctaMessage: Schedule a test
+ctaUrl: "https://www.rossbridgemedicalcenter.com/"
 ---
-## Los Angeles Center for Ear, Nose, Throat and Allergy
+## Ross Bridge Medical Center

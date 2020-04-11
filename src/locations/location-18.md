@@ -1,22 +1,22 @@
 ---
 layout: base
-permalink: "locations/california/redondo-beach/south-bay-galleria/"
+permalink: "locations/california/los-angeles/crenshaw-christian-center/"
 tags: locations
-title: South Bay Galleria
+title: Crenshaw Christian Center
 state: California
 stateAbbr: CA
-hood: Redondo Beach
-address: 1815 Hawthorne Blvd
-city: Redondo Beach
-zip: 90278
-mapUrl: "http://maps.apple.com/?q=South+Bay+Galleria&address=1815+Hawthorne+Blvd,Redondo+Beach,California,90278"
+hood: Crenshaw
+address: 7901 S. Vermont Avenue
+city: Los Angeles
+zip: 90044
+mapUrl: "http://maps.apple.com/?q=Crenshaw+Christian+Center&address=7901+S+Vermont+Avenue,Los+Angeles,California,90044"
 locationType: Drive-thru
 phone: undefined
 website: https://lacovidprod.service-now.com/rrs
 onlineBooking: true
-notes: "By appointment only."
+notes: "By appointment only. Only for individuals with symptoms."
 days: Hours unknown
-ctaMessage: Make an appointment
+ctaMessage: Schedule a test
 ctaUrl: "https://lacovidprod.service-now.com/rrs"
 ---
-## South Bay Galleria
+## Crenshaw Christian Center

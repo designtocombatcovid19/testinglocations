@@ -1,23 +1,23 @@
 ---
 layout: base
-permalink: "locations/california/indio/riverside-county-fairgrounds/"
+permalink: "locations/california/los-angeles/carbon-health/"
 tags: locations
-title: Riverside County Fairgrounds
+title: Carbon Health
 state: California
 stateAbbr: CA
-hood: Indio
-address: 46517 Arabia St
-city: Indio
-zip: 92201
-mapUrl: "http://maps.apple.com/?q=Riverside+County+Fairgrounds&address=46517+Arabia+St,Indio,California,92201"
-locationType: Drive-thru
-phone: 800-945-6171
-website: undefined
-onlineBooking: undefined
-notes: "Must have fever and other symptoms. By appointment only."
-days: ERROR
-hours: 9AM-3PM
-ctaMessage: Call 800-945-6171
-ctaUrl: "tel:800-945-6171"
+hood: Echo Park
+address: 2110 Sunset Blvd. Suite M
+city: Los Angeles
+zip: 90026
+mapUrl: "http://maps.apple.com/?q=Carbon+Health&address=2110+Sunset+Blvd+Suite+M,Los+Angeles,California,90026"
+locationType: Walk-in
+phone: undefined
+website: https://carbonhealth.com/echo-park
+onlineBooking: true
+notes: "Privately owned."
+days: Everyday
+hours: 9AM-7PM
+ctaMessage: Schedule a test
+ctaUrl: "https://carbonhealth.com/echo-park"
 ---
-## Riverside County Fairgrounds
+## Carbon Health

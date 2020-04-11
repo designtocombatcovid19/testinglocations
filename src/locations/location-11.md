@@ -1,22 +1,23 @@
 ---
 layout: base
-permalink: "locations/california/glendale/glendale-memorial-hospital/"
+permalink: "locations/california/indio/riverside-county-fairgrounds/"
 tags: locations
-title: Glendale Memorial Hospital
+title: Riverside County Fairgrounds
 state: California
 stateAbbr: CA
-hood: Glendale
-address: 1420 S Central Ave
-city: Glendale
-zip: 91204
-mapUrl: "http://maps.apple.com/?q=Glendale+Memorial+Hospital&address=1420+S+Central+Ave,Glendale,California,91204"
+hood: Indio
+address: 46517 Arabia St
+city: Indio
+zip: 92201
+mapUrl: "http://maps.apple.com/?q=Riverside+County+Fairgrounds&address=46517+Arabia+St,Indio,California,92201"
 locationType: Drive-thru
-phone: undefined
-website: https://lacovidprod.service-now.com/rrs
-onlineBooking: true
-notes: "Requires doctor's referral. Prioritizes first responders."
-days: Hours unknown
-ctaMessage: Make an appointment
-ctaUrl: "https://lacovidprod.service-now.com/rrs"
+phone: 800-945-6171
+website: undefined
+onlineBooking: undefined
+notes: "Must have fever and other symptoms. By appointment only."
+days: ERROR
+hours: 9AM-3PM
+ctaMessage: Call 800-945-6171
+ctaUrl: "tel:800-945-6171"
 ---
-## Glendale Memorial Hospital
+## Riverside County Fairgrounds

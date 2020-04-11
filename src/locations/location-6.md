@@ -1,22 +1,22 @@
 ---
 layout: base
-permalink: "locations/california/riverside/harvest-christian-fellowship-church/"
+permalink: "locations/alaska/anchorage/lake-otis-pkwy-and-e-42nd/"
 tags: locations
-title: Harvest Christian Fellowship Church
-state: California
-stateAbbr: CA
-hood: Riverside
-address: 6115 Arlington Ave
-city: Riverside
-zip: 92504
-mapUrl: "http://maps.apple.com/?q=Harvest+Christian+Fellowship+Church&address=6115+Arlington+Ave,Riverside,California,92504"
+title: Lake Otis Pkwy & E 42nd
+state: Alaska
+stateAbbr: AK
+hood: Anchorage
+address: corner of Lake Otis Parkway and East 42nd Avenue
+city: Anchorage
+zip: 99508
+mapUrl: "http://maps.apple.com/?q=Lake+Otis+Pkwy+and+E+42nd&address=corner+of+Lake+Otis+Parkway+and+East+42nd+Avenue,Anchorage,Alaska,99508"
 locationType: Drive-thru
-phone: 800-945-6171 
+phone: undefined
 website: undefined
 onlineBooking: undefined
-notes: "By appointment only. Only for individuals with symptoms. Open to all."
-days: Hours unknown
-ctaMessage: Call 800-945-6171 
-ctaUrl: "tel:800-945-6171"
+notes: "Free. Requires doctor's referral."
+days: Everyday
+hours: 9AM-7PM
+ctaMessage: No contact info available.
 ---
-## Harvest Christian Fellowship Church
+## Lake Otis Pkwy & E 42nd

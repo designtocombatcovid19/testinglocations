@@ -1,22 +1,23 @@
 ---
 layout: base
-permalink: "locations/california/los-angeles/crenshaw-christian-center/"
+permalink: "locations/california/lancaster/high-desert-medical-group-office/"
 tags: locations
-title: Crenshaw Christian Center
+title: High Desert Medical Group Office
 state: California
 stateAbbr: CA
-hood: Crenshaw
-address: 7901 S. Vermont Avenue
-city: Los Angeles
-zip: 90044
-mapUrl: "http://maps.apple.com/?q=Crenshaw+Christian+Center&address=7901+S+Vermont+Avenue,Los+Angeles,California,90044"
+hood: Lancaster
+address: 43839 N. 15th Street West
+city: Lancaster
+zip: 93534
+mapUrl: "http://maps.apple.com/?q=High+Desert+Medical+Group+Office&address=43839+N+15th+Street+West,Lancaster,California,93534"
 locationType: Drive-thru
-phone: undefined
+phone: (661) 945-5984
 website: https://lacovidprod.service-now.com/rrs
 onlineBooking: true
-notes: "By appointment only. Only for individuals with symptoms."
-days: Hours unknown
-ctaMessage: Make an appointment
+notes: "By appointment only. Only for individuals with symptoms. Free."
+days: ERROR
+hours: 9AM-5PM
+ctaMessage: Schedule a test
 ctaUrl: "https://lacovidprod.service-now.com/rrs"
 ---
-## Crenshaw Christian Center
+## High Desert Medical Group Office

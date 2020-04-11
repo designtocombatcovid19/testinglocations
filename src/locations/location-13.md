@@ -1,22 +1,22 @@
 ---
 layout: base
-permalink: "locations/california/los-angeles/the-west-la-veterans-administration-lot-15/"
+permalink: "locations/california/los-angeles/lincoln-park-recreation-center/"
 tags: locations
-title: The West LA Veteran’s Administration Lot 15
+title: Lincoln Park Recreation Center
 state: California
 stateAbbr: CA
-hood: Los Angeles
-address: 11301 Wilshire Blvd
+hood: Lincoln Heights
+address: 3501 Valley Blvd
 city: Los Angeles
-zip: 90073
-mapUrl: "http://maps.apple.com/?q=The+West+LA+Veterans+Administration+Lot+15&address=11301+Wilshire+Blvd,Los+Angeles,California,90073"
+zip: 90031
+mapUrl: "http://maps.apple.com/?q=Lincoln+Park+Recreation+Center&address=3501+Valley+Blvd,Los+Angeles,California,90031"
 locationType: Drive-thru
-phone: 310-478-3711
+phone: undefined
 website: https://lacovidprod.service-now.com/rrs
 onlineBooking: true
-notes: "By appointment only."
-days: Open 24/7
-ctaMessage: Make an appointment
+notes: "By appointment only. Free."
+days: Hours unknown
+ctaMessage: Schedule a test
 ctaUrl: "https://lacovidprod.service-now.com/rrs"
 ---
-## The West LA Veteran’s Administration Lot 15
+## Lincoln Park Recreation Center

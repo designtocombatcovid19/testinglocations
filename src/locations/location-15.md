@@ -1,23 +1,22 @@
 ---
 layout: base
-permalink: "locations/california/los-angeles/hotchkins-memorial-training-center/"
+permalink: "locations/california/glendale/glendale-memorial-hospital/"
 tags: locations
-title: Hotchkins Memorial Training Center
+title: Glendale Memorial Hospital
 state: California
 stateAbbr: CA
-hood: Los Angeles
-address: 1700 Stadium Way
-city: Los Angeles
-zip: 90012
-mapUrl: "http://maps.apple.com/?q=Hotchkins+Memorial+Training+Center&address=1700+Stadium+Way,Los+Angeles,California,90012"
+hood: Glendale
+address: 1420 S Central Ave
+city: Glendale
+zip: 91204
+mapUrl: "http://maps.apple.com/?q=Glendale+Memorial+Hospital&address=1420+S+Central+Ave,Glendale,California,91204"
 locationType: Drive-thru
 phone: undefined
-website: https://docs.google.com/forms/d/e/1FAIpQLScO3zt_Ktf9LWCzvXJeojr3QfbtSI58X969-IP4mQvcs3fC0w/viewform
-onlineBooking: undefined
-notes: "Only for individuals with symptoms. Employees only."
-days: Mondays
-hours: 9AM-Noon
-ctaMessage: Learn more
-ctaUrl: "https://docs.google.com/forms/d/e/1FAIpQLScO3zt_Ktf9LWCzvXJeojr3QfbtSI58X969-IP4mQvcs3fC0w/viewform"
+website: https://lacovidprod.service-now.com/rrs
+onlineBooking: true
+notes: "Requires doctor's referral. Prioritizes first responders."
+days: Hours unknown
+ctaMessage: Schedule a test
+ctaUrl: "https://lacovidprod.service-now.com/rrs"
 ---
-## Hotchkins Memorial Training Center
+## Glendale Memorial Hospital
