@@ -15,7 +15,7 @@ phone: 205-975-1881
 website: undefined
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 11th, 2020
+closedUpdate: April 12th, 2020
 notes: "By appointment only."
 days: Everyday
 hours: 9AM-1:30PM

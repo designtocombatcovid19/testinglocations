@@ -15,7 +15,7 @@ phone: 908-373-5105 / 908-214-7107
 website: https://ucnj.org/
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 11th, 2020
+closedUpdate: April 12th, 2020
 notes: "By appointment only. Requires doctor's referral. Only for individuals with symptoms. Local residents only. Prioritizes health care workers. Prioritizes first responders. Requires phone screen."
 days: Weekdays
 hours: 9AM-5PM

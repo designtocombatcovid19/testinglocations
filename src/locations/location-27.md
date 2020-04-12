@@ -15,9 +15,9 @@ phone: 860-261-6855
 website: undefined
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 11th, 2020
+closedUpdate: April 12th, 2020
 notes: "Limited test kits available. By appointment only. Requires referral from a primary health provider."
-days: ERROR
+days: M-Sat
 hours: 8AM-4PM
 ctaMessage: Call 860-261-6855 
 ctaUrl: "tel:860-261-6855"

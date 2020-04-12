@@ -15,7 +15,7 @@ phone: undefined
 website: https://booknow.appointment-plus.com/b8hq2y7k/
 onlineBooking: true
 closed: undefined
-closedUpdate: April 11th, 2020
+closedUpdate: April 12th, 2020
 notes: "By appointment only. Requires doctor's referral. Local residents only."
 days: Hours unknown
 ctaMessage: Schedule a test

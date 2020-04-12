@@ -15,7 +15,7 @@ phone: 877-696-3972
 website: undefined
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 11th, 2020
+closedUpdate: April 12th, 2020
 notes: "By appointment only."
 days: Open 24/7
 ctaMessage: Call 877-696-3972

@@ -15,7 +15,7 @@ phone: (201) 392-3278
 website: https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 11th, 2020
+closedUpdate: April 12th, 2020
 notes: "By appointment only. Only for individuals with symptoms. Local residents only. Prioritizes first responders."
 days: Open 24/7
 ctaMessage: Learn more
