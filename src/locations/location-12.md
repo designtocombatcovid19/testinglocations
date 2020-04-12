@@ -14,6 +14,8 @@ locationType: Drive-thru
 phone: 800-945-6171
 website: https://www.projectbaseline.com/study/covid-19/
 onlineBooking: true
+closed: undefined
+closedUpdate: April 11th, 2020
 notes: "By appointment only. Only for individuals with symptoms."
 days: ERROR
 hours: 9:30AM-3PM

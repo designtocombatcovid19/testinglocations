@@ -14,6 +14,8 @@ locationType: Drive-thru
 phone: undefined
 website: https://lacovidprod.service-now.com/rrs
 onlineBooking: true
+closed: undefined
+closedUpdate: April 11th, 2020
 notes: "Requires doctor's referral. Prioritizes first responders."
 days: Hours unknown
 ctaMessage: Schedule a test

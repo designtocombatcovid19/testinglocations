@@ -2,6 +2,7 @@ const slugify = require('slugify')
 const escapeStringRegexp = require("escape-string-regexp")
 const equals = require('shallow-equals')
 const statesTable = require('datasets-us-states-names-abbr')
+const moment = require('moment');
 const fs = require('fs')
 const dotenv = require('dotenv')
 dotenv.config()
@@ -67,6 +68,8 @@ locationType: ${location.LocationType}
 phone: ${location.Phone}
 website: ${location.Website}
 onlineBooking: ${location.OnlineBooking}
+closed: ${location.Closed}
+closedUpdate: ${moment(location.LastClosedUpdate).format('MMMM Do, YYYY')}
 notes: "${collectNotes(location)}"
 ${hoursOfOperation(location)}
 ctaMessage: ${ctaMessage}
@@ -85,11 +88,7 @@ function callToAction(location) {
     message: "",
     url: "",
   }
-  if (location.Closed && location.Website) {
-    ctaMessage = `${location.LastClosedUpdate} Closed.\nclosed: true\nctaUrl: "${location.Website.trim()}"`
-  } else if (location.Closed) {
-    ctaMessage = `${location.LastClosedUpdate} Closed.\nclosed: true`
-  } else if (location.Website && location.OnlineBooking) {
+  if (location.Website && location.OnlineBooking) {
     ctaMessage = `Schedule a test\nctaUrl: "${location.Website.trim()}"`
   } else if (location.Website) {
     ctaMessage = `Learn more\nctaUrl: "${location.Website.trim()}"`
@@ -175,7 +174,57 @@ function rangeDaysOfWeek(arr) {
   let friday = ["Friday"]
   let saturday = ["Saturday"]
   let mwf = ["Monday", "Wednesday","Friday"].sort()
-  let tt = ["Tuesday","Thursday"].sort()
+  let tuth = ["Tuesday","Thursday"].sort()
+  let mtu = ["Monday", "Tuesday"].sort()
+  let mtuw = ["Monday", "Tuesday", "Wednesday"].sort()
+  let mtuwth = ["Monday", "Tuesday", "Wednesday", "Thursday"].sort()
+  let mw = ["Monday", "Wednesday"].sort()
+  let mwth = ["Monday", "Wednesday", "Thursday"].sort()
+  let mwthf = ["Monday", "Wednesday", "Thursday", "Friday"].sort()
+  let mwthfsa = ["Monday", "Wednesday", "Thursday", "Friday", "Saturday"].sort()
+  let mthfsasu = ["Monday", "Thursday", "Friday", "Saturday", "Sunday"].sort()
+  let mfsasu = ["Monday", "Friday", "Saturday", "Sunday"].sort()
+  let msasu = ["Monday", "Saturday", "Sunday"].sort()
+  let msu = ["Monday", "Sunday"].sort()
+  let mth = ["Monday", "Thursday"].sort()
+  let mthf = ["Monday", "Thursday", "Friday"].sort()
+  let mthfsa = ["Monday", "Thursday", "Friday", "Saturday"].sort()
+  let mf = ["Monday", "Friday"].sort()
+  let mfsa = ["Monday", "Friday", "Saturday"].sort()
+  let msa = ["Monday", "Saturday"].sort()
+  let tuw = ["Tuesday", "Wednesday"].sort()
+  let tuwth = ["Tuesday", "Wednesday", "Thursday"].sort()
+  let tuwthf = ["Tuesday", "Wednesday", "Thursday", "Friday"].sort()
+  let tuwthfsa = ["Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"].sort()
+  let tuwthfsasu = ["Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"].sort()
+  let tuthfsasu = ["Tuesday", "Thursday", "Friday", "Saturday", "Sunday"].sort()
+  let tufsasu = ["Tuesday", "Friday", "Saturday", "Sunday"].sort()
+  let tusasu = ["Tuesday", "Saturday", "Sunday"].sort()
+  let tusu = ["Tuesday", "Sunday"].sort()
+  let tuthf = ["Tuesday", "Thursday", "Friday"].sort()
+  let tuthfsa = ["Tuesday", "Thursday", "Friday", "Saturday"].sort()
+  let tuf = ["Tuesday", "Friday"].sort()
+  let tufsa = ["Tuesday", "Friday", "Saturday"].sort()
+  let tusa = ["Tuesday", "Saturday"].sort()
+  let wth = ["Wednesday", "Thursday"].sort()
+  let wthf = ["Wednesday", "Thursday", "Friday"].sort()
+  let wthfsa = ["Wednesday", "Thursday", "Friday", "Saturday"].sort()
+  let wthfsasu = ["Wednesday", "Thursday", "Friday", "Saturday", "Sunday"].sort()
+  let wfsasu = ["Wednesday", "Friday", "Saturday", "Sunday"].sort()
+  let wsasu = ["Wednesday", "Saturday", "Sunday"].sort()
+  let wsu = ["Wednesday", "Sunday"].sort()
+  let wf = ["Wednesday", "Friday"].sort()
+  let wfsa = ["Wednesday", "Friday", "Saturday"].sort()
+  let wsa = ["Wednesday", "Saturday"].sort()
+  let thf = ["Thursday", "Friday"].sort()
+  let thfsa = ["Thursday", "Friday", "Saturday"].sort()
+  let thfsasu = ["Thursday", "Friday", "Saturday", "Sunday"].sort()
+  let thsasu = ["Thursday", "Saturday", "Sunday"].sort()
+  let thsu = ["Thursday", "Sunday"].sort()
+  let thsa = ["Thursday", "Saturday"].sort()
+  let fsa = ["Friday", "Saturday"].sort()
+  let fsasu = ["Friday", "Saturday", "Sunday"].sort()
+  let fsu = ["Friday", "Sunday"].sort()
 
   if (equals(days, all)) {
     range = "Everyday"
@@ -199,12 +248,96 @@ function rangeDaysOfWeek(arr) {
     range = "Saturdays"
   } else if (equals(days, mwf)) {
     range = "M, W, F"
-  } else if (equals(days, tt)) {
+  } else if (equals(days, tuth)) {
     range = "Tu, Th"
+  } else if (equals(days, mtu)) {
+    range = "M-Tu"
+  } else if (equals(days, mtuw)) {
+    range = "M, Tu, W"
+  } else if (equals(days, mtuwth)) {
+    range = "M, Tu, W, Th"
+  } else if (equals(days, mw)) {
+    range = "M, W"
+  } else if (equals(days, mwth)) {
+    range = "M, W, Th"
+  } else if (equals(days, mwthf)) {
+    range = "M, W, Th, F"
+  } else if (equals(days, mwthfsa)) {
+    range = "M, W, Th, F, Sat"
+  } else if (equals(days, mth)) {
+    range = "M, Th"
+  } else if (equals(days, mthf)) {
+    range = "M, Th, F"
+  } else if (equals(days, mthfsa)) {
+    range = "M, Th, F, Sat"
+  } else if (equals(days, mf)) {
+    range = "M, F"
+  } else if (equals(days, mfsa)) {
+    range = "M, F, Sat"
+  } else if (equals(days, msa)) {
+    range = "M, Sat"
+  } else if (equals(days, tuw)) {
+    range = "Tu-W"
+  } else if (equals(days, tuwth)) {
+    range = "Tu-Th"
+  } else if (equals(days, tuwthf)) {
+    range = "Tu-F"
+  } else if (equals(days, tuwthfsa)) {
+    range = "Tu-Sat"
+  } else if (equals(days, tuthf)) {
+    range = "Tu, Th, F"
+  } else if (equals(days, tuthfsa)) {
+    range = "Tu, Th, F, Sat"
+  } else if (equals(days, tuf)) {
+    range = "Tu, F"
+  } else if (equals(days, tufsa)) {
+    range = "Tu, F, Sat"
+  } else if (equals(days, tusa)) {
+    range = "Tu, Sat"
+  } else if (equals(days, wth)) {
+    range = "W-Th"
+  } else if (equals(days, wthf)) {
+    range = "W-F"
+  } else if (equals(days, wthfsa)) {
+    range = "W-Sat"
+  } else if (equals(days, wf)) {
+    range = "W, F"
+  } else if (equals(days, wfsa)) {
+    range = "W, F, Sat"
+  } else if (equals(days, wsa)) {
+    range = "W, Sat"
+  } else if (equals(days, thf)) {
+    range = "Th-F"
+  } else if (equals(days, thfsa)) {
+    range = "Th-Sat"
+  } else if (equals(days, thsa)) {
+    range = "Th, Sat"
+  // } else if (equals(days, )) {
+  //   range = ""
+
+  // let mthfsasu = ["Monday", "Thursday", "Friday", "Saturday", "Sunday"].sort()
+  // let mfsasu = ["Monday", "Friday", "Saturday", "Sunday"].sort()
+  // let msasu = ["Monday", "Saturday", "Sunday"].sort()
+  // let msu = ["Monday", "Sunday"].sort()
+  // let tuwthfsasu = ["Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"].sort()
+  // let tuthfsasu = ["Tuesday", "Thursday", "Friday", "Saturday", "Sunday"].sort()
+  // let tufsasu = ["Tuesday", "Friday", "Saturday", "Sunday"].sort()
+  // let tusasu = ["Tuesday", "Saturday", "Sunday"].sort()
+  // let tusu = ["Tuesday", "Sunday"].sort()
+  // let wthfsasu = ["Wednesday", "Thursday", "Friday", "Saturday", "Sunday"].sort()
+  // let wfsasu = ["Wednesday", "Friday", "Saturday", "Sunday"].sort()
+  // let wsasu = ["Wednesday", "Saturday", "Sunday"].sort()
+  // let wsu = ["Wednesday", "Sunday"].sort()
+  // let thfsasu = ["Thursday", "Friday", "Saturday", "Sunday"].sort()
+  // let thsasu = ["Thursday", "Saturday", "Sunday"].sort()
+  // let thsu = ["Thursday", "Sunday"].sort()
+  // let fsa = ["Friday", "Saturday"].sort()
+  // let fsasu = ["Friday", "Saturday", "Sunday"].sort()
+  // let fsu = ["Friday", "Sunday"].sort()
+
   } else {
-    range = "ERROR"
+    range = `ERROR`
   }
-  // TODOD: add remaining combos
   return range
 }
 

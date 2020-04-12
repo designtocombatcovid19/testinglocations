@@ -14,6 +14,8 @@ locationType: Drive-thru
 phone: (661) 945-5984
 website: https://lacovidprod.service-now.com/rrs
 onlineBooking: true
+closed: undefined
+closedUpdate: April 11th, 2020
 notes: "By appointment only. Only for individuals with symptoms. Free."
 days: ERROR
 hours: 9AM-5PM

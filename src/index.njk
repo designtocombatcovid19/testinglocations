@@ -32,26 +32,27 @@ buttonSecondUrl: /submit/
           </div>
 
           <div class="my-4 px-4 w-1/2 overflow-hidden sm:w-2/12">
-            <p class="location-type font-bold">{{ location.data.locationType }}</p>
-            <p class="days">{{ location.data.days }}</p>
+            <p class="days font-bold">{{ location.data.days }}</p>
             <p class="hours">{{ location.data.hours }}</p>
-            <p class="altDays">{{ location.data.altDays }}</p>
+            <p class="altDays font-bold">{{ location.data.altDays }}</p>
             <p class="altHours">{{ location.data.altHours }}</p>
-            <p class="alt2Days">{{ location.data.alt2Days }}</p>
+            <p class="alt2Days font-bold">{{ location.data.alt2Days }}</p>
             <p class="alt2Hours">{{ location.data.alt2Hours }}</p>
           </div>
 
           <div class="my-4 px-3 w-1/2 overflow-hidden sm:w-3/12">
-            <p class="notes">{{ location.data.notes }}</p>
+            {% if location.data.closed === true %}
+              <p class="closed text-red font-bold">CLOSED FOR TESTING</p>
+              <p class="closed text-red">Last updated {{ location.data.closedUpdate }}.</p>
+            {% else %}
+              <p class="location-type font-bold">{{ location.data.locationType }}</p>
+              <p class="notes">{{ location.data.notes }}</p>
+            {% endif%}
           </div>
 
           <div class="my-4 pl-3 pr-4 w-1/2 overflow-hidden sm:w-2/12">
-            {% if (location.data.ctaUrl) and (not location.data.closed) %}
+            {% if (location.data.ctaUrl) %}
               <a class="learn-more border-b border-black hover:text-gray-700 hover:border-gray-700" href="{{ location.data.ctaUrl }}">{{ location.data.ctaMessage }}</a>
-            {% elif (location.data.ctaUrl) and (location.data.closed) %}
-              <a class="closed text-red-600" href="{{ location.data.ctaUrl }}">{{ location.data.ctaMessage }}</a>
-            {% elif location.data.closed %}
-              <p class="closed text-red-600">{{ location.data.ctaMessage }}</p>
             {% else %}
               <p class="no-contact text-gray-600">{{ location.data.ctaMessage }}</p>
             {% endif%}

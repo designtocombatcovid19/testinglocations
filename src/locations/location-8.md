@@ -14,10 +14,11 @@ locationType: Walk-in
 phone: undefined
 website: undefined
 onlineBooking: undefined
+closed: true
+closedUpdate: April 6th, 2020
 notes: ""
 days: Weekdays
 hours: 8AM-4:30PM
-ctaMessage: 2020-04-06 Closed.
-closed: true
+ctaMessage: No contact info available.
 ---
 ## Curtis R. Tucker Public Health Center

@@ -14,6 +14,8 @@ locationType: Walk-in
 phone: 205-494-7677
 website: https://www.rossbridgemedicalcenter.com/
 onlineBooking: true
+closed: undefined
+closedUpdate: April 11th, 2020
 notes: "By appointment only."
 days: Weekdays
 hours: 9AM-4:30PM

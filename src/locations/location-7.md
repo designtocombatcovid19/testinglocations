@@ -14,6 +14,8 @@ locationType: Walk-in
 phone: undefined
 website: https://carbonhealth.com/echo-park
 onlineBooking: true
+closed: undefined
+closedUpdate: April 6th, 2020
 notes: "Privately owned."
 days: Everyday
 hours: 9AM-7PM

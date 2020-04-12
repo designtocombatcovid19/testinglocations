@@ -14,6 +14,8 @@ locationType: Drive-thru
 phone: 205-759-7111
 website: https://www.dchsystem.com/Articles/dch_to_offer_remote_screening_facility_for_coronavirus.aspx
 onlineBooking: undefined
+closed: undefined
+closedUpdate: April 11th, 2020
 notes: "Only for individuals with symptoms."
 days: Weekdays
 hours: 8AM-5PM

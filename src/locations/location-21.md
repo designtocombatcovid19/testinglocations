@@ -14,6 +14,8 @@ locationType: Drive-thru
 phone: undefined
 website: https://corona-virus.la/
 onlineBooking: true
+closed: undefined
+closedUpdate: April 11th, 2020
 notes: "By appointment only."
 days: Hours unknown
 ctaMessage: Schedule a test

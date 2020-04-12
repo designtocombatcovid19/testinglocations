@@ -14,6 +14,8 @@ locationType: Drive-thru
 phone: 800-945-6171 
 website: undefined
 onlineBooking: undefined
+closed: undefined
+closedUpdate: April 11th, 2020
 notes: "By appointment only. Only for individuals with symptoms. Open to all."
 days: Hours unknown
 ctaMessage: Call 800-945-6171 
