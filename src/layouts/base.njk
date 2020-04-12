@@ -24,6 +24,8 @@
     {%- else -%}
       {% include "header.njk"%}
     {%- endif -%}
+
+    {% include "self-test-notice.njk" %}
     <main class="flex-grow">
       {{ content | safe }}
     </main>
