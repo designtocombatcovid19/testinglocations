@@ -95,7 +95,8 @@ if ('serviceWorker' in navigator) {
       worker.addEventListener('statechange', () => {
         if (worker.state === 'installed') {
           if (!isInitialInstall) {
-            showNewVersionNotice()
+            // showNewVersionNotice()
+            reg.installing
           }
         }
       })
