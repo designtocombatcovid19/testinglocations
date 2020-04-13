@@ -4,7 +4,7 @@ const util = require('util')
 
 module.exports = {
   dateToFormat: function (date, format) {
-    return DateTime.fromJSDate(date, { zone: 'utc' }).toFormat(String(format))
+    return DateTime.fromJSDate(date, { zone: 'America/Los_Angeles' }).toFormat(String(format))
   },
 
   dateToISO: function (date) {
