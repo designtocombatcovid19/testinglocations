@@ -8,7 +8,7 @@ module.exports = {
         './src/**/*.njk',
         './src/*.njk'
       ],
-      defaultExtractor: content => content.match(/[\w-/:]+(?<!:)/g) || []
+      defaultExtractor: content => content.match(/[\w-/:.]+(?<!:)/g) || []
     })
   ]
 };

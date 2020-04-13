@@ -1,25 +1,25 @@
 ---
 layout: base
-permalink: "locations/maryland/wye-mills/chesapeake-college/"
+permalink: "locations/maryland/ellicot-city/allcare-of-ellicot-city/"
 tags: locations
-title: Chesapeake College
+title: AllCare of Ellicot City
 state: Maryland
 stateAbbr: MD
-hood: Queen Anne's County
-address: 1000 College Circle
-city: Wye Mills
-zip: 21679
-mapUrl: "http://maps.apple.com/?q=Chesapeake+College&address=1000+College+Circle,Wye+Mills,Maryland,21679"
+hood: Ellicot City
+address: 9396 Baltimore National Pike
+city: Ellicot City
+zip: 21042
+mapUrl: "http://maps.apple.com/?q=AllCare+of+Ellicot+City&address=9396+Baltimore+National+Pike,Ellicot+City,Maryland,21042"
 locationType: Drive-thru
-phone: 443-262-9900 (M - F 8 AM - 4:30 PM)
-website: https://www.chesapeake.edu/coronavirus
-onlineBooking: undefined
+phone: 410-480-9110
+website: https://allcarefamilymed.com/coronavirus
+onlineBooking: true
 closed: undefined
-closedUpdate: April 12th, 2020
-notes: "Requires doctor's referral."
-days: M, W, F
-hours: 10AM-2PM
-ctaMessage: Learn more
-ctaUrl: "https://www.chesapeake.edu/coronavirus"
+closedUpdate: April 13th, 2020
+notes: "By appointment only. For all members of the community. Requires phone screen."
+days: Everyday
+hours: Noon-1PM
+ctaMessage: Schedule a test
+ctaUrl: "https://allcarefamilymed.com/coronavirus"
 ---
-## Chesapeake College
+## AllCare of Ellicot City

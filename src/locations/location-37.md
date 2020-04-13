@@ -1,25 +1,24 @@
 ---
 layout: base
-permalink: "locations/virginia/lorton/lorton-immediate-care/"
+permalink: "locations/missouri/brookfield/pershing-memorial-hospital/"
 tags: locations
-title: Lorton Immediate Care
-state: Virginia
-stateAbbr: VA
-hood: Lorton
-address: 7740 Gunston Plaza
-city: Lorton
-zip: 22079
-mapUrl: "http://maps.apple.com/?q=Lorton+Immediate+Care&address=7740+Gunston+Plaza,Lorton,Virginia,22079"
-locationType: Drive-thru
-phone: 703-339-5858
-website: https://allcarefamilymed.com/coronavirus
-onlineBooking: true
+title: Pershing Memorial Hospital 
+state: Missouri
+stateAbbr: MO
+hood: Brookfield
+address: 130 E Lockling Ave
+city: Brookfield
+zip: 64628
+mapUrl: "http://maps.apple.com/?q=Pershing+Memorial+Hospital&address=130+E+Lockling+Ave,Brookfield,Missouri,64628"
+locationType: undefined
+phone: 660-258-2222
+website: http://www.phsmo.org/
+onlineBooking: undefined
 closed: undefined
-closedUpdate: April 12th, 2020
-notes: "By appointment only. For all members of the community. Requires phone screen."
-days: Everyday
-hours: Noon-1:30PM
-ctaMessage: Schedule a test
-ctaUrl: "https://allcarefamilymed.com/coronavirus"
+closedUpdate: April 13th, 2020
+notes: "By appointment only. Only for individuals with symptoms. Requires phone screen."
+days: Hours unknown
+ctaMessage: Learn more
+ctaUrl: "http://www.phsmo.org/"
 ---
-## Lorton Immediate Care
+## Pershing Memorial Hospital 

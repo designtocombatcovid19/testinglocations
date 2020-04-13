@@ -1,19 +1,17 @@
 <div class="bg-blue">
   <div class="px-3 py-3 mx-auto sm:px-6 lg:px-16">
     <div class="flex flex-wrap">
-      <div class="flex flex-1">
-        <span class="flex text-xl italic font-normal tracking-wide">
-          <p>Updated {{ build.timestamp | dateToFormat("LL/dd/yy") }}</p>
+      <span class="ml-5 w-full xl:w-2/12 xl:text-xl italic font-normal tracking-wide">
+        <p>Updated {{ build.timestamp | dateToFormat("LL/dd/yy") }}</p>
+      </span>
+      <p class="ml-5">
+        <span class="md:hidden">
+          <a class="border-b" href="https://www.apple.com/covid19/">Screen yourself</a> before making an appointment to get tested.
         </span>
-        <p class="ml-16">
-          <span class="md:hidden">
-            <a class="border-b" href="https://www.apple.com/covid19/">Screen yourself</a> before making an appointment to get tested.
-          </span>
-          <span class="hidden text-xl font-normal tracking-wider md:inline">
-            Testing situations change daily. <a class="border-b border-black" href="https://www.apple.com/covid19/">Screen yourself</a> before making an appointment to get tested.
-          </span>
-        </p>
-      </div>
+        <span class="hidden xl:w-10/12 text-xl font-normal tracking-wider md:inline">
+          Testing situations change daily. <a class="border-b border-black" href="https://www.apple.com/covid19/">Screen yourself</a> before making an appointment to get tested.
+        </span>
+      </p>
     </div>
   </div>
 </div>

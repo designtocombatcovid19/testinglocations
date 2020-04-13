@@ -9,6 +9,7 @@ module.exports = {
         red: '#f60033'
       },
       fontSize: {
+        '1.5xl': '1.35rem',
         '7xl': '5rem',
       }
     }

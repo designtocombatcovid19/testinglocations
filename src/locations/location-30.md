@@ -1,25 +1,25 @@
 ---
 layout: base
-permalink: "locations/massachusetts/west-barnstable/cape-cod-community-college/"
+permalink: "locations/maryland/bethesda/allcare-glen-echo/"
 tags: locations
-title: Cape Cod Community College
-state: Massachusetts
-stateAbbr: MA
-hood: West Barnstable
-address: 2240 Lyannough Rd
-city: West Barnstable
-zip: 02668
-mapUrl: "http://maps.apple.com/?q=Cape+Cod+Community+College&address=2240+Lyannough+Rd,West+Barnstable,Massachusetts,02668"
+title: AllCare - Glen Echo
+state: Maryland
+stateAbbr: MD
+hood: Bethesda
+address: 7307 Macarthur Blvd
+city: Bethesda
+zip: 20816
+mapUrl: "http://maps.apple.com/?q=AllCare+-+Glen+Echo&address=7307+Macarthur+Blvd,Bethesda,Maryland,20816"
 locationType: Drive-thru
-phone: undefined
-website: https://www.capecodhealth.org/medical-services/infectious-disease/coronavirus/covid-19-testing-process/
-onlineBooking: undefined
+phone: 301-825-8880
+website: https://allcarefamilymed.com/coronavirus
+onlineBooking: true
 closed: undefined
-closedUpdate: April 12th, 2020
-notes: "By appointment only. Requires referral from a primary health provider. Requires doctor's referral. For all members of the community."
+closedUpdate: April 13th, 2020
+notes: "By appointment only. For all members of the community. Requires phone screen."
 days: Everyday
-hours: 8AM-6PM
-ctaMessage: Learn more
-ctaUrl: "https://www.capecodhealth.org/medical-services/infectious-disease/coronavirus/covid-19-testing-process/"
+hours: Noon-1PM
+ctaMessage: Schedule a test
+ctaUrl: "https://allcarefamilymed.com/coronavirus"
 ---
-## Cape Cod Community College
+## AllCare - Glen Echo

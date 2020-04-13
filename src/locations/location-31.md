@@ -1,24 +1,24 @@
 ---
 layout: base
-permalink: "locations/new-jersey/randolph/county-college-of-morris/"
+permalink: "locations/maryland/gambrills/chesapeake-ergent-care/"
 tags: locations
-title: County College of Morris
-state: New Jersey
-stateAbbr: NJ
-hood: Morris County
-address: Dover Chester Road, Parking Lot 1
-city: Randolph
-zip: 07869
-mapUrl: "http://maps.apple.com/?q=County+College+of+Morris&address=Dover+Chester+Road+Parking+Lot+1,Randolph,New+Jersey,07869"
+title: Chesapeake ERgent Care
+state: Maryland
+stateAbbr: MD
+hood: Gambrills
+address: 1071 MD-3 North, Suite 101
+city: Gambrills
+zip: 21054
+mapUrl: "http://maps.apple.com/?q=Chesapeake+ERgent+Care&address=1071+MD-3+North+Suite+101,Gambrills,Maryland,21054"
 locationType: Drive-thru
-phone: undefined
-website: https://booknow.appointment-plus.com/b8hq2y7k/
+phone: 410-721-2333
+website: https://www.chesapeakeergentcare.com/
 onlineBooking: true
 closed: undefined
-closedUpdate: April 12th, 2020
-notes: "By appointment only. Requires doctor's referral. Local residents only."
+closedUpdate: April 13th, 2020
+notes: "By appointment only. Requires doctor's referral."
 days: Hours unknown
 ctaMessage: Schedule a test
-ctaUrl: "https://booknow.appointment-plus.com/b8hq2y7k/"
+ctaUrl: "https://www.chesapeakeergentcare.com/"
 ---
-## County College of Morris
+## Chesapeake ERgent Care

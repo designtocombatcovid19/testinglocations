@@ -15,7 +15,7 @@ phone: 256-235-5600
 website: undefined
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 12th, 2020
+closedUpdate: April 13th, 2020
 notes: "Requires referral from a primary health provider. Requires doctor's referral."
 days: Weekdays
 hours: 8:30AM-4:30PM

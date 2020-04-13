@@ -1,27 +1,25 @@
 ---
 layout: base
-permalink: "locations/new-jersey/union/kean-university/"
+permalink: "locations/maryland/wye-mills/chesapeake-college/"
 tags: locations
-title: Kean University
-state: New Jersey
-stateAbbr: NJ
-hood: Union County
-address: 1000 Morris Ave
-city: Union
-zip: 07083
-mapUrl: "http://maps.apple.com/?q=Kean+University&address=1000+Morris+Ave,Union,New+Jersey,07083"
+title: Chesapeake College
+state: Maryland
+stateAbbr: MD
+hood: Queen Anne's County
+address: 1000 College Circle
+city: Wye Mills
+zip: 21679
+mapUrl: "http://maps.apple.com/?q=Chesapeake+College&address=1000+College+Circle,Wye+Mills,Maryland,21679"
 locationType: Drive-thru
-phone: 908-373-5105 / 908-214-7107
-website: https://ucnj.org/
+phone: 443-262-9900 (M - F 8 AM - 4:30 PM)
+website: https://www.chesapeake.edu/coronavirus
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 12th, 2020
-notes: "By appointment only. Requires doctor's referral. Only for individuals with symptoms. Local residents only. Prioritizes health care workers. Prioritizes first responders. Requires phone screen."
-days: Weekdays
-hours: 9AM-5PM
-altDays: Saturdays
-altHours: 9AM-2PM
+closedUpdate: April 13th, 2020
+notes: "Requires doctor's referral."
+days: M, W, F
+hours: 10AM-2PM
 ctaMessage: Learn more
-ctaUrl: "https://ucnj.org/"
+ctaUrl: "https://www.chesapeake.edu/coronavirus"
 ---
-## Kean University
+## Chesapeake College

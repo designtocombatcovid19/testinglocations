@@ -20,14 +20,14 @@ buttonSecondUrl: /submit/
     <div class="pt-4 xl:pt-24 list">
 
       {%- for location in collections.locations -%}
-        <div class="flex flex-wrap px-12 -mx-4 overflow-hidden text-2xl font-light border-b border-gray-500 border-dashed xl:px-16 xl:py-3">
+        <div class="flex flex-wrap px-12 -mx-4 overflow-hidden text-1.5xl font-light border-b border-gray-500 border-dashed xl:px-16 xl:py-4">
           <div class="w-1/2 pl-4 pr-3 my-4 overflow-hidden sm:w-2/12">
             <p class="font-medium state">{{ location.data.state }}</p>
             <p class="hood">{{ location.data.hood }}</p>
             <p class="hidden city" aria-hidden="true">{{ location.data.city }}</p>
           </div>
 
-          <div class="w-1/2 pl-10 pr-4 my-4 overflow-hidden sm:w-3/12">
+          <div class="w-1/2 pr-4 my-4 overflow-hidden sm:w-3/12">
             <a class="" href="{{ location.data.mapUrl }}"><address class="not-italic address"><span class="font-medium">{{ location.data.title }}</span><br/>{{ location.data.address }}<br/>{{ location.data.city }}, {{ location.data.stateAbbr }} {{ location.data.zip }}</address></a>
           </div>
 

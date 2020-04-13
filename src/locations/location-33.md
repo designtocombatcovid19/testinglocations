@@ -1,24 +1,25 @@
 ---
 layout: base
-permalink: "locations/new-jersey/newark/weequahik-park-drive/"
+permalink: "locations/massachusetts/west-barnstable/cape-cod-community-college/"
 tags: locations
-title: Weequahik Park Drive
-state: New Jersey
-stateAbbr: NJ
-hood: Essex County
-address: Elizabeth Ave & Meeker Ave
-city: Newark
-zip: 07112
-mapUrl: "http://maps.apple.com/?q=Weequahik+Park+Drive&address=Elizabeth+Ave+and+Meeker+Ave,Newark,New+Jersey,07112"
+title: Cape Cod Community College
+state: Massachusetts
+stateAbbr: MA
+hood: West Barnstable
+address: 2240 Lyannough Rd
+city: West Barnstable
+zip: 02668
+mapUrl: "http://maps.apple.com/?q=Cape+Cod+Community+College&address=2240+Lyannough+Rd,West+Barnstable,Massachusetts,02668"
 locationType: Drive-thru
 phone: undefined
-website: https://essexcovid.org
+website: https://www.capecodhealth.org/medical-services/infectious-disease/coronavirus/covid-19-testing-process/
 onlineBooking: undefined
-closed: true
-closedUpdate: April 9th, 2020
-notes: "By appointment only. Local residents only."
-days: Hours unknown
+closed: undefined
+closedUpdate: April 13th, 2020
+notes: "By appointment only. Requires referral from a primary health provider. Requires doctor's referral. For all members of the community."
+days: Everyday
+hours: 8AM-6PM
 ctaMessage: Learn more
-ctaUrl: "https://essexcovid.org"
+ctaUrl: "https://www.capecodhealth.org/medical-services/infectious-disease/coronavirus/covid-19-testing-process/"
 ---
-## Weequahik Park Drive
+## Cape Cod Community College

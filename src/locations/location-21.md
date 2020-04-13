@@ -15,7 +15,7 @@ phone: undefined
 website: https://corona-virus.la/
 onlineBooking: true
 closed: undefined
-closedUpdate: April 12th, 2020
+closedUpdate: April 13th, 2020
 notes: "By appointment only."
 days: Hours unknown
 ctaMessage: Schedule a test

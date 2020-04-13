@@ -1,24 +1,24 @@
 ---
 layout: base
-permalink: "locations/new-jersey/secaucus/hudson-regional-hospital/"
+permalink: "locations/missouri/bolivar/citizens-memorial-hospital/"
 tags: locations
-title: Hudson Regional Hospital 
-state: New Jersey
-stateAbbr: NJ
-hood: Hudson County
-address: 55 Meadowlands Pkwy
-city: Secaucus
-zip: 07094
-mapUrl: "http://maps.apple.com/?q=Hudson+Regional+Hospital&address=55+Meadowlands+Pkwy,Secaucus,New+Jersey,07094"
-locationType: Drive-thru
-phone: (201) 392-3278
-website: https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus
+title: Citizens Memorial Hospital 
+state: Missouri
+stateAbbr: MO
+hood: Bolivar
+address: 1500 North Oakland Ave.
+city: Bolivar
+zip: 65613
+mapUrl: "http://maps.apple.com/?q=Citizens+Memorial+Hospital&address=1500+North+Oakland+Ave,Bolivar,Missouri,65613"
+locationType: undefined
+phone: 417-328-4300
+website: https://www.citizensmemorial.com/
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 12th, 2020
-notes: "By appointment only. Only for individuals with symptoms. Local residents only. Prioritizes first responders."
-days: Open 24/7
+closedUpdate: April 13th, 2020
+notes: "By appointment only. Requires phone screen."
+days: Hours unknown
 ctaMessage: Learn more
-ctaUrl: "https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus"
+ctaUrl: "https://www.citizensmemorial.com/"
 ---
-## Hudson Regional Hospital 
+## Citizens Memorial Hospital 
