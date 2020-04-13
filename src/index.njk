@@ -9,52 +9,52 @@ buttonSecondUrl: /submit/
 ---
 
 <div id="testing-list">
-  <div class="bg-white mx-8 sm:mx-12 pt-10 pb-2 flex border-b">
-    <span class="w-auto justify-end items-center text-gray-900 pt-1 sm:pt-2">
-      <svg fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd"></path></svg>
+  <div class="flex pt-10 pb-2 mx-8 bg-white border-b-2 border-gray-300 xl:pt-20 xl:pb-0 sm:mx-12 xl:mx-16">
+    <span class="items-center justify-end w-auto pt-1 sm:pt-2 xl:pt-12 xl:pl-8">
+      <svg width="32" height="43" xmlns="http://www.w3.org/2000/svg"><g stroke="#272727" stroke-width="2" fill="none" fill-rule="evenodd"><circle cx="14.452" cy="14.452" r="13.452"/><path d="M22.898 26.502l8.358 10.929"/></g></svg>
     </span>
-    <input class="search focus:outline-none focus:bg-gray-100 w-full rounded-sm px-2 text-l sm:text-2xl text-gray-900 " type="search" autocomplete="on" autocorrect="on" aria-label="Search by city or state in the USA." placeholder="Which city or state do you live in?">
+    <input class="w-full px-2 font-thin rounded-sm search focus:outline-none focus:bg-gray-100 xl:pl-10 text-l sm:text-2xl xl:text-7xl xl:tracking-wide" type="search" autocomplete="on" autocorrect="on" aria-label="Search by city or state in the USA." placeholder="Which city or state do you live in?">
   </div>
 
   <div class="flex">
-    <div class="list pt-4">
+    <div class="pt-4 xl:pt-24 list">
 
       {%- for location in collections.locations -%}
-        <div class="flex flex-wrap -mx-4 overflow-hidden px-12 border-b border-dashed border-gray-500">
-          <div class="my-4 pl-4 pr-3 w-1/2 overflow-hidden sm:w-2/12">
-            <p class="state font-bold">{{ location.data.state }}</p>
-            <p class="hood font-normal">{{ location.data.hood }}</p>
-            <p class="city hidden" aria-hidden="true">{{ location.data.city }}</p>
+        <div class="flex flex-wrap px-12 -mx-4 overflow-hidden text-2xl font-light border-b border-gray-500 border-dashed xl:px-16 xl:py-3">
+          <div class="w-1/2 pl-4 pr-3 my-4 overflow-hidden sm:w-2/12">
+            <p class="font-medium state">{{ location.data.state }}</p>
+            <p class="hood">{{ location.data.hood }}</p>
+            <p class="hidden city" aria-hidden="true">{{ location.data.city }}</p>
           </div>
 
-          <div class="my-4 pl-10 pr-4 w-1/2 overflow-hidden sm:w-3/12">
-            <a class="" href="{{ location.data.mapUrl }}"><address class="address not-italic"><span class="font-bold">{{ location.data.title }}</span><br/>{{ location.data.address }}<br/>{{ location.data.city }}, {{ location.data.stateAbbr }} {{ location.data.zip }}</address></a>
+          <div class="w-1/2 pl-10 pr-4 my-4 overflow-hidden sm:w-3/12">
+            <a class="" href="{{ location.data.mapUrl }}"><address class="not-italic address"><span class="font-medium">{{ location.data.title }}</span><br/>{{ location.data.address }}<br/>{{ location.data.city }}, {{ location.data.stateAbbr }} {{ location.data.zip }}</address></a>
           </div>
 
-          <div class="my-4 px-4 w-1/2 overflow-hidden sm:w-2/12">
-            <p class="days font-bold">{{ location.data.days }}</p>
+          <div class="w-1/2 px-4 my-4 overflow-hidden sm:w-2/12">
+            <p class="font-medium days">{{ location.data.days }}</p>
             <p class="hours">{{ location.data.hours }}</p>
-            <p class="altDays font-bold">{{ location.data.altDays }}</p>
+            <p class="font-medium altDays">{{ location.data.altDays }}</p>
             <p class="altHours">{{ location.data.altHours }}</p>
-            <p class="alt2Days font-bold">{{ location.data.alt2Days }}</p>
+            <p class="font-medium alt2Days">{{ location.data.alt2Days }}</p>
             <p class="alt2Hours">{{ location.data.alt2Hours }}</p>
           </div>
 
-          <div class="my-4 px-3 w-1/2 overflow-hidden sm:w-3/12">
+          <div class="w-1/2 px-3 my-4 overflow-hidden sm:w-3/12">
             {% if location.data.closed === true %}
-              <p class="closed text-red font-bold">CLOSED FOR TESTING</p>
+              <p class="font-medium closed text-red">CLOSED FOR TESTING</p>
               <p class="closed text-red">Last updated {{ location.data.closedUpdate }}.</p>
             {% else %}
-              <p class="location-type font-bold">{{ location.data.locationType }}</p>
+              <p class="font-medium location-type">{{ location.data.locationType }}</p>
               <p class="notes">{{ location.data.notes }}</p>
             {% endif%}
           </div>
 
-          <div class="my-4 pl-3 pr-4 w-1/2 overflow-hidden sm:w-2/12">
+          <div class="w-1/2 pl-3 pr-4 my-4 overflow-hidden sm:w-2/12">
             {% if (location.data.ctaUrl) %}
-              <a class="learn-more border-b border-black hover:text-gray-700 hover:border-gray-700" href="{{ location.data.ctaUrl }}">{{ location.data.ctaMessage }}</a>
+              <a class="border-b border-black learn-more hover:text-gray-700 hover:border-gray-700" href="{{ location.data.ctaUrl }}">{{ location.data.ctaMessage }}</a>
             {% else %}
-              <p class="no-contact text-gray-600">{{ location.data.ctaMessage }}</p>
+              <p class="text-gray-600 no-contact">{{ location.data.ctaMessage }}</p>
             {% endif%}
           </div>
         </div>
