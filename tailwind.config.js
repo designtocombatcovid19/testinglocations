@@ -11,7 +11,10 @@ module.exports = {
       fontSize: {
         '1.5xl': '1.35rem',
         '7xl': '5rem',
-      }
+      },
+      // screens: {
+      //   'lg': '1150px',
+      // }
     }
   },
   variants: {},
