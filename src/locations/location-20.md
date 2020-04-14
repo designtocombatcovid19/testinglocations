@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/california/palmdale/the-antelope-valley-mall/"
-tags: locations
+tags:
+  - locations
+  - california
 title: The Antelope Valley Mall
 state: California
 stateAbbr: CA

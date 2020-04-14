@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/maryland/wye-mills/chesapeake-college/"
-tags: locations
+tags:
+  - locations
+  - maryland
 title: Chesapeake College
 state: Maryland
 stateAbbr: MD

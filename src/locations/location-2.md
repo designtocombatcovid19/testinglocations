@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/alabama/birmingham/the-university-of-alabama-hospital/"
-tags: locations
+tags:
+  - locations
+  - alabama
 title: The University of Alabama Hospital
 state: Alabama
 stateAbbr: AL

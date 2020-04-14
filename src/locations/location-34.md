@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/missouri/blue-springs/saint-lukes-hospital/"
-tags: locations
+tags:
+  - locations
+  - missouri
 title: Saint Luke's Hospital
 state: Missouri
 stateAbbr: MO

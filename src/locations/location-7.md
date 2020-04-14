@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/california/glendale/glendale-memorial-hospital/"
-tags: locations
+tags:
+  - locations
+  - california
 title: Glendale Memorial Hospital
 state: California
 stateAbbr: CA

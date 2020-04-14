@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/missouri/branson/ozark-valley-medical-clinic/"
-tags: locations
+tags:
+  - locations
+  - missouri
 title: Ozark Valley Medical Clinic
 state: Missouri
 stateAbbr: MO

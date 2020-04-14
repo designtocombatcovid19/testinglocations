@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/alabama/hoover/ross-bridge-medical-center/"
-tags: locations
+tags:
+  - locations
+  - alabama
 title: Ross Bridge Medical Center
 state: Alabama
 stateAbbr: AL

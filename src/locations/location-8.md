@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/california/indio/riverside-county-fairgrounds/"
-tags: locations
+tags:
+  - locations
+  - california
 title: Riverside County Fairgrounds
 state: California
 stateAbbr: CA

@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/california/los-angeles/los-angeles-center-for-ear-nose-throat-and-allergy/"
-tags: locations
+tags:
+  - locations
+  - california
 title: Los Angeles Center for Ear, Nose, Throat and Allergy
 state: California
 stateAbbr: CA

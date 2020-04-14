@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/connecticut/torrington/charlotte-hungerford-hospital/"
-tags: locations
+tags:
+  - locations
+  - connecticut
 title: Charlotte Hungerford Hospital
 state: Connecticut
 stateAbbr: CT

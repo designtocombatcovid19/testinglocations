@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/california/riverside/harvest-christian-fellowship-church/"
-tags: locations
+tags:
+  - locations
+  - california
 title: Harvest Christian Fellowship Church
 state: California
 stateAbbr: CA

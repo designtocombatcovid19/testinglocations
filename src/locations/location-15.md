@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/california/los-angeles/crenshaw-christian-center/"
-tags: locations
+tags:
+  - locations
+  - california
 title: Crenshaw Christian Center
 state: California
 stateAbbr: CA

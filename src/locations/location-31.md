@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/maryland/gambrills/chesapeake-ergent-care/"
-tags: locations
+tags:
+  - locations
+  - maryland
 title: Chesapeake ERgent Care
 state: Maryland
 stateAbbr: MD

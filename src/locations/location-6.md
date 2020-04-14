@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/alaska/anchorage/lake-otis-pkwy-and-e-42nd/"
-tags: locations
+tags:
+  - locations
+  - alaska
 title: Lake Otis Pkwy & E 42nd
 state: Alaska
 stateAbbr: AK

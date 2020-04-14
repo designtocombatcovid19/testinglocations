@@ -59,8 +59,11 @@ function generatePost(location) {
   let cta = callToAction(location)
   let fileString = `---
 layout: base
+date: Last Modified
 permalink: "locations/${betterSlug(location.State)}/${betterSlug(location.City)}/${betterSlug(location.Name)}/"
-tags: locations
+tags:
+  - locations
+  - ${betterSlug(location.State)}
 title: ${location.Name}
 state: ${location.State}
 stateAbbr: ${getStateAbbr(location.State)}

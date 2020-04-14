@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/alabama/east-tuscaloosa/dch-regional-medical-center/"
-tags: locations
+tags:
+  - locations
+  - alabama
 title: DCH Regional Medical Center
 state: Alabama
 stateAbbr: AL

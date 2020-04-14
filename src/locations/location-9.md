@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/california/inglewood/curtis-r-tucker-public-health-center/"
-tags: locations
+tags:
+  - locations
+  - california
 title: Curtis R. Tucker Public Health Center
 state: California
 stateAbbr: CA

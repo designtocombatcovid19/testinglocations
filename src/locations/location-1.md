@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/alabama/anniston/rmc-health-system/"
-tags: locations
+tags:
+  - locations
+  - alabama
 title: RMC Health System
 state: Alabama
 stateAbbr: AL

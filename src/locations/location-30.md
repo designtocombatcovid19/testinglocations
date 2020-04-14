@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/maryland/ellicot-city/allcare-of-ellicot-city/"
-tags: locations
+tags:
+  - locations
+  - maryland
 title: AllCare of Ellicot City
 state: Maryland
 stateAbbr: MD

@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/colorado/aurora/stride-chc-aurora-health-and-wellness-plaza/"
-tags: locations
+tags:
+  - locations
+  - colorado
 title: STRIDE CHC- Aurora Health & Wellness Plaza
 state: Colorado
 stateAbbr: CO

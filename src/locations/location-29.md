@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/maryland/bethesda/allcare-glen-echo/"
-tags: locations
+tags:
+  - locations
+  - maryland
 title: AllCare - Glen Echo
 state: Maryland
 stateAbbr: MD

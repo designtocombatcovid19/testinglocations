@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/california/los-angeles/hotchkins-memorial-training-center/"
-tags: locations
+tags:
+  - locations
+  - california
 title: Hotchkins Memorial Training Center
 state: California
 stateAbbr: CA

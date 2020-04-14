@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/california/pomona/the-pomona-fairplex-gate-17/"
-tags: locations
+tags:
+  - locations
+  - california
 title: The Pomona Fairplex Gate 17
 state: California
 stateAbbr: CA

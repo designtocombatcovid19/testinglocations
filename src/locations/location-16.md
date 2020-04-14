@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/california/los-angeles/carbon-health/"
-tags: locations
+tags:
+  - locations
+  - california
 title: Carbon Health
 state: California
 stateAbbr: CA

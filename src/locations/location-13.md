@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/california/los-angeles/the-west-la-veterans-administration-lot-15/"
-tags: locations
+tags:
+  - locations
+  - california
 title: The West LA Veteran’s Administration Lot 15
 state: California
 stateAbbr: CA

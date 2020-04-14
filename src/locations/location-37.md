@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/missouri/brookfield/pershing-memorial-hospital/"
-tags: locations
+tags:
+  - locations
+  - missouri
 title: Pershing Memorial Hospital 
 state: Missouri
 stateAbbr: MO

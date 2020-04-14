@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/california/los-angeles/lincoln-park-recreation-center/"
-tags: locations
+tags:
+  - locations
+  - california
 title: Lincoln Park Recreation Center
 state: California
 stateAbbr: CA

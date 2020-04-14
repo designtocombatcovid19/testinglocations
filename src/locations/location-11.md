@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/california/lake-view-terrace/hansen-dam/"
-tags: locations
+tags:
+  - locations
+  - california
 title: Hansen Dam
 state: California
 stateAbbr: CA

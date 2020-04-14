@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/alabama/gadsden/gadsden-regional-medical-center/"
-tags: locations
+tags:
+  - locations
+  - alabama
 title: Gadsden Regional Medical Center
 state: Alabama
 stateAbbr: AL

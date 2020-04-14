@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/missouri/bolivar/citizens-memorial-hospital/"
-tags: locations
+tags:
+  - locations
+  - missouri
 title: Citizens Memorial Hospital 
 state: Missouri
 stateAbbr: MO

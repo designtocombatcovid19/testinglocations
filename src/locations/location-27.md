@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/connecticut/bristol/bristol-health/"
-tags: locations
+tags:
+  - locations
+  - connecticut
 title: Bristol Health
 state: Connecticut
 stateAbbr: CT

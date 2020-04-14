@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/colorado/wheat-ridge/stride-chc-jeffco-family-health-services-center/"
-tags: locations
+tags:
+  - locations
+  - colorado
 title: STRIDE CHC- Jeffco Family Health Services Center 
 state: Colorado
 stateAbbr: CO

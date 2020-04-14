@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/california/northridge/northridge-hospital-medical-center/"
-tags: locations
+tags:
+  - locations
+  - california
 title: Northridge Hospital Medical Center
 state: California
 stateAbbr: CA

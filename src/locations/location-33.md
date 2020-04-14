@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/massachusetts/west-barnstable/cape-cod-community-college/"
-tags: locations
+tags:
+  - locations
+  - massachusetts
 title: Cape Cod Community College
 state: Massachusetts
 stateAbbr: MA

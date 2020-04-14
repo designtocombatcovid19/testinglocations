@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/california/lake-elsinore/diamond-stadium-lot-c/"
-tags: locations
+tags:
+  - locations
+  - california
 title: Diamond Stadium Lot C
 state: California
 stateAbbr: CA

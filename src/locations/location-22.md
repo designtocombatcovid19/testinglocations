@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/california/redondo-beach/south-bay-galleria/"
-tags: locations
+tags:
+  - locations
+  - california
 title: South Bay Galleria
 state: California
 stateAbbr: CA

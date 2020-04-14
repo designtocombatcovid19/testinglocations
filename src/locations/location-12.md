@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/california/lancaster/high-desert-medical-group-office/"
-tags: locations
+tags:
+  - locations
+  - california
 title: High Desert Medical Group Office
 state: California
 stateAbbr: CA

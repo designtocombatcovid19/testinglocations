@@ -1,7 +1,10 @@
 ---
 layout: base
+date: Last Modified
 permalink: "locations/connecticut/bridgeport/bridgeport-hospital/"
-tags: locations
+tags:
+  - locations
+  - connecticut
 title: Bridgeport Hospital
 state: Connecticut
 stateAbbr: CT
