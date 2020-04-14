@@ -16,7 +16,7 @@
 
     {% include "meta.njk" %}
   </head>
-  <body class="font-sans antialiased bg-white flex flex-col min-h-screen">
+  <body class="box-border flex flex-col min-h-screen overflow-hidden overflow-y-auto font-sans antialiased bg-white">
     {% include "notification.njk" %}
 
     {%- if page.url == "/" -%}
