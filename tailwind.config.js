@@ -14,10 +14,13 @@ module.exports = {
         '7xl': '5rem',
       },
       spacing: {
+        '4.5': '1.10rem',
         '9': '2.25rem',
         '11': '2.75rem',
       },
       screens: {
+        'sm': '730px',
+        'md': '1074px',
         'lg': '1280px',
         'xl': '1390px',
       }
