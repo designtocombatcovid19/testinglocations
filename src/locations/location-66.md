@@ -13,7 +13,7 @@ address: 8201 Gold Course Rd NW Ste A3
 city: Albuquerque
 zip: 87120
 mapUrl: "http://maps.apple.com/?q=NextCare+-+Petroglyph&address=8201+Gold+Course+Rd+NW+Ste+A3,Albuquerque,New+Mexico,87120"
-locationType: Drive-thru,Walk-in
+locationType: Drive-thru or walk-in
 phone: 505-800-7077
 website: https://nextcare.com/locations/nm/petroglyph/
 onlineBooking: true

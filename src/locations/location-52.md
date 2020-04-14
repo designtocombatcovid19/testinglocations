@@ -13,7 +13,7 @@ address: 4741 Arrowhead Dr, Suite B
 city: Independence
 zip: 64055
 mapUrl: "http://maps.apple.com/?q=Urgent+Care+of+Kansas+City&address=4741+Arrowhead+Dr+Suite+B,Independence,Missouri,64055"
-locationType: undefined
+locationType: Location type unknown
 phone: 816-795-6000
 website: https://www.solvhealth.com/urgent-care-of-kansas-city-independence-mo-AGLeep
 onlineBooking: true

@@ -72,7 +72,7 @@ address: ${location.Address}
 city: ${location.City}
 zip: ${location.Zip}
 mapUrl: "http://maps.apple.com/?q=${betterSlug(location.Name, '+', false)}&address=${betterSlug(location.Address, '+', false)},${betterSlug(location.City, '+', false)},${betterSlug(location.State, '+', false)},${location.Zip}"
-locationType: ${location.LocationType}
+locationType: ${typeOfLocation(location)}
 phone: ${location.Phone}
 website: ${location.Website}
 onlineBooking: ${location.OnlineBooking}
@@ -106,6 +106,20 @@ function callToAction(location) {
     ctaMessage = "No contact info available."
   }
   return cta
+}
+
+function typeOfLocation(location) {
+  if (location.LocationType) {
+    if (location.LocationType.length === 2) {
+      return "Drive-thru or walk-in"
+    } else if (location.LocationType.length === 1) {
+      return location.LocationType[0]
+    } else {
+      return "Location type unknown"
+    }
+  } else {
+    return "Location type unknown"
+  }
 }
 
 function collectNotes(location) {

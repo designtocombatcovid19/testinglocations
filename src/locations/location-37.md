@@ -13,7 +13,7 @@ address: 130 E Lockling Ave
 city: Brookfield
 zip: 64628
 mapUrl: "http://maps.apple.com/?q=Pershing+Memorial+Hospital&address=130+E+Lockling+Ave,Brookfield,Missouri,64628"
-locationType: undefined
+locationType: Location type unknown
 phone: 660-258-2222
 website: http://www.phsmo.org/
 onlineBooking: undefined

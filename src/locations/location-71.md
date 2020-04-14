@@ -13,7 +13,7 @@ address: 1630 Rio Rancho Dr SE #101
 city: Rio Rancho
 zip: 87124
 mapUrl: "http://maps.apple.com/?q=NextCare+-+Rio+Rancho&address=1630+Rio+Rancho+Dr+SE+101,Rio+Rancho,New+Mexico,87124"
-locationType: Drive-thru,Walk-in
+locationType: Drive-thru or walk-in
 phone: 505-395-5520
 website: https://nextcare.com/locations/nm/rio-rancho/
 onlineBooking: true
