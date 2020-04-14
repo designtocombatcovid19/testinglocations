@@ -10,11 +10,17 @@ module.exports = {
       },
       fontSize: {
         '1.5xl': '1.35rem',
+        '2.5xl': '1.7rem',
         '7xl': '5rem',
       },
-      // screens: {
-      //   'lg': '1150px',
-      // }
+      spacing: {
+        '9': '2.25rem',
+        '11': '2.75rem',
+      },
+      screens: {
+        'lg': '1280px',
+        'xl': '1390px',
+      }
     }
   },
   variants: {},
