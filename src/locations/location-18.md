@@ -1,24 +1,24 @@
 ---
 layout: base
-permalink: "locations/california/los-angeles/crenshaw-christian-center/"
+permalink: "locations/california/los-angeles/lincoln-park-recreation-center/"
 tags: locations
-title: Crenshaw Christian Center
+title: Lincoln Park Recreation Center
 state: California
 stateAbbr: CA
-hood: Crenshaw
-address: 7901 S. Vermont Avenue
+hood: Lincoln Heights
+address: 3501 Valley Blvd
 city: Los Angeles
-zip: 90044
-mapUrl: "http://maps.apple.com/?q=Crenshaw+Christian+Center&address=7901+S+Vermont+Avenue,Los+Angeles,California,90044"
+zip: 90031
+mapUrl: "http://maps.apple.com/?q=Lincoln+Park+Recreation+Center&address=3501+Valley+Blvd,Los+Angeles,California,90031"
 locationType: Drive-thru
 phone: undefined
 website: https://lacovidprod.service-now.com/rrs
 onlineBooking: true
 closed: undefined
 closedUpdate: April 13th, 2020
-notes: "By appointment only. Only for individuals with symptoms."
+notes: "By appointment only. Free."
 days: Hours unknown
 ctaMessage: Schedule a test
 ctaUrl: "https://lacovidprod.service-now.com/rrs"
 ---
-## Crenshaw Christian Center
+## Lincoln Park Recreation Center

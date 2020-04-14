@@ -1,29 +1,25 @@
 ---
 layout: base
-permalink: "locations/alabama/east-tuscaloosa/dch-regional-medical-center/"
+permalink: "locations/alabama/anniston/rmc-health-system/"
 tags: locations
-title: DCH Regional Medical Center
+title: RMC Health System
 state: Alabama
 stateAbbr: AL
-hood: East Tuscaloosa
-address: 809 University Blvd
-city: East Tuscaloosa
-zip: 35401
-mapUrl: "http://maps.apple.com/?q=DCH+Regional+Medical+Center&address=809+University+Blvd,East+Tuscaloosa,Alabama,35401"
+hood: Anniston
+address: 400 East 10th Street
+city: Anniston
+zip: 36207
+mapUrl: "http://maps.apple.com/?q=RMC+Health+System&address=400+East+10th+Street,Anniston,Alabama,36207"
 locationType: Drive-thru
-phone: 205-759-7111
-website: https://www.dchsystem.com/Articles/dch_to_offer_remote_screening_facility_for_coronavirus.aspx
+phone: 256-235-5600
+website: undefined
 onlineBooking: undefined
 closed: undefined
 closedUpdate: April 13th, 2020
-notes: "Only for individuals with symptoms."
+notes: "Requires referral from a primary health provider. Requires doctor's referral."
 days: Weekdays
-hours: 8AM-5PM
-altDays: Saturdays
-altHours: 8AM-Noon
-alt2Days: Sundays
-alt2Hours: 2PM-5PM
-ctaMessage: Learn more
-ctaUrl: "https://www.dchsystem.com/Articles/dch_to_offer_remote_screening_facility_for_coronavirus.aspx"
+hours: 8:30AM-4:30PM
+ctaMessage: Call 256-235-5600
+ctaUrl: "tel:256-235-5600"
 ---
-## DCH Regional Medical Center
+## RMC Health System

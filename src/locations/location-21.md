@@ -1,24 +1,24 @@
 ---
 layout: base
-permalink: "locations/california/palmdale/the-antelope-valley-mall/"
+permalink: "locations/california/pomona/the-pomona-fairplex-gate-17/"
 tags: locations
-title: The Antelope Valley Mall
+title: The Pomona Fairplex Gate 17
 state: California
 stateAbbr: CA
-hood: Palmdale
-address: 1233 Rancho Vista Blvd
-city: Palmdale
-zip: 93551
-mapUrl: "http://maps.apple.com/?q=The+Antelope+Valley+Mall&address=1233+Rancho+Vista+Blvd,Palmdale,California,93551"
+hood: Pomona
+address: 1101 W McKinley Ave
+city: Pomona
+zip: 91768
+mapUrl: "http://maps.apple.com/?q=The+Pomona+Fairplex+Gate+17&address=1101+W+McKinley+Ave,Pomona,California,91768"
 locationType: Drive-thru
 phone: undefined
-website: https://corona-virus.la/
+website: coronavirus.lacity.org/Testing
 onlineBooking: true
 closed: undefined
 closedUpdate: April 13th, 2020
-notes: "By appointment only."
+notes: "By appointment only. Limited test kits available."
 days: Hours unknown
 ctaMessage: Schedule a test
-ctaUrl: "https://corona-virus.la/"
+ctaUrl: "coronavirus.lacity.org/Testing"
 ---
-## The Antelope Valley Mall
+## The Pomona Fairplex Gate 17

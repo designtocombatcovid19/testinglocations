@@ -1,25 +1,24 @@
 ---
 layout: base
-permalink: "locations/california/indio/riverside-county-fairgrounds/"
+permalink: "locations/california/lake-view-terrace/hansen-dam/"
 tags: locations
-title: Riverside County Fairgrounds
+title: Hansen Dam
 state: California
 stateAbbr: CA
-hood: Indio
-address: 46517 Arabia St
-city: Indio
-zip: 92201
-mapUrl: "http://maps.apple.com/?q=Riverside+County+Fairgrounds&address=46517+Arabia+St,Indio,California,92201"
+hood: Lake View Terrace
+address: 11798 Foothill Blvd
+city: Lake View Terrace
+zip: 91342
+mapUrl: "http://maps.apple.com/?q=Hansen+Dam&address=11798+Foothill+Blvd,Lake+View+Terrace,California,91342"
 locationType: Drive-thru
-phone: 800-945-6171
-website: undefined
-onlineBooking: undefined
+phone: undefined
+website: https://lacovidprod.service-now.com/rrs
+onlineBooking: true
 closed: undefined
 closedUpdate: April 13th, 2020
-notes: "Must have fever and other symptoms. By appointment only."
-days: Tu-Sat
-hours: 9AM-3PM
-ctaMessage: Call 800-945-6171
-ctaUrl: "tel:800-945-6171"
+notes: "By appointment only. Only for individuals with symptoms."
+days: Hours unknown
+ctaMessage: Schedule a test
+ctaUrl: "https://lacovidprod.service-now.com/rrs"
 ---
-## Riverside County Fairgrounds
+## Hansen Dam

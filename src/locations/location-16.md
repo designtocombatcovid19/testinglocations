@@ -1,25 +1,25 @@
 ---
 layout: base
-permalink: "locations/california/northridge/northridge-hospital-medical-center/"
+permalink: "locations/california/los-angeles/carbon-health/"
 tags: locations
-title: Northridge Hospital Medical Center
+title: Carbon Health
 state: California
 stateAbbr: CA
-hood: Northridge
-address: 18300 Roscoe Boulevard
-city: Northridge
-zip: 91328
-mapUrl: "http://maps.apple.com/?q=Northridge+Hospital+Medical+Center&address=18300+Roscoe+Boulevard,Northridge,California,91328"
-locationType: Drive-thru
+hood: Echo Park
+address: 2110 Sunset Blvd. Suite M
+city: Los Angeles
+zip: 90026
+mapUrl: "http://maps.apple.com/?q=Carbon+Health&address=2110+Sunset+Blvd+Suite+M,Los+Angeles,California,90026"
+locationType: Walk-in
 phone: undefined
-website: https://lacovidprod.service-now.com/rrs
+website: https://carbonhealth.com/echo-park
 onlineBooking: true
 closed: undefined
-closedUpdate: April 13th, 2020
-notes: "By appointment only."
-days: Weekdays
-hours: 8AM-4PM
+closedUpdate: April 6th, 2020
+notes: "Privately owned."
+days: Everyday
+hours: 9AM-7PM
 ctaMessage: Schedule a test
-ctaUrl: "https://lacovidprod.service-now.com/rrs"
+ctaUrl: "https://carbonhealth.com/echo-park"
 ---
-## Northridge Hospital Medical Center
+## Carbon Health

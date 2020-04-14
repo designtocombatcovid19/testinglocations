@@ -1,24 +1,25 @@
 ---
 layout: base
-permalink: "locations/california/los-angeles/the-west-la-veterans-administration-lot-15/"
+permalink: "locations/california/los-angeles/los-angeles-center-for-ear-nose-throat-and-allergy/"
 tags: locations
-title: The West LA Veteran’s Administration Lot 15
+title: Los Angeles Center for Ear, Nose, Throat and Allergy
 state: California
 stateAbbr: CA
-hood: Los Angeles
-address: 11301 Wilshire Blvd
+hood: Huntington Park
+address: 1700 East Cesar E Chavez Avenue #2500
 city: Los Angeles
-zip: 90073
-mapUrl: "http://maps.apple.com/?q=The+West+LA+Veterans+Administration+Lot+15&address=11301+Wilshire+Blvd,Los+Angeles,California,90073"
+zip: 90033
+mapUrl: "http://maps.apple.com/?q=Los+Angeles+Center+for+Ear+Nose+Throat+and+Allergy&address=1700+East+Cesar+E+Chavez+Avenue+2500,Los+Angeles,California,90033"
 locationType: Drive-thru
-phone: 310-478-3711
-website: https://lacovidprod.service-now.com/rrs
+phone:  323-375-1986
+website: https://www.coronavirustestingla.com/
 onlineBooking: true
 closed: undefined
 closedUpdate: April 13th, 2020
-notes: "By appointment only."
-days: Open 24/7
+notes: "Privately owned."
+days: Everyday
+hours: 8AM-5PM
 ctaMessage: Schedule a test
-ctaUrl: "https://lacovidprod.service-now.com/rrs"
+ctaUrl: "https://www.coronavirustestingla.com/"
 ---
-## The West LA Veteran’s Administration Lot 15
+## Los Angeles Center for Ear, Nose, Throat and Allergy

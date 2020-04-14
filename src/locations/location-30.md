@@ -1,17 +1,17 @@
 ---
 layout: base
-permalink: "locations/maryland/bethesda/allcare-glen-echo/"
+permalink: "locations/maryland/ellicot-city/allcare-of-ellicot-city/"
 tags: locations
-title: AllCare - Glen Echo
+title: AllCare of Ellicot City
 state: Maryland
 stateAbbr: MD
-hood: Bethesda
-address: 7307 Macarthur Blvd
-city: Bethesda
-zip: 20816
-mapUrl: "http://maps.apple.com/?q=AllCare+-+Glen+Echo&address=7307+Macarthur+Blvd,Bethesda,Maryland,20816"
+hood: Ellicot City
+address: 9396 Baltimore National Pike
+city: Ellicot City
+zip: 21042
+mapUrl: "http://maps.apple.com/?q=AllCare+of+Ellicot+City&address=9396+Baltimore+National+Pike,Ellicot+City,Maryland,21042"
 locationType: Drive-thru
-phone: 301-825-8880
+phone: 410-480-9110
 website: https://allcarefamilymed.com/coronavirus
 onlineBooking: true
 closed: undefined
@@ -22,4 +22,4 @@ hours: Noon-1PM
 ctaMessage: Schedule a test
 ctaUrl: "https://allcarefamilymed.com/coronavirus"
 ---
-## AllCare - Glen Echo
+## AllCare of Ellicot City

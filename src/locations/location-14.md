@@ -1,25 +1,25 @@
 ---
 layout: base
-permalink: "locations/california/lancaster/high-desert-medical-group-office/"
+permalink: "locations/california/los-angeles/hotchkins-memorial-training-center/"
 tags: locations
-title: High Desert Medical Group Office
+title: Hotchkins Memorial Training Center
 state: California
 stateAbbr: CA
-hood: Lancaster
-address: 43839 N. 15th Street West
-city: Lancaster
-zip: 93534
-mapUrl: "http://maps.apple.com/?q=High+Desert+Medical+Group+Office&address=43839+N+15th+Street+West,Lancaster,California,93534"
+hood: Los Angeles
+address: 1700 Stadium Way
+city: Los Angeles
+zip: 90012
+mapUrl: "http://maps.apple.com/?q=Hotchkins+Memorial+Training+Center&address=1700+Stadium+Way,Los+Angeles,California,90012"
 locationType: Drive-thru
-phone: (661) 945-5984
-website: https://lacovidprod.service-now.com/rrs
-onlineBooking: true
+phone: undefined
+website: https://docs.google.com/forms/d/e/1FAIpQLScO3zt_Ktf9LWCzvXJeojr3QfbtSI58X969-IP4mQvcs3fC0w/viewform
+onlineBooking: undefined
 closed: undefined
 closedUpdate: April 13th, 2020
-notes: "By appointment only. Only for individuals with symptoms. Free."
-days: M-Sat
-hours: 9AM-5PM
-ctaMessage: Schedule a test
-ctaUrl: "https://lacovidprod.service-now.com/rrs"
+notes: "Only for individuals with symptoms. Employees only."
+days: Mondays
+hours: 9AM-Noon
+ctaMessage: Learn more
+ctaUrl: "https://docs.google.com/forms/d/e/1FAIpQLScO3zt_Ktf9LWCzvXJeojr3QfbtSI58X969-IP4mQvcs3fC0w/viewform"
 ---
-## High Desert Medical Group Office
+## Hotchkins Memorial Training Center

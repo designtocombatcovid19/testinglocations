@@ -1,24 +1,25 @@
 ---
 layout: base
-permalink: "locations/california/inglewood/curtis-r-tucker-public-health-center/"
+permalink: "locations/california/indio/riverside-county-fairgrounds/"
 tags: locations
-title: Curtis R. Tucker Public Health Center
+title: Riverside County Fairgrounds
 state: California
 stateAbbr: CA
-hood: Inglewood
-address: 123 W Manchester Blvd
-city: Inglewood
-zip: 90301
-mapUrl: "http://maps.apple.com/?q=Curtis+R+Tucker+Public+Health+Center&address=123+W+Manchester+Blvd,Inglewood,California,90301"
-locationType: Walk-in
-phone: undefined
+hood: Indio
+address: 46517 Arabia St
+city: Indio
+zip: 92201
+mapUrl: "http://maps.apple.com/?q=Riverside+County+Fairgrounds&address=46517+Arabia+St,Indio,California,92201"
+locationType: Drive-thru
+phone: 800-945-6171
 website: undefined
 onlineBooking: undefined
-closed: true
-closedUpdate: April 6th, 2020
-notes: ""
-days: Weekdays
-hours: 8AM-4:30PM
-ctaMessage: No contact info available.
+closed: undefined
+closedUpdate: April 13th, 2020
+notes: "Must have fever and other symptoms. By appointment only."
+days: Tu-Sat
+hours: 9AM-3PM
+ctaMessage: Call 800-945-6171
+ctaUrl: "tel:800-945-6171"
 ---
-## Curtis R. Tucker Public Health Center
+## Riverside County Fairgrounds

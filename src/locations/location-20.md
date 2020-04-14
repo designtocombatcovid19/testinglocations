@@ -1,24 +1,24 @@
 ---
 layout: base
-permalink: "locations/california/lake-view-terrace/hansen-dam/"
+permalink: "locations/california/palmdale/the-antelope-valley-mall/"
 tags: locations
-title: Hansen Dam
+title: The Antelope Valley Mall
 state: California
 stateAbbr: CA
-hood: Lake View Terrace
-address: 11798 Foothill Blvd
-city: Lake View Terrace
-zip: 91342
-mapUrl: "http://maps.apple.com/?q=Hansen+Dam&address=11798+Foothill+Blvd,Lake+View+Terrace,California,91342"
+hood: Palmdale
+address: 1233 Rancho Vista Blvd
+city: Palmdale
+zip: 93551
+mapUrl: "http://maps.apple.com/?q=The+Antelope+Valley+Mall&address=1233+Rancho+Vista+Blvd,Palmdale,California,93551"
 locationType: Drive-thru
 phone: undefined
-website: https://lacovidprod.service-now.com/rrs
+website: https://corona-virus.la/
 onlineBooking: true
 closed: undefined
 closedUpdate: April 13th, 2020
-notes: "By appointment only. Only for individuals with symptoms."
+notes: "By appointment only."
 days: Hours unknown
 ctaMessage: Schedule a test
-ctaUrl: "https://lacovidprod.service-now.com/rrs"
+ctaUrl: "https://corona-virus.la/"
 ---
-## Hansen Dam
+## The Antelope Valley Mall

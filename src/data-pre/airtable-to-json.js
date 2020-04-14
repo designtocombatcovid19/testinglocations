@@ -16,7 +16,11 @@ var count = 0
 base('Testing Locations').select({
   maxRecords: 9999,
   view: "Verified Locations",
-  sort: [{field: "State", direction: "asc"}]
+  sort: [
+    {field: "State", direction: "asc"},
+    {field: "City", direction: "asc"},
+    {field: "Neighborhood", direction: "asc"}
+  ]
 }).eachPage(function page(records, fetchNextPage) {
   // This function (`page`) will get called for each page of records.
   records.forEach(function(record) {

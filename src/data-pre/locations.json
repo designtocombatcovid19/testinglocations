@@ -1,41 +1,5 @@
 [
   {
-    "Name": "DCH Regional Medical Center",
-    "Notes": [
-      "Only for individuals with symptoms."
-    ],
-    "State": "Alabama",
-    "Address": "809 University Blvd",
-    "City": "East Tuscaloosa",
-    "Zip": "35401",
-    "Phone": "205-759-7111",
-    "Website": "https://www.dchsystem.com/Articles/dch_to_offer_remote_screening_facility_for_coronavirus.aspx",
-    "DaysOfWeek": [
-      "Friday",
-      "Monday",
-      "Thursday",
-      "Tuesday",
-      "Wednesday"
-    ],
-    "OpensAt": "8AM",
-    "ClosesAt": "5PM",
-    "AltDaysOfWeek": [
-      "Saturday"
-    ],
-    "AltOpensAt": "8AM",
-    "AltClosesAt": "Noon",
-    "LocationType": [
-      "Drive-thru"
-    ],
-    "NotesOther": "Testing is available as long as supplies remain available and the weather allows for the process to safely continue. Call ahead to make sure they are still doing testing.",
-    "Verified": true,
-    "Alt2DaysOfWeek": [
-      "Sunday"
-    ],
-    "Alt2OpensAt": "2PM",
-    "Alt2ClosesAt": "5PM"
-  },
-  {
     "Name": "RMC Health System",
     "Notes": [
       "Requires referral from a primary health provider.",
@@ -87,6 +51,42 @@
     ],
     "NotesOther": "Make an appointment between 7AM and 11PM",
     "Verified": true
+  },
+  {
+    "Name": "DCH Regional Medical Center",
+    "Notes": [
+      "Only for individuals with symptoms."
+    ],
+    "State": "Alabama",
+    "Address": "809 University Blvd",
+    "City": "East Tuscaloosa",
+    "Zip": "35401",
+    "Phone": "205-759-7111",
+    "Website": "https://www.dchsystem.com/Articles/dch_to_offer_remote_screening_facility_for_coronavirus.aspx",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "5PM",
+    "AltDaysOfWeek": [
+      "Saturday"
+    ],
+    "AltOpensAt": "8AM",
+    "AltClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Testing is available as long as supplies remain available and the weather allows for the process to safely continue. Call ahead to make sure they are still doing testing.",
+    "Verified": true,
+    "Alt2DaysOfWeek": [
+      "Sunday"
+    ],
+    "Alt2OpensAt": "2PM",
+    "Alt2ClosesAt": "5PM"
   },
   {
     "Name": "Gadsden Regional Medical Center",
@@ -168,6 +168,238 @@
     "Verified": true
   },
   {
+    "Name": "Glendale Memorial Hospital",
+    "Notes": [
+      "Requires doctor's referral.",
+      "Prioritizes first responders."
+    ],
+    "Attachments": [
+      {
+        "id": "attIcuW9Fbs7aHtGB",
+        "url": "https://dl.airtable.com/.attachments/43d10b4deea965fce0f8f941706fb453/0fb5da15/LaboratoryTestingforCOVID1.pdf",
+        "filename": "Laboratory Testing for COVID1.pdf",
+        "size": 387772,
+        "type": "application/pdf",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f8586fc12a72d909175138dce362655a/6e2a0bf6",
+            "width": 28,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a61c1e8a6484d3912c19cb9b498da745/4b739337",
+            "width": 396,
+            "height": 512
+          }
+        }
+      }
+    ],
+    "State": "California",
+    "Address": "1420 S Central Ave",
+    "City": "Glendale",
+    "Zip": "91204",
+    "Website": "https://lacovidprod.service-now.com/rrs",
+    "OnlineBooking": true,
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Download form to have your doctor order the test",
+    "Verified": true
+  },
+  {
+    "Name": "Riverside County Fairgrounds",
+    "Notes": [
+      "Must have fever and other symptoms.",
+      "By appointment only."
+    ],
+    "State": "California",
+    "Address": "46517 Arabia St",
+    "City": "Indio",
+    "Zip": "92201",
+    "Phone": "800-945-6171",
+    "DaysOfWeek": [
+      "Friday",
+      "Saturday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "3PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Testing will take place in the parking lots 5 and 5A near Arabia Street, between Highway 111 and Dr Carreon Boulevard",
+    "Verified": true
+  },
+  {
+    "Name": "Curtis R. Tucker Public Health Center",
+    "State": "California",
+    "Address": "123 W Manchester Blvd",
+    "City": "Inglewood",
+    "Zip": "90301",
+    "Neighborhood": "Inglewood",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "Closed": true,
+    "ClosesAt": "4:30PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true,
+    "LastClosedUpdate": "2020-04-06"
+  },
+  {
+    "Name": "Diamond Stadium Lot C",
+    "Notes": [
+      "By appointment only.",
+      "Only for individuals with symptoms."
+    ],
+    "State": "California",
+    "Address": "500 Diamond Dr",
+    "City": "Lake Elsinore",
+    "Zip": "92530",
+    "Phone": "800-945-6171",
+    "Website": "https://www.projectbaseline.com/study/covid-19/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Monday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9:30AM",
+    "ClosesAt": "3PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Over 1 hour wait time for a phone appointment",
+    "Verified": true
+  },
+  {
+    "Name": "Hansen Dam",
+    "Notes": [
+      "By appointment only.",
+      "Only for individuals with symptoms."
+    ],
+    "State": "California",
+    "Address": "11798 Foothill Blvd",
+    "City": "Lake View Terrace",
+    "Zip": "91342",
+    "Neighborhood": "Lake View Terrace",
+    "Website": "https://lacovidprod.service-now.com/rrs",
+    "OnlineBooking": true,
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "High Desert Medical Group Office",
+    "Notes": [
+      "By appointment only.",
+      "Only for individuals with symptoms.",
+      "Free."
+    ],
+    "State": "California",
+    "Address": "43839 N. 15th Street West",
+    "City": "Lancaster",
+    "Zip": "93534",
+    "Phone": "(661) 945-5984",
+    "Website": "https://lacovidprod.service-now.com/rrs",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Addtional requirements: must be 65 or older OR have underlying health conditions",
+    "Verified": true
+  },
+  {
+    "Name": "The West LA Veteran’s Administration Lot 15",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "California",
+    "Address": "11301 Wilshire Blvd",
+    "City": "Los Angeles",
+    "Zip": "90073",
+    "Phone": "310-478-3711",
+    "Website": "https://lacovidprod.service-now.com/rrs",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "OpensAt": "Open 24 hours",
+    "ClosesAt": "Open 24 hours",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Hotchkins Memorial Training Center",
+    "Notes": [
+      "Only for individuals with symptoms.",
+      "Employees only."
+    ],
+    "State": "California",
+    "Address": "1700 Stadium Way",
+    "City": "Los Angeles",
+    "Zip": "90012",
+    "Website": "https://docs.google.com/forms/d/e/1FAIpQLScO3zt_Ktf9LWCzvXJeojr3QfbtSI58X969-IP4mQvcs3fC0w/viewform",
+    "DaysOfWeek": [
+      "Monday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "For LAFD employees and family members",
+    "Verified": true
+  },
+  {
+    "Name": "Crenshaw Christian Center",
+    "Notes": [
+      "By appointment only.",
+      "Only for individuals with symptoms."
+    ],
+    "State": "California",
+    "Address": "7901 S. Vermont Avenue",
+    "City": "Los Angeles",
+    "Zip": "90044",
+    "Neighborhood": "Crenshaw",
+    "Website": "https://lacovidprod.service-now.com/rrs",
+    "OnlineBooking": true,
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
     "Name": "Carbon Health",
     "Notes": [
       "Privately owned."
@@ -190,29 +422,6 @@
     ],
     "OpensAt": "9AM",
     "ClosesAt": "7PM",
-    "LocationType": [
-      "Walk-in"
-    ],
-    "Verified": true,
-    "LastClosedUpdate": "2020-04-06"
-  },
-  {
-    "Name": "Curtis R. Tucker Public Health Center",
-    "State": "California",
-    "Address": "123 W Manchester Blvd",
-    "City": "Inglewood",
-    "Zip": "90301",
-    "Neighborhood": "Inglewood",
-    "DaysOfWeek": [
-      "Friday",
-      "Monday",
-      "Thursday",
-      "Tuesday",
-      "Wednesday"
-    ],
-    "OpensAt": "8AM",
-    "Closed": true,
-    "ClosesAt": "4:30PM",
     "LocationType": [
       "Walk-in"
     ],
@@ -248,6 +457,116 @@
       "Drive-thru"
     ],
     "NotesOther": "Send a picture ID (front and back) and insurance ID (front and back) to COVID19@LAENT.COM",
+    "Verified": true
+  },
+  {
+    "Name": "Lincoln Park Recreation Center",
+    "Notes": [
+      "By appointment only.",
+      "Free."
+    ],
+    "State": "California",
+    "Address": "3501 Valley Blvd",
+    "City": "Los Angeles",
+    "Zip": "90031",
+    "Neighborhood": "Lincoln Heights",
+    "Website": "https://lacovidprod.service-now.com/rrs",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Sunday"
+    ],
+    "OpensAt": "9AM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Northridge Hospital Medical Center",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "California",
+    "Address": "18300 Roscoe Boulevard",
+    "City": "Northridge",
+    "Zip": "91328",
+    "Website": "https://lacovidprod.service-now.com/rrs",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "The Antelope Valley Mall",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "California",
+    "Address": "1233 Rancho Vista Blvd",
+    "City": "Palmdale",
+    "Zip": "93551",
+    "Website": "https://corona-virus.la/",
+    "OnlineBooking": true,
+    "OpensAt": "9AM",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "The Pomona Fairplex Gate 17",
+    "Notes": [
+      "By appointment only.",
+      "Limited test kits available."
+    ],
+    "State": "California",
+    "Address": "1101 W McKinley Ave",
+    "City": "Pomona",
+    "Zip": "91768",
+    "Website": "coronavirus.lacity.org/Testing",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "OpensAt": "9AM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Only performing 200 tests a day",
+    "Verified": true
+  },
+  {
+    "Name": "South Bay Galleria",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "California",
+    "Address": "1815 Hawthorne Blvd",
+    "City": "Redondo Beach",
+    "Zip": "90278",
+    "Website": "https://lacovidprod.service-now.com/rrs",
+    "OnlineBooking": true,
+    "OpensAt": "9AM",
+    "LocationType": [
+      "Drive-thru"
+    ],
     "Verified": true
   },
   {
@@ -295,325 +614,6 @@
       "Drive-thru"
     ],
     "NotesOther": "Drive-ups without an appointment will not be tested",
-    "Verified": true
-  },
-  {
-    "Name": "Riverside County Fairgrounds",
-    "Notes": [
-      "Must have fever and other symptoms.",
-      "By appointment only."
-    ],
-    "State": "California",
-    "Address": "46517 Arabia St",
-    "City": "Indio",
-    "Zip": "92201",
-    "Phone": "800-945-6171",
-    "DaysOfWeek": [
-      "Friday",
-      "Saturday",
-      "Thursday",
-      "Tuesday",
-      "Wednesday"
-    ],
-    "OpensAt": "9AM",
-    "ClosesAt": "3PM",
-    "LocationType": [
-      "Drive-thru"
-    ],
-    "NotesOther": "Testing will take place in the parking lots 5 and 5A near Arabia Street, between Highway 111 and Dr Carreon Boulevard",
-    "Verified": true
-  },
-  {
-    "Name": "Diamond Stadium Lot C",
-    "Notes": [
-      "By appointment only.",
-      "Only for individuals with symptoms."
-    ],
-    "State": "California",
-    "Address": "500 Diamond Dr",
-    "City": "Lake Elsinore",
-    "Zip": "92530",
-    "Phone": "800-945-6171",
-    "Website": "https://www.projectbaseline.com/study/covid-19/",
-    "OnlineBooking": true,
-    "DaysOfWeek": [
-      "Monday",
-      "Sunday",
-      "Thursday",
-      "Tuesday",
-      "Wednesday"
-    ],
-    "OpensAt": "9:30AM",
-    "ClosesAt": "3PM",
-    "LocationType": [
-      "Drive-thru"
-    ],
-    "NotesOther": "Over 1 hour wait time for a phone appointment",
-    "Verified": true
-  },
-  {
-    "Name": "Lincoln Park Recreation Center",
-    "Notes": [
-      "By appointment only.",
-      "Free."
-    ],
-    "State": "California",
-    "Address": "3501 Valley Blvd",
-    "City": "Los Angeles",
-    "Zip": "90031",
-    "Neighborhood": "Lincoln Heights",
-    "Website": "https://lacovidprod.service-now.com/rrs",
-    "OnlineBooking": true,
-    "DaysOfWeek": [
-      "Sunday"
-    ],
-    "OpensAt": "9AM",
-    "LocationType": [
-      "Drive-thru"
-    ],
-    "Verified": true
-  },
-  {
-    "Name": "High Desert Medical Group Office",
-    "Notes": [
-      "By appointment only.",
-      "Only for individuals with symptoms.",
-      "Free."
-    ],
-    "State": "California",
-    "Address": "43839 N. 15th Street West",
-    "City": "Lancaster",
-    "Zip": "93534",
-    "Phone": "(661) 945-5984",
-    "Website": "https://lacovidprod.service-now.com/rrs",
-    "OnlineBooking": true,
-    "DaysOfWeek": [
-      "Friday",
-      "Monday",
-      "Saturday",
-      "Thursday",
-      "Tuesday",
-      "Wednesday"
-    ],
-    "OpensAt": "9AM",
-    "ClosesAt": "5PM",
-    "LocationType": [
-      "Drive-thru"
-    ],
-    "NotesOther": "Addtional requirements: must be 65 or older OR have underlying health conditions",
-    "Verified": true
-  },
-  {
-    "Name": "Glendale Memorial Hospital",
-    "Notes": [
-      "Requires doctor's referral.",
-      "Prioritizes first responders."
-    ],
-    "Attachments": [
-      {
-        "id": "attIcuW9Fbs7aHtGB",
-        "url": "https://dl.airtable.com/.attachments/43d10b4deea965fce0f8f941706fb453/0fb5da15/LaboratoryTestingforCOVID1.pdf",
-        "filename": "Laboratory Testing for COVID1.pdf",
-        "size": 387772,
-        "type": "application/pdf",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/f8586fc12a72d909175138dce362655a/6e2a0bf6",
-            "width": 28,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/a61c1e8a6484d3912c19cb9b498da745/4b739337",
-            "width": 396,
-            "height": 512
-          }
-        }
-      }
-    ],
-    "State": "California",
-    "Address": "1420 S Central Ave",
-    "City": "Glendale",
-    "Zip": "91204",
-    "Website": "https://lacovidprod.service-now.com/rrs",
-    "OnlineBooking": true,
-    "LocationType": [
-      "Drive-thru"
-    ],
-    "NotesOther": "Download form to have your doctor order the test",
-    "Verified": true
-  },
-  {
-    "Name": "Northridge Hospital Medical Center",
-    "Notes": [
-      "By appointment only."
-    ],
-    "State": "California",
-    "Address": "18300 Roscoe Boulevard",
-    "City": "Northridge",
-    "Zip": "91328",
-    "Website": "https://lacovidprod.service-now.com/rrs",
-    "OnlineBooking": true,
-    "DaysOfWeek": [
-      "Friday",
-      "Monday",
-      "Thursday",
-      "Tuesday",
-      "Wednesday"
-    ],
-    "OpensAt": "8AM",
-    "ClosesAt": "4PM",
-    "LocationType": [
-      "Drive-thru"
-    ],
-    "Verified": true
-  },
-  {
-    "Name": "The West LA Veteran’s Administration Lot 15",
-    "Notes": [
-      "By appointment only."
-    ],
-    "State": "California",
-    "Address": "11301 Wilshire Blvd",
-    "City": "Los Angeles",
-    "Zip": "90073",
-    "Phone": "310-478-3711",
-    "Website": "https://lacovidprod.service-now.com/rrs",
-    "OnlineBooking": true,
-    "DaysOfWeek": [
-      "Sunday",
-      "Monday",
-      "Tuesday",
-      "Wednesday",
-      "Thursday",
-      "Friday",
-      "Saturday"
-    ],
-    "OpensAt": "Open 24 hours",
-    "ClosesAt": "Open 24 hours",
-    "LocationType": [
-      "Drive-thru"
-    ],
-    "Verified": true
-  },
-  {
-    "Name": "Crenshaw Christian Center",
-    "Notes": [
-      "By appointment only.",
-      "Only for individuals with symptoms."
-    ],
-    "State": "California",
-    "Address": "7901 S. Vermont Avenue",
-    "City": "Los Angeles",
-    "Zip": "90044",
-    "Neighborhood": "Crenshaw",
-    "Website": "https://lacovidprod.service-now.com/rrs",
-    "OnlineBooking": true,
-    "LocationType": [
-      "Drive-thru"
-    ],
-    "Verified": true
-  },
-  {
-    "Name": "Hotchkins Memorial Training Center",
-    "Notes": [
-      "Only for individuals with symptoms.",
-      "Employees only."
-    ],
-    "State": "California",
-    "Address": "1700 Stadium Way",
-    "City": "Los Angeles",
-    "Zip": "90012",
-    "Website": "https://docs.google.com/forms/d/e/1FAIpQLScO3zt_Ktf9LWCzvXJeojr3QfbtSI58X969-IP4mQvcs3fC0w/viewform",
-    "DaysOfWeek": [
-      "Monday"
-    ],
-    "OpensAt": "9AM",
-    "ClosesAt": "Noon",
-    "LocationType": [
-      "Drive-thru"
-    ],
-    "NotesOther": "For LAFD employees and family members",
-    "Verified": true
-  },
-  {
-    "Name": "Hansen Dam",
-    "Notes": [
-      "By appointment only.",
-      "Only for individuals with symptoms."
-    ],
-    "State": "California",
-    "Address": "11798 Foothill Blvd",
-    "City": "Lake View Terrace",
-    "Zip": "91342",
-    "Neighborhood": "Lake View Terrace",
-    "Website": "https://lacovidprod.service-now.com/rrs",
-    "OnlineBooking": true,
-    "LocationType": [
-      "Drive-thru"
-    ],
-    "Verified": true
-  },
-  {
-    "Name": "The Antelope Valley Mall",
-    "Notes": [
-      "By appointment only."
-    ],
-    "State": "California",
-    "Address": "1233 Rancho Vista Blvd",
-    "City": "Palmdale",
-    "Zip": "93551",
-    "Website": "https://corona-virus.la/",
-    "OnlineBooking": true,
-    "OpensAt": "9AM",
-    "ClosesAt": "4PM",
-    "LocationType": [
-      "Drive-thru"
-    ],
-    "Verified": true
-  },
-  {
-    "Name": "South Bay Galleria",
-    "Notes": [
-      "By appointment only."
-    ],
-    "State": "California",
-    "Address": "1815 Hawthorne Blvd",
-    "City": "Redondo Beach",
-    "Zip": "90278",
-    "Website": "https://lacovidprod.service-now.com/rrs",
-    "OnlineBooking": true,
-    "OpensAt": "9AM",
-    "LocationType": [
-      "Drive-thru"
-    ],
-    "Verified": true
-  },
-  {
-    "Name": "The Pomona Fairplex Gate 17",
-    "Notes": [
-      "By appointment only.",
-      "Limited test kits available."
-    ],
-    "State": "California",
-    "Address": "1101 W McKinley Ave",
-    "City": "Pomona",
-    "Zip": "91768",
-    "Website": "coronavirus.lacity.org/Testing",
-    "OnlineBooking": true,
-    "DaysOfWeek": [
-      "Sunday",
-      "Monday",
-      "Tuesday",
-      "Wednesday",
-      "Thursday",
-      "Friday",
-      "Saturday"
-    ],
-    "OpensAt": "9AM",
-    "LocationType": [
-      "Drive-thru"
-    ],
-    "NotesOther": "Only performing 200 tests a day",
     "Verified": true
   },
   {
@@ -760,17 +760,17 @@
     "Verified": true
   },
   {
-    "Name": "AllCare of Ellicot City",
+    "Name": "AllCare - Glen Echo",
     "Notes": [
       "By appointment only.",
       "For all members of the community.",
       "Requires phone screen."
     ],
     "State": "Maryland",
-    "Address": "9396 Baltimore National Pike",
-    "City": "Ellicot City",
-    "Zip": "21042",
-    "Phone": "410-480-9110",
+    "Address": "7307 Macarthur Blvd",
+    "City": "Bethesda",
+    "Zip": "20816",
+    "Phone": "301-825-8880",
     "Website": "https://allcarefamilymed.com/coronavirus",
     "OnlineBooking": true,
     "DaysOfWeek": [
@@ -790,17 +790,17 @@
     "Verified": true
   },
   {
-    "Name": "AllCare - Glen Echo",
+    "Name": "AllCare of Ellicot City",
     "Notes": [
       "By appointment only.",
       "For all members of the community.",
       "Requires phone screen."
     ],
     "State": "Maryland",
-    "Address": "7307 Macarthur Blvd",
-    "City": "Bethesda",
-    "Zip": "20816",
-    "Phone": "301-825-8880",
+    "Address": "9396 Baltimore National Pike",
+    "City": "Ellicot City",
+    "Zip": "21042",
+    "Phone": "410-480-9110",
     "Website": "https://allcarefamilymed.com/coronavirus",
     "OnlineBooking": true,
     "DaysOfWeek": [
@@ -1471,6 +1471,47 @@
     "LastClosedUpdate": "2020-04-13"
   },
   {
+    "Name": "Jersey City",
+    "Notes": [
+      "By appointment only.",
+      "Local residents only."
+    ],
+    "State": "New Jersey",
+    "Address": "575 Route 440 ",
+    "City": "Jersey City",
+    "Zip": "07305",
+    "Neighborhood": "Jersey City",
+    "Phone": "201-547-5535",
+    "Website": "https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus",
+    "DaysOfWeek": [
+      "Friday"
+    ],
+    "OpensAt": "9AM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Weequahik Park Drive",
+    "Notes": [
+      "By appointment only.",
+      "Local residents only."
+    ],
+    "State": "New Jersey",
+    "Address": "Elizabeth Ave & Meeker Ave",
+    "City": "Newark",
+    "Zip": "07112",
+    "Neighborhood": "Essex County",
+    "Website": "https://essexcovid.org",
+    "Closed": true,
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true,
+    "LastClosedUpdate": "2020-04-09"
+  },
+  {
     "Name": "Bergen Community College",
     "Notes": [
       "Only for individuals with symptoms.",
@@ -1520,6 +1561,37 @@
     "Verified": true
   },
   {
+    "Name": "Hudson Regional Hospital ",
+    "Notes": [
+      "By appointment only.",
+      "Only for individuals with symptoms.",
+      "Local residents only.",
+      "Prioritizes first responders."
+    ],
+    "State": "New Jersey",
+    "Address": "55 Meadowlands Pkwy",
+    "City": "Secaucus",
+    "Zip": "07094",
+    "Neighborhood": "Hudson County",
+    "Phone": "(201) 392-3278",
+    "Website": "https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus",
+    "DaysOfWeek": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "OpensAt": "Open 24 hours",
+    "ClosesAt": "Open 24 hours",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
     "Name": "Kean University",
     "Notes": [
       "By appointment only.",
@@ -1557,162 +1629,20 @@
     "Verified": true
   },
   {
-    "Name": "Weequahik Park Drive",
+    "Name": "University of New Mexico Respiratory Care Center",
     "Notes": [
-      "By appointment only.",
-      "Local residents only."
-    ],
-    "State": "New Jersey",
-    "Address": "Elizabeth Ave & Meeker Ave",
-    "City": "Newark",
-    "Zip": "07112",
-    "Neighborhood": "Essex County",
-    "Website": "https://essexcovid.org",
-    "Closed": true,
-    "LocationType": [
-      "Drive-thru"
-    ],
-    "Verified": true,
-    "LastClosedUpdate": "2020-04-09"
-  },
-  {
-    "Name": "Jersey City",
-    "Notes": [
-      "By appointment only.",
-      "Local residents only."
-    ],
-    "State": "New Jersey",
-    "Address": "575 Route 440 ",
-    "City": "Jersey City",
-    "Zip": "07305",
-    "Neighborhood": "Jersey City",
-    "Phone": "201-547-5535",
-    "Website": "https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus",
-    "DaysOfWeek": [
-      "Friday"
-    ],
-    "OpensAt": "9AM",
-    "LocationType": [
-      "Walk-in"
-    ],
-    "Verified": true
-  },
-  {
-    "Name": "Hudson Regional Hospital ",
-    "Notes": [
-      "By appointment only.",
-      "Only for individuals with symptoms.",
-      "Local residents only.",
-      "Prioritizes first responders."
-    ],
-    "State": "New Jersey",
-    "Address": "55 Meadowlands Pkwy",
-    "City": "Secaucus",
-    "Zip": "07094",
-    "Neighborhood": "Hudson County",
-    "Phone": "(201) 392-3278",
-    "Website": "https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus",
-    "DaysOfWeek": [
-      "Sunday",
-      "Monday",
-      "Tuesday",
-      "Wednesday",
-      "Thursday",
-      "Friday",
-      "Saturday"
-    ],
-    "OpensAt": "Open 24 hours",
-    "ClosesAt": "Open 24 hours",
-    "LocationType": [
-      "Drive-thru"
-    ],
-    "Verified": true
-  },
-  {
-    "Name": "Rehoboth McKinley Christian Health Services",
-    "Notes": [
-      "By appointment only.",
       "Requires phone screen."
     ],
     "State": "New Mexico",
-    "Address": "1901 Redrock Dr",
-    "City": "Gallup",
-    "Zip": "87301",
-    "Neighborhood": "Gallup",
-    "Phone": "505-236-1074",
-    "Website": "http://www.rmch.org/",
-    "DaysOfWeek": [
-      "Friday",
-      "Monday",
-      "Saturday",
-      "Sunday",
-      "Thursday",
-      "Tuesday",
-      "Wednesday"
-    ],
-    "OpensAt": "8AM",
-    "ClosesAt": "7PM",
-    "LocationType": [
-      "Drive-thru"
-    ],
-    "Verified": true
-  },
-  {
-    "Name": "Cibola General Hospital",
-    "Notes": [
-      "By appointment only.",
-      "Requires phone screen."
-    ],
-    "State": "New Mexico",
-    "Address": "1016 Roosevelt Ave",
-    "City": "Grants",
-    "Zip": "87020",
-    "Neighborhood": "Cibola",
-    "Phone": "505-287-4446",
-    "Website": "www.cibolahospital.com",
+    "Address": "2211 Lomas Blvd. NE",
+    "City": "Albuquerque",
+    "Zip": "87106",
+    "Phone": "505-272-2411",
+    "Website": "https://hsc.unm.edu/covid-19/index.html",
     "OpensAt": "Open 24 hours",
     "ClosesAt": "Open 24 hours",
     "LocationType": [
       "Walk-in"
-    ],
-    "Verified": true
-  },
-  {
-    "Name": "Guadalupe County Hospital",
-    "Notes": [
-      "By appointment only.",
-      "Requires phone screen."
-    ],
-    "State": "New Mexico",
-    "Address": "117 Camino De Vida #100",
-    "City": "Santa Rosa",
-    "Zip": "88435",
-    "Neighborhood": "Guadalupe County",
-    "Phone": "575-472-3417",
-    "Website": "https://www.gchnm.org/",
-    "OpensAt": "Open 24 hours",
-    "ClosesAt": "Open 24 hours",
-    "LocationType": [
-      "Walk-in"
-    ],
-    "Verified": true
-  },
-  {
-    "Name": "Holy Cross Hospital ",
-    "Notes": [
-      "Requires phone screen."
-    ],
-    "State": "New Mexico",
-    "Address": "1397 Weimer Road",
-    "City": "Taos",
-    "Zip": "87571",
-    "Neighborhood": "Taos",
-    "Phone": "800-755-6236",
-    "Website": "https://holycrossmedicalcenter.org/",
-    "OpensAt": "Open 24 hours",
-    "ClosesAt": "Open 24 hours",
-    "LocationType": [
-      "Drive-thru"
     ],
     "Verified": true
   },
@@ -1781,64 +1711,17 @@
     "Verified": true
   },
   {
-    "Name": "University of New Mexico Respiratory Care Center",
-    "Notes": [
-      "Requires phone screen."
-    ],
-    "State": "New Mexico",
-    "Address": "2211 Lomas Blvd. NE",
-    "City": "Albuquerque",
-    "Zip": "87106",
-    "Phone": "505-272-2411",
-    "Website": "https://hsc.unm.edu/covid-19/index.html",
-    "OpensAt": "Open 24 hours",
-    "ClosesAt": "Open 24 hours",
-    "LocationType": [
-      "Walk-in"
-    ],
-    "Verified": true
-  },
-  {
-    "Name": "Silver City Health Care Clinic",
-    "Notes": [
-      "By appointment only.",
-      "Requires phone screen."
-    ],
-    "State": "New Mexico",
-    "Address": "1600 East 32nd Street",
-    "City": "Silver City",
-    "Zip": "88061",
-    "Neighborhood": "Silver City",
-    "Phone": "575-956-1320",
-    "Website": "https://www.silverhealthcare.org/",
-    "DaysOfWeek": [
-      "Friday",
-      "Monday",
-      "Saturday",
-      "Sunday",
-      "Thursday",
-      "Tuesday",
-      "Wednesday"
-    ],
-    "OpensAt": "4PM",
-    "ClosesAt": "5PM",
-    "LocationType": [
-      "Drive-thru"
-    ],
-    "Verified": true
-  },
-  {
-    "Name": "NextCare - Rio Rancho",
+    "Name": "NextCare - Unser",
     "Notes": [
       "For all members of the community."
     ],
     "State": "New Mexico",
-    "Address": "1630 Rio Rancho Dr SE #101",
-    "City": "Rio Rancho",
-    "Zip": "87124",
-    "Neighborhood": "Rio Rancho",
+    "Address": "1800 Unser Blvd NW Ste 500",
+    "City": "Albuquerque",
+    "Zip": "87120",
+    "Neighborhood": "Unser ",
     "Phone": "505-395-5520",
-    "Website": "https://nextcare.com/locations/nm/rio-rancho/",
+    "Website": "https://nextcare.com/locations/nm/urgent-care-clinic-albuquerque-new-mexico-unser/",
     "OnlineBooking": true,
     "DaysOfWeek": [
       "Saturday",
@@ -1881,17 +1764,66 @@
     "Verified": true
   },
   {
-    "Name": "NextCare - Unser",
+    "Name": "Rehoboth McKinley Christian Health Services",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "New Mexico",
+    "Address": "1901 Redrock Dr",
+    "City": "Gallup",
+    "Zip": "87301",
+    "Neighborhood": "Gallup",
+    "Phone": "505-236-1074",
+    "Website": "http://www.rmch.org/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "7PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Cibola General Hospital",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "New Mexico",
+    "Address": "1016 Roosevelt Ave",
+    "City": "Grants",
+    "Zip": "87020",
+    "Neighborhood": "Cibola",
+    "Phone": "505-287-4446",
+    "Website": "www.cibolahospital.com",
+    "OpensAt": "Open 24 hours",
+    "ClosesAt": "Open 24 hours",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "NextCare - Rio Rancho",
     "Notes": [
       "For all members of the community."
     ],
     "State": "New Mexico",
-    "Address": "1800 Unser Blvd NW Ste 500",
-    "City": "Albuquerque",
-    "Zip": "87120",
-    "Neighborhood": "Unser ",
+    "Address": "1630 Rio Rancho Dr SE #101",
+    "City": "Rio Rancho",
+    "Zip": "87124",
+    "Neighborhood": "Rio Rancho",
     "Phone": "505-395-5520",
-    "Website": "https://nextcare.com/locations/nm/urgent-care-clinic-albuquerque-new-mexico-unser/",
+    "Website": "https://nextcare.com/locations/nm/rio-rancho/",
     "OnlineBooking": true,
     "DaysOfWeek": [
       "Saturday",
@@ -1911,6 +1843,74 @@
     "LocationType": [
       "Drive-thru",
       "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Guadalupe County Hospital",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "New Mexico",
+    "Address": "117 Camino De Vida #100",
+    "City": "Santa Rosa",
+    "Zip": "88435",
+    "Neighborhood": "Guadalupe County",
+    "Phone": "575-472-3417",
+    "Website": "https://www.gchnm.org/",
+    "OpensAt": "Open 24 hours",
+    "ClosesAt": "Open 24 hours",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Silver City Health Care Clinic",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "New Mexico",
+    "Address": "1600 East 32nd Street",
+    "City": "Silver City",
+    "Zip": "88061",
+    "Neighborhood": "Silver City",
+    "Phone": "575-956-1320",
+    "Website": "https://www.silverhealthcare.org/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "4PM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Holy Cross Hospital ",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "New Mexico",
+    "Address": "1397 Weimer Road",
+    "City": "Taos",
+    "Zip": "87571",
+    "Neighborhood": "Taos",
+    "Phone": "800-755-6236",
+    "Website": "https://holycrossmedicalcenter.org/",
+    "OpensAt": "Open 24 hours",
+    "ClosesAt": "Open 24 hours",
+    "LocationType": [
+      "Drive-thru"
     ],
     "Verified": true
   },

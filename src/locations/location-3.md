@@ -1,25 +1,29 @@
 ---
 layout: base
-permalink: "locations/alabama/birmingham/the-university-of-alabama-hospital/"
+permalink: "locations/alabama/east-tuscaloosa/dch-regional-medical-center/"
 tags: locations
-title: The University of Alabama Hospital
+title: DCH Regional Medical Center
 state: Alabama
 stateAbbr: AL
-hood: Birmingham
-address: 1802 6th Ave St South
-city: Birmingham
-zip: 35233
-mapUrl: "http://maps.apple.com/?q=The+University+of+Alabama+Hospital&address=1802+6th+Ave+St+South,Birmingham,Alabama,35233"
+hood: East Tuscaloosa
+address: 809 University Blvd
+city: East Tuscaloosa
+zip: 35401
+mapUrl: "http://maps.apple.com/?q=DCH+Regional+Medical+Center&address=809+University+Blvd,East+Tuscaloosa,Alabama,35401"
 locationType: Drive-thru
-phone: 205-975-1881
-website: undefined
+phone: 205-759-7111
+website: https://www.dchsystem.com/Articles/dch_to_offer_remote_screening_facility_for_coronavirus.aspx
 onlineBooking: undefined
 closed: undefined
 closedUpdate: April 13th, 2020
-notes: "By appointment only."
-days: Everyday
-hours: 9AM-1:30PM
-ctaMessage: Call 205-975-1881
-ctaUrl: "tel:205-975-1881"
+notes: "Only for individuals with symptoms."
+days: Weekdays
+hours: 8AM-5PM
+altDays: Saturdays
+altHours: 8AM-Noon
+alt2Days: Sundays
+alt2Hours: 2PM-5PM
+ctaMessage: Learn more
+ctaUrl: "https://www.dchsystem.com/Articles/dch_to_offer_remote_screening_facility_for_coronavirus.aspx"
 ---
-## The University of Alabama Hospital
+## DCH Regional Medical Center

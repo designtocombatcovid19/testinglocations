@@ -1,25 +1,24 @@
 ---
 layout: base
-permalink: "locations/california/los-angeles/los-angeles-center-for-ear-nose-throat-and-allergy/"
+permalink: "locations/california/inglewood/curtis-r-tucker-public-health-center/"
 tags: locations
-title: Los Angeles Center for Ear, Nose, Throat and Allergy
+title: Curtis R. Tucker Public Health Center
 state: California
 stateAbbr: CA
-hood: Huntington Park
-address: 1700 East Cesar E Chavez Avenue #2500
-city: Los Angeles
-zip: 90033
-mapUrl: "http://maps.apple.com/?q=Los+Angeles+Center+for+Ear+Nose+Throat+and+Allergy&address=1700+East+Cesar+E+Chavez+Avenue+2500,Los+Angeles,California,90033"
-locationType: Drive-thru
-phone:  323-375-1986
-website: https://www.coronavirustestingla.com/
-onlineBooking: true
-closed: undefined
-closedUpdate: April 13th, 2020
-notes: "Privately owned."
-days: Everyday
-hours: 8AM-5PM
-ctaMessage: Schedule a test
-ctaUrl: "https://www.coronavirustestingla.com/"
+hood: Inglewood
+address: 123 W Manchester Blvd
+city: Inglewood
+zip: 90301
+mapUrl: "http://maps.apple.com/?q=Curtis+R+Tucker+Public+Health+Center&address=123+W+Manchester+Blvd,Inglewood,California,90301"
+locationType: Walk-in
+phone: undefined
+website: undefined
+onlineBooking: undefined
+closed: true
+closedUpdate: April 6th, 2020
+notes: ""
+days: Weekdays
+hours: 8AM-4:30PM
+ctaMessage: No contact info available.
 ---
-## Los Angeles Center for Ear, Nose, Throat and Allergy
+## Curtis R. Tucker Public Health Center

@@ -1,24 +1,24 @@
 ---
 layout: base
-permalink: "locations/california/pomona/the-pomona-fairplex-gate-17/"
+permalink: "locations/california/riverside/harvest-christian-fellowship-church/"
 tags: locations
-title: The Pomona Fairplex Gate 17
+title: Harvest Christian Fellowship Church
 state: California
 stateAbbr: CA
-hood: Pomona
-address: 1101 W McKinley Ave
-city: Pomona
-zip: 91768
-mapUrl: "http://maps.apple.com/?q=The+Pomona+Fairplex+Gate+17&address=1101+W+McKinley+Ave,Pomona,California,91768"
+hood: Riverside
+address: 6115 Arlington Ave
+city: Riverside
+zip: 92504
+mapUrl: "http://maps.apple.com/?q=Harvest+Christian+Fellowship+Church&address=6115+Arlington+Ave,Riverside,California,92504"
 locationType: Drive-thru
-phone: undefined
-website: coronavirus.lacity.org/Testing
-onlineBooking: true
+phone: 800-945-6171 
+website: undefined
+onlineBooking: undefined
 closed: undefined
 closedUpdate: April 13th, 2020
-notes: "By appointment only. Limited test kits available."
+notes: "By appointment only. Only for individuals with symptoms. Open to all."
 days: Hours unknown
-ctaMessage: Schedule a test
-ctaUrl: "coronavirus.lacity.org/Testing"
+ctaMessage: Call 800-945-6171 
+ctaUrl: "tel:800-945-6171"
 ---
-## The Pomona Fairplex Gate 17
+## Harvest Christian Fellowship Church

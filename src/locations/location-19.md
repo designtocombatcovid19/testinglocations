@@ -1,25 +1,25 @@
 ---
 layout: base
-permalink: "locations/california/los-angeles/hotchkins-memorial-training-center/"
+permalink: "locations/california/northridge/northridge-hospital-medical-center/"
 tags: locations
-title: Hotchkins Memorial Training Center
+title: Northridge Hospital Medical Center
 state: California
 stateAbbr: CA
-hood: Los Angeles
-address: 1700 Stadium Way
-city: Los Angeles
-zip: 90012
-mapUrl: "http://maps.apple.com/?q=Hotchkins+Memorial+Training+Center&address=1700+Stadium+Way,Los+Angeles,California,90012"
+hood: Northridge
+address: 18300 Roscoe Boulevard
+city: Northridge
+zip: 91328
+mapUrl: "http://maps.apple.com/?q=Northridge+Hospital+Medical+Center&address=18300+Roscoe+Boulevard,Northridge,California,91328"
 locationType: Drive-thru
 phone: undefined
-website: https://docs.google.com/forms/d/e/1FAIpQLScO3zt_Ktf9LWCzvXJeojr3QfbtSI58X969-IP4mQvcs3fC0w/viewform
-onlineBooking: undefined
+website: https://lacovidprod.service-now.com/rrs
+onlineBooking: true
 closed: undefined
 closedUpdate: April 13th, 2020
-notes: "Only for individuals with symptoms. Employees only."
-days: Mondays
-hours: 9AM-Noon
-ctaMessage: Learn more
-ctaUrl: "https://docs.google.com/forms/d/e/1FAIpQLScO3zt_Ktf9LWCzvXJeojr3QfbtSI58X969-IP4mQvcs3fC0w/viewform"
+notes: "By appointment only."
+days: Weekdays
+hours: 8AM-4PM
+ctaMessage: Schedule a test
+ctaUrl: "https://lacovidprod.service-now.com/rrs"
 ---
-## Hotchkins Memorial Training Center
+## Northridge Hospital Medical Center

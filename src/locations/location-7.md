@@ -1,25 +1,24 @@
 ---
 layout: base
-permalink: "locations/california/los-angeles/carbon-health/"
+permalink: "locations/california/glendale/glendale-memorial-hospital/"
 tags: locations
-title: Carbon Health
+title: Glendale Memorial Hospital
 state: California
 stateAbbr: CA
-hood: Echo Park
-address: 2110 Sunset Blvd. Suite M
-city: Los Angeles
-zip: 90026
-mapUrl: "http://maps.apple.com/?q=Carbon+Health&address=2110+Sunset+Blvd+Suite+M,Los+Angeles,California,90026"
-locationType: Walk-in
+hood: Glendale
+address: 1420 S Central Ave
+city: Glendale
+zip: 91204
+mapUrl: "http://maps.apple.com/?q=Glendale+Memorial+Hospital&address=1420+S+Central+Ave,Glendale,California,91204"
+locationType: Drive-thru
 phone: undefined
-website: https://carbonhealth.com/echo-park
+website: https://lacovidprod.service-now.com/rrs
 onlineBooking: true
 closed: undefined
-closedUpdate: April 6th, 2020
-notes: "Privately owned."
-days: Everyday
-hours: 9AM-7PM
+closedUpdate: April 13th, 2020
+notes: "Requires doctor's referral. Prioritizes first responders."
+days: Hours unknown
 ctaMessage: Schedule a test
-ctaUrl: "https://carbonhealth.com/echo-park"
+ctaUrl: "https://lacovidprod.service-now.com/rrs"
 ---
-## Carbon Health
+## Glendale Memorial Hospital
