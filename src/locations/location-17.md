@@ -18,7 +18,7 @@ phone:  323-375-1986
 website: https://www.coronavirustestingla.com/
 onlineBooking: true
 closed: undefined
-closedUpdate: April 13th, 2020
+closedUpdate: April 14th, 2020
 notes: "Privately owned."
 days: Everyday
 hours: 8AM-5PM

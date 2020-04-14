@@ -18,7 +18,7 @@ phone: 660-258-2222
 website: http://www.phsmo.org/
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 13th, 2020
+closedUpdate: April 14th, 2020
 notes: "By appointment only. Only for individuals with symptoms. Requires phone screen."
 days: Hours unknown
 ctaMessage: Learn more

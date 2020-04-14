@@ -18,7 +18,7 @@ phone: 573-479-3065
 website: https://www.facebook.com/pages/category/Medical---Health/Bootheel-Urgent-Care-an-Walk-In-Clinic-114968296607148/
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 13th, 2020
+closedUpdate: April 14th, 2020
 notes: "By appointment only. Requires phone screen."
 days: Weekdays
 hours: 2PM-10PM

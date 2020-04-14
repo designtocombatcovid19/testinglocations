@@ -18,7 +18,7 @@ phone: 573-814-6000 / 573-814-6580
 website: https://www.columbiamo.va.gov/locations/directions.asp
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 13th, 2020
+closedUpdate: April 14th, 2020
 notes: "By appointment only. For previously established patients only."
 days: Hours unknown
 ctaMessage: Learn more

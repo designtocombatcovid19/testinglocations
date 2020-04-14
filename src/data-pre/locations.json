@@ -911,17 +911,29 @@
     "Verified": true
   },
   {
-    "Name": "Citizens Memorial Hospital ",
+    "Name": "Citizens Memorial Hospital - Butterfield Pharmacy",
     "Notes": [
       "By appointment only.",
       "Requires phone screen."
     ],
     "State": "Missouri",
-    "Address": "1500 North Oakland Ave.",
+    "Address": "1125 N. Butterfield Road",
     "City": "Bolivar",
     "Zip": "65613",
     "Phone": "417-328-4300",
-    "Website": "https://www.citizensmemorial.com/",
+    "Website": "https://www.citizensmemorial.com/about/media-resources/news/2020/cmh-to-offer-drive-thru-covid-19-testing-with-doctors-order.html",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "2PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
     "Verified": true
   },
   {
@@ -1050,6 +1062,9 @@
     "Zip": "63701",
     "Phone": "573-519-4983",
     "Website": "https://www.sehealth.org/patients-and-visitors/covid19-information",
+    "LocationType": [
+      "Walk-in"
+    ],
     "Verified": true
   },
   {
@@ -1067,6 +1082,9 @@
     "Zip": "63017",
     "Phone": "314-251-0500",
     "Website": "https://www.mercy.net/service/covid-19/",
+    "LocationType": [
+      "Drive-thru"
+    ],
     "Verified": true
   },
   {
@@ -1306,6 +1324,9 @@
     ],
     "AltOpensAt": "7AM",
     "AltClosesAt": "4:30PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
     "Verified": true
   },
   {

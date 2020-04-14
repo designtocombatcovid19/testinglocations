@@ -18,7 +18,7 @@ phone: 573-815-8000
 website: https://www.boone.org/covid
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 13th, 2020
+closedUpdate: April 14th, 2020
 notes: "Requires referral from a primary health provider. Requires doctor's referral. Only for individuals with symptoms. Requires phone screen."
 days: Weekdays
 hours: 7AM-7PM

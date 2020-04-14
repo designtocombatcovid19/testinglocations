@@ -18,7 +18,7 @@ phone: 505-287-4446
 website: www.cibolahospital.com
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 13th, 2020
+closedUpdate: April 14th, 2020
 notes: "By appointment only. Requires phone screen."
 days: Hours unknown
 ctaMessage: Learn more

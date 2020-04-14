@@ -18,7 +18,7 @@ phone: 505-395-5520
 website: https://nextcare.com/locations/nm/rio-rancho/
 onlineBooking: true
 closed: undefined
-closedUpdate: April 13th, 2020
+closedUpdate: April 14th, 2020
 notes: "For all members of the community."
 days: Weekends
 hours: 9 am-4PM

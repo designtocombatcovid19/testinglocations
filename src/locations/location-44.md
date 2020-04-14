@@ -18,7 +18,7 @@ phone: 660-646-1480
 website: undefined
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 13th, 2020
+closedUpdate: April 14th, 2020
 notes: "By appointment only. Requires doctor's referral. Must have fever and other symptoms."
 days: Hours unknown
 ctaMessage: Call 660-646-1480
