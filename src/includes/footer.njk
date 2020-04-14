@@ -1,13 +1,54 @@
-<footer class="p-8 mt-12">
+<footer class="p-8 px-12 mt-12">
+  <div class="md:flex">
+    <div class="justify-between flex-1 min-w-0 pb-10 sm:flex">
+      {# <h1 class="mb-6 text-xl font-medium tracking-wide text-center sm:text-left xl:pt-2 sm:text-3xl sm:font-medium xl:font-medium xl:text-3xl xl:tracking-wider">
+        {{ title }}
+      </h1> #}
+      <div class="block mt-1 text-3xl font-light sm:text-4xl sm:inline-block sm:mt-0 sm:ml-3">
+        <p class="md:hidden" aria-hidden="true">Made with ♡ by volunteers from <a class="border-b border-black" href="https://designtocombatcovid19.com">Design to Combat COVID-19</a>.</p>
+        <p class="hidden md:inline">Made with ♡ by volunteers from<br /><a class="border-b border-black" href="https://designtocombatcovid19.com">Design to Combat COVID-19</a>.</p>
+      </div>
+    </div>
+    <div class="flex pb-8 pr-6 mt-4 sm:pb-0 sm:py-6 md:py-0 md:mt-3 md:ml-4">
+      <div class="block text-xl font-light">
+        <p class="pb-5 sm:pt-1"><a class="border-b border-black hover:text-gray-500" href="mailto:locations@designtocombatcovid19.com?subject=COVID-19%20Test%20Finder">Contact us</a></p>
+        <p class="pb-5"><a class="border-b border-black hover:text-gray-500" href="/data-pre/locations.json">Get the raw data</a></p>
+      </div>
+      {# <a href="https://airtable.com/shrmOQv7rILN4NQO3">
+        <p class="text-xl font-light border-b border-black hover:text-gray-700">
+          Submit a testing location
+        </p>
+      </a> #}
+    </div>
+  </div>
+</footer>
+
+{# <footer class="p-8 px-12 mt-12">
+  <div class="container">
+    <div class="justify-between pb-10 sm:flex">
+      <div class="block mt-1 text-3xl font-light sm:text-4xl sm:inline-block sm:mt-0 sm:ml-3">
+        <p class="md:hidden" aria-hidden="true">Made with ♡ by volunteers from <a class="border-b border-black" href="https://designtocombatcovid19.com">Design to Combat COVID-19</a>.</p>
+        <p class="hidden md:inline">Made with ♡ by volunteers from<br /><a class="border-b border-black" href="https://designtocombatcovid19.com">Design to Combat COVID-19</a>.</p>
+      </div>
+
+      <div class="block text-xl font-light">
+        <p class="pb-4"><a class="border-b border-black hover:text-gray-500" href="mailto:locations@designtocombatcovid19.com?subject=COVID-19%20Test%20Finder">Contact us</a></p>
+        <p class=""><a class="border-b border-black hover:text-gray-500" href="/data-pre/locations.json">Get the raw data</a></p>
+      </div>
+    </div>
+  </div>
+</footer> #}
+
+{# <footer class="p-8 mt-12">
   <div class="container">
     <div class="justify-between sm:flex">
       <div class="block mt-1 text-sm text-center text-gray-600 sm:text-left sm:inline-block sm:mt-0 sm:ml-3">Made with ♡ by the volunteers behind <a href="https://designtocombatcovid19.com">Design to Combat COVID-19</a>.</div>
 
       {% if build.eleventyEnv === "development" %}
         <div class="mt-4 sm:mt-0">
-          <a class="block text-center sm:inline-block text-gray-500 text-sm hover:text-gray-900 mt-3 sm:mt-0 sm:ml-6" href="/debug/">debug</a>
+          <a class="block mt-3 text-sm text-center text-gray-500 sm:inline-block hover:text-gray-900 sm:mt-0 sm:ml-6" href="/debug/">debug</a>
         </div>
       {% endif %}
     </div>
   </div>
-</footer>
+</footer> #}
