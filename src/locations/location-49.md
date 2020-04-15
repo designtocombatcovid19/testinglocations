@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Bootheel Urgent Care in Hayti, Missouri, USA."
 permalink: "locations/missouri/hayti/bootheel-urgent-care/"
 tags:
   - locations
@@ -27,4 +28,3 @@ altHours: 10AM-6PM
 ctaMessage: Learn more
 ctaUrl: "https://www.facebook.com/pages/category/Medical---Health/Bootheel-Urgent-Care-an-Walk-In-Clinic-114968296607148/"
 ---
-## Bootheel Urgent Care

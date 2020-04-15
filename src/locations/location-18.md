@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Lincoln Park Recreation Center in Los Angeles, California, USA."
 permalink: "locations/california/los-angeles/lincoln-park-recreation-center/"
 tags:
   - locations
@@ -24,4 +25,3 @@ days: Hours unknown
 ctaMessage: Schedule a test
 ctaUrl: "https://lacovidprod.service-now.com/rrs"
 ---
-## Lincoln Park Recreation Center

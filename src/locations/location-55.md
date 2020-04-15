@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Thousand Oaks Imaging Center in Joplin, Missouri, USA."
 permalink: "locations/missouri/joplin/thousand-oaks-imaging-center/"
 tags:
   - locations
@@ -24,4 +25,3 @@ days: Hours unknown
 ctaMessage: Call 417-347-6444
 ctaUrl: "tel:417-347-6444"
 ---
-## Thousand Oaks Imaging Center

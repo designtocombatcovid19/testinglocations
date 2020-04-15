@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Lorton Immediate Care in Lorton, Virginia, USA."
 permalink: "locations/virginia/lorton/lorton-immediate-care/"
 tags:
   - locations
@@ -25,4 +26,3 @@ hours: Noon-1:30PM
 ctaMessage: Schedule a test
 ctaUrl: "https://allcarefamilymed.com/coronavirus"
 ---
-## Lorton Immediate Care

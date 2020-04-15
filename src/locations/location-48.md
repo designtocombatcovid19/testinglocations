@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at University Hospital in Columbia, Missouri, USA."
 permalink: "locations/missouri/columbia/university-hospital/"
 tags:
   - locations
@@ -27,4 +28,3 @@ altHours: 7AM-3PM
 ctaMessage: Learn more
 ctaUrl: "https://www.muhealth.org/our-stories/how-do-i-get-tested-covid-19?utm_source=website&utm_medium=homepage&utm_campaign=GetTested"
 ---
-## University Hospital 

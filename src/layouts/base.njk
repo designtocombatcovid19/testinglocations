@@ -22,7 +22,8 @@
     {%- if page.url == "/" -%}
       {% include "header-main.njk" %}
     {%- else -%}
-      {% include "header.njk"%}
+      {% include "header-main.njk" %}
+      {# {% include "header.njk"%} #}
     {%- endif -%}
 
     {% include "self-test-notice.njk" %}

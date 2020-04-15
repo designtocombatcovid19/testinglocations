@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at High Desert Medical Group Office in Lancaster, California, USA."
 permalink: "locations/california/lancaster/high-desert-medical-group-office/"
 tags:
   - locations
@@ -25,4 +26,3 @@ hours: 9AM-5PM
 ctaMessage: Schedule a test
 ctaUrl: "https://lacovidprod.service-now.com/rrs"
 ---
-## High Desert Medical Group Office

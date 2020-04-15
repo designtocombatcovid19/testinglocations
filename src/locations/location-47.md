@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Providence Urgent Care in Columbia, Missouri, USA."
 permalink: "locations/missouri/columbia/providence-urgent-care/"
 tags:
   - locations
@@ -25,4 +26,3 @@ hours: 9 am-8PM
 ctaMessage: Schedule a test
 ctaUrl: "https://nextcare.com/curbside/"
 ---
-## Providence Urgent Care

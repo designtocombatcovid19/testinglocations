@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at St. Luke's Desloge Outpatient Center in Chesterfield, Missouri, USA."
 permalink: "locations/missouri/chesterfield/st-lukes-desloge-outpatient-center/"
 tags:
   - locations
@@ -25,4 +26,3 @@ hours: 8AM-5PM
 ctaMessage: Schedule a test
 ctaUrl: "https://www.stlukes-stl.com/News-Releases/2020/St-Lukes-to-Open-Drive-Through-COVID-19-Testing-Site/"
 ---
-## St. Luke's Desloge Outpatient Center

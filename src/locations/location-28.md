@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Charlotte Hungerford Hospital in Torrington, Connecticut, USA."
 permalink: "locations/connecticut/torrington/charlotte-hungerford-hospital/"
 tags:
   - locations
@@ -25,4 +26,3 @@ hours: 8AM-Noon
 ctaMessage: Call 860-972-8100
 ctaUrl: "tel:860-972-8100"
 ---
-## Charlotte Hungerford Hospital

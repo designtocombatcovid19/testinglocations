@@ -58,8 +58,9 @@ function generatePost(location) {
   count += 1
   let cta = callToAction(location)
   let fileString = `---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at ${location.Name.trim()} in ${location.City}, ${location.State}, USA."
 permalink: "locations/${betterSlug(location.State)}/${betterSlug(location.City)}/${betterSlug(location.Name)}/"
 tags:
   - locations
@@ -81,8 +82,7 @@ closedUpdate: ${moment(location.LastClosedUpdate).format('MMMM Do, YYYY')}
 notes: "${collectNotes(location)}"
 ${hoursOfOperation(location)}
 ctaMessage: ${ctaMessage}
----
-## ${location.Name}`
+---`
 
   try {
     fs.writeFileSync(process.cwd() + `/src/locations/location-${count}.md`, fileString)

@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Urgent Care of Kansas City in Independence, Missouri, USA."
 permalink: "locations/missouri/independence/urgent-care-of-kansas-city/"
 tags:
   - locations
@@ -29,4 +30,3 @@ alt2Hours: 8:30AM-6PM
 ctaMessage: Schedule a test
 ctaUrl: "https://www.solvhealth.com/urgent-care-of-kansas-city-independence-mo-AGLeep"
 ---
-## Urgent Care of Kansas City

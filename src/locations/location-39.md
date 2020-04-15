@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Cameron Regional Medical Center, Inc. in Cameron, Missouri, USA."
 permalink: "locations/missouri/cameron/cameron-regional-medical-center-inc/"
 tags:
   - locations
@@ -25,4 +26,3 @@ hours: 8AM-8PM
 ctaMessage: Learn more
 ctaUrl: "https://cameronregional.org/"
 ---
-## Cameron Regional Medical Center, Inc.

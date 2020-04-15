@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at NextCare - Unser in Albuquerque, New Mexico, USA."
 permalink: "locations/new-mexico/albuquerque/nextcare-unser/"
 tags:
   - locations
@@ -27,4 +28,3 @@ altHours: 8AM-8PM
 ctaMessage: Schedule a test
 ctaUrl: "https://nextcare.com/locations/nm/urgent-care-clinic-albuquerque-new-mexico-unser/"
 ---
-## NextCare - Unser

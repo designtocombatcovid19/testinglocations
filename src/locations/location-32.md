@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Chesapeake College in Wye Mills, Maryland, USA."
 permalink: "locations/maryland/wye-mills/chesapeake-college/"
 tags:
   - locations
@@ -25,4 +26,3 @@ hours: 10AM-2PM
 ctaMessage: Learn more
 ctaUrl: "https://www.chesapeake.edu/coronavirus"
 ---
-## Chesapeake College

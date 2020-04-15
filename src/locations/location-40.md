@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Saint Francis Medical Center - Arena Park in Cape Giradeau, Missouri, USA."
 permalink: "locations/missouri/cape-giradeau/saint-francis-medical-center-arena-park/"
 tags:
   - locations
@@ -24,4 +25,3 @@ days: Hours unknown
 ctaMessage: Learn more
 ctaUrl: "https://www.sfmc.net/covid19/"
 ---
-## Saint Francis Medical Center - Arena Park

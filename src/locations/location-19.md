@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Northridge Hospital Medical Center in Northridge, California, USA."
 permalink: "locations/california/northridge/northridge-hospital-medical-center/"
 tags:
   - locations
@@ -25,4 +26,3 @@ hours: 8AM-4PM
 ctaMessage: Schedule a test
 ctaUrl: "https://lacovidprod.service-now.com/rrs"
 ---
-## Northridge Hospital Medical Center

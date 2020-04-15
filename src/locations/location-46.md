@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Harry S Truman Memorial Veterans Hospital in Columbia, Missouri, USA."
 permalink: "locations/missouri/columbia/harry-s-truman-memorial-veterans-hospital/"
 tags:
   - locations
@@ -24,4 +25,3 @@ days: Hours unknown
 ctaMessage: Learn more
 ctaUrl: "https://www.columbiamo.va.gov/locations/directions.asp"
 ---
-## Harry S Truman Memorial Veterans Hospital

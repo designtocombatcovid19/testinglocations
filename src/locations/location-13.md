@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at The West LA Veteran’s Administration Lot 15 in Los Angeles, California, USA."
 permalink: "locations/california/los-angeles/the-west-la-veterans-administration-lot-15/"
 tags:
   - locations
@@ -24,4 +25,3 @@ days: Open 24/7
 ctaMessage: Schedule a test
 ctaUrl: "https://lacovidprod.service-now.com/rrs"
 ---
-## The West LA Veteran’s Administration Lot 15

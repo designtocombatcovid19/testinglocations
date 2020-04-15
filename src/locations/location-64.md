@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at University of New Mexico Respiratory Care Center in Albuquerque, New Mexico, USA."
 permalink: "locations/new-mexico/albuquerque/university-of-new-mexico-respiratory-care-center/"
 tags:
   - locations
@@ -24,4 +25,3 @@ days: Hours unknown
 ctaMessage: Learn more
 ctaUrl: "https://hsc.unm.edu/covid-19/index.html"
 ---
-## University of New Mexico Respiratory Care Center

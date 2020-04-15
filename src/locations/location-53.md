@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Capital Region Medical Center - Capital Region Physicians - Primary Care Clinic in Jefferson City, Missouri, USA."
 permalink: "locations/missouri/jefferson-city/capital-region-medical-center-capital-region-physicians-primary-care-clinic/"
 tags:
   - locations
@@ -27,4 +28,3 @@ altHours: 10AM-4PM
 ctaMessage: Learn more
 ctaUrl: "https://www.crmc.org/patients-and-visitors/novel-coronavirus-covid-19/"
 ---
-## Capital Region Medical Center - Capital Region Physicians - Primary Care Clinic

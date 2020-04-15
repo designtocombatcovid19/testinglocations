@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at High St. Family Care Clinic in Butler, Missouri, USA."
 permalink: "locations/missouri/butler/high-st-family-care-clinic/"
 tags:
   - locations
@@ -29,4 +30,3 @@ alt2Hours: 8:30AM-11:30AM
 ctaMessage: Learn more
 ctaUrl: "http://www.bcmhospital.com/?page_id=556"
 ---
-## High St. Family Care Clinic

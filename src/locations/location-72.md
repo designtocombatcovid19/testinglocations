@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Guadalupe County Hospital in Santa Rosa, New Mexico, USA."
 permalink: "locations/new-mexico/santa-rosa/guadalupe-county-hospital/"
 tags:
   - locations
@@ -24,4 +25,3 @@ days: Hours unknown
 ctaMessage: Learn more
 ctaUrl: "https://www.gchnm.org/"
 ---
-## Guadalupe County Hospital

@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Chesapeake ERgent Care in Gambrills, Maryland, USA."
 permalink: "locations/maryland/gambrills/chesapeake-ergent-care/"
 tags:
   - locations
@@ -24,4 +25,3 @@ days: Hours unknown
 ctaMessage: Schedule a test
 ctaUrl: "https://www.chesapeakeergentcare.com/"
 ---
-## Chesapeake ERgent Care

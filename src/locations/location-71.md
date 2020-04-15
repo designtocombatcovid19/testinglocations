@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at NextCare - Rio Rancho in Rio Rancho, New Mexico, USA."
 permalink: "locations/new-mexico/rio-rancho/nextcare-rio-rancho/"
 tags:
   - locations
@@ -27,4 +28,3 @@ altHours: 8AM-8PM
 ctaMessage: Schedule a test
 ctaUrl: "https://nextcare.com/locations/nm/rio-rancho/"
 ---
-## NextCare - Rio Rancho

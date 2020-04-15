@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Hotchkins Memorial Training Center in Los Angeles, California, USA."
 permalink: "locations/california/los-angeles/hotchkins-memorial-training-center/"
 tags:
   - locations
@@ -25,4 +26,3 @@ hours: 9AM-Noon
 ctaMessage: Learn more
 ctaUrl: "https://docs.google.com/forms/d/e/1FAIpQLScO3zt_Ktf9LWCzvXJeojr3QfbtSI58X969-IP4mQvcs3fC0w/viewform"
 ---
-## Hotchkins Memorial Training Center

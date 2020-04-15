@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at County College of Morris in Randolph, New Jersey, USA."
 permalink: "locations/new-jersey/randolph/county-college-of-morris/"
 tags:
   - locations
@@ -24,4 +25,3 @@ days: Hours unknown
 ctaMessage: Schedule a test
 ctaUrl: "https://booknow.appointment-plus.com/b8hq2y7k/"
 ---
-## County College of Morris

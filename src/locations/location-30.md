@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at AllCare of Ellicot City in Ellicot City, Maryland, USA."
 permalink: "locations/maryland/ellicot-city/allcare-of-ellicot-city/"
 tags:
   - locations
@@ -25,4 +26,3 @@ hours: Noon-1PM
 ctaMessage: Schedule a test
 ctaUrl: "https://allcarefamilymed.com/coronavirus"
 ---
-## AllCare of Ellicot City

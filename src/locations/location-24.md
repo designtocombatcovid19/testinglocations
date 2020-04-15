@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at STRIDE CHC- Aurora Health & Wellness Plaza in Aurora, Colorado, USA."
 permalink: "locations/colorado/aurora/stride-chc-aurora-health-and-wellness-plaza/"
 tags:
   - locations
@@ -25,4 +26,3 @@ hours: 9AM-4PM
 ctaMessage: Learn more
 ctaUrl: "https://stridechc.org/"
 ---
-## STRIDE CHC- Aurora Health & Wellness Plaza

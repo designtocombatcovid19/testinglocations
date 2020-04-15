@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Ross Bridge Medical Center in Hoover, Alabama, USA."
 permalink: "locations/alabama/hoover/ross-bridge-medical-center/"
 tags:
   - locations
@@ -25,4 +26,3 @@ hours: 9AM-4:30PM
 ctaMessage: Schedule a test
 ctaUrl: "https://www.rossbridgemedicalcenter.com/"
 ---
-## Ross Bridge Medical Center

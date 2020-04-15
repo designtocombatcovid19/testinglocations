@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Kean University in Union, New Jersey, USA."
 permalink: "locations/new-jersey/union/kean-university/"
 tags:
   - locations
@@ -27,4 +28,3 @@ altHours: 9AM-2PM
 ctaMessage: Learn more
 ctaUrl: "https://ucnj.org/"
 ---
-## Kean University

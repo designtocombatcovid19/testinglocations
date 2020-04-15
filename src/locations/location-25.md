@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at STRIDE CHC- Jeffco Family Health Services Center in Wheat Ridge, Colorado, USA."
 permalink: "locations/colorado/wheat-ridge/stride-chc-jeffco-family-health-services-center/"
 tags:
   - locations
@@ -27,4 +28,3 @@ altHours: 9AM-1PM
 ctaMessage: Learn more
 ctaUrl: "https://stridechc.org/"
 ---
-## STRIDE CHC- Jeffco Family Health Services Center 

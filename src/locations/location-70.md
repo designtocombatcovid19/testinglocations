@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Cibola General Hospital in Grants, New Mexico, USA."
 permalink: "locations/new-mexico/grants/cibola-general-hospital/"
 tags:
   - locations
@@ -24,4 +25,3 @@ days: Hours unknown
 ctaMessage: Learn more
 ctaUrl: "www.cibolahospital.com"
 ---
-## Cibola General Hospital

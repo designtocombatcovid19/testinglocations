@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at AllCare - Glen Echo in Bethesda, Maryland, USA."
 permalink: "locations/maryland/bethesda/allcare-glen-echo/"
 tags:
   - locations
@@ -25,4 +26,3 @@ hours: Noon-1PM
 ctaMessage: Schedule a test
 ctaUrl: "https://allcarefamilymed.com/coronavirus"
 ---
-## AllCare - Glen Echo

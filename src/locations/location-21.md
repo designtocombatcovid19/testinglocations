@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at The Pomona Fairplex Gate 17 in Pomona, California, USA."
 permalink: "locations/california/pomona/the-pomona-fairplex-gate-17/"
 tags:
   - locations
@@ -24,4 +25,3 @@ days: Hours unknown
 ctaMessage: Schedule a test
 ctaUrl: "coronavirus.lacity.org/Testing"
 ---
-## The Pomona Fairplex Gate 17

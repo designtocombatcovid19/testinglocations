@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Rehoboth McKinley Christian Health Services in Gallup, New Mexico, USA."
 permalink: "locations/new-mexico/gallup/rehoboth-mckinley-christian-health-services/"
 tags:
   - locations
@@ -25,4 +26,3 @@ hours: 8AM-7PM
 ctaMessage: Learn more
 ctaUrl: "http://www.rmch.org/"
 ---
-## Rehoboth McKinley Christian Health Services

@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Bristol Health in Bristol, Connecticut, USA."
 permalink: "locations/connecticut/bristol/bristol-health/"
 tags:
   - locations
@@ -25,4 +26,3 @@ hours: 8AM-4PM
 ctaMessage: Call 860-261-6855 
 ctaUrl: "tel:860-261-6855"
 ---
-## Bristol Health

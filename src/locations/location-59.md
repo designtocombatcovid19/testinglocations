@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Weequahik Park Drive in Newark, New Jersey, USA."
 permalink: "locations/new-jersey/newark/weequahik-park-drive/"
 tags:
   - locations
@@ -24,4 +25,3 @@ days: Hours unknown
 ctaMessage: Learn more
 ctaUrl: "https://essexcovid.org"
 ---
-## Weequahik Park Drive

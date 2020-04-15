@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Hermann Area District Hospital in Hermann, Missouri, USA."
 permalink: "locations/missouri/hermann/hermann-area-district-hospital/"
 tags:
   - locations
@@ -24,4 +25,3 @@ days: Hours unknown
 ctaMessage: Learn more
 ctaUrl: "https://www.hadh.org/news-events/news-releases/press-release-covid-19-testing"
 ---
-## Hermann Area District Hospital

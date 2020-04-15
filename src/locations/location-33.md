@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Cape Cod Community College in West Barnstable, Massachusetts, USA."
 permalink: "locations/massachusetts/west-barnstable/cape-cod-community-college/"
 tags:
   - locations
@@ -25,4 +26,3 @@ hours: 8AM-6PM
 ctaMessage: Learn more
 ctaUrl: "https://www.capecodhealth.org/medical-services/infectious-disease/coronavirus/covid-19-testing-process/"
 ---
-## Cape Cod Community College

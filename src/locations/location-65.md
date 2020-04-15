@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at OPTUM in Albuquerque, New Mexico, USA."
 permalink: "locations/new-mexico/albuquerque/optum/"
 tags:
   - locations
@@ -25,4 +26,3 @@ hours: 7AM-5PM
 ctaMessage: Learn more
 ctaUrl: "https://abqhp.com/clinic/58"
 ---
-## OPTUM 

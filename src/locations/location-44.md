@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Hedrick Medical Center in Chillicothe, Missouri, USA."
 permalink: "locations/missouri/chillicothe/hedrick-medical-center/"
 tags:
   - locations
@@ -24,4 +25,3 @@ days: Hours unknown
 ctaMessage: Call 660-646-1480
 ctaUrl: "tel:660-646-1480"
 ---
-## Hedrick Medical Center

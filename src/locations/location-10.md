@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Diamond Stadium Lot C in Lake Elsinore, California, USA."
 permalink: "locations/california/lake-elsinore/diamond-stadium-lot-c/"
 tags:
   - locations
@@ -25,4 +26,3 @@ hours: 9:30AM-3PM
 ctaMessage: Schedule a test
 ctaUrl: "https://www.projectbaseline.com/study/covid-19/"
 ---
-## Diamond Stadium Lot C

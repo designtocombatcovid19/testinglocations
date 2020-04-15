@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Boone Hospital Center in Columbia, Missouri, USA."
 permalink: "locations/missouri/columbia/boone-hospital-center/"
 tags:
   - locations
@@ -27,4 +28,3 @@ altHours: 8AM-Noon
 ctaMessage: Learn more
 ctaUrl: "https://www.boone.org/covid"
 ---
-## Boone Hospital Center

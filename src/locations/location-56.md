@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at First Point Urgent Care in Kansas City, Missouri, USA."
 permalink: "locations/missouri/kansas-city/first-point-urgent-care/"
 tags:
   - locations
@@ -29,4 +30,3 @@ alt2Hours: 10AM-5PM
 ctaMessage: Learn more
 ctaUrl: "firstpointurgentcare.org"
 ---
-## First Point Urgent Care

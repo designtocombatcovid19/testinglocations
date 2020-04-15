@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Union County General Hospital in Clayton, New Mexico, USA."
 permalink: "locations/new-mexico/clayton/union-county-general-hospital/"
 tags:
   - locations
@@ -24,4 +25,3 @@ days: Hours unknown
 ctaMessage: Learn more
 ctaUrl: "http://ucgh.net/"
 ---
-## Union County General Hospital

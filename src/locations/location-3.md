@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at DCH Regional Medical Center in East Tuscaloosa, Alabama, USA."
 permalink: "locations/alabama/east-tuscaloosa/dch-regional-medical-center/"
 tags:
   - locations
@@ -29,4 +30,3 @@ alt2Hours: 2PM-5PM
 ctaMessage: Learn more
 ctaUrl: "https://www.dchsystem.com/Articles/dch_to_offer_remote_screening_facility_for_coronavirus.aspx"
 ---
-## DCH Regional Medical Center

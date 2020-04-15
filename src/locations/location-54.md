@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at St. Mary's Hospital in Jefferson City, Missouri, USA."
 permalink: "locations/missouri/jefferson-city/st-marys-hospital/"
 tags:
   - locations
@@ -24,4 +25,3 @@ days: Hours unknown
 ctaMessage: Learn more
 ctaUrl: "https://www.ssmhealth.com/coronavirus-updates"
 ---
-## St. Mary's Hospital

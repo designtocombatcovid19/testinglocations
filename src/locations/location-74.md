@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Holy Cross Hospital in Taos, New Mexico, USA."
 permalink: "locations/new-mexico/taos/holy-cross-hospital/"
 tags:
   - locations
@@ -24,4 +25,3 @@ days: Hours unknown
 ctaMessage: Learn more
 ctaUrl: "https://holycrossmedicalcenter.org/"
 ---
-## Holy Cross Hospital 

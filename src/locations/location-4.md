@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Gadsden Regional Medical Center in Gadsden, Alabama, USA."
 permalink: "locations/alabama/gadsden/gadsden-regional-medical-center/"
 tags:
   - locations
@@ -24,4 +25,3 @@ days: Open 24/7
 ctaMessage: Call 877-696-3972
 ctaUrl: "tel:877-696-3972"
 ---
-## Gadsden Regional Medical Center

@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Bridgeport Hospital in Bridgeport, Connecticut, USA."
 permalink: "locations/connecticut/bridgeport/bridgeport-hospital/"
 tags:
   - locations
@@ -24,4 +25,3 @@ days: Open 24/7
 ctaMessage: Call 203-384-3000
 ctaUrl: "tel:203-384-3000"
 ---
-## Bridgeport Hospital

@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at The Antelope Valley Mall in Palmdale, California, USA."
 permalink: "locations/california/palmdale/the-antelope-valley-mall/"
 tags:
   - locations
@@ -24,4 +25,3 @@ days: Hours unknown
 ctaMessage: Schedule a test
 ctaUrl: "https://corona-virus.la/"
 ---
-## The Antelope Valley Mall

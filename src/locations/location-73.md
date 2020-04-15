@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Silver City Health Care Clinic in Silver City, New Mexico, USA."
 permalink: "locations/new-mexico/silver-city/silver-city-health-care-clinic/"
 tags:
   - locations
@@ -25,4 +26,3 @@ hours: 4PM-5PM
 ctaMessage: Learn more
 ctaUrl: "https://www.silverhealthcare.org/"
 ---
-## Silver City Health Care Clinic

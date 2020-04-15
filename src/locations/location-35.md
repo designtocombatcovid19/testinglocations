@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Citizens Memorial Hospital - Butterfield Pharmacy in Bolivar, Missouri, USA."
 permalink: "locations/missouri/bolivar/citizens-memorial-hospital-butterfield-pharmacy/"
 tags:
   - locations
@@ -25,4 +26,3 @@ hours: 10AM-2PM
 ctaMessage: Learn more
 ctaUrl: "https://www.citizensmemorial.com/about/media-resources/news/2020/cmh-to-offer-drive-thru-covid-19-testing-with-doctors-order.html"
 ---
-## Citizens Memorial Hospital - Butterfield Pharmacy

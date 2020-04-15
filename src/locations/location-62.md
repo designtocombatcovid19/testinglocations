@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Hudson Regional Hospital in Secaucus, New Jersey, USA."
 permalink: "locations/new-jersey/secaucus/hudson-regional-hospital/"
 tags:
   - locations
@@ -24,4 +25,3 @@ days: Open 24/7
 ctaMessage: Learn more
 ctaUrl: "https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus"
 ---
-## Hudson Regional Hospital 

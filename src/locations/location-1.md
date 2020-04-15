@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at RMC Health System in Anniston, Alabama, USA."
 permalink: "locations/alabama/anniston/rmc-health-system/"
 tags:
   - locations
@@ -25,4 +26,3 @@ hours: 8:30AM-4:30PM
 ctaMessage: Call 256-235-5600
 ctaUrl: "tel:256-235-5600"
 ---
-## RMC Health System

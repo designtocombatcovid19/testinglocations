@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Lake Otis Pkwy & E 42nd in Anchorage, Alaska, USA."
 permalink: "locations/alaska/anchorage/lake-otis-pkwy-and-e-42nd/"
 tags:
   - locations
@@ -24,4 +25,3 @@ days: Everyday
 hours: 9AM-7PM
 ctaMessage: No contact info available.
 ---
-## Lake Otis Pkwy & E 42nd

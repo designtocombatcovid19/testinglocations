@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at The University of Alabama Hospital in Birmingham, Alabama, USA."
 permalink: "locations/alabama/birmingham/the-university-of-alabama-hospital/"
 tags:
   - locations
@@ -25,4 +26,3 @@ hours: 9AM-1:30PM
 ctaMessage: Call 205-975-1881
 ctaUrl: "tel:205-975-1881"
 ---
-## The University of Alabama Hospital

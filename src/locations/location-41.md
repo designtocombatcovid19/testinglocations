@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Southeast Hospital in Cape Girardeau, Missouri, USA."
 permalink: "locations/missouri/cape-girardeau/southeast-hospital/"
 tags:
   - locations
@@ -24,4 +25,3 @@ days: Hours unknown
 ctaMessage: Learn more
 ctaUrl: "https://www.sehealth.org/patients-and-visitors/covid19-information"
 ---
-## Southeast Hospital

@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Mercy Clinic Primary Care in Hillsboro, Missouri, USA."
 permalink: "locations/missouri/hillsboro/mercy-clinic-primary-care/"
 tags:
   - locations
@@ -27,4 +28,3 @@ altHours: 7AM-4:30PM
 ctaMessage: Learn more
 ctaUrl: "https://www.mercy.net/service/covid-19/"
 ---
-## Mercy Clinic Primary Care

@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Curtis R. Tucker Public Health Center in Inglewood, California, USA."
 permalink: "locations/california/inglewood/curtis-r-tucker-public-health-center/"
 tags:
   - locations
@@ -24,4 +25,3 @@ days: Weekdays
 hours: 8AM-4:30PM
 ctaMessage: No contact info available.
 ---
-## Curtis R. Tucker Public Health Center

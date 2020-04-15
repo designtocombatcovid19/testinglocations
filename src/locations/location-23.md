@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Harvest Christian Fellowship Church in Riverside, California, USA."
 permalink: "locations/california/riverside/harvest-christian-fellowship-church/"
 tags:
   - locations
@@ -24,4 +25,3 @@ days: Hours unknown
 ctaMessage: Call 800-945-6171 
 ctaUrl: "tel:800-945-6171"
 ---
-## Harvest Christian Fellowship Church

@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Riverside County Fairgrounds in Indio, California, USA."
 permalink: "locations/california/indio/riverside-county-fairgrounds/"
 tags:
   - locations
@@ -25,4 +26,3 @@ hours: 9AM-3PM
 ctaMessage: Call 800-945-6171
 ctaUrl: "tel:800-945-6171"
 ---
-## Riverside County Fairgrounds

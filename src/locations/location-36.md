@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Ozark Valley Medical Clinic in Branson, Missouri, USA."
 permalink: "locations/missouri/branson/ozark-valley-medical-clinic/"
 tags:
   - locations
@@ -24,4 +25,3 @@ days: Hours unknown
 ctaMessage: Learn more
 ctaUrl: "http://www.ozarkvalleymedical.com/"
 ---
-## Ozark Valley Medical Clinic

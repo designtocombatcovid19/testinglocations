@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: location-page
 date: Last Modified
+description: "Local COVID-19 testing is available at Los Angeles Center for Ear, Nose, Throat and Allergy in Los Angeles, California, USA."
 permalink: "locations/california/los-angeles/los-angeles-center-for-ear-nose-throat-and-allergy/"
 tags:
   - locations
@@ -25,4 +26,3 @@ hours: 8AM-5PM
 ctaMessage: Schedule a test
 ctaUrl: "https://www.coronavirustestingla.com/"
 ---
-## Los Angeles Center for Ear, Nose, Throat and Allergy

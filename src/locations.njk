@@ -1,0 +1,10 @@
+---
+layout: base
+title: Locations
+---
+
+<section class="p-8 sm:p-12 xl:p-16">
+  {%- for tag, locations in collections | dictsort %}
+    <p class="py-2 text-2xl"><a href="{{ tag | slug }}/">{{ tag }}</a>: {{ locations | length }} testing locations</p>
+  {%- endfor %}
+</section>
