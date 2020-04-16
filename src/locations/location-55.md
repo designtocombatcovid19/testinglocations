@@ -19,7 +19,7 @@ phone: 417-347-6444
 website: undefined
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
+closedUpdate: April 15th, 2020
 notes: "By appointment only. Requires doctor's referral. Only for individuals with symptoms. Requires phone screen."
 days: Hours unknown
 ctaMessage: Call 417-347-6444

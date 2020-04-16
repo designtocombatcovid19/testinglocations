@@ -19,7 +19,7 @@ phone: 573-874-6824
 website: https://nextcare.com/curbside/
 onlineBooking: true
 closed: undefined
-closedUpdate: April 14th, 2020
+closedUpdate: April 15th, 2020
 notes: ""
 days: Everyday
 hours: 9 am-8PM

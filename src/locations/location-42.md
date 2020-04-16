@@ -19,7 +19,7 @@ phone: 314-251-0500
 website: https://www.mercy.net/service/covid-19/
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
+closedUpdate: April 15th, 2020
 notes: "By appointment only. Only for individuals with symptoms. Limited test kits available. Requires phone screen. Requires doctor's referral."
 days: Hours unknown
 ctaMessage: Learn more

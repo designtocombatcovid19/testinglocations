@@ -19,7 +19,7 @@ phone: 505-272-2411
 website: https://hsc.unm.edu/covid-19/index.html
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
+closedUpdate: April 15th, 2020
 notes: "Requires phone screen."
 days: Hours unknown
 ctaMessage: Learn more

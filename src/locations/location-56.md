@@ -19,7 +19,7 @@ phone: 816-505-3660
 website: firstpointurgentcare.org
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
+closedUpdate: April 15th, 2020
 notes: "By appointment only. Only for individuals with symptoms. Requires phone screen."
 days: Weekdays
 hours: 9 am-8PM

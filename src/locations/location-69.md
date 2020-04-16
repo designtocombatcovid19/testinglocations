@@ -19,7 +19,7 @@ phone: 505-236-1074
 website: http://www.rmch.org/
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
+closedUpdate: April 15th, 2020
 notes: "By appointment only. Requires phone screen."
 days: Everyday
 hours: 8AM-7PM

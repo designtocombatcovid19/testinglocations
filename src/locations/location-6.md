@@ -19,7 +19,7 @@ phone: undefined
 website: undefined
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
+closedUpdate: April 15th, 2020
 notes: "Free. Requires doctor's referral."
 days: Everyday
 hours: 9AM-7PM

@@ -19,7 +19,7 @@ phone: 505-800-7077
 website: https://nextcare.com/locations/nm/petroglyph/
 onlineBooking: true
 closed: undefined
-closedUpdate: April 14th, 2020
+closedUpdate: April 15th, 2020
 notes: "For all members of the community."
 days: Weekends
 hours: 9 am-4PM

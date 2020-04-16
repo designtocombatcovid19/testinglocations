@@ -19,7 +19,7 @@ phone: 860-972-8100
 website: undefined
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
+closedUpdate: April 15th, 2020
 notes: "Requires doctor's referral. Requires phone screen."
 days: Everyday
 hours: 8AM-Noon

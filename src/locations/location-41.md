@@ -19,7 +19,7 @@ phone: 573-519-4983
 website: https://www.sehealth.org/patients-and-visitors/covid19-information
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
+closedUpdate: April 15th, 2020
 notes: "By appointment only. Requires phone screen."
 days: Hours unknown
 ctaMessage: Learn more

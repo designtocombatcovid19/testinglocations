@@ -19,7 +19,7 @@ phone: 573-331-4200
 website: https://www.sfmc.net/covid19/
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
+closedUpdate: April 15th, 2020
 notes: "By appointment only. Only for individuals with symptoms. Requires phone screen."
 days: Hours unknown
 ctaMessage: Learn more

@@ -19,7 +19,7 @@ phone: 310-478-3711
 website: https://lacovidprod.service-now.com/rrs
 onlineBooking: true
 closed: undefined
-closedUpdate: April 14th, 2020
+closedUpdate: April 15th, 2020
 notes: "By appointment only."
 days: Open 24/7
 ctaMessage: Schedule a test

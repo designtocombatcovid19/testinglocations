@@ -19,7 +19,7 @@ phone: 417-328-4300
 website: https://www.citizensmemorial.com/about/media-resources/news/2020/cmh-to-offer-drive-thru-covid-19-testing-with-doctors-order.html
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
+closedUpdate: April 15th, 2020
 notes: "By appointment only. Requires phone screen."
 days: Weekdays
 hours: 10AM-2PM

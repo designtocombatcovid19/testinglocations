@@ -19,7 +19,7 @@ phone: undefined
 website: https://lacovidprod.service-now.com/rrs
 onlineBooking: true
 closed: undefined
-closedUpdate: April 14th, 2020
+closedUpdate: April 15th, 2020
 notes: "By appointment only. Only for individuals with symptoms."
 days: Hours unknown
 ctaMessage: Schedule a test

@@ -19,7 +19,7 @@ phone: 703-339-5858
 website: https://allcarefamilymed.com/coronavirus
 onlineBooking: true
 closed: undefined
-closedUpdate: April 14th, 2020
+closedUpdate: April 15th, 2020
 notes: "By appointment only. For all members of the community. Requires phone screen."
 days: Everyday
 hours: Noon-1:30PM
