@@ -43,7 +43,7 @@ buttonSecondUrl: /submit/
                 </div>
 
                 {% if (location.data.address) %}
-                  <div class="w-1/2 px-4 my-4 overflow-hidden sm:w-3/12 md:w-3/12">
+                  <div class="w-1/2 pl-4 my-4 overflow-hidden sm:px-4 sm:w-3/12 md:w-3/12">
                     <a class="" href="{{ location.data.mapUrl }}"><address class="not-italic address"><span class="font-semibold lg:font-medium">{{ location.data.title }}</span><br/>{{ location.data.address }}<br/>{{ location.data.city }}, {{ location.data.stateAbbr }} {{ location.data.zip }}</address></a>
                   </div>
                 {% else %}
@@ -52,7 +52,7 @@ buttonSecondUrl: /submit/
                   </div>
                 {% endif %}
 
-                <div class="w-1/2 px-4 my-4 overflow-hidden sm:w-3/12 md:w-2/12">
+                <div class="w-1/2 my-4 overflow-hidden sm:px-4 sm:w-3/12 md:w-2/12">
                   <p class="font-semibold lg:font-medium days">{{ location.data.days }}</p>
                   <p class="hours">{{ location.data.hours }}</p>
                   <p class="font-semibold lg:font-medium altDays">{{ location.data.altDays }}</p>
@@ -61,7 +61,7 @@ buttonSecondUrl: /submit/
                   <p class="alt2Hours">{{ location.data.alt2Hours }}</p>
                 </div>
 
-                <div class="w-1/2 px-4 my-4 overflow-hidden sm:w-4/12 md:w-3/12">
+                <div class="w-1/2 pl-4 my-4 overflow-hidden md:px-4 sm:w-4/12 md:w-3/12">
                   {% if location.data.closed === true %}
                     <p class="font-semibold lg:font-medium closed text-red">CLOSED FOR TESTING</p>
                     <p class="closed text-red">Last updated {{ location.data.closedUpdate }}.</p>
@@ -71,7 +71,7 @@ buttonSecondUrl: /submit/
                   {% endif%}
                 </div>
 
-                <div class="w-full my-4 overflow-hidden md:px-4 sm:w-2/10 md:w-2/12">
+                <div class="w-full my-4 overflow-hidden md:pl-4 sm:w-2/10 md:w-2/12">
                   {% if (location.data.ctaUrl) %}
                     <a class="border-b border-black learn-more hover:text-gray-700 hover:border-gray-700" href="{{ location.data.ctaUrl }}">{{ location.data.ctaMessage }}</a>
                   {% else %}
