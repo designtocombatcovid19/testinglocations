@@ -40,6 +40,7 @@ buttonSecondUrl: /submit/
                   <p class="font-semibold lg:font-medium state">{{ location.data.state }}</p>
                   <p class="hood">{{ location.data.hood }}</p>
                   <p class="hidden city" aria-hidden="true">{{ location.data.city }}</p>
+                  <p class="hidden stateAbbr" aria-hidden="true">{{ location.data.stateAbbr }}</p>
                 </div>
 
                 {% if (location.data.address) %}
@@ -89,7 +90,7 @@ buttonSecondUrl: /submit/
 
 <script>
   var options = {
-    valueNames: [ 'state', 'hood', 'city' ]
+    valueNames: [ 'state', 'hood', 'city', 'stateAbbr' ]
   };
   var testingList = new List('testing-list', options);
 </script>
