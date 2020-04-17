@@ -1,28 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Alexandria Immediate Care in Alexandria, Virginia, USA."
-permalink: "locations/virginia/alexandria/alexandria-immediate-care/"
+description: "Local COVID-19 testing is available at Kean University in Union, New Jersey, USA."
+permalink: "locations/new-jersey/union/kean-university/"
 tags:
   - locations
-  - virginia
-title: Alexandria Immediate Care
-state: Virginia
-stateAbbr: VA
-hood: Alexandria
-address: 6020 Richmond Hwy
-city: Alexandria
-zip: 22303
-mapUrl: "http://maps.apple.com/?q=Alexandria+Immediate+Care&address=6020+Richmond+Hwy,Alexandria,Virginia,22303"
+  - new-jersey
+title: Kean University
+state: New Jersey
+stateAbbr: NJ
+hood: "Union County"
+address: "1000 Morris Ave"
+city: "Union"
+zip: "07083"
+mapUrl: "http://maps.apple.com/?q=Kean+University&address=1000+Morris+Ave,Union,New+Jersey,07083"
 locationType: Drive-thru
-phone: 571-308-6776
-website: https://allcarefamilymed.com/coronavirus
-onlineBooking: true
+phone: "908-373-5105 / 908-214-7107"
+website: "https://ucnj.org/"
+onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "By appointment only. For all members of the community. Requires phone screen."
-days: Everyday
-hours: Noon-1:30PM
-ctaMessage: Schedule a test
-ctaUrl: "https://allcarefamilymed.com/coronavirus"
+closedUpdate: April 16th, 2020
+notes: "By appointment only. Requires doctor's referral. Only for individuals with symptoms. Local residents only. Prioritizes health care workers. Prioritizes first responders. Requires phone screen."
+days: Weekdays
+hours: 9AM-5PM
+altDays: Saturdays
+altHours: 9AM-2PM
+ctaMessage: Learn more
+ctaUrl: "https://ucnj.org/"
 ---

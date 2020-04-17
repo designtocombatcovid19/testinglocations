@@ -1,27 +1,27 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Saint Luke's Hospital in Blue Springs, Missouri, USA."
-permalink: "locations/missouri/blue-springs/saint-lukes-hospital/"
+description: "Local COVID-19 testing is available at Chesapeake ERgent Care in Gambrills, Maryland, USA."
+permalink: "locations/maryland/gambrills/chesapeake-ergent-care/"
 tags:
   - locations
-  - missouri
-title: Saint Luke's Hospital
-state: Missouri
-stateAbbr: MO
-hood: Blue Springs
-address: 600 NE Adams Dairy Pkwy
-city: Blue Springs
-zip: 64014
-mapUrl: "http://maps.apple.com/?q=Saint+Lukes+Hospital&address=600+NE+Adams+Dairy+Pkwy,Blue+Springs,Missouri,64014"
+  - maryland
+title: Chesapeake ERgent Care
+state: Maryland
+stateAbbr: MD
+hood: "Gambrills"
+address: "1071 MD-3 North, Suite 101"
+city: "Gambrills"
+zip: "21054"
+mapUrl: "http://maps.apple.com/?q=Chesapeake+ERgent+Care&address=1071+MD-3+North+Suite+101,Gambrills,Maryland,21054"
 locationType: Drive-thru
-phone: 816-251-6100
-website: https://www.saintlukeskc.org/about/news/saint-lukes-news-three-covid-19-drive-thru-testing-sites-set-qualifying-saint-lukes
-onlineBooking: undefined
+phone: "410-721-2333"
+website: "https://www.chesapeakeergentcare.com/"
+onlineBooking: true
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "By appointment only. Requires doctor's referral. Must have fever and other symptoms."
+closedUpdate: April 16th, 2020
+notes: "By appointment only. Requires doctor's referral."
 days: Hours unknown
-ctaMessage: Learn more
-ctaUrl: "https://www.saintlukeskc.org/about/news/saint-lukes-news-three-covid-19-drive-thru-testing-sites-set-qualifying-saint-lukes"
+ctaMessage: Schedule a test
+ctaUrl: "https://www.chesapeakeergentcare.com/"
 ---

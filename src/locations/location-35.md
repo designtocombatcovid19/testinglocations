@@ -1,28 +1,28 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Citizens Memorial Hospital - Butterfield Pharmacy in Bolivar, Missouri, USA."
-permalink: "locations/missouri/bolivar/citizens-memorial-hospital-butterfield-pharmacy/"
+description: "Local COVID-19 testing is available at Chesapeake College in Wye Mills, Maryland, USA."
+permalink: "locations/maryland/wye-mills/chesapeake-college/"
 tags:
   - locations
-  - missouri
-title: Citizens Memorial Hospital - Butterfield Pharmacy
-state: Missouri
-stateAbbr: MO
-hood: Bolivar
-address: 1125 N. Butterfield Road
-city: Bolivar
-zip: 65613
-mapUrl: "http://maps.apple.com/?q=Citizens+Memorial+Hospital+-+Butterfield+Pharmacy&address=1125+N+Butterfield+Road,Bolivar,Missouri,65613"
+  - maryland
+title: Chesapeake College
+state: Maryland
+stateAbbr: MD
+hood: "Queen Anne's County"
+address: "1000 College Circle"
+city: "Wye Mills"
+zip: "21679"
+mapUrl: "http://maps.apple.com/?q=Chesapeake+College&address=1000+College+Circle,Wye+Mills,Maryland,21679"
 locationType: Drive-thru
-phone: 417-328-4300
-website: https://www.citizensmemorial.com/about/media-resources/news/2020/cmh-to-offer-drive-thru-covid-19-testing-with-doctors-order.html
+phone: "443-262-9900 (M - F 8 AM - 4:30 PM)"
+website: "https://www.chesapeake.edu/coronavirus"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "By appointment only. Requires phone screen."
-days: Weekdays
+closedUpdate: April 16th, 2020
+notes: "Requires doctor's referral."
+days: M, W, F
 hours: 10AM-2PM
 ctaMessage: Learn more
-ctaUrl: "https://www.citizensmemorial.com/about/media-resources/news/2020/cmh-to-offer-drive-thru-covid-19-testing-with-doctors-order.html"
+ctaUrl: "https://www.chesapeake.edu/coronavirus"
 ---

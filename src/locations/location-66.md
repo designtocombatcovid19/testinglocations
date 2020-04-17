@@ -1,30 +1,27 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at NextCare - Petroglyph in Albuquerque, New Mexico, USA."
-permalink: "locations/new-mexico/albuquerque/nextcare-petroglyph/"
+description: "Local COVID-19 testing is available at Jersey City in Jersey City, New Jersey, USA."
+permalink: "locations/new-jersey/jersey-city/jersey-city/"
 tags:
   - locations
-  - new-mexico
-title: NextCare - Petroglyph
-state: New Mexico
-stateAbbr: NM
-hood: Petroglyph
-address: 8201 Gold Course Rd NW Ste A3
-city: Albuquerque
-zip: 87120
-mapUrl: "http://maps.apple.com/?q=NextCare+-+Petroglyph&address=8201+Gold+Course+Rd+NW+Ste+A3,Albuquerque,New+Mexico,87120"
-locationType: Drive-thru or walk-in
-phone: 505-800-7077
-website: https://nextcare.com/locations/nm/petroglyph/
-onlineBooking: true
+  - new-jersey
+title: Jersey City
+state: New Jersey
+stateAbbr: NJ
+hood: "Jersey City"
+address: "575 Route 440 "
+city: "Jersey City"
+zip: "07305"
+mapUrl: "http://maps.apple.com/?q=Jersey+City&address=575+Route+440,Jersey+City,New+Jersey,07305"
+locationType: Walk-in
+phone: "201-547-5535"
+website: "https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus"
+onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "For all members of the community."
-days: Weekends
-hours: 9 am-4PM
-altDays: Weekdays
-altHours: 8AM-8PM
-ctaMessage: Schedule a test
-ctaUrl: "https://nextcare.com/locations/nm/petroglyph/"
+closedUpdate: April 16th, 2020
+notes: "By appointment only. Local residents only."
+days: Hours unknown
+ctaMessage: Learn more
+ctaUrl: "https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus"
 ---

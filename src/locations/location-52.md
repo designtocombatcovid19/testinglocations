@@ -1,32 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Urgent Care of Kansas City in Independence, Missouri, USA."
-permalink: "locations/missouri/independence/urgent-care-of-kansas-city/"
+description: "Local COVID-19 testing is available at University Hospital in Columbia, Missouri, USA."
+permalink: "locations/missouri/columbia/university-hospital/"
 tags:
   - locations
   - missouri
-title: Urgent Care of Kansas City
+title: University Hospital 
 state: Missouri
 stateAbbr: MO
-hood: Independence
-address: 4741 Arrowhead Dr, Suite B
-city: Independence
-zip: 64055
-mapUrl: "http://maps.apple.com/?q=Urgent+Care+of+Kansas+City&address=4741+Arrowhead+Dr+Suite+B,Independence,Missouri,64055"
-locationType: Location type unknown
-phone: 816-795-6000
-website: https://www.solvhealth.com/urgent-care-of-kansas-city-independence-mo-AGLeep
-onlineBooking: true
+hood: "Columbia"
+address: "600 E Stadium Blvd"
+city: "Columbia"
+zip: "65211"
+mapUrl: "http://maps.apple.com/?q=University+Hospital&address=600+E+Stadium+Blvd,Columbia,Missouri,65211"
+locationType: Drive-thru
+phone: "573-882-4141"
+website: "https://www.muhealth.org/our-stories/how-do-i-get-tested-covid-19?utm_source=website&utm_medium=homepage&utm_campaign=GetTested"
+onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "By appointment only. Requires doctor's referral."
+closedUpdate: April 16th, 2020
+notes: "Requires referral from a primary health provider. Requires doctor's referral. Only for individuals with symptoms."
 days: Weekdays
-hours: 8:30AM-9PM
-altDays: Sundays
-altHours: 8:30AM-5PM
-alt2Days: Saturdays
-alt2Hours: 8:30AM-6PM
-ctaMessage: Schedule a test
-ctaUrl: "https://www.solvhealth.com/urgent-care-of-kansas-city-independence-mo-AGLeep"
+hours: 7AM-7PM
+altDays: Weekends
+altHours: 7AM-3PM
+ctaMessage: Learn more
+ctaUrl: "https://www.muhealth.org/our-stories/how-do-i-get-tested-covid-19?utm_source=website&utm_medium=homepage&utm_campaign=GetTested"
 ---

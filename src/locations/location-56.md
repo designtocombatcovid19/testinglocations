@@ -1,32 +1,32 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at First Point Urgent Care in Kansas City, Missouri, USA."
-permalink: "locations/missouri/kansas-city/first-point-urgent-care/"
+description: "Local COVID-19 testing is available at Urgent Care of Kansas City in Independence, Missouri, USA."
+permalink: "locations/missouri/independence/urgent-care-of-kansas-city/"
 tags:
   - locations
   - missouri
-title: First Point Urgent Care
+title: Urgent Care of Kansas City
 state: Missouri
 stateAbbr: MO
-hood: Kansas City
-address: 8144 NW Prairie View Rd
-city: Kansas City
-zip: 64151
-mapUrl: "http://maps.apple.com/?q=First+Point+Urgent+Care&address=8144+NW+Prairie+View+Rd,Kansas+City,Missouri,64151"
-locationType: Drive-thru
-phone: 816-505-3660
-website: firstpointurgentcare.org
-onlineBooking: undefined
+hood: "Independence"
+address: "4741 Arrowhead Dr, Suite B"
+city: "Independence"
+zip: "64055"
+mapUrl: "http://maps.apple.com/?q=Urgent+Care+of+Kansas+City&address=4741+Arrowhead+Dr+Suite+B,Independence,Missouri,64055"
+locationType: Location type unknown
+phone: "816-795-6000"
+website: "https://www.solvhealth.com/urgent-care-of-kansas-city-independence-mo-AGLeep"
+onlineBooking: true
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "By appointment only. Only for individuals with symptoms. Requires phone screen."
+closedUpdate: April 16th, 2020
+notes: "By appointment only. Requires doctor's referral."
 days: Weekdays
-hours: 9 am-8PM
-altDays: Saturdays
-altHours: 9AM-5PM
-alt2Days: Sundays
-alt2Hours: 10AM-5PM
-ctaMessage: Learn more
-ctaUrl: "firstpointurgentcare.org"
+hours: 8:30AM-9PM
+altDays: Sundays
+altHours: 8:30AM-5PM
+alt2Days: Saturdays
+alt2Hours: 8:30AM-6PM
+ctaMessage: Schedule a test
+ctaUrl: "https://www.solvhealth.com/urgent-care-of-kansas-city-independence-mo-AGLeep"
 ---

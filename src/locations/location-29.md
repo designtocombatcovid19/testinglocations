@@ -1,28 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at AllCare - Glen Echo in Bethesda, Maryland, USA."
-permalink: "locations/maryland/bethesda/allcare-glen-echo/"
+description: "Local COVID-19 testing is available at Bayhealth in Dover, Delaware, USA."
+permalink: "locations/delaware/dover/bayhealth/"
 tags:
   - locations
-  - maryland
-title: AllCare - Glen Echo
-state: Maryland
-stateAbbr: MD
-hood: Bethesda
-address: 7307 Macarthur Blvd
-city: Bethesda
-zip: 20816
-mapUrl: "http://maps.apple.com/?q=AllCare+-+Glen+Echo&address=7307+Macarthur+Blvd,Bethesda,Maryland,20816"
+  - delaware
+title: Bayhealth
+state: Delaware
+stateAbbr: DE
+hood: "Dover"
+address: ""
+city: "Dover"
+zip: ""
+mapUrl: "http://maps.apple.com/?q=Bayhealth&address=,Dover,Delaware,"
 locationType: Drive-thru
-phone: 301-825-8880
-website: https://allcarefamilymed.com/coronavirus
-onlineBooking: true
+phone: "302-310-8477"
+website: "undefined"
+onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "By appointment only. For all members of the community. Requires phone screen."
-days: Everyday
-hours: Noon-1PM
-ctaMessage: Schedule a test
-ctaUrl: "https://allcarefamilymed.com/coronavirus"
+closedUpdate: April 16th, 2020
+notes: "By appointment only. Requires phone screen."
+days: Weekdays
+hours: 8:15PM-6PM
+altDays: Weekends
+altHours: 10AM-2PM
+ctaMessage: Call 302-310-8477
+ctaUrl: "tel:302-310-8477"
 ---

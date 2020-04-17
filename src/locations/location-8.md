@@ -9,17 +9,17 @@ tags:
 title: Riverside County Fairgrounds
 state: California
 stateAbbr: CA
-hood: Indio
-address: 46517 Arabia St
-city: Indio
-zip: 92201
+hood: "Indio"
+address: "46517 Arabia St"
+city: "Indio"
+zip: "92201"
 mapUrl: "http://maps.apple.com/?q=Riverside+County+Fairgrounds&address=46517+Arabia+St,Indio,California,92201"
 locationType: Drive-thru
-phone: 800-945-6171
-website: undefined
+phone: "800-945-6171"
+website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
+closedUpdate: April 16th, 2020
 notes: "Must have fever and other symptoms. By appointment only."
 days: Tu-Sat
 hours: 9AM-3PM

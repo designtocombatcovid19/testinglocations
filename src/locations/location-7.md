@@ -9,17 +9,17 @@ tags:
 title: Glendale Memorial Hospital
 state: California
 stateAbbr: CA
-hood: Glendale
-address: 1420 S Central Ave
-city: Glendale
-zip: 91204
+hood: "Glendale"
+address: "1420 S Central Ave"
+city: "Glendale"
+zip: "91204"
 mapUrl: "http://maps.apple.com/?q=Glendale+Memorial+Hospital&address=1420+S+Central+Ave,Glendale,California,91204"
 locationType: Drive-thru
-phone: undefined
-website: https://lacovidprod.service-now.com/rrs
+phone: "undefined"
+website: "https://lacovidprod.service-now.com/rrs"
 onlineBooking: true
 closed: undefined
-closedUpdate: April 14th, 2020
+closedUpdate: April 16th, 2020
 notes: "Requires doctor's referral. Prioritizes first responders."
 days: Hours unknown
 ctaMessage: Schedule a test

@@ -1,30 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Capital Region Medical Center - Capital Region Physicians - Primary Care Clinic in Jefferson City, Missouri, USA."
-permalink: "locations/missouri/jefferson-city/capital-region-medical-center-capital-region-physicians-primary-care-clinic/"
+description: "Local COVID-19 testing is available at Bootheel Urgent Care in Hayti, Missouri, USA."
+permalink: "locations/missouri/hayti/bootheel-urgent-care/"
 tags:
   - locations
   - missouri
-title: Capital Region Medical Center - Capital Region Physicians - Primary Care Clinic
+title: Bootheel Urgent Care
 state: Missouri
 stateAbbr: MO
-hood: Jefferson City
-address: 1014 Madion St
-city: Jefferson City
-zip: 65101
-mapUrl: "http://maps.apple.com/?q=Capital+Region+Medical+Center+-+Capital+Region+Physicians+-+Primary+Care+Clinic&address=1014+Madion+St,Jefferson+City,Missouri,65101"
-locationType: Drive-thru
-phone: 833-763-0444
-website: https://www.crmc.org/patients-and-visitors/novel-coronavirus-covid-19/
+hood: "Hayti"
+address: "110 US HWY J"
+city: "Hayti"
+zip: "63851"
+mapUrl: "http://maps.apple.com/?q=Bootheel+Urgent+Care&address=110+US+HWY+J,Hayti,Missouri,63851"
+locationType: Walk-in
+phone: "573-479-3065"
+website: "https://www.facebook.com/pages/category/Medical---Health/Bootheel-Urgent-Care-an-Walk-In-Clinic-114968296607148/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "Requires doctor's referral. Requires phone screen. Only for individuals with symptoms."
+closedUpdate: April 16th, 2020
+notes: "By appointment only. Requires phone screen."
 days: Weekdays
-hours: 9 am-6PM
+hours: 2PM-10PM
 altDays: Weekends
-altHours: 10AM-4PM
+altHours: 10AM-6PM
 ctaMessage: Learn more
-ctaUrl: "https://www.crmc.org/patients-and-visitors/novel-coronavirus-covid-19/"
+ctaUrl: "https://www.facebook.com/pages/category/Medical---Health/Bootheel-Urgent-Care-an-Walk-In-Clinic-114968296607148/"
 ---

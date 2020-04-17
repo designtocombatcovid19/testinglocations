@@ -1,32 +1,27 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at High St. Family Care Clinic in Butler, Missouri, USA."
-permalink: "locations/missouri/butler/high-st-family-care-clinic/"
+description: "Local COVID-19 testing is available at Saint Luke's Hospital in Blue Springs, Missouri, USA."
+permalink: "locations/missouri/blue-springs/saint-lukes-hospital/"
 tags:
   - locations
   - missouri
-title: High St. Family Care Clinic
+title: Saint Luke's Hospital
 state: Missouri
 stateAbbr: MO
-hood: Butler
-address: 706 S High St. 
-city: Butler
-zip: 64730
-mapUrl: "http://maps.apple.com/?q=High+St+Family+Care+Clinic&address=706+S+High+St,Butler,Missouri,64730"
-locationType: Walk-in
-phone: 660-200-7135
-website: http://www.bcmhospital.com/?page_id=556
+hood: "Blue Springs"
+address: "600 NE Adams Dairy Pkwy"
+city: "Blue Springs"
+zip: "64014"
+mapUrl: "http://maps.apple.com/?q=Saint+Lukes+Hospital&address=600+NE+Adams+Dairy+Pkwy,Blue+Springs,Missouri,64014"
+locationType: Drive-thru
+phone: "816-251-6100"
+website: "https://www.saintlukeskc.org/about/news/saint-lukes-news-three-covid-19-drive-thru-testing-sites-set-qualifying-saint-lukes"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "By appointment only. Requires phone screen."
-days: M, W, Th
-hours: 7:30AM-6PM
-altDays: Tu, F
-altHours: 8AM-5PM
-alt2Days: Saturdays
-alt2Hours: 8:30AM-11:30AM
+closedUpdate: April 16th, 2020
+notes: "By appointment only. Requires doctor's referral. Must have fever and other symptoms."
+days: Hours unknown
 ctaMessage: Learn more
-ctaUrl: "http://www.bcmhospital.com/?page_id=556"
+ctaUrl: "https://www.saintlukeskc.org/about/news/saint-lukes-news-three-covid-19-drive-thru-testing-sites-set-qualifying-saint-lukes"
 ---

@@ -1,30 +1,27 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at University Hospital in Columbia, Missouri, USA."
-permalink: "locations/missouri/columbia/university-hospital/"
+description: "Local COVID-19 testing is available at Hedrick Medical Center in Chillicothe, Missouri, USA."
+permalink: "locations/missouri/chillicothe/hedrick-medical-center/"
 tags:
   - locations
   - missouri
-title: University Hospital 
+title: Hedrick Medical Center
 state: Missouri
 stateAbbr: MO
-hood: Columbia
-address: 600 E Stadium Blvd
-city: Columbia
-zip: 65211
-mapUrl: "http://maps.apple.com/?q=University+Hospital&address=600+E+Stadium+Blvd,Columbia,Missouri,65211"
-locationType: Drive-thru
-phone: 573-882-4141
-website: https://www.muhealth.org/our-stories/how-do-i-get-tested-covid-19?utm_source=website&utm_medium=homepage&utm_campaign=GetTested
+hood: "Chillicothe"
+address: "2799 N Washington St"
+city: "Chillicothe"
+zip: "64601"
+mapUrl: "http://maps.apple.com/?q=Hedrick+Medical+Center&address=2799+N+Washington+St,Chillicothe,Missouri,64601"
+locationType: Walk-in
+phone: "660-646-1480"
+website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "Requires referral from a primary health provider. Requires doctor's referral. Only for individuals with symptoms."
-days: Weekdays
-hours: 7AM-7PM
-altDays: Weekends
-altHours: 7AM-3PM
-ctaMessage: Learn more
-ctaUrl: "https://www.muhealth.org/our-stories/how-do-i-get-tested-covid-19?utm_source=website&utm_medium=homepage&utm_campaign=GetTested"
+closedUpdate: April 16th, 2020
+notes: "By appointment only. Requires doctor's referral. Must have fever and other symptoms."
+days: Hours unknown
+ctaMessage: Call 660-646-1480
+ctaUrl: "tel:660-646-1480"
 ---

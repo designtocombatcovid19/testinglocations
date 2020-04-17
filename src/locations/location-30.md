@@ -1,28 +1,28 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at AllCare of Ellicot City in Ellicot City, Maryland, USA."
-permalink: "locations/maryland/ellicot-city/allcare-of-ellicot-city/"
+description: "Local COVID-19 testing is available at Sterling Urgent Care in Burley, Idaho, USA."
+permalink: "locations/idaho/burley/sterling-urgent-care/"
 tags:
   - locations
-  - maryland
-title: AllCare of Ellicot City
-state: Maryland
-stateAbbr: MD
-hood: Ellicot City
-address: 9396 Baltimore National Pike
-city: Ellicot City
-zip: 21042
-mapUrl: "http://maps.apple.com/?q=AllCare+of+Ellicot+City&address=9396+Baltimore+National+Pike,Ellicot+City,Maryland,21042"
-locationType: Drive-thru
-phone: 410-480-9110
-website: https://allcarefamilymed.com/coronavirus
-onlineBooking: true
+  - idaho
+title: Sterling Urgent Care
+state: Idaho
+stateAbbr: ID
+hood: "Burley"
+address: "1404 Pomerelle Ave Ste. A1"
+city: "Burley"
+zip: "83318"
+mapUrl: "http://maps.apple.com/?q=Sterling+Urgent+Care&address=1404+Pomerelle+Ave+Ste+A1,Burley,Idaho,83318"
+locationType: Walk-in
+phone: "(208) 878-8783"
+website: "https://www.sterlingurgentcare.com/coronavirus-covid-19/"
+onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "By appointment only. For all members of the community. Requires phone screen."
+closedUpdate: April 16th, 2020
+notes: "By appointment only. Limited test kits available."
 days: Everyday
-hours: Noon-1PM
-ctaMessage: Schedule a test
-ctaUrl: "https://allcarefamilymed.com/coronavirus"
+hours: 9AM-9PM
+ctaMessage: Learn more
+ctaUrl: "https://www.sterlingurgentcare.com/coronavirus-covid-19/"
 ---

@@ -1,30 +1,28 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at NextCare - Unser in Albuquerque, New Mexico, USA."
-permalink: "locations/new-mexico/albuquerque/nextcare-unser/"
+description: "Local COVID-19 testing is available at Quakerbridge Mall in Lawrenceville, New Jersey, USA."
+permalink: "locations/new-jersey/lawrenceville/quakerbridge-mall/"
 tags:
   - locations
-  - new-mexico
-title: NextCare - Unser
-state: New Mexico
-stateAbbr: NM
-hood: Unser 
-address: 1800 Unser Blvd NW Ste 500
-city: Albuquerque
-zip: 87120
-mapUrl: "http://maps.apple.com/?q=NextCare+-+Unser&address=1800+Unser+Blvd+NW+Ste+500,Albuquerque,New+Mexico,87120"
-locationType: Drive-thru or walk-in
-phone: 505-395-5520
-website: https://nextcare.com/locations/nm/urgent-care-clinic-albuquerque-new-mexico-unser/
-onlineBooking: true
+  - new-jersey
+title: Quakerbridge Mall
+state: New Jersey
+stateAbbr: NJ
+hood: "Mercer County"
+address: "3320 Brunswick Pike"
+city: "Lawrenceville"
+zip: "08648"
+mapUrl: "http://maps.apple.com/?q=Quakerbridge+Mall&address=3320+Brunswick+Pike,Lawrenceville,New+Jersey,08648"
+locationType: Drive-thru
+phone: "undefined"
+website: "https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus"
+onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "For all members of the community."
-days: Weekends
-hours: 9 am-4PM
-altDays: Weekdays
-altHours: 8AM-8PM
-ctaMessage: Schedule a test
-ctaUrl: "https://nextcare.com/locations/nm/urgent-care-clinic-albuquerque-new-mexico-unser/"
+closedUpdate: April 16th, 2020
+notes: "By appointment only. Requires referral from a primary health provider. Requires doctor's referral. Only for individuals with symptoms. 18-years-old and up."
+days: Weekdays
+hours: 8AM-4PM
+ctaMessage: Learn more
+ctaUrl: "https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus"
 ---

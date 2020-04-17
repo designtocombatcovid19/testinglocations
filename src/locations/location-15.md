@@ -9,17 +9,17 @@ tags:
 title: Crenshaw Christian Center
 state: California
 stateAbbr: CA
-hood: Crenshaw
-address: 7901 S. Vermont Avenue
-city: Los Angeles
-zip: 90044
+hood: "Crenshaw"
+address: "7901 S. Vermont Avenue"
+city: "Los Angeles"
+zip: "90044"
 mapUrl: "http://maps.apple.com/?q=Crenshaw+Christian+Center&address=7901+S+Vermont+Avenue,Los+Angeles,California,90044"
 locationType: Drive-thru
-phone: undefined
-website: https://lacovidprod.service-now.com/rrs
+phone: "undefined"
+website: "https://lacovidprod.service-now.com/rrs"
 onlineBooking: true
 closed: undefined
-closedUpdate: April 14th, 2020
+closedUpdate: April 16th, 2020
 notes: "By appointment only. Only for individuals with symptoms."
 days: Hours unknown
 ctaMessage: Schedule a test

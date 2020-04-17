@@ -27,9 +27,15 @@ buttonSecondUrl: /submit/
             <p class="hidden city" aria-hidden="true">{{ location.data.city }}</p>
           </div>
 
-          <div class="w-1/2 px-4 my-4 overflow-hidden sm:w-3/12 md:w-3/12">
-            <a class="" href="{{ location.data.mapUrl }}"><address class="not-italic address"><span class="font-semibold lg:font-medium">{{ location.data.title }}</span><br/>{{ location.data.address }}<br/>{{ location.data.city }}, {{ location.data.stateAbbr }} {{ location.data.zip }}</address></a>
-          </div>
+          {% if (location.data.address) %}
+            <div class="w-1/2 px-4 my-4 overflow-hidden sm:w-3/12 md:w-3/12">
+              <a class="" href="{{ location.data.mapUrl }}"><address class="not-italic address"><span class="font-semibold lg:font-medium">{{ location.data.title }}</span><br/>{{ location.data.address }}<br/>{{ location.data.city }}, {{ location.data.stateAbbr }} {{ location.data.zip }}</address></a>
+            </div>
+          {% else %}
+            <div class="w-1/2 px-4 my-4 overflow-hidden sm:w-3/12 md:w-3/12">
+              <p><span class="font-semibold lg:font-medium">{{ location.data.title }}</span><br/>Please contact this provider for address.</p>
+            </div>
+          {% endif %}
 
           <div class="w-1/2 px-4 my-4 overflow-hidden sm:w-3/12 md:w-2/12">
             <p class="font-semibold lg:font-medium days">{{ location.data.days }}</p>

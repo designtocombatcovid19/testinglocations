@@ -1,30 +1,27 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Boone Hospital Center in Columbia, Missouri, USA."
-permalink: "locations/missouri/columbia/boone-hospital-center/"
+description: "Local COVID-19 testing is available at Southeast Hospital in Cape Girardeau, Missouri, USA."
+permalink: "locations/missouri/cape-girardeau/southeast-hospital/"
 tags:
   - locations
   - missouri
-title: Boone Hospital Center
+title: Southeast Hospital
 state: Missouri
 stateAbbr: MO
-hood: Columbia
-address: 1600 E Broadway
-city: Columbia
-zip: 65201
-mapUrl: "http://maps.apple.com/?q=Boone+Hospital+Center&address=1600+E+Broadway,Columbia,Missouri,65201"
-locationType: Drive-thru
-phone: 573-815-8000
-website: https://www.boone.org/covid
+hood: "Cape Girardeau"
+address: "1701 Lacey St"
+city: "Cape Girardeau"
+zip: "63701"
+mapUrl: "http://maps.apple.com/?q=Southeast+Hospital&address=1701+Lacey+St,Cape+Girardeau,Missouri,63701"
+locationType: Walk-in
+phone: "573-519-4983"
+website: "https://www.sehealth.org/patients-and-visitors/covid19-information"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "Requires referral from a primary health provider. Requires doctor's referral. Only for individuals with symptoms. Requires phone screen."
-days: Weekdays
-hours: 7AM-7PM
-altDays: Weekends
-altHours: 8AM-Noon
+closedUpdate: April 16th, 2020
+notes: "By appointment only. Requires phone screen."
+days: Hours unknown
 ctaMessage: Learn more
-ctaUrl: "https://www.boone.org/covid"
+ctaUrl: "https://www.sehealth.org/patients-and-visitors/covid19-information"
 ---

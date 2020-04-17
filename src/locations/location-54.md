@@ -1,27 +1,27 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at St. Mary's Hospital in Jefferson City, Missouri, USA."
-permalink: "locations/missouri/jefferson-city/st-marys-hospital/"
+description: "Local COVID-19 testing is available at Hermann Area District Hospital in Hermann, Missouri, USA."
+permalink: "locations/missouri/hermann/hermann-area-district-hospital/"
 tags:
   - locations
   - missouri
-title: St. Mary's Hospital
+title: Hermann Area District Hospital
 state: Missouri
 stateAbbr: MO
-hood: Jefferson City
-address: 2505 Mission Drive
-city: Jefferson City
-zip: 65109
-mapUrl: "http://maps.apple.com/?q=St+Marys+Hospital&address=2505+Mission+Drive,Jefferson+City,Missouri,65109"
+hood: "Hermann"
+address: "509 West 18th St"
+city: "Hermann"
+zip: "65401"
+mapUrl: "http://maps.apple.com/?q=Hermann+Area+District+Hospital&address=509+West+18th+St,Hermann,Missouri,65401"
 locationType: Drive-thru
-phone: 573-681-3000
-website: https://www.ssmhealth.com/coronavirus-updates
+phone: "573-569-5049"
+website: "https://www.hadh.org/news-events/news-releases/press-release-covid-19-testing"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "By appointment only. Requires doctor's referral."
+closedUpdate: April 16th, 2020
+notes: "By appointment only. Requires doctor's referral. Requires phone screen."
 days: Hours unknown
 ctaMessage: Learn more
-ctaUrl: "https://www.ssmhealth.com/coronavirus-updates"
+ctaUrl: "https://www.hadh.org/news-events/news-releases/press-release-covid-19-testing"
 ---

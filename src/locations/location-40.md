@@ -1,27 +1,27 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Saint Francis Medical Center - Arena Park in Cape Giradeau, Missouri, USA."
-permalink: "locations/missouri/cape-giradeau/saint-francis-medical-center-arena-park/"
+description: "Local COVID-19 testing is available at Ozark Valley Medical Clinic in Branson, Missouri, USA."
+permalink: "locations/missouri/branson/ozark-valley-medical-clinic/"
 tags:
   - locations
   - missouri
-title: Saint Francis Medical Center - Arena Park
+title: Ozark Valley Medical Clinic
 state: Missouri
 stateAbbr: MO
-hood: Cape Giradeau
-address: 410 Kiwanis Dr.
-city: Cape Giradeau
-zip: 63701
-mapUrl: "http://maps.apple.com/?q=Saint+Francis+Medical+Center+-+Arena+Park&address=410+Kiwanis+Dr,Cape+Giradeau,Missouri,63701"
+hood: "Branson"
+address: "1140 W State Hwy 76"
+city: "Branson"
+zip: "65616"
+mapUrl: "http://maps.apple.com/?q=Ozark+Valley+Medical+Clinic&address=1140+W+State+Hwy+76,Branson,Missouri,65616"
 locationType: Drive-thru
-phone: 573-331-4200
-website: https://www.sfmc.net/covid19/
+phone: "417-317-5318"
+website: "http://www.ozarkvalleymedical.com/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "By appointment only. Only for individuals with symptoms. Requires phone screen."
+closedUpdate: April 16th, 2020
+notes: "By appointment only. Requires phone screen."
 days: Hours unknown
 ctaMessage: Learn more
-ctaUrl: "https://www.sfmc.net/covid19/"
+ctaUrl: "http://www.ozarkvalleymedical.com/"
 ---

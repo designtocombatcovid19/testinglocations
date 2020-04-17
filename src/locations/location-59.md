@@ -1,27 +1,27 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Weequahik Park Drive in Newark, New Jersey, USA."
-permalink: "locations/new-jersey/newark/weequahik-park-drive/"
+description: "Local COVID-19 testing is available at Thousand Oaks Imaging Center in Joplin, Missouri, USA."
+permalink: "locations/missouri/joplin/thousand-oaks-imaging-center/"
 tags:
   - locations
-  - new-jersey
-title: Weequahik Park Drive
-state: New Jersey
-stateAbbr: NJ
-hood: Essex County
-address: Elizabeth Ave & Meeker Ave
-city: Newark
-zip: 07112
-mapUrl: "http://maps.apple.com/?q=Weequahik+Park+Drive&address=Elizabeth+Ave+and+Meeker+Ave,Newark,New+Jersey,07112"
+  - missouri
+title: Thousand Oaks Imaging Center
+state: Missouri
+stateAbbr: MO
+hood: "Joplin"
+address: "1905 West 32nd Street"
+city: "Joplin"
+zip: "64804"
+mapUrl: "http://maps.apple.com/?q=Thousand+Oaks+Imaging+Center&address=1905+West+32nd+Street,Joplin,Missouri,64804"
 locationType: Drive-thru
-phone: undefined
-website: https://essexcovid.org
+phone: "417-347-6444"
+website: "undefined"
 onlineBooking: undefined
-closed: true
-closedUpdate: April 9th, 2020
-notes: "By appointment only. Local residents only."
+closed: undefined
+closedUpdate: April 16th, 2020
+notes: "By appointment only. Requires doctor's referral. Only for individuals with symptoms. Requires phone screen."
 days: Hours unknown
-ctaMessage: Learn more
-ctaUrl: "https://essexcovid.org"
+ctaMessage: Call 417-347-6444
+ctaUrl: "tel:417-347-6444"
 ---

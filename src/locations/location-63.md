@@ -1,30 +1,27 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Kean University in Union, New Jersey, USA."
-permalink: "locations/new-jersey/union/kean-university/"
+description: "Local COVID-19 testing is available at Cape May Technical School in Cape May Court, New Jersey, USA."
+permalink: "locations/new-jersey/cape-may-court/cape-may-technical-school/"
 tags:
   - locations
   - new-jersey
-title: Kean University
+title: Cape May Technical School
 state: New Jersey
 stateAbbr: NJ
-hood: Union County
-address: 1000 Morris Ave
-city: Union
-zip: 07083
-mapUrl: "http://maps.apple.com/?q=Kean+University&address=1000+Morris+Ave,Union,New+Jersey,07083"
+hood: "Cape May County"
+address: "188 Crest Haven Road"
+city: "Cape May Court"
+zip: "09210"
+mapUrl: "http://maps.apple.com/?q=Cape+May+Technical+School&address=188+Crest+Haven+Road,Cape+May+Court,New+Jersey,09210"
 locationType: Drive-thru
-phone: 908-373-5105 / 908-214-7107
-website: https://ucnj.org/
-onlineBooking: undefined
+phone: "856-451-4700"
+website: "https://www.completecarenj.org/request-an-appointment/"
+onlineBooking: true
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "By appointment only. Requires doctor's referral. Only for individuals with symptoms. Local residents only. Prioritizes health care workers. Prioritizes first responders. Requires phone screen."
-days: Weekdays
-hours: 9AM-5PM
-altDays: Saturdays
-altHours: 9AM-2PM
-ctaMessage: Learn more
-ctaUrl: "https://ucnj.org/"
+closedUpdate: April 16th, 2020
+notes: "By appointment only. Local residents only. Requires phone screen."
+days: Hours unknown
+ctaMessage: Schedule a test
+ctaUrl: "https://www.completecarenj.org/request-an-appointment/"
 ---

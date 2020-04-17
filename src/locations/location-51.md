@@ -1,30 +1,28 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Mercy Clinic Primary Care in Hillsboro, Missouri, USA."
-permalink: "locations/missouri/hillsboro/mercy-clinic-primary-care/"
+description: "Local COVID-19 testing is available at Providence Urgent Care in Columbia, Missouri, USA."
+permalink: "locations/missouri/columbia/providence-urgent-care/"
 tags:
   - locations
   - missouri
-title: Mercy Clinic Primary Care
+title: Providence Urgent Care
 state: Missouri
 stateAbbr: MO
-hood: Hillsboro
-address: 5194 Jeremiah Boulevard
-city: Hillsboro
-zip: 63050
-mapUrl: "http://maps.apple.com/?q=Mercy+Clinic+Primary+Care&address=5194+Jeremiah+Boulevard,Hillsboro,Missouri,63050"
+hood: "Columbia"
+address: "202 E Nifong Blvd"
+city: "Columbia"
+zip: "65203"
+mapUrl: "http://maps.apple.com/?q=Providence+Urgent+Care&address=202+E+Nifong+Blvd,Columbia,Missouri,65203"
 locationType: Drive-thru
-phone: 314-251-0500
-website: https://www.mercy.net/service/covid-19/
-onlineBooking: undefined
+phone: "573-874-6824"
+website: "https://nextcare.com/curbside/"
+onlineBooking: true
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "By appointment only. Only for individuals with symptoms. Limited test kits available. Requires phone screen. Requires doctor's referral."
-days: Mondays
-hours: 8AM-4:30PM
-altDays: Tu-F
-altHours: 7AM-4:30PM
-ctaMessage: Learn more
-ctaUrl: "https://www.mercy.net/service/covid-19/"
+closedUpdate: April 16th, 2020
+notes: ""
+days: Everyday
+hours: 9 am-8PM
+ctaMessage: Schedule a test
+ctaUrl: "https://nextcare.com/curbside/"
 ---

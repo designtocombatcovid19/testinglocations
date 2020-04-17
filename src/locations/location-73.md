@@ -1,28 +1,27 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Silver City Health Care Clinic in Silver City, New Mexico, USA."
-permalink: "locations/new-mexico/silver-city/silver-city-health-care-clinic/"
+description: "Local COVID-19 testing is available at Hudson Regional Hospital in Secaucus, New Jersey, USA."
+permalink: "locations/new-jersey/secaucus/hudson-regional-hospital/"
 tags:
   - locations
-  - new-mexico
-title: Silver City Health Care Clinic
-state: New Mexico
-stateAbbr: NM
-hood: Silver City
-address: 1600 East 32nd Street
-city: Silver City
-zip: 88061
-mapUrl: "http://maps.apple.com/?q=Silver+City+Health+Care+Clinic&address=1600+East+32nd+Street,Silver+City,New+Mexico,88061"
+  - new-jersey
+title: Hudson Regional Hospital 
+state: New Jersey
+stateAbbr: NJ
+hood: "Hudson County"
+address: "55 Meadowlands Pkwy"
+city: "Secaucus"
+zip: "07094"
+mapUrl: "http://maps.apple.com/?q=Hudson+Regional+Hospital&address=55+Meadowlands+Pkwy,Secaucus,New+Jersey,07094"
 locationType: Drive-thru
-phone: 575-956-1320
-website: https://www.silverhealthcare.org/
+phone: "(201) 392-3278"
+website: "https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "By appointment only. Requires phone screen."
-days: Everyday
-hours: 4PM-5PM
+closedUpdate: April 16th, 2020
+notes: "By appointment only. Only for individuals with symptoms. Local residents only. Prioritizes first responders."
+days: Open 24/7
 ctaMessage: Learn more
-ctaUrl: "https://www.silverhealthcare.org/"
+ctaUrl: "https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus"
 ---

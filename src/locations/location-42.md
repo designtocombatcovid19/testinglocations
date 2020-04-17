@@ -1,27 +1,32 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Mercy Virtual Care Center in Chesterfield, Missouri, USA."
-permalink: "locations/missouri/chesterfield/mercy-virtual-care-center/"
+description: "Local COVID-19 testing is available at High St. Family Care Clinic in Butler, Missouri, USA."
+permalink: "locations/missouri/butler/high-st-family-care-clinic/"
 tags:
   - locations
   - missouri
-title: Mercy Virtual Care Center
+title: High St. Family Care Clinic
 state: Missouri
 stateAbbr: MO
-hood: Chesterfield
-address: 15740 S Outer Forty Rd
-city: Chesterfield
-zip: 63017
-mapUrl: "http://maps.apple.com/?q=Mercy+Virtual+Care+Center&address=15740+S+Outer+Forty+Rd,Chesterfield,Missouri,63017"
-locationType: Drive-thru
-phone: 314-251-0500
-website: https://www.mercy.net/service/covid-19/
+hood: "Butler"
+address: "706 S High St. "
+city: "Butler"
+zip: "64730"
+mapUrl: "http://maps.apple.com/?q=High+St+Family+Care+Clinic&address=706+S+High+St,Butler,Missouri,64730"
+locationType: Walk-in
+phone: "660-200-7135"
+website: "http://www.bcmhospital.com/?page_id=556"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "By appointment only. Only for individuals with symptoms. Limited test kits available. Requires phone screen. Requires doctor's referral."
-days: Hours unknown
+closedUpdate: April 16th, 2020
+notes: "By appointment only. Requires phone screen."
+days: M, W, Th
+hours: 7:30AM-6PM
+altDays: Tu, F
+altHours: 8AM-5PM
+alt2Days: Saturdays
+alt2Hours: 8:30AM-11:30AM
 ctaMessage: Learn more
-ctaUrl: "https://www.mercy.net/service/covid-19/"
+ctaUrl: "http://www.bcmhospital.com/?page_id=556"
 ---

@@ -1,27 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Thousand Oaks Imaging Center in Joplin, Missouri, USA."
-permalink: "locations/missouri/joplin/thousand-oaks-imaging-center/"
+description: "Local COVID-19 testing is available at Mercy Clinic Primary Care in Hillsboro, Missouri, USA."
+permalink: "locations/missouri/hillsboro/mercy-clinic-primary-care/"
 tags:
   - locations
   - missouri
-title: Thousand Oaks Imaging Center
+title: Mercy Clinic Primary Care
 state: Missouri
 stateAbbr: MO
-hood: Joplin
-address: 1905 West 32nd Street
-city: Joplin
-zip: 64804
-mapUrl: "http://maps.apple.com/?q=Thousand+Oaks+Imaging+Center&address=1905+West+32nd+Street,Joplin,Missouri,64804"
+hood: "Hillsboro"
+address: "5194 Jeremiah Boulevard"
+city: "Hillsboro"
+zip: "63050"
+mapUrl: "http://maps.apple.com/?q=Mercy+Clinic+Primary+Care&address=5194+Jeremiah+Boulevard,Hillsboro,Missouri,63050"
 locationType: Drive-thru
-phone: 417-347-6444
-website: undefined
+phone: "314-251-0500"
+website: "https://www.mercy.net/service/covid-19/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "By appointment only. Requires doctor's referral. Only for individuals with symptoms. Requires phone screen."
-days: Hours unknown
-ctaMessage: Call 417-347-6444
-ctaUrl: "tel:417-347-6444"
+closedUpdate: April 16th, 2020
+notes: "By appointment only. Only for individuals with symptoms. Limited test kits available. Requires phone screen. Requires doctor's referral."
+days: Mondays
+hours: 8AM-4:30PM
+altDays: Tu-F
+altHours: 7AM-4:30PM
+ctaMessage: Learn more
+ctaUrl: "https://www.mercy.net/service/covid-19/"
 ---

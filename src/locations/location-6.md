@@ -9,17 +9,17 @@ tags:
 title: Lake Otis Pkwy & E 42nd
 state: Alaska
 stateAbbr: AK
-hood: Anchorage
-address: corner of Lake Otis Parkway and East 42nd Avenue
-city: Anchorage
-zip: 99508
+hood: "Anchorage"
+address: "corner of Lake Otis Parkway and East 42nd Avenue"
+city: "Anchorage"
+zip: "99508"
 mapUrl: "http://maps.apple.com/?q=Lake+Otis+Pkwy+and+E+42nd&address=corner+of+Lake+Otis+Parkway+and+East+42nd+Avenue,Anchorage,Alaska,99508"
 locationType: Drive-thru
-phone: undefined
-website: undefined
+phone: "undefined"
+website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
+closedUpdate: April 16th, 2020
 notes: "Free. Requires doctor's referral."
 days: Everyday
 hours: 9AM-7PM

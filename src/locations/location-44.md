@@ -1,27 +1,27 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Hedrick Medical Center in Chillicothe, Missouri, USA."
-permalink: "locations/missouri/chillicothe/hedrick-medical-center/"
+description: "Local COVID-19 testing is available at Saint Francis Medical Center - Arena Park in Cape Giradeau, Missouri, USA."
+permalink: "locations/missouri/cape-giradeau/saint-francis-medical-center-arena-park/"
 tags:
   - locations
   - missouri
-title: Hedrick Medical Center
+title: Saint Francis Medical Center - Arena Park
 state: Missouri
 stateAbbr: MO
-hood: Chillicothe
-address: 2799 N Washington St
-city: Chillicothe
-zip: 64601
-mapUrl: "http://maps.apple.com/?q=Hedrick+Medical+Center&address=2799+N+Washington+St,Chillicothe,Missouri,64601"
-locationType: Walk-in
-phone: 660-646-1480
-website: undefined
+hood: "Cape Giradeau"
+address: "410 Kiwanis Dr."
+city: "Cape Giradeau"
+zip: "63701"
+mapUrl: "http://maps.apple.com/?q=Saint+Francis+Medical+Center+-+Arena+Park&address=410+Kiwanis+Dr,Cape+Giradeau,Missouri,63701"
+locationType: Drive-thru
+phone: "573-331-4200"
+website: "https://www.sfmc.net/covid19/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "By appointment only. Requires doctor's referral. Must have fever and other symptoms."
+closedUpdate: April 16th, 2020
+notes: "By appointment only. Only for individuals with symptoms. Requires phone screen."
 days: Hours unknown
-ctaMessage: Call 660-646-1480
-ctaUrl: "tel:660-646-1480"
+ctaMessage: Learn more
+ctaUrl: "https://www.sfmc.net/covid19/"
 ---

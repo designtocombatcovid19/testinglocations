@@ -1,27 +1,27 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Guadalupe County Hospital in Santa Rosa, New Mexico, USA."
-permalink: "locations/new-mexico/santa-rosa/guadalupe-county-hospital/"
+description: "Local COVID-19 testing is available at County College of Morris in Randolph, New Jersey, USA."
+permalink: "locations/new-jersey/randolph/county-college-of-morris/"
 tags:
   - locations
-  - new-mexico
-title: Guadalupe County Hospital
-state: New Mexico
-stateAbbr: NM
-hood: Guadalupe County
-address: 117 Camino De Vida #100
-city: Santa Rosa
-zip: 88435
-mapUrl: "http://maps.apple.com/?q=Guadalupe+County+Hospital&address=117+Camino+De+Vida+100,Santa+Rosa,New+Mexico,88435"
-locationType: Walk-in
-phone: 575-472-3417
-website: https://www.gchnm.org/
-onlineBooking: undefined
+  - new-jersey
+title: County College of Morris
+state: New Jersey
+stateAbbr: NJ
+hood: "Morris County"
+address: "Dover Chester Road, Parking Lot 1"
+city: "Randolph"
+zip: "07869"
+mapUrl: "http://maps.apple.com/?q=County+College+of+Morris&address=Dover+Chester+Road+Parking+Lot+1,Randolph,New+Jersey,07869"
+locationType: Drive-thru
+phone: "undefined"
+website: "https://booknow.appointment-plus.com/b8hq2y7k/"
+onlineBooking: true
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "By appointment only. Requires phone screen."
+closedUpdate: April 16th, 2020
+notes: "By appointment only. Requires doctor's referral. Local residents only."
 days: Hours unknown
-ctaMessage: Learn more
-ctaUrl: "https://www.gchnm.org/"
+ctaMessage: Schedule a test
+ctaUrl: "https://booknow.appointment-plus.com/b8hq2y7k/"
 ---

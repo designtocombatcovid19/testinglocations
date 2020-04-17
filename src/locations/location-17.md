@@ -9,17 +9,17 @@ tags:
 title: Los Angeles Center for Ear, Nose, Throat and Allergy
 state: California
 stateAbbr: CA
-hood: Huntington Park
-address: 1700 East Cesar E Chavez Avenue #2500
-city: Los Angeles
-zip: 90033
+hood: "Huntington Park"
+address: "1700 East Cesar E Chavez Avenue #2500"
+city: "Los Angeles"
+zip: "90033"
 mapUrl: "http://maps.apple.com/?q=Los+Angeles+Center+for+Ear+Nose+Throat+and+Allergy&address=1700+East+Cesar+E+Chavez+Avenue+2500,Los+Angeles,California,90033"
 locationType: Drive-thru
-phone:  323-375-1986
-website: https://www.coronavirustestingla.com/
+phone: " 323-375-1986"
+website: "https://www.coronavirustestingla.com/"
 onlineBooking: true
 closed: undefined
-closedUpdate: April 14th, 2020
+closedUpdate: April 16th, 2020
 notes: "Privately owned."
 days: Everyday
 hours: 8AM-5PM

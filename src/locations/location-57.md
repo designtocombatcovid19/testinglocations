@@ -1,27 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at PNC Bank Arts Center in Holmdel, New Jersey, USA."
-permalink: "locations/new-jersey/holmdel/pnc-bank-arts-center/"
+description: "Local COVID-19 testing is available at Capital Region Medical Center - Capital Region Physicians - Primary Care Clinic in Jefferson City, Missouri, USA."
+permalink: "locations/missouri/jefferson-city/capital-region-medical-center-capital-region-physicians-primary-care-clinic/"
 tags:
   - locations
-  - new-jersey
-title: PNC Bank Arts Center
-state: New Jersey
-stateAbbr: NJ
-hood: Holmdel
-address: 116 Garden State Pkwy
-city: Holmdel
-zip: 07733
-mapUrl: "http://maps.apple.com/?q=PNC+Bank+Arts+Center&address=116+Garden+State+Pkwy,Holmdel,New+Jersey,07733"
+  - missouri
+title: Capital Region Medical Center - Capital Region Physicians - Primary Care Clinic
+state: Missouri
+stateAbbr: MO
+hood: "Jefferson City"
+address: "1014 Madion St"
+city: "Jefferson City"
+zip: "65101"
+mapUrl: "http://maps.apple.com/?q=Capital+Region+Medical+Center+-+Capital+Region+Physicians+-+Primary+Care+Clinic&address=1014+Madion+St,Jefferson+City,Missouri,65101"
 locationType: Drive-thru
-phone: undefined
-website: https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus
+phone: "833-763-0444"
+website: "https://www.crmc.org/patients-and-visitors/novel-coronavirus-covid-19/"
 onlineBooking: undefined
-closed: true
-closedUpdate: April 13th, 2020
-notes: "Only for individuals with symptoms. Must have fever and other symptoms. Local residents only. Prioritizes health care workers. Prioritizes first responders."
-days: Hours unknown
+closed: undefined
+closedUpdate: April 16th, 2020
+notes: "Requires doctor's referral. Requires phone screen. Only for individuals with symptoms."
+days: Weekdays
+hours: 9 am-6PM
+altDays: Weekends
+altHours: 10AM-4PM
 ctaMessage: Learn more
-ctaUrl: "https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus"
+ctaUrl: "https://www.crmc.org/patients-and-visitors/novel-coronavirus-covid-19/"
 ---

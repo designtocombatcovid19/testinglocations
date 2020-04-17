@@ -9,17 +9,17 @@ tags:
 title: The West LA Veteran’s Administration Lot 15
 state: California
 stateAbbr: CA
-hood: Los Angeles
-address: 11301 Wilshire Blvd
-city: Los Angeles
-zip: 90073
+hood: "Los Angeles"
+address: "11301 Wilshire Blvd"
+city: "Los Angeles"
+zip: "90073"
 mapUrl: "http://maps.apple.com/?q=The+West+LA+Veterans+Administration+Lot+15&address=11301+Wilshire+Blvd,Los+Angeles,California,90073"
 locationType: Drive-thru
-phone: 310-478-3711
-website: https://lacovidprod.service-now.com/rrs
+phone: "310-478-3711"
+website: "https://lacovidprod.service-now.com/rrs"
 onlineBooking: true
 closed: undefined
-closedUpdate: April 14th, 2020
+closedUpdate: April 16th, 2020
 notes: "By appointment only."
 days: Open 24/7
 ctaMessage: Schedule a test

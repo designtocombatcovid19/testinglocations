@@ -9,17 +9,17 @@ tags:
 title: DCH Regional Medical Center
 state: Alabama
 stateAbbr: AL
-hood: East Tuscaloosa
-address: 809 University Blvd
-city: East Tuscaloosa
-zip: 35401
+hood: "East Tuscaloosa"
+address: "809 University Blvd"
+city: "East Tuscaloosa"
+zip: "35401"
 mapUrl: "http://maps.apple.com/?q=DCH+Regional+Medical+Center&address=809+University+Blvd,East+Tuscaloosa,Alabama,35401"
 locationType: Drive-thru
-phone: 205-759-7111
-website: https://www.dchsystem.com/Articles/dch_to_offer_remote_screening_facility_for_coronavirus.aspx
+phone: "205-759-7111"
+website: "https://www.dchsystem.com/Articles/dch_to_offer_remote_screening_facility_for_coronavirus.aspx"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
+closedUpdate: April 16th, 2020
 notes: "Only for individuals with symptoms."
 days: Weekdays
 hours: 8AM-5PM

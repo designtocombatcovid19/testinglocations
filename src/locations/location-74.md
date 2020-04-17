@@ -1,27 +1,27 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Holy Cross Hospital in Taos, New Mexico, USA."
-permalink: "locations/new-mexico/taos/holy-cross-hospital/"
+description: "Local COVID-19 testing is available at Ocean County College in Toms River, New Jersey, USA."
+permalink: "locations/new-jersey/toms-river/ocean-county-college/"
 tags:
   - locations
-  - new-mexico
-title: Holy Cross Hospital 
-state: New Mexico
-stateAbbr: NM
-hood: Taos
-address: 1397 Weimer Road
-city: Taos
-zip: 87571
-mapUrl: "http://maps.apple.com/?q=Holy+Cross+Hospital&address=1397+Weimer+Road,Taos,New+Mexico,87571"
+  - new-jersey
+title: Ocean County College
+state: New Jersey
+stateAbbr: NJ
+hood: "Ocean County"
+address: "1 College Drive"
+city: "Toms River"
+zip: "08754"
+mapUrl: "http://maps.apple.com/?q=Ocean+County+College&address=1+College+Drive,Toms+River,New+Jersey,08754"
 locationType: Drive-thru
-phone: 800-755-6236
-website: https://holycrossmedicalcenter.org/
-onlineBooking: undefined
+phone: "800-342-9738"
+website: "https://ochd.simplybook.me/v2/#"
+onlineBooking: true
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "Requires phone screen."
+closedUpdate: April 16th, 2020
+notes: "By appointment only. Requires doctor's referral. Local residents only."
 days: Hours unknown
-ctaMessage: Learn more
-ctaUrl: "https://holycrossmedicalcenter.org/"
+ctaMessage: Schedule a test
+ctaUrl: "https://ochd.simplybook.me/v2/#"
 ---

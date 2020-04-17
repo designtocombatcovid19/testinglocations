@@ -1,27 +1,32 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Bergen Community College in Paramus, New Jersey, USA."
-permalink: "locations/new-jersey/paramus/bergen-community-college/"
+description: "Local COVID-19 testing is available at First Point Urgent Care in Kansas City, Missouri, USA."
+permalink: "locations/missouri/kansas-city/first-point-urgent-care/"
 tags:
   - locations
-  - new-jersey
-title: Bergen Community College
-state: New Jersey
-stateAbbr: NJ
-hood: Paramus
-address: 400 Paramus Road, Paramus Campus - Lots B & C
-city: Paramus
-zip: 07652
-mapUrl: "http://maps.apple.com/?q=Bergen+Community+College&address=400+Paramus+Road+Paramus+Campus+-+Lots+B+and+C,Paramus,New+Jersey,07652"
+  - missouri
+title: First Point Urgent Care
+state: Missouri
+stateAbbr: MO
+hood: "Kansas City"
+address: "8144 NW Prairie View Rd"
+city: "Kansas City"
+zip: "64151"
+mapUrl: "http://maps.apple.com/?q=First+Point+Urgent+Care&address=8144+NW+Prairie+View+Rd,Kansas+City,Missouri,64151"
 locationType: Drive-thru
-phone: undefined
-website: https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus
+phone: "816-505-3660"
+website: "firstpointurgentcare.org"
 onlineBooking: undefined
-closed: true
-closedUpdate: April 13th, 2020
-notes: "Only for individuals with symptoms. Must have fever and other symptoms. For all members of the community. Limited test kits available."
-days: Hours unknown
+closed: undefined
+closedUpdate: April 16th, 2020
+notes: "By appointment only. Only for individuals with symptoms. Requires phone screen."
+days: Weekdays
+hours: 9 am-8PM
+altDays: Saturdays
+altHours: 9AM-5PM
+alt2Days: Sundays
+alt2Hours: 10AM-5PM
 ctaMessage: Learn more
-ctaUrl: "https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus"
+ctaUrl: "firstpointurgentcare.org"
 ---

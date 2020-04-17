@@ -1,27 +1,27 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Southeast Hospital in Cape Girardeau, Missouri, USA."
-permalink: "locations/missouri/cape-girardeau/southeast-hospital/"
+description: "Local COVID-19 testing is available at Pershing Memorial Hospital in Brookfield, Missouri, USA."
+permalink: "locations/missouri/brookfield/pershing-memorial-hospital/"
 tags:
   - locations
   - missouri
-title: Southeast Hospital
+title: Pershing Memorial Hospital 
 state: Missouri
 stateAbbr: MO
-hood: Cape Girardeau
-address: 1701 Lacey St
-city: Cape Girardeau
-zip: 63701
-mapUrl: "http://maps.apple.com/?q=Southeast+Hospital&address=1701+Lacey+St,Cape+Girardeau,Missouri,63701"
-locationType: Walk-in
-phone: 573-519-4983
-website: https://www.sehealth.org/patients-and-visitors/covid19-information
+hood: "Brookfield"
+address: "130 E Lockling Ave"
+city: "Brookfield"
+zip: "64628"
+mapUrl: "http://maps.apple.com/?q=Pershing+Memorial+Hospital&address=130+E+Lockling+Ave,Brookfield,Missouri,64628"
+locationType: Location type unknown
+phone: "660-258-2222"
+website: "http://www.phsmo.org/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "By appointment only. Requires phone screen."
+closedUpdate: April 16th, 2020
+notes: "By appointment only. Only for individuals with symptoms. Requires phone screen."
 days: Hours unknown
 ctaMessage: Learn more
-ctaUrl: "https://www.sehealth.org/patients-and-visitors/covid19-information"
+ctaUrl: "http://www.phsmo.org/"
 ---

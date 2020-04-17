@@ -1,30 +1,28 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at NextCare - Rio Rancho in Rio Rancho, New Mexico, USA."
-permalink: "locations/new-mexico/rio-rancho/nextcare-rio-rancho/"
+description: "Local COVID-19 testing is available at Bergen New Bridge Medical Center in Paramus, New Jersey, USA."
+permalink: "locations/new-jersey/paramus/bergen-new-bridge-medical-center/"
 tags:
   - locations
-  - new-mexico
-title: NextCare - Rio Rancho
-state: New Mexico
-stateAbbr: NM
-hood: Rio Rancho
-address: 1630 Rio Rancho Dr SE #101
-city: Rio Rancho
-zip: 87124
-mapUrl: "http://maps.apple.com/?q=NextCare+-+Rio+Rancho&address=1630+Rio+Rancho+Dr+SE+101,Rio+Rancho,New+Mexico,87124"
-locationType: Drive-thru or walk-in
-phone: 505-395-5520
-website: https://nextcare.com/locations/nm/rio-rancho/
-onlineBooking: true
+  - new-jersey
+title: Bergen New Bridge Medical Center
+state: New Jersey
+stateAbbr: NJ
+hood: "Bergen County"
+address: "230 East Ridgewood Avenue"
+city: "Paramus"
+zip: "07652"
+mapUrl: "http://maps.apple.com/?q=Bergen+New+Bridge+Medical+Center&address=230+East+Ridgewood+Avenue,Paramus,New+Jersey,07652"
+locationType: Drive-thru
+phone: "undefined"
+website: "https://www.newbridgehealth.org/bergen-covid19-screening/"
+onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "For all members of the community."
-days: Weekends
-hours: 9 am-4PM
-altDays: Weekdays
-altHours: 8AM-8PM
-ctaMessage: Schedule a test
-ctaUrl: "https://nextcare.com/locations/nm/rio-rancho/"
+closedUpdate: April 16th, 2020
+notes: "By appointment only. Local residents only. Only for individuals with symptoms. Requires phone screen. Requires doctor's referral. Prioritizes health care workers. Prioritizes first responders."
+days: Everyday
+hours: 8AM-3PM
+ctaMessage: Learn more
+ctaUrl: "https://www.newbridgehealth.org/bergen-covid19-screening/"
 ---

@@ -1,28 +1,28 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Cape Cod Community College in West Barnstable, Massachusetts, USA."
-permalink: "locations/massachusetts/west-barnstable/cape-cod-community-college/"
+description: "Local COVID-19 testing is available at Forest Hill Vehicle Emissions Inspection Site in Forest Hill, Maryland, USA."
+permalink: "locations/maryland/forest-hill/forest-hill-vehicle-emissions-inspection-site/"
 tags:
   - locations
-  - massachusetts
-title: Cape Cod Community College
-state: Massachusetts
-stateAbbr: MA
-hood: West Barnstable
-address: 2240 Lyannough Rd
-city: West Barnstable
-zip: 02668
-mapUrl: "http://maps.apple.com/?q=Cape+Cod+Community+College&address=2240+Lyannough+Rd,West+Barnstable,Massachusetts,02668"
+  - maryland
+title: Forest Hill Vehicle Emissions Inspection Site
+state: Maryland
+stateAbbr: MD
+hood: "Forest Hill"
+address: "1631 Robin Cir #3068"
+city: "Forest Hill"
+zip: "21050"
+mapUrl: "http://maps.apple.com/?q=Forest+Hill+Vehicle+Emissions+Inspection+Site&address=1631+Robin+Cir+3068,Forest+Hill,Maryland,21050"
 locationType: Drive-thru
-phone: undefined
-website: https://www.capecodhealth.org/medical-services/infectious-disease/coronavirus/covid-19-testing-process/
+phone: "undefined"
+website: "https://www.umms.org/uch/coronavirus/mobile-testing"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "By appointment only. Requires referral from a primary health provider. Requires doctor's referral. For all members of the community."
-days: Everyday
-hours: 8AM-6PM
+closedUpdate: April 16th, 2020
+notes: "By appointment only. Requires doctor's referral. Only for individuals with symptoms."
+days: M, W, Th, F
+hours: 10AM-2PM
 ctaMessage: Learn more
-ctaUrl: "https://www.capecodhealth.org/medical-services/infectious-disease/coronavirus/covid-19-testing-process/"
+ctaUrl: "https://www.umms.org/uch/coronavirus/mobile-testing"
 ---

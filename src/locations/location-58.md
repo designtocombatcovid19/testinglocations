@@ -1,27 +1,27 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Jersey City in Jersey City, New Jersey, USA."
-permalink: "locations/new-jersey/jersey-city/jersey-city/"
+description: "Local COVID-19 testing is available at St. Mary's Hospital in Jefferson City, Missouri, USA."
+permalink: "locations/missouri/jefferson-city/st-marys-hospital/"
 tags:
   - locations
-  - new-jersey
-title: Jersey City
-state: New Jersey
-stateAbbr: NJ
-hood: Jersey City
-address: 575 Route 440 
-city: Jersey City
-zip: 07305
-mapUrl: "http://maps.apple.com/?q=Jersey+City&address=575+Route+440,Jersey+City,New+Jersey,07305"
-locationType: Walk-in
-phone: 201-547-5535
-website: https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus
+  - missouri
+title: St. Mary's Hospital
+state: Missouri
+stateAbbr: MO
+hood: "Jefferson City"
+address: "2505 Mission Drive"
+city: "Jefferson City"
+zip: "65109"
+mapUrl: "http://maps.apple.com/?q=St+Marys+Hospital&address=2505+Mission+Drive,Jefferson+City,Missouri,65109"
+locationType: Drive-thru
+phone: "573-681-3000"
+website: "https://www.ssmhealth.com/coronavirus-updates"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "By appointment only. Local residents only."
+closedUpdate: April 16th, 2020
+notes: "By appointment only. Requires doctor's referral."
 days: Hours unknown
 ctaMessage: Learn more
-ctaUrl: "https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus"
+ctaUrl: "https://www.ssmhealth.com/coronavirus-updates"
 ---

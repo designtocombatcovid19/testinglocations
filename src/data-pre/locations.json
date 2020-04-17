@@ -760,6 +760,67 @@
     "Verified": true
   },
   {
+    "Name": "Bayhealth",
+    "State": "Delaware",
+    "City": "Dover",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Phone": "302-310-8477",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "NotesOther": "Those who meet screening criteria for COVID-19 testing will be referred to one of our off-site drive-thru testing sites. You can also email to schedule a phone screen:  Coronavirus@Bayhealth.org",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8:15PM",
+    "ClosesAt": "6PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "10AM",
+    "AltClosesAt": "2PM",
+    "Verified": true
+  },
+  {
+    "Name": "Sterling Urgent Care",
+    "Notes": [
+      "By appointment only.",
+      "Limited test kits available.",
+      "Other"
+    ],
+    "State": "Idaho",
+    "Address": "1404 Pomerelle Ave Ste. A1",
+    "City": "Burley",
+    "Zip": "83318",
+    "Neighborhood": "Burley",
+    "Phone": "(208) 878-8783",
+    "Website": "https://www.sterlingurgentcare.com/coronavirus-covid-19/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "9PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "Must call ahead.",
+    "Verified": true
+  },
+  {
     "Name": "AllCare - Glen Echo",
     "Notes": [
       "By appointment only.",
@@ -818,6 +879,31 @@
       "Drive-thru"
     ],
     "Verified": true
+  },
+  {
+    "Name": "Forest Hill Vehicle Emissions Inspection Site",
+    "State": "Maryland",
+    "Address": "1631 Robin Cir #3068",
+    "City": "Forest Hill",
+    "Verified": true,
+    "Zip": "21050",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Wednesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "2PM",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Only for individuals with symptoms."
+    ],
+    "Website": "https://www.umms.org/uch/coronavirus/mobile-testing"
   },
   {
     "Name": "Chesapeake ERgent Care",
@@ -890,6 +976,15 @@
       "Drive-thru"
     ],
     "NotesOther": "If you do not have a primary care provider, please call a Cape Cod Healthcare urgent care center or 508-862-5595 to reach their dedicated call center.",
+    "Verified": true
+  },
+  {
+    "Name": "Traceway Park",
+    "State": "Mississippi",
+    "City": "Clinton",
+    "Phone": "601-496-7200",
+    "Closed": true,
+    "LastClosedUpdate": "2020-04-17",
     "Verified": true
   },
   {
@@ -1469,6 +1564,103 @@
     "Alt2ClosesAt": "5PM"
   },
   {
+    "Name": "Serenity Mental Health",
+    "State": "Nevada",
+    "City": "Carson City",
+    "Address": "755 N. Roop St Ste. 101",
+    "Zip": "89701",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true,
+    "Notes": [
+      "By appointment only.",
+      "Privately owned."
+    ],
+    "NotesOther": "Inquiries should be submitted to covid19@serenitymentalhealth.org; Please put “Inquiry“ and or “Question“ in the subject line of the email.",
+    "Website": "https://www.serenitymentalhealth.org/"
+  },
+  {
+    "Name": "Cooper's Poynt Park",
+    "Notes": [
+      "Requires doctor's referral.",
+      "Only for individuals with symptoms.",
+      "Local residents only."
+    ],
+    "State": "New Jersey",
+    "Address": "801 Delaware Ave",
+    "City": "Camden",
+    "Zip": "08102",
+    "Neighborhood": "Camden County",
+    "Phone": "856-968-7100",
+    "Website": "https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus",
+    "LocationType": [
+      "Walk-in",
+      "Drive-thru"
+    ],
+    "OpensAt": "Noon",
+    "ClosesAt": "4PM",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Cape May Technical School",
+    "Notes": [
+      "By appointment only.",
+      "Local residents only.",
+      "Requires phone screen."
+    ],
+    "State": "New Jersey",
+    "Address": "188 Crest Haven Road",
+    "City": "Cape May Court",
+    "Zip": "09210",
+    "Neighborhood": "Cape May County",
+    "Phone": "856-451-4700",
+    "Website": "https://www.completecarenj.org/request-an-appointment/",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Additional self-assessment provided: https://self.covid19.nj.gov/",
+    "Verified": true,
+    "OnlineBooking": true
+  },
+  {
+    "Name": "MVC Kilmer Inspection Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Only for individuals with symptoms.",
+      "Must have fever and other symptoms.",
+      "Local residents only."
+    ],
+    "State": "New Jersey",
+    "Address": "33 Kilmer Road",
+    "City": "Edison",
+    "Zip": "08817",
+    "Neighborhood": "Middlesex County ",
+    "Phone": "732-745-3100",
+    "Website": "https://app.acuityscheduling.com/schedule.php?owner=19315640",
+    "OnlineBooking": true,
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Additional self-assessment provided: https://self.covid19.nj.gov/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Wednesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "2PM",
+    "Verified": true
+  },
+  {
     "Name": "PNC Bank Arts Center",
     "Notes": [
       "Only for individuals with symptoms.",
@@ -1511,6 +1703,51 @@
     "LocationType": [
       "Walk-in"
     ],
+    "Verified": true
+  },
+  {
+    "Name": "Quakerbridge Mall",
+    "Notes": [
+      "By appointment only.",
+      "Requires referral from a primary health provider.",
+      "Requires doctor's referral.",
+      "Only for individuals with symptoms.",
+      "18-years-old and up."
+    ],
+    "State": "New Jersey",
+    "Address": "3320 Brunswick Pike",
+    "City": "Lawrenceville",
+    "Zip": "08648",
+    "Neighborhood": "Mercer County",
+    "Website": "https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Fax Prescriptions with Patient's Home Address to 609-630-4031",
+    "Verified": true
+  },
+  {
+    "Name": "Hamilton Mall",
+    "State": "New Jersey",
+    "Address": "4403 E Black Horse Pike",
+    "City": "Mays Landing",
+    "Zip": "08330",
+    "Neighborhood": "Atlantic County",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "LastClosedUpdate": "2020-04-17",
+    "Website": "https://www.atlantic-county.org/covid/?fbclid=IwAR3IiIshoZjXtuse7pmScwBPlYLLOpN6mnI7GHSXcVcpEMHFxkG9ve_KhaM",
+    "OnlineBooking": true,
     "Verified": true
   },
   {
@@ -1557,6 +1794,40 @@
     ],
     "Verified": true,
     "LastClosedUpdate": "2020-04-13"
+  },
+  {
+    "Name": "Bergen New Bridge Medical Center",
+    "Notes": [
+      "By appointment only.",
+      "Local residents only.",
+      "Only for individuals with symptoms.",
+      "Requires phone screen.",
+      "Requires doctor's referral.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders."
+    ],
+    "State": "New Jersey",
+    "Address": "230 East Ridgewood Avenue",
+    "City": "Paramus",
+    "Zip": "07652",
+    "Neighborhood": "Bergen County",
+    "Website": "https://www.newbridgehealth.org/bergen-covid19-screening/",
+    "NotesOther": "Additional self-assessment provided: https://self.covid19.nj.gov/",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "3PM",
+    "Verified": true
   },
   {
     "Name": "County College of Morris",
@@ -1613,6 +1884,33 @@
     "Verified": true
   },
   {
+    "Name": "Ocean County College",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Local residents only."
+    ],
+    "State": "New Jersey",
+    "Address": "1 College Drive",
+    "City": "Toms River",
+    "Zip": "08754",
+    "Neighborhood": "Ocean County",
+    "Phone": "800-342-9738",
+    "Website": "https://ochd.simplybook.me/v2/#",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
     "Name": "Kean University",
     "Notes": [
       "By appointment only.",
@@ -1647,6 +1945,90 @@
     "LocationType": [
       "Drive-thru"
     ],
+    "Verified": true
+  },
+  {
+    "Name": "Union City",
+    "Notes": [
+      "By appointment only.",
+      "Local residents only.",
+      "Requires phone screen."
+    ],
+    "State": "New Jersey",
+    "Address": "513 36th Street",
+    "City": "Union City",
+    "Zip": "07087",
+    "Neighborhood": "Northern Hudson County",
+    "Phone": "201-366-8465",
+    "Website": "https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus",
+    "LocationType": [
+      "Walk-in",
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Rowan College Cumberland Campus",
+    "Notes": [
+      "By appointment only.",
+      "Local residents only.",
+      "Requires phone screen."
+    ],
+    "State": "New Jersey",
+    "Address": "3322 College Drive",
+    "City": "Vineland ",
+    "Zip": "08360",
+    "Neighborhood": "Cumberland County",
+    "Phone": "856-451-4700",
+    "Website": "https://www.completecarenj.org/request-an-appointment/",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Additional self-assessment provided: https://self.covid19.nj.gov/",
+    "OnlineBooking": true,
+    "Verified": true
+  },
+  {
+    "Name": "Warren County Technical School",
+    "Notes": [
+      "By appointment only.",
+      "Only for individuals with symptoms.",
+      "Local residents only.",
+      "Requires phone screen."
+    ],
+    "State": "New Jersey",
+    "Address": "1500 Route 57",
+    "City": "Washington",
+    "Zip": "07882",
+    "Neighborhood": "Warren County",
+    "Phone": "908-847-3100",
+    "Website": "https://booknow-wcnj.appointment-plus.com/b8n9zc50/",
+    "OpensAt": "9 am",
+    "ClosesAt": "3PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "LastClosedUpdate": "2020-04-13",
+    "OnlineBooking": true,
+    "Verified": true
+  },
+  {
+    "Name": "Burlington County Emergency Service",
+    "Notes": [
+      "By appointment only.",
+      "Local residents only."
+    ],
+    "State": "New Jersey",
+    "Address": "53 Academy Drive",
+    "City": "Westampton",
+    "Zip": "08060",
+    "Neighborhood": "Burlington County",
+    "Phone": "609-726-7097",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Additional self-assessment provided: https://self.covid19.nj.gov/",
+    "Website": "https://www.co.burlington.nj.us/1845/2019-Novel-Coronavirus-Information",
     "Verified": true
   },
   {
@@ -1936,6 +2318,1614 @@
     "Verified": true
   },
   {
+    "State": "Pennsylvania",
+    "Name": "Central Wellness Outreach Center",
+    "Verified": true,
+    "Neighborhood": "Beaver County",
+    "Address": "2360 Hospital Dr",
+    "City": "Aliquippa",
+    "Zip": "15001",
+    "Phone": "724-707-115",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Notes": [
+      "By appointment only.",
+      "Only for individuals with symptoms.",
+      "Limited test kits available.",
+      "Requires phone screen."
+    ],
+    "NotesOther": "Available for those without a Primary Care Physician or are without insurance.",
+    "Website": "https://www.centraloutreach.com/resources/covid-19-testing-sites",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Monday"
+    ],
+    "OpensAt": "11AM",
+    "ClosesAt": "7PM",
+    "AltDaysOfWeek": [
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "5PM",
+    "Alt2DaysOfWeek": [
+      "Friday"
+    ],
+    "Alt2OpensAt": "9AM",
+    "Alt2ClosesAt": "Noon"
+  },
+  {
+    "Name": "Allegheny Health Network - Bethel Park Health + Wellness Pavilion",
+    "Verified": true,
+    "State": "Pennsylvania",
+    "Neighborhood": "Allegheny County",
+    "Address": "1010 Higbee Drive",
+    "City": "Bethel Park",
+    "Zip": "15102",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "AltDaysOfWeek": [
+      "Saturday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "1PM",
+    "Phone": "412-689-7348",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Only for individuals with symptoms.",
+      "Requires phone screen."
+    ],
+    "Website": "https://www.ahn.org/coronavirus/where-to-go-for-help/testing"
+  },
+  {
+    "State": "Pennsylvania",
+    "Name": "Bryn Mawr Hospital",
+    "Verified": true,
+    "Neighborhood": "Montgomery COunty",
+    "Address": "101 South Bryn Mawr Ave",
+    "City": "Bryn Mawr",
+    "Zip": "19010",
+    "Website": "https://www.mainlinehealth.org/conditions-and-treatments/conditions/covid-19#testing",
+    "Phone": "866-225-5654",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Only for individuals with symptoms.",
+      "Limited test kits available."
+    ]
+  },
+  {
+    "State": "Pennsylvania",
+    "Name": "Butler Health System",
+    "Neighborhood": "Butler County",
+    "Address": "1 Hospital Way",
+    "City": "Butler",
+    "Zip": "16001",
+    "Phone": "877-602-2273",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Only for individuals with symptoms."
+    ],
+    "Website": "https://www.butlerhealthsystem.org/CoronaVirus.aspx",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Allegheny Health Network - West Side Health + Wellness Pavilion",
+    "Verified": true,
+    "State": "Pennsylvania",
+    "Neighborhood": "Allegheny County",
+    "Address": "4247 West Ridge Road",
+    "City": "Erie",
+    "Zip": "16506",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "AltDaysOfWeek": [
+      "Saturday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "1PM",
+    "Phone": "412-689-7348",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Only for individuals with symptoms.",
+      "Requires phone screen."
+    ],
+    "Website": "https://www.ahn.org/coronavirus/where-to-go-for-help/testing"
+  },
+  {
+    "Name": "Allegheny Health Network",
+    "Verified": true,
+    "State": "Pennsylvania",
+    "Neighborhood": "Allegheny County",
+    "Address": "4220 William Penn Highway",
+    "City": "Monroeville",
+    "Zip": "15146",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "AltDaysOfWeek": [
+      "Saturday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "1PM",
+    "Phone": "412-689-7348",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Only for individuals with symptoms.",
+      "Requires phone screen."
+    ],
+    "Website": "https://www.ahn.org/coronavirus/where-to-go-for-help/testing"
+  },
+  {
+    "State": "Pennsylvania",
+    "Name": "Central Wellness Outreach Center",
+    "Neighborhood": "Allegheny County",
+    "Address": "127 Anderson St",
+    "City": "Pittsburg",
+    "Zip": "15212",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Website": "https://www.centraloutreach.com/resources/covid-19-testing-sites",
+    "OnlineBooking": true,
+    "LastClosedUpdate": "2020-04-17",
+    "Notes": [
+      "By appointment only.",
+      "Only for individuals with symptoms.",
+      "Limited test kits available.",
+      "Requires phone screen."
+    ],
+    "DaysOfWeek": [
+      "Monday",
+      "Thursday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "7PM",
+    "AltDaysOfWeek": [
+      "Tuesday",
+      "Wednesday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "5PM",
+    "Alt2DaysOfWeek": [
+      "Friday"
+    ],
+    "Alt2OpensAt": "10AM",
+    "Alt2ClosesAt": "5PM",
+    "Phone": "412-322-4151",
+    "NotesOther": "Available for those without a Primary Care Physician or are without insurance.",
+    "Verified": true
+  },
+  {
+    "State": "Pennsylvania",
+    "Name": "Central Wellness Center - Pittsburg Zoo & PPG Aquarium",
+    "Verified": true,
+    "Neighborhood": "Allegheny County",
+    "Address": "7370 Baker St",
+    "City": "Pittsburgh",
+    "Zip": "15206",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Phone": "412-515-0000",
+    "Notes": [
+      "Only for individuals with symptoms.",
+      "Open to all."
+    ],
+    "Website": "https://www.pittsburghzoo.org/drive-through-covid-19-testing/",
+    "OpensAt": "11AM",
+    "ClosesAt": "4PM"
+  },
+  {
+    "Name": "Allegheny Health Network - Wexford Health + Wellness Pavilion",
+    "Verified": true,
+    "State": "Pennsylvania",
+    "Neighborhood": "Allegheny County",
+    "Address": "12311 Perry Highway",
+    "City": "Wexford",
+    "Zip": "15090",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "AltDaysOfWeek": [
+      "Saturday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "1PM",
+    "Phone": "412-689-7348",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Only for individuals with symptoms.",
+      "Requires phone screen."
+    ],
+    "Website": "https://www.ahn.org/coronavirus/where-to-go-for-help/testing"
+  },
+  {
+    "Name": "Austin Emergency Center Far West",
+    "Notes": [
+      "Open to all."
+    ],
+    "State": "Texas",
+    "Address": "3563 Far West Blvd",
+    "City": "Austin",
+    "Zip": "78731",
+    "Phone": "512-481-2321 ",
+    "Website": "https://austiner.com/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "No appointment necessary",
+    "Verified": true
+  },
+  {
+    "Name": "Austin Emergency Center S. Lamar",
+    "Notes": [
+      "Open to all."
+    ],
+    "State": "Texas",
+    "Address": "4015 S. Lamar Blvd.",
+    "City": "Austin",
+    "Zip": "78704",
+    "Phone": "512-774-5780 ",
+    "Website": "https://austiner.com/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "No appointment necessary",
+    "Verified": true
+  },
+  {
+    "Name": "Austin Emergency Center Anderson Mill",
+    "Notes": [
+      "Open to all."
+    ],
+    "State": "Texas",
+    "Address": " 13435 US Hwy. 183 N. ",
+    "City": "Austin",
+    "Zip": "78750",
+    "Phone": "512-614-1200 ",
+    "Website": "https://austiner.com/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "No appointment necessary",
+    "Verified": true
+  },
+  {
+    "Name": "ARC Far West",
+    "State": "Texas",
+    "Address": "6835 Austin Center Blvd",
+    "City": "Austin",
+    "Zip": "78731",
+    "Phone": "512-346-6611",
+    "Website": "https://www.austinregionalclinic.com/make-an-appointment/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "7PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "8AM",
+    "AltClosesAt": "5PM",
+    "Verified": true
+  },
+  {
+    "Name": "ARC South 1st",
+    "State": "Texas",
+    "Address": "3828 South 1st Street",
+    "City": "Austin",
+    "Zip": "78704",
+    "Phone": " 512-443-1311",
+    "Website": "https://www.austinregionalclinic.com/make-an-appointment/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Baylor Scott & White",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen.",
+      "Privately owned."
+    ],
+    "State": "Texas",
+    "Address": "5251 West US Highway 290",
+    "City": "Austin",
+    "Zip": "78735",
+    "Phone": "512.654.2100",
+    "Website": "https://www.bswhealth.com/locations/austin-medical-center/pages/default.aspx",
+    "DaysOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Sunday",
+      "Saturday"
+    ],
+    "OpensAt": "Open 24 hours",
+    "ClosesAt": "Open 24 hours",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Barbara Jordan Elementary School",
+    "Notes": [
+      "Requires phone screen.",
+      "Limited test kits available."
+    ],
+    "State": "Texas",
+    "Address": "6711 Johnny Morris Rd.",
+    "City": "Austin",
+    "Zip": "78724",
+    "Phone": "512-978-8775",
+    "DaysOfWeek": [
+      "Friday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Operated by CommUnityCare",
+    "Verified": true
+  },
+  {
+    "Name": "CommUnityCare Hancock",
+    "Notes": [
+      "Requires phone screen.",
+      "Limited test kits available."
+    ],
+    "State": "Texas",
+    "Address": "1000 E 41st Street Ste: 925",
+    "City": "Austin",
+    "Zip": "78751",
+    "Phone": "512-978-8775",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Operated by CommUnityCare",
+    "AltDaysOfWeek": [
+      "Saturday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "1PM",
+    "Verified": true
+  },
+  {
+    "Name": "UT Health Austin - Health Transformation Building",
+    "Notes": [
+      "Limited test kits available.",
+      "Only for individuals with symptoms.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "Requires doctor's referral.",
+      "Requires phone screen."
+    ],
+    "State": "Texas",
+    "City": "Austin",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Phone": "833-882-2737",
+    "Website": "https://uthealthaustin.org/request-appointment",
+    "OnlineBooking": true,
+    "NotesOther": "Must request an appointment online",
+    "Verified": true,
+    "Address": "1601 Trinity St Building A",
+    "Zip": "78712"
+  },
+  {
+    "Name": "Remedy",
+    "Notes": [
+      "Requires phone screen.",
+      "Limited test kits available.",
+      "By appointment only.",
+      "Only for individuals with symptoms."
+    ],
+    "State": "Texas",
+    "City": "Austin",
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Address": "Sunset Valley",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "NotesOther": "For those uninsured, the video-visit cost is a flat rate of $49. Additional costs for the labs vary based on availability of testing supplies and the laboratory used. Currently, the total cost can range from $65 – 7",
+    "Website": "https://get.myremedy.com/",
+    "OnlineBooking": true,
+    "Phone": "844-736-3395",
+    "Verified": true,
+    "Zip": "78745"
+  },
+  {
+    "Name": "Austin Emergency Center Mueller",
+    "Notes": [
+      "Open to all."
+    ],
+    "State": "Texas",
+    "Address": "1801 E 51st Street Bldg H",
+    "City": "Austin",
+    "Zip": "78723",
+    "Neighborhood": "Mueller",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "No appointment necessary",
+    "Phone": "512-322-5104",
+    "Website": "https://austiner.com/",
+    "Verified": true
+  },
+  {
+    "Name": "ARC Cedar Park",
+    "State": "Texas",
+    "Address": "801 East Whitestone Blvd Building C",
+    "City": "Cedar Park",
+    "Zip": " 78613",
+    "Phone": " 512-259-3467",
+    "Website": "https://www.austinregionalclinic.com/make-an-appointment/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Del Valle at Southeast Metropolitan Park",
+    "Notes": [
+      "Requires phone screen.",
+      "Limited test kits available."
+    ],
+    "State": "Texas",
+    "Address": "4511 SH-71 W",
+    "City": "Del Valle",
+    "Zip": "78617",
+    "Phone": "512-978-8775",
+    "DaysOfWeek": [
+      "Thursday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Operated by CommUnityCare",
+    "Verified": true
+  },
+  {
+    "Name": "ARC Kyle Plum Creek",
+    "State": "Texas",
+    "Address": "4100 Everett Street Suite 400",
+    "City": "Kyle",
+    "Zip": "78640",
+    "Phone": " 512-295-1333",
+    "Website": "https://www.austinregionalclinic.com/make-an-appointment/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "ARC Round Rock",
+    "State": "Texas",
+    "Address": "940 Hesters Crossing",
+    "City": "Round Rock",
+    "Zip": "78681",
+    "Phone": "512-244-9024",
+    "Website": "https://www.austinregionalclinic.com/make-an-appointment/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "7PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "8AM",
+    "AltClosesAt": "5PM",
+    "Verified": true
+  },
+  {
+    "Name": "Baylor Scott & White",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen.",
+      "Privately owned."
+    ],
+    "State": "Texas",
+    "Address": "425 University Blvd",
+    "City": "Round Rock",
+    "Zip": "78665",
+    "Phone": "512.509.0200",
+    "Website": "https://www.bswhealth.com/locations/round-rock-425-university-clinic/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "To schedule your routine or urgent appointments during Saturday extended hours, call 512.509.0200.",
+    "Verified": true
+  },
+  {
+    "Name": "American Fork Hospital",
+    "Notes": [
+      "Other",
+      "Requires phone screen."
+    ],
+    "State": "Utah",
+    "Address": "170 N 1100 E",
+    "City": "American Fork",
+    "Zip": "84003",
+    "Neighborhood": "American Fork",
+    "Phone": "801-855-3300",
+    "Website": "https://intermountainhealthcare.org/locations/american-fork-hospital/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Before visiting one of our testing locations, please call the COVID-19 Hotline at 844-442-5224. Calling ahead allows a medical professional to assess your symptoms over the phone and determine if you should be tested for COVID-19.",
+    "Verified": true
+  },
+  {
+    "Name": "Cedar City InstaCare",
+    "Notes": [
+      "Other",
+      "Requires phone screen."
+    ],
+    "State": "Utah",
+    "Address": "1501 Hiland Ave",
+    "City": "Cedar City",
+    "Zip": "84720",
+    "Phone": "435-865-3440",
+    "Website": "https://intermountainhealthcare.org/locations/location-details/cedar-city-instacare-workmed/cedar-city-instacare/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Before visiting one of our testing locations, please call the COVID-19 Hotline at 844-442-5224. Calling ahead allows a medical professional to assess your symptoms over the phone and determine if you should be tested for COVID-19.",
+    "Verified": true
+  },
+  {
+    "Name": "Ephraim Clinic",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Utah",
+    "Address": "525 N Main St",
+    "City": "Ephraim",
+    "Zip": "84627",
+    "Phone": "435-283-4076",
+    "Website": "https://intermountainhealthcare.org/locations/ephraim-clinic/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "4:30PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Before visiting one of our testing locations, please call the COVID-19 Hotline at 844-442-5224. Calling ahead allows a medical professional to assess your symptoms over the phone and determine if you should be tested for COVID-19.",
+    "Verified": true
+  },
+  {
+    "Name": "Farmington Health Center",
+    "Notes": [
+      "Other"
+    ],
+    "State": "Utah",
+    "Address": "165 N. University Ave",
+    "City": "Farmington",
+    "Zip": "84025",
+    "Phone": "801-213-3200",
+    "Website": "https://healthcare.utah.edu/locations/farmington/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "6PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "10AM",
+    "AltClosesAt": "3PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Call the COVID-19 hotline in advance to set an appointment for testing at 801-587-0712 or 844-745-9325 if possible",
+    "Verified": true
+  },
+  {
+    "Name": "Fillmore Clinic",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Utah",
+    "Address": "700 S Hwy 99 Ste 3",
+    "City": "Fillmore",
+    "Zip": "84631",
+    "Phone": "435-743-5555",
+    "Website": "https://intermountainhealthcare.org/locations/location-details/fillmore-clinic/fillmore-clinic/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "4:30PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Before visiting one of our testing locations, please call the COVID-19 Hotline at 844-442-5224. Calling ahead allows a medical professional to assess your symptoms over the phone and determine if you should be tested for COVID-19.",
+    "Verified": true
+  },
+  {
+    "Name": "Heber InstaCare",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Utah",
+    "Address": "1485 S Highway 40 Ste G",
+    "City": "Heber",
+    "Zip": "84032",
+    "Phone": "435-657-4500",
+    "Website": "https://intermountainhealthcare.org/locations/garfield-memorial-hospital/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Before visiting one of our testing locations, please call the COVID-19 Hotline at 844-442-5224. Calling ahead allows a medical professional to assess your symptoms over the phone and determine if you should be tested for COVID-19.",
+    "Verified": true
+  },
+  {
+    "Name": "North Cache Valley InstaCare",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Utah",
+    "Address": "4088 N HWY 91",
+    "City": "Hyde Park",
+    "Zip": "84318",
+    "Phone": "435-563-4888",
+    "Website": "https://intermountainhealthcare.org/locations/location-details/north-cache-valley-clinic/north-cache-valley-instacare/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Before visiting one of our testing locations, please call the COVID-19 Hotline at 844-442-5224. Calling ahead allows a medical professional to assess your symptoms over the phone and determine if you should be tested for COVID-19.",
+    "Verified": true
+  },
+  {
+    "Name": "Layton Clinic",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Utah",
+    "Address": "2075 N University Park Blvd",
+    "City": "Layton",
+    "Zip": "84041",
+    "Phone": "801-779-6200",
+    "Website": "https://intermountainhealthcare.org/locations/layton-clinic/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Before visiting one of our testing locations, please call the COVID-19 Hotline at 844-442-5224. Calling ahead allows a medical professional to assess your symptoms over the phone and determine if you should be tested for COVID-19.",
+    "Verified": true
+  },
+  {
+    "Name": "Lehi Clinic InstaCare",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Utah",
+    "Address": "3249 N 1200 W Ste A",
+    "City": "Lehi",
+    "Zip": "84043",
+    "Phone": "801-753-4310",
+    "Website": "https://intermountainhealthcare.org/locations/lehi-clinic/medical-services/instacare/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Before visiting one of our testing locations, please call the COVID-19 Hotline at 844-442-5224. Calling ahead allows a medical professional to assess your symptoms over the phone and determine if you should be tested for COVID-19.",
+    "Verified": true
+  },
+  {
+    "Name": "Sterling Urgent Care",
+    "Notes": [
+      "By appointment only.",
+      "Limited test kits available.",
+      "Other"
+    ],
+    "State": "Utah",
+    "Address": "630 E 1400 N Ste. 150 ",
+    "City": "Logan",
+    "Zip": "84341",
+    "Neighborhood": "North Logan",
+    "Phone": "(435) 915-4465",
+    "Website": "https://www.sterlingurgentcare.com/coronavirus-covid-19/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "Must call ahead",
+    "Verified": true
+  },
+  {
+    "Name": "Sterling Urgent Care",
+    "Notes": [
+      "By appointment only.",
+      "Other",
+      "Limited test kits available."
+    ],
+    "State": "Utah",
+    "Address": "1201 S. Main St.",
+    "City": "Logan",
+    "Zip": "84321",
+    "Neighborhood": "South Logan",
+    "Phone": "(435) 787-8504",
+    "Website": "https://www.sterlingurgentcare.com/coronavirus-covid-19/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "9PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "Must call ahead",
+    "Verified": true
+  },
+  {
+    "Name": "Cottonwood InstaCare",
+    "Notes": [
+      "Other",
+      "Requires phone screen."
+    ],
+    "State": "Utah",
+    "Address": "181 E Medical Tower Dr",
+    "City": "Murray",
+    "Zip": "84107",
+    "Phone": "801-314-7700",
+    "Website": "https://intermountainhealthcare.org/locations/cottonwood-clinic/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Before visiting one of our testing locations, please call the COVID-19 Hotline at 844-442-5224. Calling ahead allows a medical professional to assess your symptoms over the phone and determine if you should be tested for COVID-19.",
+    "Verified": true
+  },
+  {
+    "Name": "North Ogden InstaCare",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Utah",
+    "Address": "2400 N Washington Blvd",
+    "City": "North Ogden",
+    "Zip": "84414",
+    "Phone": "801-786-7500",
+    "Website": "https://intermountainhealthcare.org/locations/north-ogden-clinic/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Before visiting one of our testing locations, please call the COVID-19 Hotline at 844-442-5224. Calling ahead allows a medical professional to assess your symptoms over the phone and determine if you should be tested for COVID-19.",
+    "Verified": true
+  },
+  {
+    "Name": "Garfield Memorial Hospital",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Utah",
+    "Address": "200 N 400 E",
+    "City": "Panguitch",
+    "Zip": "84759",
+    "Phone": "435-676-8811",
+    "Website": "https://intermountainhealthcare.org/locations/garfield-memorial-hospital/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Before visiting one of our testing locations, please call the COVID-19 Hotline at 844-442-5224. Calling ahead allows a medical professional to assess your symptoms over the phone and determine if you should be tested for COVID-19.",
+    "Verified": true
+  },
+  {
+    "Name": "Park City Ice Rink",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Utah",
+    "Address": "600 Gillmor Wa",
+    "City": "Park City",
+    "Zip": "84060",
+    "Phone": "435-615-5707",
+    "Website": "https://www.parkcity.org/departments/park-city-ice-arena",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "Noon",
+    "AltClosesAt": "6PM",
+    "NotesOther": "Before visiting one of our testing locations, please call the COVID-19 Hotline at 844-442-5224. Calling ahead allows a medical professional to assess your symptoms over the phone and determine if you should be tested for COVID-19.",
+    "Verified": true
+  },
+  {
+    "Name": "Sevier Valley Clinic",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Utah",
+    "Address": "1000 N Main St Ste A",
+    "City": "Richfield",
+    "Zip": "84701",
+    "Phone": "435-893-0580",
+    "Website": "https://intermountainhealthcare.org/locations/sevier-valley-clinic/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Before visiting one of our testing locations, please call the COVID-19 Hotline at 844-442-5224. Calling ahead allows a medical professional to assess your symptoms over the phone and determine if you should be tested for COVID-19.",
+    "Verified": true
+  },
+  {
+    "Name": "Sterling Urgent Care",
+    "Notes": [
+      "By appointment only.",
+      "Other",
+      "Limited test kits available."
+    ],
+    "State": "Utah",
+    "Address": "700 S. Highway 91",
+    "City": "Richmond",
+    "Zip": "84333",
+    "Neighborhood": "Richmond",
+    "Phone": "(435) 294-3215",
+    "Website": "https://www.sterlingurgentcare.com/coronavirus-covid-19/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "9PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "Must call ahead",
+    "Verified": true
+  },
+  {
+    "Name": "Southridge InstaCare",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Utah",
+    "Address": "3723 W 12600 S Ste 150",
+    "City": "Riverton",
+    "Zip": "84065",
+    "Phone": "801-285-4560",
+    "Website": "https://intermountainhealthcare.org/locations/riverton-hospital/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Before visiting one of our testing locations, please call the COVID-19 Hotline at 844-442-5224. Calling ahead allows a medical professional to assess your symptoms over the phone and determine if you should be tested for COVID-19.",
+    "Verified": true
+  },
+  {
+    "Name": "Intermountain North Temple Clinic",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Utah",
+    "Address": "54 N 800 W",
+    "City": "Salt Lake City",
+    "Zip": "84116",
+    "Phone": "801-408-8654",
+    "Website": "https://intermountainhealthcare.org/locations/location-details/intermountain-north-temple-clinic/intermountain-north-temple-clinic/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Before visiting one of our testing locations, please call the COVID-19 Hotline at 844-442-5224. Calling ahead allows a medical professional to assess your symptoms over the phone and determine if you should be tested for COVID-19.",
+    "Verified": true
+  },
+  {
+    "Name": "Salt Lake InstaCare",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Utah",
+    "Address": "389 S 900 E",
+    "City": "Salt Lake City",
+    "Zip": "84102",
+    "Phone": "385-282-2400",
+    "Website": "https://intermountainhealthcare.org/locations/salt-lake-clinic/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Before visiting one of our testing locations, please call the COVID-19 Hotline at 844-442-5224. Calling ahead allows a medical professional to assess your symptoms over the phone and determine if you should be tested for COVID-19.",
+    "Verified": true
+  },
+  {
+    "Name": "Sugar House Health Center",
+    "Notes": [
+      "Other"
+    ],
+    "State": "Utah",
+    "Address": "1280 E Stringham Ave",
+    "City": "Salt Lake City",
+    "Zip": "84106",
+    "Phone": "801-587-0712 or 844-745-9325",
+    "Website": "https://healthcare.utah.edu/locations/sugar-house/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "6PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "10AM",
+    "AltClosesAt": "3PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Call the COVID-19 hotline in advance to set an appointment for testing at 801-587-0712 or 844-745-9325 if possible",
+    "Verified": true
+  },
+  {
+    "Name": "Redwood Health Center",
+    "Notes": [
+      "Other"
+    ],
+    "State": "Utah",
+    "Address": "1525 West 2100 South",
+    "City": "Salt Lake City",
+    "Zip": "84119",
+    "Phone": "801-213-9900",
+    "Website": "https://healthcare.utah.edu/locations/redwood/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "6PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "10AM",
+    "AltClosesAt": "3PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Call the COVID-19 hotline in advance to set an appointment for testing at 801-587-0712 or 844-745-9325 if possible",
+    "Verified": true
+  },
+  {
+    "Name": "Foothill Family Clinic",
+    "Notes": [
+      "Other"
+    ],
+    "State": "Utah",
+    "Address": "2295 South Foothill Drive",
+    "City": "Salt Lake City",
+    "Zip": "84109",
+    "Phone": "801-486-3021",
+    "Website": "https://foothillfamilyclinic.com/ ",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8:30AM",
+    "ClosesAt": "5:30PM",
+    "NotesOther": "Please call ahead (801-486-3021) before visiting a Foothill Family Clinic testing location. ",
+    "Verified": true
+  },
+  {
+    "Name": "Alta View InstaCare",
+    "Notes": [
+      "Other"
+    ],
+    "State": "Utah",
+    "Address": "9450 S 1300 E ",
+    "City": "Sandy",
+    "Zip": "84094",
+    "Neighborhood": "Sandy",
+    "Phone": "801-501-2110",
+    "Website": "https://intermountainhealthcare.org/locations/alta-view-clinic/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Before visiting one of our testing locations, please call the COVID-19 Hotline at 844-442-5224. Calling ahead allows a medical professional to assess your symptoms over the phone and determine if you should be tested for COVID-19",
+    "Verified": true
+  },
+  {
+    "Name": "Saratoga Springs InstaCare",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Utah",
+    "Address": "354 W State Rd 73",
+    "City": "Saratoga Springs",
+    "Zip": "84045",
+    "Phone": "801-341-5200",
+    "Website": "https://intermountainhealthcare.org/locations/saratoga-springs-clinic/medical-services/instacare/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Before visiting one of our testing locations, please call the COVID-19 Hotline at 844-442-5224. Calling ahead allows a medical professional to assess your symptoms over the phone and determine if you should be tested for COVID-19.",
+    "Verified": true
+  },
+  {
+    "Name": "South Jordan Health Center",
+    "Notes": [
+      "Other"
+    ],
+    "State": "Utah",
+    "Address": "5126 W. Daybreak Parkway",
+    "City": "South Jordan",
+    "Zip": "84009",
+    "Phone": "801-213-4500",
+    "Website": "https://healthcare.utah.edu/locations/south-jordan/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "6PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "10AM",
+    "AltClosesAt": "3PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Call the COVID-19 hotline in advance to set an appointment for testing at 801-587-0712 or 844-745-9325 if possible",
+    "Verified": true
+  },
+  {
+    "Name": "Springville InstaCare",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Utah",
+    "Address": "762 W 400 S",
+    "City": "Springville",
+    "Zip": "84663",
+    "Phone": "801-429-1250",
+    "Website": "https://intermountainhealthcare.org/locations/springville-clinic/medical-services/instacare/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Before visiting one of our testing locations, please call the COVID-19 Hotline at 844-442-5224. Calling ahead allows a medical professional to assess your symptoms over the phone and determine if you should be tested for COVID-19.",
+    "Verified": true
+  },
+  {
+    "Name": "River Road InstaCare",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Utah",
+    "Address": "577 S River Rd",
+    "City": "St. George",
+    "Zip": "84790",
+    "Phone": "435-688-6300",
+    "Website": "https://intermountainhealthcare.org/locations/river-road-clinic/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Before visiting one of our testing locations, please call the COVID-19 Hotline at 844-442-5224. Calling ahead allows a medical professional to assess your symptoms over the phone and determine if you should be tested for COVID-19.",
+    "Verified": true
+  },
+  {
+    "Name": "Taylorsville InstaCare",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Utah",
+    "Address": "3845 W 4700 S",
+    "City": "Taylorsville",
+    "Zip": "84129",
+    "Phone": "801-840-2020",
+    "Website": "https://intermountainhealthcare.org/locations/taylorsville-clinic/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Before visiting one of our testing locations, please call the COVID-19 Hotline at 844-442-5224. Calling ahead allows a medical professional to assess your symptoms over the phone and determine if you should be tested for COVID-19.",
+    "Verified": true
+  },
+  {
+    "Name": "Tooele InstaCare",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Utah",
+    "Address": "777 N Main St",
+    "City": "Tooele",
+    "Zip": "84074",
+    "Phone": "435-228-1200",
+    "Website": "https://intermountainhealthcare.org/locations/tooele-instacare/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Before visiting one of our testing locations, please call the COVID-19 Hotline at 844-442-5224. Calling ahead allows a medical professional to assess your symptoms over the phone and determine if you should be tested for COVID-19.",
+    "Verified": true
+  },
+  {
+    "Name": "Bear River Clinic",
+    "Notes": [
+      "Requires phone screen.",
+      "Other"
+    ],
+    "State": "Utah",
+    "Address": "935 N 1000 W",
+    "City": "Tremonton",
+    "Zip": "84337",
+    "Phone": "435-207-4800",
+    "Website": "https://intermountainhealthcare.org/locations/bear-river-clinic/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "AltDaysOfWeek": [
+      "Saturday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Before visiting one of our testing locations, please call the COVID-19 Hotline at 844-442-5224. Calling ahead allows a medical professional to assess your symptoms over the phone and determine if you should be tested for COVID-19.",
+    "Verified": true
+  },
+  {
     "Name": "Alexandria Immediate Care",
     "Notes": [
       "By appointment only.",
@@ -1995,6 +3985,291 @@
     "LocationType": [
       "Drive-thru"
     ],
+    "Verified": true
+  },
+  {
+    "Name": "Ascension SE Wisconsin Hospital",
+    "State": "Wisconsin",
+    "Website": "https://www.getascensioncare.com/onlinecare/",
+    "Phone": "1-833-981-0711",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "NotesOther": "Individuals who wish to be tested must first be pre-screened by an Ascension Medical Group provider",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "4:30PM",
+    "Address": "10101 S 27th St",
+    "City": "Franklin",
+    "Zip": "53132",
+    "Verified": true
+  },
+  {
+    "Name": "Grafton High School",
+    "State": "Wisconsin",
+    "Website": "https://www.getascensioncare.com/onlinecare/",
+    "Phone": "1-833-981-0711",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "NotesOther": "Individuals who wish to be tested must first be pre-screened by an Ascension Medical Group provider",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "4:30PM",
+    "Address": "1950 Washington St",
+    "City": "Grafton",
+    "Zip": "53024",
+    "Verified": true
+  },
+  {
+    "Name": "Ascension St. Francis Medical Arts Pavilion",
+    "State": "Wisconsin",
+    "Website": "https://www.getascensioncare.com/onlinecare/",
+    "Phone": "1-833-981-0711",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "NotesOther": "Individuals who wish to be tested must first be pre-screened by an Ascension Medical Group provider",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "4:30PM",
+    "Address": "2051 W Oklahoma Ave #2001",
+    "City": "Milwaukee",
+    "Zip": "53215",
+    "Verified": true
+  },
+  {
+    "Name": "Froedtert & the Medical College of Wisonsin",
+    "State": "Wisconsin",
+    "Phone": "414-805-2000",
+    "OpensAt": "8AM",
+    "ClosesAt": "4:45PM",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "Notes": [
+      "Privately owned.",
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "Address": "9200 W Wisconsin Ave",
+    "City": "Milwaukee",
+    "Zip": "53226",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Testing will be provided without charge",
+    "Website": "https://www.froedtert.com/coronavirus",
+    "Verified": true
+  },
+  {
+    "Name": "Ascension Wisconsin Health Center",
+    "State": "Wisconsin",
+    "Website": "https://www.getascensioncare.com/onlinecare/",
+    "Phone": "1-833-981-0711",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "NotesOther": "Individuals who wish to be tested must first be pre-screened by an Ascension Medical Group provider",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "4:30PM",
+    "Address": "10180 Washington Ave",
+    "Zip": "53177",
+    "City": "Mt. Pleasant",
+    "Verified": true
+  },
+  {
+    "Name": "Ascension SE Wisconsin Hospital",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "Wisconsin",
+    "Phone": "1-833-981-0711",
+    "Website": "https://www.getascensioncare.com/onlinecare/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "4:30PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Individuals who wish to be tested must first be pre-screened by an Ascension Medical Group provider",
+    "Address": "201 N Mayfair Rd",
+    "City": "Wauwatosa",
+    "Zip": "53226",
+    "Verified": true
+  },
+  {
+    "Name": "Ascension Columbia St. Mary’s Milwaukee",
+    "State": "Wisconsin",
+    "Website": "https://www.getascensioncare.com/onlinecare/",
+    "Phone": "1-833-981-0711",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "NotesOther": "Individuals who wish to be tested must first be pre-screened by an Ascension Medical Group provider",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "4:30PM",
+    "Address": "801 S 70th S",
+    "Zip": "53214",
+    "City": "West Allis",
+    "Verified": true
+  },
+  {
+    "Name": "Sterling Urgent Care",
+    "Notes": [
+      "By appointment only.",
+      "Limited test kits available.",
+      "Other"
+    ],
+    "State": "Wyoming",
+    "Address": "47 Doc Perkes Ave",
+    "City": "Afton",
+    "Zip": "83110",
+    "Neighborhood": "Afton",
+    "Phone": "(307) 885-3637",
+    "Website": "https://www.sterlingurgentcare.com/coronavirus-covid-19/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "Must call ahead",
+    "Verified": true
+  },
+  {
+    "Name": "Sterling Urgent Care",
+    "Notes": [
+      "By appointment only.",
+      "Limited test kits available.",
+      "Other"
+    ],
+    "State": "Wyoming",
+    "Address": "507 S. Main St.",
+    "City": "Hailey",
+    "Zip": "83333",
+    "Neighborhood": "Hailey",
+    "Phone": "(208) 788-4122",
+    "Website": "https://www.sterlingurgentcare.com/coronavirus-covid-19/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "Must call ahead",
+    "Verified": true
+  },
+  {
+    "Name": "Sterling Urgent Care",
+    "Notes": [
+      "By appointment only.",
+      "Other",
+      "Limited test kits available."
+    ],
+    "State": "Wyoming",
+    "Address": "2761 Commercial Way",
+    "City": "Rock Springs",
+    "Zip": "82901",
+    "Neighborhood": "Rock Springs",
+    "Phone": "(307) 382-3064",
+    "Website": "https://www.sterlingurgentcare.com/coronavirus-covid-19/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "7AM",
+    "ClosesAt": "7PM",
+    "AltDaysOfWeek": [
+      "Saturday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "5PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "Must call ahead",
     "Verified": true
   }
 ]

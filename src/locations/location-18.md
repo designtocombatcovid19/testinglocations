@@ -9,17 +9,17 @@ tags:
 title: Lincoln Park Recreation Center
 state: California
 stateAbbr: CA
-hood: Lincoln Heights
-address: 3501 Valley Blvd
-city: Los Angeles
-zip: 90031
+hood: "Lincoln Heights"
+address: "3501 Valley Blvd"
+city: "Los Angeles"
+zip: "90031"
 mapUrl: "http://maps.apple.com/?q=Lincoln+Park+Recreation+Center&address=3501+Valley+Blvd,Los+Angeles,California,90031"
 locationType: Drive-thru
-phone: undefined
-website: https://lacovidprod.service-now.com/rrs
+phone: "undefined"
+website: "https://lacovidprod.service-now.com/rrs"
 onlineBooking: true
 closed: undefined
-closedUpdate: April 14th, 2020
+closedUpdate: April 16th, 2020
 notes: "By appointment only. Free."
 days: Hours unknown
 ctaMessage: Schedule a test

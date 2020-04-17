@@ -1,30 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Bootheel Urgent Care in Hayti, Missouri, USA."
-permalink: "locations/missouri/hayti/bootheel-urgent-care/"
+description: "Local COVID-19 testing is available at Boone Hospital Center in Columbia, Missouri, USA."
+permalink: "locations/missouri/columbia/boone-hospital-center/"
 tags:
   - locations
   - missouri
-title: Bootheel Urgent Care
+title: Boone Hospital Center
 state: Missouri
 stateAbbr: MO
-hood: Hayti
-address: 110 US HWY J
-city: Hayti
-zip: 63851
-mapUrl: "http://maps.apple.com/?q=Bootheel+Urgent+Care&address=110+US+HWY+J,Hayti,Missouri,63851"
-locationType: Walk-in
-phone: 573-479-3065
-website: https://www.facebook.com/pages/category/Medical---Health/Bootheel-Urgent-Care-an-Walk-In-Clinic-114968296607148/
+hood: "Columbia"
+address: "1600 E Broadway"
+city: "Columbia"
+zip: "65201"
+mapUrl: "http://maps.apple.com/?q=Boone+Hospital+Center&address=1600+E+Broadway,Columbia,Missouri,65201"
+locationType: Drive-thru
+phone: "573-815-8000"
+website: "https://www.boone.org/covid"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 14th, 2020
-notes: "By appointment only. Requires phone screen."
+closedUpdate: April 16th, 2020
+notes: "Requires referral from a primary health provider. Requires doctor's referral. Only for individuals with symptoms. Requires phone screen."
 days: Weekdays
-hours: 2PM-10PM
+hours: 7AM-7PM
 altDays: Weekends
-altHours: 10AM-6PM
+altHours: 8AM-Noon
 ctaMessage: Learn more
-ctaUrl: "https://www.facebook.com/pages/category/Medical---Health/Bootheel-Urgent-Care-an-Walk-In-Clinic-114968296607148/"
+ctaUrl: "https://www.boone.org/covid"
 ---

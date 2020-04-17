@@ -9,17 +9,17 @@ tags:
 title: South Bay Galleria
 state: California
 stateAbbr: CA
-hood: Redondo Beach
-address: 1815 Hawthorne Blvd
-city: Redondo Beach
-zip: 90278
+hood: "Redondo Beach"
+address: "1815 Hawthorne Blvd"
+city: "Redondo Beach"
+zip: "90278"
 mapUrl: "http://maps.apple.com/?q=South+Bay+Galleria&address=1815+Hawthorne+Blvd,Redondo+Beach,California,90278"
 locationType: Drive-thru
-phone: undefined
-website: https://lacovidprod.service-now.com/rrs
+phone: "undefined"
+website: "https://lacovidprod.service-now.com/rrs"
 onlineBooking: true
 closed: undefined
-closedUpdate: April 14th, 2020
+closedUpdate: April 16th, 2020
 notes: "By appointment only."
 days: Hours unknown
 ctaMessage: Schedule a test

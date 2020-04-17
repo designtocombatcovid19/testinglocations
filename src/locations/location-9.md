@@ -9,14 +9,14 @@ tags:
 title: Curtis R. Tucker Public Health Center
 state: California
 stateAbbr: CA
-hood: Inglewood
-address: 123 W Manchester Blvd
-city: Inglewood
-zip: 90301
+hood: "Inglewood"
+address: "123 W Manchester Blvd"
+city: "Inglewood"
+zip: "90301"
 mapUrl: "http://maps.apple.com/?q=Curtis+R+Tucker+Public+Health+Center&address=123+W+Manchester+Blvd,Inglewood,California,90301"
 locationType: Walk-in
-phone: undefined
-website: undefined
+phone: "undefined"
+website: "undefined"
 onlineBooking: undefined
 closed: true
 closedUpdate: April 6th, 2020
