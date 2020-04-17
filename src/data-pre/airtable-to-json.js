@@ -95,6 +95,7 @@ tags:
   - locations
   - ${betterSlug(location.State)}
 title: ${location.Name}
+uniqueName: ${betterSlug(nameNoDuplicate)}
 state: ${location.State}
 stateAbbr: ${getStateAbbr(location.State)}
 hood: "${location.Neighborhood ? location.Neighborhood : location.City}"
