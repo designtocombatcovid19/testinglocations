@@ -1,7 +1,9 @@
-{% if location.data.title == "Alabama" %}
-  {% include "cities-by-state/alabama-cities.njk" %}
-{% elseif location.data.title == "Alaska" %}
-  {% include "cities-by-state/alaska-cities.njk" %}
-{% elseif location.data.title == "California" %}
-  {% include "cities-by-state/california-cities.njk" %}
-{% endif %}
+{% set states = ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"] %}
+{% for state in states %}
+  {% if location.data.title == state %}
+    {% set stateLower = state | lower %}
+    {% set pathArr = ["cities-by-state/", stateLower, "-cities.njk"]%}
+    {% set path = pathArr | join %}
+    {% include path %}
+  {% endif %}
+{% endfor %}
