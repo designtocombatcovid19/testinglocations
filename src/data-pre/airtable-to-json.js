@@ -1,6 +1,5 @@
 const slugify = require('slugify')
 const escapeStringRegexp = require("escape-string-regexp")
-const statesTable = require('datasets-us-states-names-abbr')
 const moment = require('moment')
 const fs = require('fs')
 const dotenv = require('dotenv')
@@ -12,6 +11,7 @@ const getStateAbbr = require('./get-state-abbr')
 
 var recordFieldsJSON = []
 var count = 0
+var names = {}
 
 base('Testing Locations').select({
   maxRecords: 9999,
@@ -25,6 +25,7 @@ base('Testing Locations').select({
   // This function (`page`) will get called for each page of records.
   records.forEach(function(record) {
     recordFieldsJSON.push(record.fields)
+    // console.log(record.fields)
     generatePost(record.fields)
   })
 
@@ -57,25 +58,34 @@ base('Testing Locations').select({
 function generatePost(location) {
   count += 1
   let cta = callToAction(location)
+  let nameNoDuplicate = ""
+  let nameTrimmed = location.Name.trim()
+  if (names[nameTrimmed] || names[nameTrimmed] === 0) {
+    names[nameTrimmed] += 1
+    nameNoDuplicate = `${nameTrimmed}-${names[nameTrimmed]}`
+  } else {
+    names[nameTrimmed] = 0
+    nameNoDuplicate = nameTrimmed
+  }
   let fileString = `---
 layout: location-page
 date: Last Modified
 description: "Local COVID-19 testing is available at ${location.Name.trim()} in ${location.City}, ${location.State}, USA."
-permalink: "locations/${betterSlug(location.State)}/${betterSlug(location.City)}/${betterSlug(location.Name)}/"
+permalink: "locations/${betterSlug(location.State)}/${betterSlug(location.City)}/${betterSlug(nameNoDuplicate)}/"
 tags:
   - locations
   - ${betterSlug(location.State)}
 title: ${location.Name}
 state: ${location.State}
 stateAbbr: ${getStateAbbr(location.State)}
-hood: ${location.Neighborhood ? location.Neighborhood : location.City}
-address: ${location.Address}
-city: ${location.City}
-zip: ${location.Zip}
-mapUrl: "http://maps.apple.com/?q=${betterSlug(location.Name, '+', false)}&address=${betterSlug(location.Address, '+', false)},${betterSlug(location.City, '+', false)},${betterSlug(location.State, '+', false)},${location.Zip}"
+hood: "${location.Neighborhood ? location.Neighborhood : location.City}"
+address: "${location.Address ? location.Address : ''}"
+city: "${location.City}"
+zip: "${location.Zip ? location.Zip : ''}"
+mapUrl: "http://maps.apple.com/?q=${betterSlug(location.Name, '+', false)}&address=${location.Address ? betterSlug(location.Address, '+', false) : ''},${betterSlug(location.City, '+', false)},${betterSlug(location.State, '+', false)},${location.Zip ? location.Zip : ''}"
 locationType: ${typeOfLocation(location)}
-phone: ${location.Phone}
-website: ${location.Website}
+phone: "${location.Phone}"
+website: "${location.Website}"
 onlineBooking: ${location.OnlineBooking}
 closed: ${location.Closed}
 closedUpdate: ${moment(location.LastClosedUpdate).format('MMMM Do, YYYY')}
