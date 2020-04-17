@@ -1,0 +1,27 @@
+---
+layout: location-page
+date: Last Modified
+description: "Local COVID-19 testing is available at Pershing Memorial Hospital in Brookfield, Missouri, USA."
+permalink: "locations/missouri/brookfield/pershing-memorial-hospital/"
+tags:
+  - locations
+  - missouri
+title: Pershing Memorial Hospital 
+state: Missouri
+stateAbbr: MO
+hood: "Brookfield"
+address: "130 E Lockling Ave"
+city: "Brookfield"
+zip: "64628"
+mapUrl: "http://maps.apple.com/?q=Pershing+Memorial+Hospital&address=130+E+Lockling+Ave,Brookfield,Missouri,64628"
+locationType: Please contact for drive-thru/walk-in availability.
+phone: "660-258-2222"
+website: "http://www.phsmo.org/"
+onlineBooking: undefined
+closed: undefined
+closedUpdate: April 17th, 2020
+notes: "By appointment only. Only for individuals with symptoms. Requires phone screen."
+days: Contact for hours of operation.
+ctaMessage: Learn more
+ctaUrl: "http://www.phsmo.org/"
+---

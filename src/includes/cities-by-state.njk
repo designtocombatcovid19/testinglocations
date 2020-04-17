@@ -1,0 +1,7 @@
+{% if location.data.title == "Alabama" %}
+  {% include "cities-by-state/alabama-cities.njk" %}
+{% elseif location.data.title == "Alaska" %}
+  {% include "cities-by-state/alaska-cities.njk" %}
+{% elseif location.data.title == "California" %}
+  {% include "cities-by-state/california-cities.njk" %}
+{% endif %}
