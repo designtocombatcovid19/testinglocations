@@ -19,7 +19,7 @@ phone: undefined
 website: https://lacovidprod.service-now.com/rrs
 onlineBooking: true
 closed: undefined
-closedUpdate: April 15th, 2020
+closedUpdate: April 16th, 2020
 notes: "By appointment only."
 days: Weekdays
 hours: 8AM-4PM

@@ -31,46 +31,7 @@ buttonSecondUrl: /submit/
               <div class="flex flex-wrap px-8 sm:px-10 md:px-12 -mx-4 overflow-hidden lg:text-xl xl:text-1.5xl font-light border-b border-gray-500 border-dashed xl:px-16 py-1 md:py-2 lg:py-3 xl:py-4">
                 <div class="w-full px-4 my-4 overflow-hidden">
                   <p class="hidden font-semibold lg:font-medium state" aria-hidden="true">{{ tag }}</p>
-                  <p class="">For more information on the coronavirus in {{ tag }}, please visit alabamapublichealth.gov</p>
-                </div>
-              </div>
-              {# First location listing #}
-              <div class="flex flex-wrap px-8 sm:px-10 md:px-12 -mx-4 overflow-hidden lg:text-xl xl:text-1.5xl font-light border-b border-gray-500 border-dashed xl:px-16 py-1 md:py-2 lg:py-3 xl:py-4">
-                <div class="w-1/2 px-4 my-4 overflow-hidden sm:w-2/12 md:w-2/12">
-                  <p class="font-semibold lg:font-medium state">{{ location.data.state }}</p>
-                  <p class="hood">{{ location.data.hood }}</p>
-                  <p class="hidden city" aria-hidden="true">{{ location.data.city }}</p>
-                </div>
-
-                <div class="w-1/2 px-4 my-4 overflow-hidden sm:w-3/12 md:w-3/12">
-                  <a class="" href="{{ location.data.mapUrl }}"><address class="not-italic address"><span class="font-semibold lg:font-medium">{{ location.data.title }}</span><br/>{{ location.data.address }}<br/>{{ location.data.city }}, {{ location.data.stateAbbr }} {{ location.data.zip }}</address></a>
-                </div>
-
-                <div class="w-1/2 px-4 my-4 overflow-hidden sm:w-3/12 md:w-2/12">
-                  <p class="font-semibold lg:font-medium days">{{ location.data.days }}</p>
-                  <p class="hours">{{ location.data.hours }}</p>
-                  <p class="font-semibold lg:font-medium altDays">{{ location.data.altDays }}</p>
-                  <p class="altHours">{{ location.data.altHours }}</p>
-                  <p class="font-semibold lg:font-medium alt2Days">{{ location.data.alt2Days }}</p>
-                  <p class="alt2Hours">{{ location.data.alt2Hours }}</p>
-                </div>
-
-                <div class="w-1/2 px-4 my-4 overflow-hidden sm:w-4/12 md:w-3/12">
-                  {% if location.data.closed === true %}
-                    <p class="font-semibold lg:font-medium closed text-red">CLOSED FOR TESTING</p>
-                    <p class="closed text-red">Last updated {{ location.data.closedUpdate }}.</p>
-                  {% else %}
-                    <p class="font-semibold lg:font-medium location-type">{{ location.data.locationType }}</p>
-                    <p class="notes">{{ location.data.notes }}</p>
-                  {% endif%}
-                </div>
-
-                <div class="w-full px-4 my-4 overflow-hidden sm:w-2/10 md:w-2/12">
-                  {% if (location.data.ctaUrl) %}
-                    <a class="border-b border-black learn-more hover:text-gray-700 hover:border-gray-700" href="{{ location.data.ctaUrl }}">{{ location.data.ctaMessage }}</a>
-                  {% else %}
-                    <p class="text-gray-600 no-contact">{{ location.data.ctaMessage }}</p>
-                  {% endif%}
+                  <p class="">For more information on the coronavirus in {{ location.data.title }}, please visit <a class="border-b border-black" href="{{ location.data.url }}">{{ location.data.urlTitle }} </a></p>
                 </div>
               </div>
             {% else %}

@@ -19,7 +19,7 @@ phone: 860-261-6855
 website: undefined
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 15th, 2020
+closedUpdate: April 16th, 2020
 notes: "Limited test kits available. By appointment only. Requires referral from a primary health provider."
 days: M-Sat
 hours: 8AM-4PM
