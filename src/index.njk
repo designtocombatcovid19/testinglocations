@@ -30,7 +30,8 @@ buttonSecondUrl: /submit/
               {# State health resource link #}
               <div class="flex flex-wrap mx-8 sm:mx-10 md:mx-12 overflow-hidden lg:text-xl xl:text-1.5xl font-light border-b border-gray-500 border-dashed xl:mx-16 py-1 md:py-2 lg:py-3 xl:py-4">
                 <div class="w-full my-4 overflow-hidden">
-                  <p class="hidden font-semibold lg:font-medium state" aria-hidden="true">{{ tag }}</p>
+                  <p class="hidden state" aria-hidden="true">{{ tag }}</p>
+                  <p class="hidden city" aria-hidden="true">{% include "cities-by-state.njk" %}</p>
                   <p class="">For more information on the coronavirus in {{ location.data.title }}, please visit <a class="border-b border-black" href="{{ location.data.url }}">{{ location.data.urlTitle }} </a></p>
                 </div>
               </div>
@@ -41,6 +42,7 @@ buttonSecondUrl: /submit/
                   <p class="hood">{{ location.data.hood }}</p>
                   <p class="hidden city" aria-hidden="true">{{ location.data.city }}</p>
                   <p class="hidden stateAbbr" aria-hidden="true">{{ location.data.stateAbbr }}</p>
+                  <p class="hidden stateAbbr" aria-hidden="true">{{ location.data.zip }}</p>
                 </div>
 
                 {% if (location.data.address) %}
@@ -49,7 +51,7 @@ buttonSecondUrl: /submit/
                   </div>
                 {% else %}
                   <div class="w-1/2 px-4 my-4 overflow-hidden sm:w-3/12 md:w-3/12">
-                    <p><span class="font-semibold lg:font-medium">{{ location.data.title }}</span><br/>Please contact this provider for address.</p>
+                    <p><span class="font-semibold lg:font-medium">{{ location.data.title }}</span><br/>Please contact the provider for their address.</p>
                   </div>
                 {% endif %}
 

@@ -14,6 +14,14 @@ module.exports = {
     })
   },
 
+  consoleDump: function (anything) {
+    console.log(anything)
+  },
+
+  consoleDumpObj: function (obj) {
+    console.log(util.inspect(obj, false, null, true))
+  },
+
   cssmin: function (css) {
     return new CleanCSS({}).minify(css).styles
   },

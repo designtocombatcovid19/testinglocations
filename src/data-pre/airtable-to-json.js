@@ -12,6 +12,7 @@ const getStateAbbr = require('./get-state-abbr')
 var recordFieldsJSON = []
 var count = 0
 var names = {}
+var citiesByState = {}
 
 base('Testing Locations').select({
   maxRecords: 9999,
@@ -40,6 +41,16 @@ base('Testing Locations').select({
   } catch (err) {
     console.error(err)
   }
+  try {
+    console.log('Writing cities-by-state files...')
+    for (let [state, cities] of Object.entries(citiesByState)) {
+      let citiesSet = new Set(cities)
+      let citiesString = Array.from(citiesSet).join(' ')
+      fs.writeFileSync(process.cwd() + `/src/includes/cities-by-state/${state.toLowerCase()}-cities.njk`, citiesString)
+    }
+  } catch (err) {
+    console.error(err)
+  }
 }, function done(err) {
   if (err) { console.error(err); return; }
 })
@@ -60,6 +71,7 @@ function generatePost(location) {
   let cta = callToAction(location)
   let nameNoDuplicate = ""
   let nameTrimmed = location.Name.trim()
+
   if (names[nameTrimmed] || names[nameTrimmed] === 0) {
     names[nameTrimmed] += 1
     nameNoDuplicate = `${nameTrimmed}-${names[nameTrimmed]}`
@@ -67,6 +79,13 @@ function generatePost(location) {
     names[nameTrimmed] = 0
     nameNoDuplicate = nameTrimmed
   }
+
+  if (citiesByState[location.State]) {
+    citiesByState[location.State].push(location.City)
+  } else {
+    citiesByState[location.State] = [location.City]
+  }
+
   let fileString = `---
 layout: location-page
 date: Last Modified
@@ -125,10 +144,10 @@ function typeOfLocation(location) {
     } else if (location.LocationType.length === 1) {
       return location.LocationType[0]
     } else {
-      return "Location type unknown"
+      return "Please contact for drive-thru/walk-in availability."
     }
   } else {
-    return "Location type unknown"
+    return "Please contact for drive-thru/walk-in availability."
   }
 }
 
@@ -187,7 +206,7 @@ function hoursOfOperation(location) {
       }
     }
   } else {
-    return "days: Hours unknown"
+    return "days: Contact for hours of operation."
   }
   return open
 }
