@@ -1,7 +1,6 @@
 const geolib = require('geolib');
 
-function findCoordinates(zipcode, zipcodes, columns) {
-  console.log('ZIPPY:', zipcode)
+function findCoordinates(zipcode, zipcodes) {
   let zipObj = zipcodes.find(obj => obj.Zipcode === zipcode)
   if (zipObj) {
     return {
@@ -12,8 +11,7 @@ function findCoordinates(zipcode, zipcodes, columns) {
   console.error('Zipcode does not exist in zipcodes:', zipcode)
 }
 
-// const nearbyZips = findNear(coordinates, distance, zipcodes, columns)
-function findNear(center, radius, zipcodes, columns) {
+function findNear(center, radius, zipcodes) {
   const matches = [];
 
   zipcodes.forEach((zipInfo) => {
@@ -22,20 +20,14 @@ function findNear(center, radius, zipcodes, columns) {
       matches.push(zipInfo.Zipcode);
     }
   })
-  
   return matches
 }
 
 module.exports = {
   near(origin, distance, zipcodes) {
-    const columns = {
-      long: 'Long',
-      lat: 'Lat',
-      zipcode: 'Zipcode',
-    }
-    const coordinates = findCoordinates(origin, zipcodes, columns)
+    const coordinates = findCoordinates(origin, zipcodes)
     if (coordinates !== undefined) {
-      return findNear(coordinates, distance, zipcodes, columns)
+      return findNear(coordinates, distance, zipcodes)
     }
     return []
   }
