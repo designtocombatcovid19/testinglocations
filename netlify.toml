@@ -11,7 +11,7 @@
     META_DESC = "Locations, hours, and eligibility for COVID-19 testing in the United States."
     META_LANG = "en"
     META_COLOR = ""
-    META_EMAIL = "branden.byers@designtocombatcovid19.com"
+    META_EMAIL = "locations@designtocombatcovid19.com"
     META_TELEPHONE = ""
     # TZ = "the timezone for your site, e.g. America/New_York"
 

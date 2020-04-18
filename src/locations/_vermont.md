@@ -2,9 +2,9 @@
 layout: location-page
 date: 2019-12-31
 tags:
-  - utah
-title: Utah
-stateAbbr: UT
-url: "https://coronavirus.utah.gov/"
-urlTitle: "coronavirus.utah.gov"
+  - vermont
+title: Vermont
+stateAbbr: VT
+url: "https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus"
+urlTitle: "healthvermont.gov"
 ---
