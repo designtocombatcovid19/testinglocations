@@ -4,6 +4,6 @@
     {% set stateLower = state | lower %}
     {% set pathArr = ["cities-by-state/", stateLower, "-cities.njk"]%}
     {% set path = pathArr | join %}
-    {% include path %}
+    {% include path ignore missing %}
   {% endif %}
 {% endfor %}
