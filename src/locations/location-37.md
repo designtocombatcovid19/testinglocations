@@ -7,12 +7,14 @@ tags:
   - locations
   - mississippi
 title: Traceway Park
+uniqueName: traceway-park
 state: Mississippi
 stateAbbr: MS
 hood: "Clinton"
 address: ""
 city: "Clinton"
 zip: ""
+zipsNearby: "" 
 mapUrl: "http://maps.apple.com/?q=Traceway+Park&address=,Clinton,Mississippi,"
 locationType: Please contact for drive-thru/walk-in availability.
 phone: "601-496-7200"

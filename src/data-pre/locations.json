@@ -534,7 +534,7 @@
     "Address": "1101 W McKinley Ave",
     "City": "Pomona",
     "Zip": "91768",
-    "Website": "coronavirus.lacity.org/Testing",
+    "Website": "https://coronavirus.lacity.org/Testing",
     "OnlineBooking": true,
     "DaysOfWeek": [
       "Sunday",
@@ -1538,7 +1538,7 @@
     "City": "Kansas City",
     "Zip": "64151",
     "Phone": "816-505-3660",
-    "Website": "firstpointurgentcare.org",
+    "Website": "https://www.firstpointurgentcare.org",
     "DaysOfWeek": [
       "Friday",
       "Monday",
@@ -2207,7 +2207,7 @@
     "Zip": "87020",
     "Neighborhood": "Cibola",
     "Phone": "505-287-4446",
-    "Website": "www.cibolahospital.com",
+    "Website": "https://cibolahospital.com",
     "OpensAt": "Open 24 hours",
     "ClosesAt": "Open 24 hours",
     "LocationType": [

@@ -7,12 +7,14 @@ tags:
   - locations
   - utah
 title: Cedar City InstaCare
+uniqueName: cedar-city-instacare
 state: Utah
 stateAbbr: UT
 hood: "Cedar City"
 address: "1501 Hiland Ave"
 city: "Cedar City"
 zip: "84720"
+zipsNearby: "84713 84731 84720 84721 84722 84742 84781 84723 84725 84710 84729 84735 84762 84737 84746 84784 84740 84745 84751 84752 84714 84753 84756 84757 84755 84758 84759 84764 84719 84760 84761 84772 84733 84738 84765 84763 84767 84779 84770 84771 84782 84783 84790 84791 84774 84780 86021 89042 84717" 
 mapUrl: "http://maps.apple.com/?q=Cedar+City+InstaCare&address=1501+Hiland+Ave,Cedar+City,Utah,84720"
 locationType: Drive-thru
 phone: "435-865-3440"

@@ -7,12 +7,14 @@ tags:
   - locations
   - utah
 title: South Jordan Health Center
+uniqueName: south-jordan-health-center
 state: Utah
 stateAbbr: UT
 hood: "South Jordan"
 address: "5126 W. Daybreak Parkway"
 city: "South Jordan"
 zip: "84009"
+zipsNearby: "" 
 mapUrl: "http://maps.apple.com/?q=South+Jordan+Health+Center&address=5126+W+Daybreak+Parkway,South+Jordan,Utah,84009"
 locationType: Drive-thru
 phone: "801-213-4500"

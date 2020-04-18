@@ -8,11 +8,14 @@ const Airtable = require('airtable')
 const base = new Airtable({apiKey: process.env.AIRTABLE_KEY}).base(process.env.AIRTABLE_BASE)
 const dayCombos = require('./day-combos')
 const getStateAbbr = require('./get-state-abbr')
+const zipcodes = require('./zipcodes-nearby')
+const parser = require('csv-parser-sync-plus-promise')
 
 var recordFieldsJSON = []
 var count = 0
 var names = {}
 var citiesByState = {}
+var usaZips = parser.readCsvSync(__dirname + '/zipcodes.csv')
 
 base('Testing Locations').select({
   maxRecords: 9999,
@@ -102,6 +105,7 @@ hood: "${location.Neighborhood ? location.Neighborhood : location.City}"
 address: "${location.Address ? location.Address : ''}"
 city: "${location.City}"
 zip: "${location.Zip ? location.Zip : ''}"
+zipsNearby: "${location.Zip ? zipcodes.near(location.Zip.trim(), 100000, usaZips).join(' ') : ''}" 
 mapUrl: "http://maps.apple.com/?q=${betterSlug(location.Name, '+', false)}&address=${location.Address ? betterSlug(location.Address, '+', false) : ''},${betterSlug(location.City, '+', false)},${betterSlug(location.State, '+', false)},${location.Zip ? location.Zip : ''}"
 locationType: ${typeOfLocation(location)}
 phone: "${location.Phone}"

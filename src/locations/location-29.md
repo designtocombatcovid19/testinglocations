@@ -7,12 +7,14 @@ tags:
   - locations
   - delaware
 title: Bayhealth
+uniqueName: bayhealth
 state: Delaware
 stateAbbr: DE
 hood: "Dover"
 address: ""
 city: "Dover"
 zip: ""
+zipsNearby: "" 
 mapUrl: "http://maps.apple.com/?q=Bayhealth&address=,Dover,Delaware,"
 locationType: Drive-thru
 phone: "302-310-8477"

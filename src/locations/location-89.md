@@ -7,12 +7,14 @@ tags:
   - locations
   - new-mexico
 title: Silver City Health Care Clinic
+uniqueName: silver-city-health-care-clinic
 state: New Mexico
 stateAbbr: NM
 hood: "Silver City"
 address: "1600 East 32nd Street"
 city: "Silver City"
 zip: "88061"
+zipsNearby: "85534 87930 88023 88025 87931 88026 88028 88030 88031 87933 88034 87936 88038 88039 88040 88041 88042 88043 88009 88045 88055 88049 88051 87941 88022 88036 88053 88061 88062 88065 87942 87943" 
 mapUrl: "http://maps.apple.com/?q=Silver+City+Health+Care+Clinic&address=1600+East+32nd+Street,Silver+City,New+Mexico,88061"
 locationType: Drive-thru
 phone: "575-956-1320"

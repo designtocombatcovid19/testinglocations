@@ -43,6 +43,7 @@ buttonSecondUrl: /submit/
                   <p class="hidden city" aria-hidden="true">{{ location.data.city }}</p>
                   <p class="hidden stateAbbr" aria-hidden="true">{{ location.data.stateAbbr }}</p>
                   <p class="hidden stateAbbr" aria-hidden="true">{{ location.data.zip }}</p>
+                  <p class="hidden zipsNearby" aria-hidden="true">{{ location.data.zipsNearby }}</p>
                 </div>
 
                 {% if (location.data.address) %}
@@ -92,7 +93,7 @@ buttonSecondUrl: /submit/
 
 <script>
   var options = {
-    valueNames: [ 'state', 'hood', 'city', 'stateAbbr' ]
+    valueNames: [ 'state', 'hood', 'city', 'stateAbbr', 'zipsNearby' ]
   };
   var testingList = new List('testing-list', options);
 </script>

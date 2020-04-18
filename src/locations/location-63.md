@@ -7,12 +7,14 @@ tags:
   - locations
   - new-jersey
 title: Cape May Technical School
+uniqueName: cape-may-technical-school
 state: New Jersey
 stateAbbr: NJ
 hood: "Cape May County"
 address: "188 Crest Haven Road"
 city: "Cape May Court"
 zip: "09210"
+zipsNearby: "" 
 mapUrl: "http://maps.apple.com/?q=Cape+May+Technical+School&address=188+Crest+Haven+Road,Cape+May+Court,New+Jersey,09210"
 locationType: Drive-thru
 phone: "856-451-4700"
