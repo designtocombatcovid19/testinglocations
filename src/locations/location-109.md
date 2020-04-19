@@ -21,7 +21,7 @@ phone: "844-736-3395"
 website: "https://get.myremedy.com/"
 onlineBooking: true
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "Requires phone screen. Limited test kits available. By appointment only. Only for individuals with symptoms."
 days: Everyday
 hours: 8AM-8PM

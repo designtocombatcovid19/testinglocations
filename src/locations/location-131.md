@@ -21,7 +21,7 @@ phone: "435-893-0580"
 website: "https://intermountainhealthcare.org/locations/sevier-valley-clinic/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "Requires phone screen."
 days: Weekdays
 hours: 9AM-5PM

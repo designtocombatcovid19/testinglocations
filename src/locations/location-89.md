@@ -21,7 +21,7 @@ phone: "575-956-1320"
 website: "https://www.silverhealthcare.org/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "By appointment only. Requires phone screen."
 days: Everyday
 hours: 4PM-5PM

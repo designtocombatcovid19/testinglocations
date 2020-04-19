@@ -21,7 +21,7 @@ phone: "609-726-7097"
 website: "https://www.co.burlington.nj.us/1845/2019-Novel-Coronavirus-Information"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "By appointment only. Local residents only."
 days: Contact for hours of operation.
 ctaMessage: Learn more

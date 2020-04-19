@@ -21,7 +21,7 @@ phone: "816-632-2101"
 website: "https://cameronregional.org/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "By appointment only. Requires phone screen."
 days: Everyday
 hours: 8AM-8PM

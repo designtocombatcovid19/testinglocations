@@ -21,7 +21,7 @@ phone: "435-563-4888"
 website: "https://intermountainhealthcare.org/locations/location-details/north-cache-valley-clinic/north-cache-valley-instacare/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "Requires phone screen."
 days: Everyday
 hours: 9AM-5PM

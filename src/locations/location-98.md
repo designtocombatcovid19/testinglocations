@@ -21,7 +21,7 @@ phone: "412-515-0000"
 website: "https://www.pittsburghzoo.org/drive-through-covid-19-testing/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "Only for individuals with symptoms. Open to all."
 days: Contact for hours of operation.
 ctaMessage: Learn more

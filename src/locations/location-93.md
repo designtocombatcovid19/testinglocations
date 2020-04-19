@@ -21,7 +21,7 @@ phone: "866-225-5654"
 website: "https://www.mainlinehealth.org/conditions-and-treatments/conditions/covid-19#testing"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "By appointment only. Requires doctor's referral. Only for individuals with symptoms. Limited test kits available."
 days: Contact for hours of operation.
 ctaMessage: Learn more

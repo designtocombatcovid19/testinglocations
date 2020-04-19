@@ -21,7 +21,7 @@ phone: "435-676-8811"
 website: "https://intermountainhealthcare.org/locations/garfield-memorial-hospital/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "Requires phone screen."
 days: Weekdays
 hours: 9AM-5PM

@@ -21,7 +21,7 @@ phone: "435-615-5707"
 website: "https://www.parkcity.org/departments/park-city-ice-arena"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "Requires phone screen."
 days: Weekdays
 hours: 9AM-5PM

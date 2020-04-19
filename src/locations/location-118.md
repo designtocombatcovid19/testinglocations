@@ -21,7 +21,7 @@ phone: "435-283-4076"
 website: "https://intermountainhealthcare.org/locations/ephraim-clinic/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "Requires phone screen."
 days: Weekdays
 hours: 9AM-4:30PM

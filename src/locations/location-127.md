@@ -21,7 +21,7 @@ phone: "801-314-7700"
 website: "https://intermountainhealthcare.org/locations/cottonwood-clinic/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "Requires phone screen."
 days: Everyday
 hours: 9AM-5PM

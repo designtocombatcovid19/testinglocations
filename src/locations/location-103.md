@@ -21,7 +21,7 @@ phone: "512-346-6611"
 website: "https://www.austinregionalclinic.com/make-an-appointment/"
 onlineBooking: true
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "By appointment only. Requires phone screen."
 days: Weekdays
 hours: 8AM-7PM

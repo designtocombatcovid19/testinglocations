@@ -8,6 +8,7 @@ const Airtable = require('airtable')
 const base = new Airtable({apiKey: process.env.AIRTABLE_KEY}).base(process.env.AIRTABLE_BASE)
 const dayCombos = require('./day-combos')
 const getStateAbbr = require('./get-state-abbr')
+const phoneClean = require('./phone-clean')
 const zipcodes = require('./zipcodes-nearby')
 const parser = require('csv-parser-sync-plus-promise')
 
@@ -108,7 +109,7 @@ zip: "${location.Zip ? location.Zip : ''}"
 zipsNearby: "${location.Zip ? zipcodes.near(location.Zip.trim(), 100000, usaZips).join(' ') : ''}" 
 mapUrl: "http://maps.apple.com/?q=${betterSlug(location.Name, '+', false)}&address=${location.Address ? betterSlug(location.Address, '+', false) : ''},${betterSlug(location.City, '+', false)},${betterSlug(location.State, '+', false)},${location.Zip ? location.Zip : ''}"
 locationType: ${typeOfLocation(location)}
-phone: "${location.Phone}"
+phone: "${location.Phone ? phoneClean(location.Phone) : ''}"
 website: "${location.Website}"
 onlineBooking: ${location.OnlineBooking}
 closed: ${location.Closed}
@@ -135,7 +136,8 @@ function callToAction(location) {
   } else if (location.Website) {
     ctaMessage = `Learn more\nctaUrl: "${location.Website.trim()}"`
   } else if (location.Phone) {
-    ctaMessage = `Call ${location.Phone}\nctaUrl: "tel:${location.Phone.trim()}"`
+    cleanPhoneNumber = phoneClean(location.Phone)
+    ctaMessage = `Call ${cleanPhoneNumber}\nctaUrl: "tel:${cleanPhoneNumber}"`
   } else {
     ctaMessage = "No contact info available."
   }

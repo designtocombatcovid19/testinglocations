@@ -21,7 +21,7 @@ phone: "800-342-9738"
 website: "https://ochd.simplybook.me/v2/#"
 onlineBooking: true
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "By appointment only. Requires doctor's referral. Local residents only."
 days: Contact for hours of operation.
 ctaMessage: Schedule a test

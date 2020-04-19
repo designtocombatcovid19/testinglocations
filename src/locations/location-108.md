@@ -21,7 +21,7 @@ phone: "833-882-2737"
 website: "https://uthealthaustin.org/request-appointment"
 onlineBooking: true
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "Limited test kits available. Only for individuals with symptoms. Prioritizes health care workers. Prioritizes first responders. Requires doctor's referral. Requires phone screen."
 days: Contact for hours of operation.
 ctaMessage: Schedule a test

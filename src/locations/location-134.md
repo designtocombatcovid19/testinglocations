@@ -21,7 +21,7 @@ phone: "801-408-8654"
 website: "https://intermountainhealthcare.org/locations/location-details/intermountain-north-temple-clinic/intermountain-north-temple-clinic/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "Requires phone screen."
 days: Everyday
 hours: 10AM-5PM

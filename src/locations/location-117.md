@@ -21,7 +21,7 @@ phone: "435-865-3440"
 website: "https://intermountainhealthcare.org/locations/location-details/cedar-city-instacare-workmed/cedar-city-instacare/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "Requires phone screen."
 days: M-Sat
 hours: 9AM-5PM

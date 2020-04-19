@@ -9,7 +9,7 @@
     "Address": "400 East 10th Street",
     "City": "Anniston",
     "Zip": "36207",
-    "Phone": "256-235-5600",
+    "Phone": "1-256-235-5600",
     "DaysOfWeek": [
       "Friday",
       "Monday",
@@ -312,7 +312,7 @@
     "Address": "43839 N. 15th Street West",
     "City": "Lancaster",
     "Zip": "93534",
-    "Phone": "(661) 945-5984",
+    "Phone": "661-945-5984",
     "Website": "https://lacovidprod.service-now.com/rrs",
     "OnlineBooking": true,
     "DaysOfWeek": [
@@ -626,7 +626,7 @@
     "Address": "10680 Del Mar Parkway",
     "City": "Aurora",
     "Zip": "80010",
-    "Phone": "(303) 360-6276",
+    "Phone": "303-360-6276",
     "Website": "https://stridechc.org/",
     "DaysOfWeek": [
       "Friday",
@@ -653,7 +653,7 @@
     "Address": "7495 W. 29th Avenue",
     "City": "Wheat Ridge",
     "Zip": "80033",
-    "Phone": "(303) 360-6276",
+    "Phone": "303-360-6276",
     "Website": "https://stridechc.org/",
     "DaysOfWeek": [
       "Friday",
@@ -801,7 +801,7 @@
     "City": "Burley",
     "Zip": "83318",
     "Neighborhood": "Burley",
-    "Phone": "(208) 878-8783",
+    "Phone": "208-878-8783",
     "Website": "https://www.sterlingurgentcare.com/coronavirus-covid-19/",
     "DaysOfWeek": [
       "Friday",
@@ -933,7 +933,7 @@
     "City": "Wye Mills",
     "Zip": "21679",
     "Neighborhood": "Queen Anne's County",
-    "Phone": "443-262-9900 (M - F 8 AM - 4:30 PM)",
+    "Phone": "443-262-9900",
     "Website": "https://www.chesapeake.edu/coronavirus",
     "DaysOfWeek": [
       "Friday",
@@ -1272,7 +1272,7 @@
     "Address": "800 Hospital Drive",
     "City": "Columbia",
     "Zip": "65201",
-    "Phone": "573-814-6000 / 573-814-6580",
+    "Phone": "573-814-6000",
     "Website": "https://www.columbiamo.va.gov/locations/directions.asp",
     "OpensAt": "Open 24 hours",
     "ClosesAt": "Open 24 hours",
@@ -1865,7 +1865,7 @@
     "City": "Secaucus",
     "Zip": "07094",
     "Neighborhood": "Hudson County",
-    "Phone": "(201) 392-3278",
+    "Phone": "201-392-3278",
     "Website": "https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus",
     "DaysOfWeek": [
       "Sunday",
@@ -1926,7 +1926,7 @@
     "City": "Union",
     "Zip": "07083",
     "Neighborhood": "Union County",
-    "Phone": "908-373-5105 / 908-214-7107",
+    "Phone": "908-373-5105",
     "Website": "https://ucnj.org/",
     "DaysOfWeek": [
       "Friday",
@@ -2330,7 +2330,7 @@
     "City": "Aliquippa",
     "Zip": "15001",
     "Neighborhood": "Beaver County",
-    "Phone": "724-707-115",
+    "Phone": "(724) 707-1155",
     "Website": "https://www.centraloutreach.com/resources/covid-19-testing-sites",
     "OnlineBooking": true,
     "DaysOfWeek": [
@@ -3305,7 +3305,7 @@
     "City": "Logan",
     "Zip": "84341",
     "Neighborhood": "North Logan",
-    "Phone": "(435) 915-4465",
+    "Phone": "435-915-4465",
     "Website": "https://www.sterlingurgentcare.com/coronavirus-covid-19/",
     "DaysOfWeek": [
       "Friday",
@@ -3336,7 +3336,7 @@
     "City": "Logan",
     "Zip": "84321",
     "Neighborhood": "South Logan",
-    "Phone": "(435) 787-8504",
+    "Phone": "435-787-8504",
     "Website": "https://www.sterlingurgentcare.com/coronavirus-covid-19/",
     "DaysOfWeek": [
       "Friday",
@@ -3504,7 +3504,7 @@
     "City": "Richmond",
     "Zip": "84333",
     "Neighborhood": "Richmond",
-    "Phone": "(435) 294-3215",
+    "Phone": "435-294-3215",
     "Website": "https://www.sterlingurgentcare.com/coronavirus-covid-19/",
     "DaysOfWeek": [
       "Friday",
@@ -3614,7 +3614,7 @@
     "Address": "1280 E Stringham Ave",
     "City": "Salt Lake City",
     "Zip": "84106",
-    "Phone": "801-587-0712 or 844-745-9325",
+    "Phone": "801-587-0712",
     "Website": "https://healthcare.utah.edu/locations/sugar-house/",
     "DaysOfWeek": [
       "Friday",
@@ -3988,6 +3988,195 @@
     "Verified": true
   },
   {
+    "Name": "Grays Harbor Public Health",
+    "Notes": [
+      "By appointment only.",
+      "Prioritizes health care workers.",
+      "Only for individuals with symptoms.",
+      "Only for individuals with direct and unprotected exposure to a known positive case.",
+      "Requires phone screen."
+    ],
+    "State": "Washington",
+    "City": "Aberdeen",
+    "Zip": "98520",
+    "Phone": "360-964-1850",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Swedish Issaquah",
+    "State": "Washington",
+    "Address": "751 N.E. Blakely Drive",
+    "City": "Issaquah",
+    "Zip": "98029",
+    "Phone": "425-313-4000",
+    "Website": "https://www.swedish.org/locations/issaquah-campus",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "In parking garage.",
+    "Verified": true
+  },
+  {
+    "Name": "PacMed Renton Clinic",
+    "Notes": [
+      "Only for individuals with symptoms.",
+      "Only for high risk individuals."
+    ],
+    "State": "Washington",
+    "Address": "601 South Carr Rd Suite 100",
+    "City": "Renton",
+    "Zip": "98055",
+    "Phone": "888-472-2633",
+    "Website": "https://www.pacificmedicalcenters.org/about-us/news-press/covid-19-testing-at-pacmed/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "12:30PM",
+    "ClosesAt": "4:30PM",
+    "AltDaysOfWeek": [
+      "Saturday"
+    ],
+    "AltOpensAt": "10AM",
+    "AltClosesAt": "2PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "In the parking lot.",
+    "Verified": true
+  },
+  {
+    "Name": "UW Medical Center Northwest Campus",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Washington",
+    "Address": "1560 North 115th Street",
+    "City": "Seattle",
+    "Zip": "98133",
+    "Phone": "877-694-4677",
+    "Website": "https://www.uwmedicine.org/coronavirus",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "3PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "In parking garage.",
+    "Verified": true
+  },
+  {
+    "Name": "PacMed Beacon Hill Clinic",
+    "Notes": [
+      "Only for individuals with symptoms.",
+      "Only for high risk individuals."
+    ],
+    "State": "Washington",
+    "Address": "1200 12th Avenue S",
+    "City": "Seattle",
+    "Zip": "98144",
+    "Neighborhood": "Beacon Hill",
+    "Phone": "888-472-2633",
+    "Website": "https://www.pacificmedicalcenters.org/about-us/news-press/covid-19-testing-at-pacmed/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "1PM",
+    "ClosesAt": "4:30PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "On the 2nd floor of patient parking lot.",
+    "Verified": true
+  },
+  {
+    "Name": "Swedish First Hill",
+    "State": "Washington",
+    "Address": "515 Minor Ave Suite 170",
+    "City": "Seattle",
+    "Zip": "98104",
+    "Neighborhood": "First Hill",
+    "Phone": "206-386-9500",
+    "Website": "https://www.swedish.org/locations/first-hill-campus",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "PacMed Northgate Clinic",
+    "Notes": [
+      "Only for individuals with symptoms.",
+      "Only for high risk individuals."
+    ],
+    "State": "Washington",
+    "Address": "10416 5th Avenue NE",
+    "City": "Seattle",
+    "Zip": "98125",
+    "Neighborhood": "Northgate",
+    "Phone": "888-472-2633",
+    "Website": "https://www.pacificmedicalcenters.org/about-us/news-press/covid-19-testing-at-pacmed/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "1PM",
+    "ClosesAt": "4:30PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "In the parking lot.",
+    "Verified": true
+  },
+  {
+    "Name": "Snoqualmie Valley Hospital",
+    "Notes": [
+      "Only for individuals with symptoms.",
+      "Only for individuals with direct and unprotected exposure to a known positive case."
+    ],
+    "State": "Washington",
+    "Address": " 9801 Frontier Ave SE",
+    "City": "Snoqualmie",
+    "Zip": "98065",
+    "Phone": "425-831-2300",
+    "Website": "https://snoqualmiehospital.org",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "2PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Registration forms will be delivered to waiting cars.",
+    "Verified": true
+  },
+  {
     "Name": "Ascension SE Wisconsin Hospital",
     "Notes": [
       "By appointment only.",
@@ -3997,7 +4186,7 @@
     "Address": "10101 S 27th St",
     "City": "Franklin",
     "Zip": "53132",
-    "Phone": "1-833-981-0711",
+    "Phone": "833-981-0711",
     "Website": "https://www.getascensioncare.com/onlinecare/",
     "DaysOfWeek": [
       "Friday",
@@ -4024,7 +4213,7 @@
     "Address": "1950 Washington St",
     "City": "Grafton",
     "Zip": "53024",
-    "Phone": "1-833-981-0711",
+    "Phone": "833-981-0711",
     "Website": "https://www.getascensioncare.com/onlinecare/",
     "DaysOfWeek": [
       "Friday",
@@ -4051,7 +4240,7 @@
     "Address": "2051 W Oklahoma Ave #2001",
     "City": "Milwaukee",
     "Zip": "53215",
-    "Phone": "1-833-981-0711",
+    "Phone": "833-981-0711",
     "Website": "https://www.getascensioncare.com/onlinecare/",
     "DaysOfWeek": [
       "Friday",
@@ -4106,7 +4295,7 @@
     "Address": "10180 Washington Ave",
     "City": "Mt. Pleasant",
     "Zip": "53177",
-    "Phone": "1-833-981-0711",
+    "Phone": "833-981-0711",
     "Website": "https://www.getascensioncare.com/onlinecare/",
     "DaysOfWeek": [
       "Friday",
@@ -4133,7 +4322,7 @@
     "Address": "201 N Mayfair Rd",
     "City": "Wauwatosa",
     "Zip": "53226",
-    "Phone": "1-833-981-0711",
+    "Phone": "833-981-0711",
     "Website": "https://www.getascensioncare.com/onlinecare/",
     "DaysOfWeek": [
       "Friday",
@@ -4160,7 +4349,7 @@
     "Address": "801 S 70th S",
     "City": "West Allis",
     "Zip": "53214",
-    "Phone": "1-833-981-0711",
+    "Phone": "833-981-0711",
     "Website": "https://www.getascensioncare.com/onlinecare/",
     "DaysOfWeek": [
       "Friday",
@@ -4189,7 +4378,7 @@
     "City": "Afton",
     "Zip": "83110",
     "Neighborhood": "Afton",
-    "Phone": "(307) 885-3637",
+    "Phone": "307-885-3637",
     "Website": "https://www.sterlingurgentcare.com/coronavirus-covid-19/",
     "DaysOfWeek": [
       "Friday",
@@ -4219,7 +4408,7 @@
     "City": "Hailey",
     "Zip": "83333",
     "Neighborhood": "Hailey",
-    "Phone": "(208) 788-4122",
+    "Phone": "208-788-4122",
     "Website": "https://www.sterlingurgentcare.com/coronavirus-covid-19/",
     "DaysOfWeek": [
       "Friday",
@@ -4249,7 +4438,7 @@
     "City": "Rock Springs",
     "Zip": "82901",
     "Neighborhood": "Rock Springs",
-    "Phone": "(307) 382-3064",
+    "Phone": "307-382-3064",
     "Website": "https://www.sterlingurgentcare.com/coronavirus-covid-19/",
     "DaysOfWeek": [
       "Friday",

@@ -21,7 +21,7 @@ phone: "512-322-5104"
 website: "https://austiner.com/"
 onlineBooking: true
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "Open to all."
 days: Everyday
 hours: 8AM-8PM

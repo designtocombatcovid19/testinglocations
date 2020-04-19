@@ -21,7 +21,7 @@ phone: "512-978-8775"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "Requires phone screen. Limited test kits available."
 days: Thursdays
 hours: 9AM-4PM

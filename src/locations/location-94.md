@@ -21,7 +21,7 @@ phone: "877-602-2273"
 website: "https://www.butlerhealthsystem.org/CoronaVirus.aspx"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "By appointment only. Requires doctor's referral. Only for individuals with symptoms."
 days: Contact for hours of operation.
 ctaMessage: Learn more

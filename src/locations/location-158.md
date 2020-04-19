@@ -1,32 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Sterling Urgent Care in Rock Springs, Wyoming, USA."
-permalink: "locations/wyoming/rock-springs/sterling-urgent-care-6/"
+description: "Local COVID-19 testing is available at Grafton High School in Grafton, Wisconsin, USA."
+permalink: "locations/wisconsin/grafton/grafton-high-school/"
 tags:
   - locations
-  - wyoming
-title: Sterling Urgent Care
-uniqueName: sterling-urgent-care-6
-state: Wyoming
-stateAbbr: WY
-hood: "Rock Springs"
-address: "2761 Commercial Way"
-city: "Rock Springs"
-zip: "82901"
-zipsNearby: "82932 82934 82935 82938 82929 82937 82936 82939 83124 82943 82901 82902 82942 82945 84023 84046" 
-mapUrl: "http://maps.apple.com/?q=Sterling+Urgent+Care&address=2761+Commercial+Way,Rock+Springs,Wyoming,82901"
-locationType: Walk-in
-phone: "(307) 382-3064"
-website: "https://www.sterlingurgentcare.com/coronavirus-covid-19/"
+  - wisconsin
+title: Grafton High School
+uniqueName: grafton-high-school
+state: Wisconsin
+stateAbbr: WI
+hood: "Grafton"
+address: "1950 Washington St"
+city: "Grafton"
+zip: "53024"
+zipsNearby: "60002 60071 60075 60081 60083 60096 60099 53001 53002 53003 53101 53916 53004 53103 53919 54110 53104 53005 53008 53045 53006 53105 53922 53007 53108 53923 53523 53010 53109 53011 53012 53013 53014 53015 53016 53017 54207 53925 53110 53531 53018 53115 53118 53928 53119 53120 53019 54932 53020 53121 53122 53931 53932 54935 54936 54937 53125 53538 53933 53126 53021 53935 53127 53128 53022 53023 53024 53026 53129 54941 53130 53132 53027 53029 53137 54129 53031 53138 53032 53033 53034 53035 53036 53037 53549 53038 53039 53139 53140 53141 53142 53143 53144 53040 53042 53044 53147 53551 53046 53047 53048 53557 53148 53049 54220 54221 53946 53559 53050 53051 53052 53056 53201 53202 53203 53204 53205 53206 53207 53208 53209 53210 53211 53212 53213 53214 53215 53216 53217 53218 53219 53220 53221 53222 53223 53224 53225 53226 53227 53228 53233 53234 53235 53237 53259 53263 53267 53268 53274 53278 53288 53290 53293 53295 53057 53149 53150 53058 53059 53060 53061 53062 53152 53063 53064 53153 53154 53065 53066 53069 53070 54901 54902 54903 54904 54906 53156 53157 53072 54964 53158 53073 53074 54160 53159 53401 53402 53403 53404 53405 53406 53407 53408 53956 53957 53075 54230 53579 53076 54971 53167 54974 53078 53079 54232 53168 53080 53081 53082 53083 53085 54169 53170 53086 53171 53172 53176 53088 53177 53178 53089 53091 53092 53097 53102 53179 53181 53182 54245 54979 53093 53183 53185 53594 53094 53098 53146 53151 53186 53187 53188 53189 53963 53090 53095 54247 53190 53191 53192 54985 53099 53194 53195 53199 53244" 
+mapUrl: "http://maps.apple.com/?q=Grafton+High+School&address=1950+Washington+St,Grafton,Wisconsin,53024"
+locationType: Drive-thru
+phone: "833-981-0711"
+website: "https://www.getascensioncare.com/onlinecare/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 17th, 2020
-notes: "By appointment only. Limited test kits available."
-days: M-Sat
-hours: 7AM-7PM
-altDays: Saturdays
-altHours: 9AM-5PM
+closedUpdate: April 18th, 2020
+notes: "By appointment only. Requires phone screen."
+days: Weekdays
+hours: 8AM-4:30PM
 ctaMessage: Learn more
-ctaUrl: "https://www.sterlingurgentcare.com/coronavirus-covid-19/"
+ctaUrl: "https://www.getascensioncare.com/onlinecare/"
 ---

@@ -21,7 +21,7 @@ phone: "573-681-3000"
 website: "https://www.ssmhealth.com/coronavirus-updates"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "By appointment only. Requires doctor's referral."
 days: Contact for hours of operation.
 ctaMessage: Learn more

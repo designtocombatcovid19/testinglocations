@@ -21,7 +21,7 @@ phone: "800-755-6236"
 website: "https://holycrossmedicalcenter.org/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "Requires phone screen."
 days: Contact for hours of operation.
 ctaMessage: Learn more

@@ -21,7 +21,7 @@ phone: "801-486-3021"
 website: "https://foothillfamilyclinic.com/ "
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: ""
 days: Weekdays
 hours: 8:30AM-5:30PM

@@ -21,7 +21,7 @@ phone: "801-855-3300"
 website: "https://intermountainhealthcare.org/locations/american-fork-hospital/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "Requires phone screen."
 days: Everyday
 hours: 8AM-8PM

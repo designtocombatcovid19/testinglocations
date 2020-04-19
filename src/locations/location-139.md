@@ -21,7 +21,7 @@ phone: "801-501-2110"
 website: "https://intermountainhealthcare.org/locations/alta-view-clinic/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: ""
 days: Everyday
 hours: 9AM-5PM

@@ -21,7 +21,7 @@ phone: "412-689-7348"
 website: "https://www.ahn.org/coronavirus/where-to-go-for-help/testing"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "By appointment only. Requires doctor's referral. Only for individuals with symptoms. Requires phone screen."
 days: Weekdays
 hours: 9AM-5PM

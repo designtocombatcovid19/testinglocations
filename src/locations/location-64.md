@@ -21,7 +21,7 @@ phone: "732-745-3100"
 website: "https://app.acuityscheduling.com/schedule.php?owner=19315640"
 onlineBooking: true
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "By appointment only. Requires doctor's referral. Only for individuals with symptoms. Must have fever and other symptoms. Local residents only."
 days: M, W, F
 hours: 10AM-2PM

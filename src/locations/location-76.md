@@ -21,7 +21,7 @@ phone: "201-366-8465"
 website: "https://covid19.nj.gov/locations?query=Testing+Centers&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2Cstatus%2CNJfaqs%2CAASfaqs%2Ccoronavirus"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "By appointment only. Local residents only. Requires phone screen."
 days: Contact for hours of operation.
 ctaMessage: Learn more

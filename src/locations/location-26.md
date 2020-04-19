@@ -21,7 +21,7 @@ phone: "203-384-3000"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "Requires phone screen. By appointment only."
 days: Open 24/7
 ctaMessage: Call 203-384-3000

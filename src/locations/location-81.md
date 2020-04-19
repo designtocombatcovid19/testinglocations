@@ -21,7 +21,7 @@ phone: "505-232-1010"
 website: "https://abqhp.com/clinic/58"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: "Only for individuals with symptoms. For all members of the community. Requires phone screen."
 days: Everyday
 hours: 7AM-5PM

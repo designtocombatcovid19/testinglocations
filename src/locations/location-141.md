@@ -21,7 +21,7 @@ phone: "801-213-4500"
 website: "https://healthcare.utah.edu/locations/south-jordan/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 17th, 2020
+closedUpdate: April 18th, 2020
 notes: ""
 days: Weekdays
 hours: 8AM-6PM
