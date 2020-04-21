@@ -4,7 +4,18 @@ title: Locations
 ---
 
 <section class="p-8 sm:p-12 xl:p-16">
+  {%- for tag, locations in collections %}
+    {% set collectionsLength = collections | length %}
+    {% set locationsLength = locations | length %}
+    {% if tag == "locations" %}
+      <p class="py-2 pb-4 text-3xl font-bold">Total testing locations: {{ locationsLength - collectionsLength + 2 }} testing locations</p>
+    {% endif %}
+  {%- endfor %}
   {%- for tag, locations in collections | dictsort %}
-    <p class="py-2 text-2xl"><a href="{{ tag | slug }}/">{{ tag }}</a>: {{ locations | length }} testing locations</p>
+    {% if tag == "all" %}
+    {% elseif tag == "locations" %}
+    {% else %}
+      <p class="py-2 text-2xl"><a href="{{ tag | slug }}/">{{ tag }}</a>: {{ locations | length - 1 }} testing locations</p>
+    {% endif %}
   {%- endfor %}
 </section>
