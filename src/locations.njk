@@ -15,10 +15,12 @@ title: Locations
     {% if tag == "all" %}
     {% elseif tag == "locations" %}
     {% else %}
-      {% if locations | length - 1 == 1 %}
-        <p class="py-2 text-2xl"><a href="{{ tag | slug }}/">{{ tag }}</a>: {{ locations | length - 1 }} testing location</p>
+      {% if locations | length - 1 == 0 %}
+        <p class="py-2 text-2xl text-red"><a href="{{ tag | slug }}/"><span class="font-medium">{{ tag }}</a>:</span> {{ locations | length - 1 }} testing locations</p>
+      {% elseif locations | length - 1 == 1 %}
+        <p class="py-2 text-2xl"><a href="{{ tag | slug }}/"><span class="font-medium">{{ tag }}</a>:</span> {{ locations | length - 1 }} testing location</p>
       {% else %}
-        <p class="py-2 text-2xl"><a href="{{ tag | slug }}/">{{ tag }}</a>: {{ locations | length - 1 }} testing locations</p>
+        <p class="py-2 text-2xl"><a href="{{ tag | slug }}/"><span class="font-medium">{{ tag }}</a>:</span> {{ locations | length - 1 }} testing locations</p>
       {% endif %}
     {% endif %}
   {%- endfor %}
