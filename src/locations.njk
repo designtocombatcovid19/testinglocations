@@ -15,7 +15,11 @@ title: Locations
     {% if tag == "all" %}
     {% elseif tag == "locations" %}
     {% else %}
-      <p class="py-2 text-2xl"><a href="{{ tag | slug }}/">{{ tag }}</a>: {{ locations | length - 1 }} testing locations</p>
+      {% if locations | length - 1 == 1 %}
+        <p class="py-2 text-2xl"><a href="{{ tag | slug }}/">{{ tag }}</a>: {{ locations | length - 1 }} testing location</p>
+      {% else %}
+        <p class="py-2 text-2xl"><a href="{{ tag | slug }}/">{{ tag }}</a>: {{ locations | length - 1 }} testing locations</p>
+      {% endif %}
     {% endif %}
   {%- endfor %}
 </section>
