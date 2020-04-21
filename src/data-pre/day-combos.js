@@ -43,6 +43,8 @@ let msu = ["Monday", "Sunday"].sort()
 let mth = ["Monday", "Thursday"].sort()
 let mthf = ["Monday", "Thursday", "Friday"].sort()
 let mthfsa = ["Monday", "Thursday", "Friday", "Saturday"].sort()
+let mtuwthfsu = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Sunday"].sort()
+let mtuwfsasu = ["Monday", "Tuesday", "Wednesday", "Friday", "Saturday", "Sunday"].sort()
 let mf = ["Monday", "Friday"].sort()
 let mfsa = ["Monday", "Friday", "Saturday"].sort()
 let msa = ["Monday", "Saturday"].sort()
@@ -137,6 +139,10 @@ module.exports = function (arr) {
     range = "M, Sat"
   } else if (equals(days, mtuwthsu)) {
     range = "M-Th, Sun"
+  } else if (equals(days, mtuwfsasu)) {
+    range = "M-W, F-Sun"
+  } else if (equals(days, mtuwthfsu)) {
+    range = "M-F, Sun"
   } else if (equals(days, tuw)) {
     range = "Tu-W"
   } else if (equals(days, tuwth)) {

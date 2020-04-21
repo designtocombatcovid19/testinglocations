@@ -1,30 +1,32 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Sterling Urgent Care in Logan, Utah, USA."
-permalink: "locations/utah/logan/sterling-urgent-care-1/"
+description: "Local COVID-19 testing is available at NextCare - Unser in Albuquerque, New Mexico, USA."
+permalink: "locations/new-mexico/albuquerque/nextcare-unser/"
 tags:
   - locations
-  - utah
-title: Sterling Urgent Care
-uniqueName: sterling-urgent-care-1
-state: Utah
-stateAbbr: UT
-hood: "North Logan"
-address: "630 E 1400 N Ste. 150 "
-city: "Logan"
-zip: "84341"
-zipsNearby: "83114 83116 82930 82931 83121 83101 83214 83223 83228 83232 83234 83237 83238 83239 83241 83283 83246 83243 83252 83220 83254 83233 83261 83263 83272 83287 83230 83281 83286 84301 84302 84304 84309 84324 84305 84015 84016 84056 84075 84089 84024 84307 84310 84025 84311 84028 84306 84312 84331 84033 84314 84315 84317 84318 84319 84037 84038 84040 84041 84308 84320 84321 84322 84323 84341 84325 84326 84018 84050 84327 84201 84244 84401 84402 84403 84404 84405 84407 84408 84409 84412 84414 84415 84328 84330 84332 84064 84333 84334 84067 84335 84336 84316 84337 84338 84339 84340 84086" 
-mapUrl: "http://maps.apple.com/?q=Sterling+Urgent+Care&address=630+E+1400+N+Ste+150,Logan,Utah,84341"
-locationType: Walk-in
-phone: "435-915-4465"
-website: "https://www.sterlingurgentcare.com/coronavirus-covid-19/"
-onlineBooking: undefined
+  - new-mexico
+title: NextCare - Unser
+uniqueName: nextcare-unser
+state: New Mexico
+stateAbbr: NM
+hood: "Unser "
+address: "1800 Unser Blvd NW Ste 500"
+city: "Albuquerque"
+zip: "87120"
+zipsNearby: "87101 87102 87103 87104 87105 87106 87107 87108 87109 87110 87111 87112 87113 87114 87115 87116 87117 87119 87120 87121 87122 87123 87124 87125 87131 87144 87151 87153 87154 87158 87174 87176 87181 87184 87185 87187 87190 87191 87192 87193 87194 87195 87196 87197 87198 87199 87002 87001 87004 87006 87007 87008 87010 87048 87014 87015 87016 87063 87535 87022 87023 87024 87025 87026 87028 87544 87545 87031 87032 87035 87056 87070 87036 87038 87040 87041 87072 87083 87042 87068 87043 87562 87831 87047 87034 87049 87501 87502 87503 87504 87505 87506 87507 87508 87509 87540 87592 87594 87052 87044 87053 87574 87059 87060 87061 87062 87165" 
+mapUrl: "http://maps.apple.com/?q=NextCare+-+Unser&address=1800+Unser+Blvd+NW+Ste+500,Albuquerque,New+Mexico,87120"
+locationType: Drive-thru or walk-in
+phone: "505-395-5520"
+website: "https://nextcare.com/locations/nm/urgent-care-clinic-albuquerque-new-mexico-unser/"
+onlineBooking: true
 closed: undefined
-closedUpdate: April 18th, 2020
-notes: "By appointment only. Limited test kits available."
-days: Everyday
-hours: 8AM-8PM
-ctaMessage: Learn more
-ctaUrl: "https://www.sterlingurgentcare.com/coronavirus-covid-19/"
+closedUpdate: April 20th, 2020
+notes: "For all members of the community."
+days: Weekends
+hours: 9 am-4PM
+altDays: Weekdays
+altHours: 8AM-8PM
+ctaMessage: Schedule a test
+ctaUrl: "https://nextcare.com/locations/nm/urgent-care-clinic-albuquerque-new-mexico-unser/"
 ---

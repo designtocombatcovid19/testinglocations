@@ -1,29 +1,29 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Holy Cross Hospital in Taos, New Mexico, USA."
-permalink: "locations/new-mexico/taos/holy-cross-hospital/"
+description: "Local COVID-19 testing is available at Hedrick Medical Center in Chillicothe, Missouri, USA."
+permalink: "locations/missouri/chillicothe/hedrick-medical-center/"
 tags:
   - locations
-  - new-mexico
-title: Holy Cross Hospital 
-uniqueName: holy-cross-hospital
-state: New Mexico
-stateAbbr: NM
-hood: "Taos"
-address: "1397 Weimer Road"
-city: "Taos"
-zip: "87571"
-zipsNearby: "81120 81126 81129 81138 81141 81148 81152 81091 87510 87516 87511 87512 87513 87514 87712 87515 87517 87518 87519 87713 87521 87576 87522 87714 87715 87523 87578 87524 87012 87527 87710 87718 87529 87530 87531 87532 87533 87537 87535 87722 87723 87539 87701 87745 87544 87545 87551 87728 87548 87731 87732 87734 87549 87552 87553 87554 87556 87736 87557 87558 87742 87562 87564 87565 87566 87567 87501 87502 87503 87504 87505 87506 87507 87509 87592 87594 87729 87747 87525 87571 87580 87573 87574 87575 87577 87749 87543 87579 87581 87582 87735 87752 87750 87753 87064 81134 81153" 
-mapUrl: "http://maps.apple.com/?q=Holy+Cross+Hospital&address=1397+Weimer+Road,Taos,New+Mexico,87571"
-locationType: Drive-thru
-phone: "800-755-6236"
-website: "https://holycrossmedicalcenter.org/"
+  - missouri
+title: Hedrick Medical Center
+uniqueName: hedrick-medical-center
+state: Missouri
+stateAbbr: MO
+hood: "Chillicothe"
+address: "2799 N Washington St"
+city: "Chillicothe"
+zip: "64601"
+zipsNearby: "50052 50065 50140 50147 64402 64420 64001 64620 64422 64011 64424 64426 64622 64623 64624 64625 64628 64630 64631 64016 64632 64017 64429 64633 64601 64654 64635 64430 64636 64020 64021 64436 64637 64438 64638 64441 64639 64022 64442 64443 64444 64024 64073 64640 64641 64453 64642 64454 64458 64643 64644 64035 64459 64036 64037 64048 64646 64647 64648 64060 64649 64463 64650 64651 64652 64465 64062 64066 64067 64068 64069 64653 64655 64656 64657 64658 64467 64469 64071 64659 64660 64661 64072 64664 64074 64471 64645 64667 64668 64680 64076 64077 64474 64670 64477 64671 64672 64673 64674 64084 64085 64481 64676 64088 64089 64679 64489 64490 64681 64682 64683 64492 64493 64494 64686 64096 64497 64097 64688 64689 65230 65320 63530 63532 65321 65236 65246 65286 63534 65244 63538 65327 63539 65247 65330 65254 63544 63545 65259 65260 65261 63501 63549 63552 65339 65340 65344 63556 65347 63557 63558 63559 63560 65281 65349 65351 63565 63566 64447" 
+mapUrl: "http://maps.apple.com/?q=Hedrick+Medical+Center&address=2799+N+Washington+St,Chillicothe,Missouri,64601"
+locationType: Walk-in
+phone: "660-646-1480"
+website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 18th, 2020
-notes: "Requires phone screen."
+closedUpdate: April 20th, 2020
+notes: "By appointment only. Requires doctor's referral. Must have fever and other symptoms."
 days: Contact for hours of operation.
-ctaMessage: Learn more
-ctaUrl: "https://holycrossmedicalcenter.org/"
+ctaMessage: Call 660-646-1480
+ctaUrl: "tel:660-646-1480"
 ---

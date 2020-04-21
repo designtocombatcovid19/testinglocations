@@ -1,30 +1,32 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Sterling Urgent Care in Afton, Wyoming, USA."
-permalink: "locations/wyoming/afton/sterling-urgent-care-4/"
+description: "Local COVID-19 testing is available at CommUnityCare Hancock in Austin, Texas, USA."
+permalink: "locations/texas/austin/communitycare-hancock/"
 tags:
   - locations
-  - wyoming
-title: Sterling Urgent Care
-uniqueName: sterling-urgent-care-4
-state: Wyoming
-stateAbbr: WY
-hood: "Afton"
-address: "47 Doc Perkes Ave"
-city: "Afton"
-zip: "83110"
-zipsNearby: "83110 83112 83118 83128 83111 83113 82922 83114 82925 83115 83119 83120 83122 83001 83002 83025 83123 82941 83126 83127 83014 83217 83223 83238 83239 83241 83283 83428 83246 83220 83254 83233 83261 83263 83272 83287 83230 83276 83285 83281 83449 84028" 
-mapUrl: "http://maps.apple.com/?q=Sterling+Urgent+Care&address=47+Doc+Perkes+Ave,Afton,Wyoming,83110"
-locationType: Walk-in
-phone: "307-885-3637"
-website: "https://www.sterlingurgentcare.com/coronavirus-covid-19/"
+  - texas
+title: CommUnityCare Hancock
+uniqueName: communitycare-hancock
+state: Texas
+stateAbbr: TX
+hood: "Austin"
+address: "1000 E 41st Street Ste: 925"
+city: "Austin"
+zip: "78751"
+zipsNearby: "76831 77838 77852 77853 73301 73344 78701 78702 78703 78704 78705 78708 78709 78710 78711 78712 78713 78714 78715 78716 78717 78718 78719 78720 78721 78722 78723 78724 78725 78726 78727 78728 78729 78730 78731 78732 78733 78734 78735 78736 78737 78738 78739 78741 78742 78744 78745 78746 78747 78748 78749 78750 78751 78752 78753 78754 78755 78756 78757 78758 78759 78760 78761 78762 78763 78764 78765 78766 78767 78768 78769 78772 78773 78774 78778 78779 78780 78781 78783 78785 78789 78799 76511 78602 78604 76513 78605 78606 78607 78004 78608 78609 76518 78610 78611 76520 78612 78613 78630 78108 78109 76522 78614 78615 78616 76523 78617 78619 78620 78621 78622 78623 78941 76527 78626 78627 78628 78633 78115 78942 78629 78658 76530 78632 76533 76534 78634 78635 76537 78636 76539 78027 76540 76541 76542 76543 76544 76547 76548 76549 78638 78639 78640 78945 76550 78641 78645 78646 78946 78122 78947 78642 78948 76554 78644 78648 78650 78651 78123 78652 78653 78654 78657 78124 78655 78656 76556 77975 78949 78130 78131 78132 78133 78135 76559 78659 78660 78691 78952 78661 78662 76567 76569 78953 78663 78664 78665 78680 78681 78682 78683 76571 78666 78667 78154 76573 78155 78156 78957 78669 78070 78163 78670 78671 76574 76501 76502 76503 76504 76505 76508 76577 76578 78672 78148 78150 78959 78673 78960 78674 78963 78675 78676 78786 78788 78798 76545 76546" 
+mapUrl: "http://maps.apple.com/?q=CommUnityCare+Hancock&address=1000+E+41st+Street+Ste+925,Austin,Texas,78751"
+locationType: Drive-thru
+phone: "512-978-8775"
+website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 18th, 2020
-notes: "By appointment only. Limited test kits available."
-days: M-Sat
-hours: 8AM-8PM
-ctaMessage: Learn more
-ctaUrl: "https://www.sterlingurgentcare.com/coronavirus-covid-19/"
+closedUpdate: April 20th, 2020
+notes: "Requires phone screen. Limited test kits available."
+days: Weekdays
+hours: 8AM-4PM
+altDays: Saturdays
+altHours: 9AM-1PM
+ctaMessage: Call 512-978-8775
+ctaUrl: "tel:512-978-8775"
 ---

@@ -790,6 +790,1006 @@
     "Verified": true
   },
   {
+    "Name": "Aventura Mall Parking Garage",
+    "Notes": [
+      "By appointment only.",
+      "Prioritizes first responders."
+    ],
+    "State": "Florida",
+    "Address": "19501 Biscayne Blvd",
+    "City": "Aventura",
+    "Zip": "33180",
+    "Website": "http://covidaventura.com/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Located inside the north parking garage, near the Apple Store",
+    "Verified": true
+  },
+  {
+    "Name": "Bartow Regional Medical Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen.",
+      "Privately owned."
+    ],
+    "State": "Florida",
+    "Address": "2200 Osprey Blvd.",
+    "City": "Bartow",
+    "Zip": "33830",
+    "Phone": "(800) 229-2273",
+    "Website": "https://baycare.org/baycareanywhere",
+    "DaysOfWeek": [
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "For patients without insurance, the cost of the COVID-19 lab test is $85 at any BayCare facility. Payment is not due at testing.",
+    "Verified": true
+  },
+  {
+    "Name": "Tampa General",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen.",
+      "For previously established patients only.",
+      "Only for individuals with symptoms."
+    ],
+    "State": "Florida",
+    "Address": "799 W Lumsden Rd",
+    "City": "Brandon",
+    "Zip": "33511",
+    "Phone": "(813) 925-1903",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "Urgent Care",
+    "Verified": true
+  },
+  {
+    "Name": "South Dade Government Center",
+    "Notes": [
+      "Only for individuals with symptoms.",
+      "By appointment only."
+    ],
+    "State": "Florida",
+    "Address": "10710 SW 211th St",
+    "City": "Cutler Bay",
+    "Zip": "33189",
+    "Phone": "(305) 499-8767",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Only the driver and one passenger are allowed in the car, and both will be tested.",
+    "Verified": true
+  },
+  {
+    "Name": "Loren Roberts Park",
+    "Notes": [
+      "Only for individuals with direct and unprotected exposure to a known positive case."
+    ],
+    "State": "Florida",
+    "Address": "627 NW Sixth Ave",
+    "City": "Florida City",
+    "Zip": "33034",
+    "DaysOfWeek": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "1PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Tests will be administered on a first-come, first-served basis; appointments are not necessary.",
+    "Verified": true
+  },
+  {
+    "Name": "Urban League",
+    "Notes": [
+      "Only for individuals with symptoms."
+    ],
+    "State": "Florida",
+    "Address": "560 NW 27 Ave",
+    "City": "Fort Lauderdale",
+    "Zip": "33311",
+    "Phone": "(954) 412-7300",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "6PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "200 tests per day. Appointments not necessary but recommended",
+    "Verified": true
+  },
+  {
+    "Name": "Amelia Earhart Park",
+    "Notes": [
+      "By appointment only.",
+      "Only for individuals with symptoms."
+    ],
+    "State": "Florida",
+    "Address": "401 E 65th St",
+    "City": "Hialeah",
+    "Zip": "33013",
+    "Phone": "(305) 268-4319",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Free for people 65 years or older. Only two people allowed in the car.",
+    "Verified": true
+  },
+  {
+    "Name": "Larkin Community Hospital Palm Springs Campus",
+    "Notes": [
+      "By appointment only.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "Only for individuals with symptoms."
+    ],
+    "State": "Florida",
+    "Address": "1475 W 49th St",
+    "City": "Hialeah",
+    "Zip": "33012",
+    "Phone": "(305) 830-0790",
+    "Website": "https://cvtesting.larkinhospital.com/en/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Martin Luther King Jr. Clinica Campesina Health Center",
+    "Notes": [
+      "Only for individuals with direct and unprotected exposure to a known positive case."
+    ],
+    "State": "Florida",
+    "Address": "810 W Mowry Dr",
+    "City": "Homestead",
+    "Zip": "33030",
+    "DaysOfWeek": [
+      "Monday",
+      "Wednesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "1PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Tests will be administered on a first-come, first-served basis; appointments are not necessary.",
+    "Verified": true
+  },
+  {
+    "Name": "Prime Osborn Convention Center",
+    "Notes": [
+      "By appointment only.",
+      "Privately owned.",
+      "Requires doctor's referral."
+    ],
+    "State": "Florida",
+    "Address": "1000 Water St",
+    "City": "Jacksonville",
+    "Zip": "32210",
+    "Website": "https://www.telescopehealth.com",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "11AM",
+    "ClosesAt": "7PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Photo ID required",
+    "Verified": true
+  },
+  {
+    "Name": "Ascension Jacksonville (St. Vincent's)",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Requires phone screen."
+    ],
+    "State": "Florida",
+    "Address": "4201 Belfort Rd",
+    "City": "Jacksonville",
+    "Zip": "32216",
+    "Phone": "(833) 973-0649",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Must have an order from an Ascension Provider",
+    "Verified": true
+  },
+  {
+    "Name": "Central Broward Park and Broward County Stadium",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral."
+    ],
+    "State": "Florida",
+    "Address": "3700 NW 11th Pl",
+    "City": "Lauderhill",
+    "Zip": "33311",
+    "Phone": "(954) 320-5730",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Must call to pre-register and schedule an appointment. Conducted by Broward Health",
+    "Verified": true
+  },
+  {
+    "Name": "Laurel Civic Association",
+    "Notes": [
+      "By appointment only.",
+      "Only for individuals with symptoms.",
+      "Limited test kits available."
+    ],
+    "State": "Florida",
+    "Address": "509 Collins Road",
+    "City": "Laurel",
+    "Zip": "34272",
+    "Neighborhood": "Mid-County",
+    "Phone": "(941) 861-2883",
+    "DaysOfWeek": [
+      "Thursday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "50 tests, April 23 ONLY",
+    "Verified": true
+  },
+  {
+    "Name": "Marathon Community Park",
+    "Notes": [
+      "Local residents only.",
+      "By appointment only.",
+      "Only for individuals with symptoms."
+    ],
+    "State": "Florida",
+    "Address": "200 City Marina",
+    "City": "Marathon",
+    "Phone": "(305) 252-4820",
+    "OpensAt": "10AM",
+    "ClosesAt": "1PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "CHI Marathon Health Center",
+    "Notes": [
+      "Local residents only.",
+      "By appointment only.",
+      "Only for individuals with symptoms."
+    ],
+    "State": "Florida",
+    "Address": "2805 Overseas Highway",
+    "City": "Marathon",
+    "Zip": "33050",
+    "Phone": "(305) 216-2107",
+    "DaysOfWeek": [
+      "Saturday"
+    ],
+    "OpensAt": "11AM",
+    "ClosesAt": "12:30PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "You can also schedule an appointment by emailing keyscovid19@chisouthfl.org",
+    "Verified": true
+  },
+  {
+    "Name": "Charles Hadley Park",
+    "Notes": [
+      "By appointment only.",
+      "Free.",
+      "For all members of the community.",
+      "Only for individuals with symptoms."
+    ],
+    "State": "Florida",
+    "Address": "1350 NW 50th St",
+    "City": "Miami",
+    "Zip": "33142",
+    "Phone": "(305) 960-5050",
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "City of Miami Fire Rescue",
+    "Notes": [
+      "By appointment only.",
+      "Free."
+    ],
+    "State": "Florida",
+    "City": "Miami",
+    "Phone": "(305) 960-5050",
+    "LocationType": [
+      "In-Home"
+    ],
+    "NotesOther": "For homebound seniors aged 65 and older",
+    "Verified": true
+  },
+  {
+    "Name": "Marlins Park",
+    "Notes": [
+      "Only for individuals with symptoms.",
+      "By appointment only."
+    ],
+    "State": "Florida",
+    "Address": "501 Marlins Way",
+    "City": "Miami",
+    "Zip": "33125",
+    "Phone": "(305) 499-8767",
+    "DaysOfWeek": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "OpensAt": "9AM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Only one other person is allowed in the car with the patient; that person will also be tested to check for potential spread. Call center will remain open until all appointments are filled.",
+    "Verified": true
+  },
+  {
+    "Name": "Miami-Dade County Fairgrounds",
+    "Notes": [
+      "By appointment only.",
+      "Only for individuals with symptoms."
+    ],
+    "State": "Florida",
+    "Address": "SW 107th Ave & SW 20th St",
+    "City": "Miami",
+    "Zip": "33165",
+    "Phone": "(305) 499-8767",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "3PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Taking 300 appointments per day",
+    "Verified": true
+  },
+  {
+    "Name": "Broward Health",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral."
+    ],
+    "State": "Florida",
+    "City": "Miami",
+    "Phone": "(954) 320-5730",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Only one other person is allowed in the car with the patient; that person will also be tested to check for potential spread.Address to be disclosed when the caller makes an appointment.",
+    "Verified": true
+  },
+  {
+    "Name": "Doris Ison Health Center",
+    "State": "Florida",
+    "Address": "10300 SW 216 St",
+    "City": "Miami",
+    "Zip": "33190",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Do not need to call in advance for this location and no appointment necessary",
+    "Verified": true
+  },
+  {
+    "Name": "Miami Beach Municipal Parking Lot",
+    "Notes": [
+      "By appointment only.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders."
+    ],
+    "State": "Florida",
+    "Address": "4621 Collins Ave",
+    "City": "Miami Beach",
+    "Zip": "33140",
+    "Phone": "(305) 735-3909",
+    "Website": "https://www.clockwisemd.com/hospitals/4836/visits/new",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "6PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Employees of essential businesses are also eligible. Administered by MedRite.",
+    "Verified": true
+  },
+  {
+    "Name": "Hard Rock Stadium",
+    "Notes": [
+      "By appointment only.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "Open to all."
+    ],
+    "State": "Florida",
+    "Address": "347 Don Shula Dr",
+    "City": "Miami Gardens",
+    "Zip": "33056",
+    "Phone": "(305) 499-8767",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Heron Creek Middle School",
+    "Notes": [
+      "By appointment only.",
+      "Only for individuals with symptoms.",
+      "Limited test kits available."
+    ],
+    "State": "Florida",
+    "Address": "6501 W. Price Blvd",
+    "City": "North Port",
+    "Zip": "34291",
+    "Neighborhood": "South County",
+    "Phone": "(941) 861-2883",
+    "DaysOfWeek": [
+      "Friday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "1PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "50 tests, April 24 ONLY",
+    "Verified": true
+  },
+  {
+    "Name": "Orange County Convention Center",
+    "Notes": [
+      "Only for individuals with symptoms.",
+      "Limited test kits available.",
+      "Prioritizes first responders.",
+      "Free."
+    ],
+    "State": "Florida",
+    "Address": "9800 International Dr",
+    "City": "Orlando",
+    "Zip": "32819",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "750 tests per day, Do not need health insurance",
+    "Verified": true
+  },
+  {
+    "Name": "Mall at Millenia",
+    "Notes": [
+      "By appointment only.",
+      "Only for individuals with symptoms.",
+      "Only for individuals with direct and unprotected exposure to a known positive case."
+    ],
+    "State": "Florida",
+    "Address": "4200 Conroy Rd",
+    "City": "Orlando",
+    "Zip": "32839",
+    "Website": "https://urldefense.proofpoint.com/v2/url?u=https-3A__ahsonline.sharepoint.com_sites_CorporateCommunications_Shared-2520Documents_Media-2520Team_Issues_2020-2520Issues_Infectious-2520Disease_Coronavirus_Media-2520Documents_Media-2520Statements_Drive-2520up-2520testing_AdventHealthCoronaVirusTesting.com&d=DwMFAg&c=QvQrCjPtO9cKGOfGYlNgXQ&r=DmdlUcUiEq3zO1hHvbFpmg&m=BAUMwEkfj9lDYZP9bRUpCc-b4vkYAqWUGywhHApPfXA&s=BL1gP7z5k6cDhJkzTIfBvYr_XF7VKB8hoFVq3WoLGIU&e=",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "2PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "AdventHealth, Anybody who has had close, sustained contact with an individual that has recently tested positive for COVID-19",
+    "Verified": true
+  },
+  {
+    "Name": "University of Central Florida, Garage A",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "Florida",
+    "Address": "12491 University Blvd",
+    "City": "Orlando",
+    "Zip": "32816",
+    "Phone": "(855) 282-4860",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "250 daily appointments. In partnership with Aventus Biolabs",
+    "Verified": true
+  },
+  {
+    "Name": "Florida Department of Health",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Florida",
+    "Address": "5151 Raleigh St B",
+    "City": "Orlando",
+    "Zip": "32811",
+    "Neighborhood": "Orange County",
+    "Phone": "(407) 723-5004",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "FoundCare",
+    "Notes": [
+      "Only for individuals with symptoms.",
+      "Limited test kits available.",
+      "By appointment only."
+    ],
+    "State": "Florida",
+    "Address": "2330 South Congress Avenue",
+    "City": "Palm Beach",
+    "Zip": "33408",
+    "Phone": "(561) 967-0365",
+    "Website": "https://foundcare.org/news/225-covid-19-testing-status",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "Closed": true,
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "No longer accepting appointments until more testing kits become available",
+    "Verified": true,
+    "LastClosedUpdate": "2020-04-19"
+  },
+  {
+    "Name": "C.B. Smith Park",
+    "Notes": [
+      "Only for individuals with symptoms.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders."
+    ],
+    "State": "Florida",
+    "Address": "900 N Flamingo Rd",
+    "City": "Pembroke Pines",
+    "Zip": "33028",
+    "Phone": "(954) 276-4680",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "1PM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Also eligible: Seniors aged 65 or older and people who recently traveled abroad. Conducted by the National Guard and Memorial Healthcare System",
+    "Verified": true
+  },
+  {
+    "Name": "Festival Marketplace",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral."
+    ],
+    "State": "Florida",
+    "Address": "2900 W Sample Rd",
+    "City": "Pompano Beach",
+    "Zip": "33073",
+    "Phone": "(954) 320-5730",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Must call to pre-register with Broward Health",
+    "Verified": true
+  },
+  {
+    "Name": "Mitchell Moore Park",
+    "Notes": [
+      "Only for individuals with symptoms."
+    ],
+    "State": "Florida",
+    "Address": "901 NW 10 St",
+    "City": "Pompano Beach",
+    "Zip": "33060",
+    "Phone": "(954) 412-7300",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "6PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "200 tests per day. Appointments not necessary but recommended",
+    "Verified": true
+  },
+  {
+    "Name": "Gulf High School",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen.",
+      "Privately owned."
+    ],
+    "State": "Florida",
+    "Address": "5355 School Rd.",
+    "City": "Port Richey",
+    "Zip": "34652",
+    "Phone": "(800) 229-2273",
+    "Website": "https://baycare.org/baycareanywhere",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "For patients without insurance, the cost of the COVID-19 lab test is $85 at any BayCare facility. Payment is not due at testing.",
+    "Verified": true
+  },
+  {
+    "Name": " R L Taylor Community Center",
+    "Notes": [
+      "By appointment only.",
+      "Only for individuals with symptoms.",
+      "Limited test kits available."
+    ],
+    "State": "Florida",
+    "Address": "1845 34th Street",
+    "City": "Sarasota",
+    "Zip": "34234",
+    "Neighborhood": "North Sarasota",
+    "Phone": "(941) 861-2883",
+    "DaysOfWeek": [
+      "Tuesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "50 tests, April 21 ONLY",
+    "Verified": true
+  },
+  {
+    "Name": "Avecina Medical",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Florida",
+    "Address": "1163 Race Track Rd.",
+    "City": "St. Johns",
+    "Zip": "32259",
+    "Neighborhood": "Julington Creek",
+    "Phone": "(904) 230-6988",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "8AM",
+    "AltClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "ID and insurance card required. Extra costs may apply as per Urgent Care's policies.",
+    "Verified": true
+  },
+  {
+    "Name": "Bay Care Urgent Care",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen.",
+      "Privately owned."
+    ],
+    "State": "Florida",
+    "Address": "900 Carillon Parkway Ste. 106",
+    "City": "St. Petersburg",
+    "Zip": "33716",
+    "Phone": "(800) 229-2273",
+    "Website": "https://baycare.org/baycareanywhere",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "For patients without insurance, the cost of the COVID-19 lab test is $85 at any BayCare facility. Payment is not due at testing.",
+    "Verified": true
+  },
+  {
+    "Name": "Tampa General",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen.",
+      "For previously established patients only.",
+      "Only for individuals with symptoms."
+    ],
+    "State": "Florida",
+    "Address": "4505 Gunn Highway",
+    "City": "Tampa",
+    "Zip": "33624",
+    "Phone": "(813) 925-1903",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "Urgent Care",
+    "Verified": true
+  },
+  {
+    "Name": "Raymond James Stadium",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen.",
+      "Privately owned."
+    ],
+    "State": "Florida",
+    "Address": "4201 N Dale Mabry Hwy",
+    "City": "Tampa",
+    "Zip": "33607",
+    "Neighborhood": "Hillsborough",
+    "Website": "https://www.hillsboroughcounty.org/en/residents/public-safety/emergency-management/stay-safe/getting-tested",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Tuesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "11AM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Pre-registration required. April 21 and 24 ONLY",
+    "Verified": true
+  },
+  {
+    "Name": "Cleveland Clinic Indian River Hospital",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "Florida",
+    "Address": "1000 36th St",
+    "City": "Vero Beach",
+    "Zip": "32960",
+    "Phone": "(772) 226-4846",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Cleveland Clinic Florida, Krupa Center",
+    "Notes": [
+      "By appointment only.",
+      "Must have fever and other symptoms.",
+      "Requires phone screen."
+    ],
+    "State": "Florida",
+    "Address": "3250 Meridian Pkwy",
+    "City": "Weston",
+    "Zip": "33331",
+    "Phone": "(954) 659-5951",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Cleveland Clinic",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "Florida",
+    "Address": "2950 Cleveland Clinic Boulevard",
+    "City": "Weston",
+    "Zip": "33331",
+    "Phone": "(954) 659-5951",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
     "Name": "Sterling Urgent Care",
     "Notes": [
       "By appointment only.",
@@ -818,6 +1818,34 @@
       "Walk-in"
     ],
     "NotesOther": "Must call ahead.",
+    "Verified": true
+  },
+  {
+    "Name": "UChicago Medicine",
+    "Notes": [
+      "By appointment only.",
+      "Only for individuals with symptoms.",
+      "For all members of the community.",
+      "Free.",
+      "Requires phone screen."
+    ],
+    "State": "Illinois",
+    "City": "Chicago",
+    "Neighborhood": "Hyde Park",
+    "Phone": "(773) 702-2800",
+    "Website": "https://www.uchicagomedicine.org/patients-visitors/patient-information/coronavirus-information/coronavirus-patient-education",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
     "Verified": true
   },
   {
@@ -2357,6 +3385,57 @@
     "Alt2ClosesAt": "Noon"
   },
   {
+    "Name": "Geisinger - Jersey Shore Medical Associates",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Requires phone screen."
+    ],
+    "State": "Pennsylvania",
+    "Address": "104 E Central Ave",
+    "City": "Avis",
+    "Zip": "17221",
+    "Phone": "(570) 753-8620",
+    "Website": "https://www.geisinger.org/health-and-wellness/wellness-articles/2020/03/26/17/20/covid-19-whos-at-risk-and-should-i-get-tested",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "2PM",
+    "Verified": true
+  },
+  {
+    "Name": "Geisinger Careworks Urgent Care",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Requires phone screen."
+    ],
+    "State": "Pennsylvania",
+    "Address": "174 Buckaroo Lane",
+    "City": "Bellafonte ",
+    "Zip": "16823",
+    "Neighborhood": "Centre County",
+    "Phone": "(814) 353-1030",
+    "Website": "https://www.geisinger.org/health-and-wellness/wellness-articles/2020/03/26/17/20/covid-19-whos-at-risk-and-should-i-get-tested",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "4PM",
+    "Verified": true
+  },
+  {
     "Name": "Allegheny Health Network - Bethel Park Health + Wellness Pavilion",
     "Notes": [
       "By appointment only.",
@@ -2391,6 +3470,30 @@
     "Verified": true
   },
   {
+    "Name": "Geisinger Careworks Walk-In Clinic",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Requires phone screen."
+    ],
+    "State": "Pennsylvania",
+    "Address": "425 E 1st St",
+    "City": "Bloomsburg",
+    "Zip": "17815",
+    "Phone": "(570) 416-1890",
+    "Website": "https://www.geisinger.org/health-and-wellness/wellness-articles/2020/03/26/17/20/covid-19-whos-at-risk-and-should-i-get-tested",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "Verified": true
+  },
+  {
     "Name": "Bryn Mawr Hospital",
     "Notes": [
       "By appointment only.",
@@ -2421,6 +3524,135 @@
     "Neighborhood": "Butler County",
     "Phone": "877-602-2273",
     "Website": "https://www.butlerhealthsystem.org/CoronaVirus.aspx",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Children's Hospital Of Philadelphia - Speciality Care and Surgery Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Requires phone screen.",
+      "For previously established patients only."
+    ],
+    "State": "Pennsylvania",
+    "Address": "500 W Butler Ave",
+    "City": "Chalfont",
+    "Zip": "18914",
+    "Neighborhood": "Bucks County",
+    "Phone": "(215) 997-5730",
+    "Website": "https://www.chop.edu/locations/specialty-care-surgery-center-bucks-county",
+    "OnlineBooking": true,
+    "OpensAt": "10AM",
+    "ClosesAt": "10PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "WellSan Health Campus Building",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Requires phone screen."
+    ],
+    "State": "Pennsylvania",
+    "Address": "12 St Paul Dr",
+    "City": "Chambersburg",
+    "Zip": "17201",
+    "Neighborhood": "Franklin County",
+    "Phone": "(717) 217-6760",
+    "Website": "https://www.summithealth.org/locations/wellspan-family-medicine-chambersburg-wellspan-health-campus-first-floor",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "7:30AM",
+    "ClosesAt": "6PM",
+    "Verified": true
+  },
+  {
+    "Name": "Clarion Hospital - Butler Health System",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral."
+    ],
+    "State": "Pennsylvania",
+    "Address": "1 Hospital Dr",
+    "City": "Clarion",
+    "Zip": "16214",
+    "Neighborhood": "Clarion County",
+    "Phone": "(814) 226-1362",
+    "Website": "https://www.butlerhealthsystem.org/CoronaVirus.aspx",
+    "Verified": true
+  },
+  {
+    "Name": "Geisinger Shamokin Area Community Hospital ",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Requires phone screen."
+    ],
+    "State": "Pennsylvania",
+    "Address": "4200 Hospital Rd",
+    "City": "Coal Township",
+    "Zip": "17866",
+    "Neighborhood": "Northumberland County",
+    "Phone": "(570) 644-4200",
+    "Website": "https://www.geisinger.org/health-and-wellness/wellness-articles/2020/03/26/17/20/covid-19-whos-at-risk-and-should-i-get-tested",
+    "Verified": true
+  },
+  {
+    "Name": "Geisinger Medical Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Requires phone screen."
+    ],
+    "State": "Pennsylvania",
+    "Address": "100 N Academy Ave",
+    "City": "Danville",
+    "Zip": "17822",
+    "Neighborhood": "Montour County",
+    "Phone": "(570) 284-3657",
+    "Website": "https://www.geisinger.org/health-and-wellness/wellness-articles/2020/03/26/17/20/covid-19-whos-at-risk-and-should-i-get-tested",
+    "Verified": true
+  },
+  {
+    "Name": "Dingmans Medical Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "For all members of the community.",
+      "Requires phone screen."
+    ],
+    "State": "Pennsylvania",
+    "Address": "1592 Route 739 Ste:1",
+    "City": "Dingmans Ferry",
+    "Zip": "18328",
+    "Neighborhood": "Pike County",
+    "Phone": "(570) 828-8000",
+    "Website": "https://dingmansmedical.com/covid-19-updates/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Monday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "AltDaysOfWeek": [
+      "Friday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "AltOpensAt": "8AM",
+    "AltClosesAt": "5PM",
     "LocationType": [
       "Drive-thru"
     ],
@@ -2461,6 +3693,36 @@
     "Verified": true
   },
   {
+    "Name": "Excela Health",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "Pennsylvania",
+    "Address": "Frye Farm Road",
+    "City": "Latrobe",
+    "Zip": "15601",
+    "Neighborhood": "Westmoreland County",
+    "Phone": "(800) 727-9558",
+    "Website": "https://www.excelahealth.org/coronavirus-information",
+    "Verified": true
+  },
+  {
+    "Name": "Evangelical Hospital",
+    "Notes": [
+      "Open to all.",
+      "Other"
+    ],
+    "State": "Pennsylvania",
+    "Address": "7445 Westbranch Highway",
+    "City": "Lewisburg",
+    "Zip": "17837",
+    "Neighborhood": "Union County",
+    "Website": "https://www.evanhospital.com/news/coronavirus-update?utm_content=2020-03-13-015439",
+    "NotesOther": "With or without order. If the patient does not have an order they will be screened by a provider to determine if the they meet critieria for testing.",
+    "Verified": true
+  },
+  {
     "Name": "Allegheny Health Network",
     "Notes": [
       "By appointment only.",
@@ -2492,6 +3754,80 @@
     "LocationType": [
       "Drive-thru"
     ],
+    "Verified": true
+  },
+  {
+    "Name": "Children's Hospital of Philadelphia - Roberts Center for Pediatric Research",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Requires phone screen.",
+      "For previously established patients only."
+    ],
+    "State": "Pennsylvania",
+    "Address": "734 Schuylkill Ave",
+    "City": "Philadelphia",
+    "Zip": "19146",
+    "Neighborhood": "Philadelphia County",
+    "Phone": "(800) 879-2467",
+    "Website": "https://www.chop.edu/locations/specialty-care-surgery-center-bucks-county",
+    "Verified": true
+  },
+  {
+    "Name": "Einstein Healthcare Network - Einstein Physicians Mayfair",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Requires phone screen."
+    ],
+    "State": "Pennsylvania",
+    "Address": "7131 Frankford Ave",
+    "City": "Philadelphia",
+    "Zip": "19135",
+    "Neighborhood": "Philadelphia County",
+    "Phone": "(800) 346-7834",
+    "Website": "https://www.einstein.edu/coronavirus#testing",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Einstein Healthcare Network - Einstein Physicians Olney",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Requires phone screen."
+    ],
+    "State": "Pennsylvania",
+    "Address": "101 East Olney Ave Ste: C5",
+    "City": "Philadelphia",
+    "Zip": "19120",
+    "Neighborhood": "Philadelphia County",
+    "Phone": "(800) 346-7834",
+    "Website": "https://www.einstein.edu/coronavirus#testing",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "Prioritizes existing patients, Prioritizes employees",
     "Verified": true
   },
   {
@@ -2552,6 +3888,31 @@
     "LocationType": [
       "Drive-thru"
     ],
+    "Verified": true
+  },
+  {
+    "Name": "Geisinger Community Medical Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Requires phone screen."
+    ],
+    "State": "Pennsylvania",
+    "Address": "1800 Mulberry St",
+    "City": "Scranton",
+    "Zip": "18510",
+    "Neighborhood": "Lackawanna County",
+    "Phone": "(570) 703-8000",
+    "Website": "https://www.geisinger.org/health-and-wellness/wellness-articles/2020/03/26/17/20/covid-19-whos-at-risk-and-should-i-get-tested",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
     "Verified": true
   },
   {
@@ -4017,6 +5378,37 @@
       "Drive-thru"
     ],
     "NotesOther": "In parking garage.",
+    "Verified": true
+  },
+  {
+    "Name": "Providence Medical Group Hawk's Prairie Clinic",
+    "Notes": [
+      "By appointment only.",
+      "Only for individuals with symptoms."
+    ],
+    "State": "Washington",
+    "Address": " 2555 Marvin Rd NE",
+    "City": "Lacey",
+    "Zip": "98516",
+    "Phone": "(360) 486-6800",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9:30AM",
+    "ClosesAt": "4:30PM",
+    "AltDaysOfWeek": [
+      "Sunday"
+    ],
+    "AltOpensAt": "11:30AM",
+    "AltClosesAt": "3:30PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
     "Verified": true
   },
   {

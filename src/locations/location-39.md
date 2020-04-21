@@ -1,30 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Citizens Memorial Hospital - Butterfield Pharmacy in Bolivar, Missouri, USA."
-permalink: "locations/missouri/bolivar/citizens-memorial-hospital-butterfield-pharmacy/"
+description: "Local COVID-19 testing is available at Prime Osborn Convention Center in Jacksonville, Florida, USA."
+permalink: "locations/florida/jacksonville/prime-osborn-convention-center/"
 tags:
   - locations
-  - missouri
-title: Citizens Memorial Hospital - Butterfield Pharmacy
-uniqueName: citizens-memorial-hospital-butterfield-pharmacy
-state: Missouri
-stateAbbr: MO
-hood: "Bolivar"
-address: "1125 N. Butterfield Road"
-city: "Bolivar"
-zip: "65613"
-zipsNearby: "64830 65601 64724 65603 65604 65605 65608 64833 65610 65612 65613 65727 65617 64728 65619 65620 65622 65783 65624 64836 65629 65657 65631 64735 64738 65632 65633 65634 65635 64740 64741 65636 65640 64744 65463 65644 65646 65648 65649 65470 65650 65652 65654 65656 64748 65661 65662 65663 65664 65667 64750 65668 65669 65674 65675 64755 64756 64759 64766 65534 64848 65536 64762 65682 65590 65685 64763 65786 65702 65704 65705 65706 65707 64767 65708 65591 64770 65645 65710 64771 65712 64849 64772 65713 65714 65720 64776 65721 65722 65723 65724 65543 65725 65728 65732 64857 65734 65735 64859 65737 65738 64779 65556 65787 64780 65742 64781 64862 64783 65746 64784 65752 65753 65630 65754 65801 65802 65803 65804 65805 65806 65807 65808 65809 65810 65814 65817 65890 65897 65898 65899 65607 65785 65756 65567 65757 65764 65765 65767 65769 64790 65770 65771 65774 64873 65779 65781 65017 65323 65020 65324 65325 65326 65072 65037 65038 65047 65049 65338 65052 65065 65079 65355 64789" 
-mapUrl: "http://maps.apple.com/?q=Citizens+Memorial+Hospital+-+Butterfield+Pharmacy&address=1125+N+Butterfield+Road,Bolivar,Missouri,65613"
+  - florida
+title: Prime Osborn Convention Center
+uniqueName: prime-osborn-convention-center
+state: Florida
+stateAbbr: FL
+hood: "Jacksonville"
+address: "1000 Water St"
+city: "Jacksonville"
+zip: "32210"
+zipsNearby: "32007 32622 32009 32011 32631 32033 32034 32035 32601 32602 32603 32604 32605 32606 32607 32608 32609 32610 32611 32612 32613 32614 32627 32635 32641 32653 32040 32042 32043 32044 32640 32046 32654 32099 32201 32202 32203 32204 32205 32206 32207 32208 32209 32210 32211 32212 32214 32215 32216 32217 32218 32219 32220 32221 32222 32223 32224 32225 32226 32227 32228 32229 32230 32231 32232 32233 32234 32235 32236 32237 32238 32239 32240 32241 32244 32245 32246 32247 32250 32254 32255 32256 32257 32258 32259 32260 32266 32277 32656 32658 32054 32061 32024 32025 32055 32056 32058 32063 32666 32050 32068 32003 32006 32030 32065 32067 32073 32079 32004 32081 32082 32026 32083 32080 32084 32085 32086 32092 32095 32072 32087 32091 32694 32697 32041 32097 31520 31521 31523 31524 31527 31561 31631 31537 31548 31562 31547 31558 31565 31566 31568 31569 32131 32135 32137 32142 32164 32140 32138 32145 32147 32148 32149 32157 32160 32182 32177 32178 32181 32185 32187 32189 32193 32267 32290" 
+mapUrl: "http://maps.apple.com/?q=Prime+Osborn+Convention+Center&address=1000+Water+St,Jacksonville,Florida,32210"
 locationType: Drive-thru
-phone: "417-328-4300"
-website: "https://www.citizensmemorial.com/about/media-resources/news/2020/cmh-to-offer-drive-thru-covid-19-testing-with-doctors-order.html"
-onlineBooking: undefined
+phone: ""
+website: "https://www.telescopehealth.com"
+onlineBooking: true
 closed: undefined
-closedUpdate: April 18th, 2020
-notes: "By appointment only. Requires phone screen."
-days: Weekdays
-hours: 10AM-2PM
-ctaMessage: Learn more
-ctaUrl: "https://www.citizensmemorial.com/about/media-resources/news/2020/cmh-to-offer-drive-thru-covid-19-testing-with-doctors-order.html"
+closedUpdate: April 20th, 2020
+notes: "By appointment only. Privately owned. Requires doctor's referral."
+days: Everyday
+hours: 11AM-7PM
+ctaMessage: Schedule a test
+ctaUrl: "https://www.telescopehealth.com"
 ---

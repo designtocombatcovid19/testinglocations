@@ -1,32 +1,29 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at NextCare - Petroglyph in Albuquerque, New Mexico, USA."
-permalink: "locations/new-mexico/albuquerque/nextcare-petroglyph/"
+description: "Local COVID-19 testing is available at Ozark Valley Medical Clinic in Branson, Missouri, USA."
+permalink: "locations/missouri/branson/ozark-valley-medical-clinic/"
 tags:
   - locations
-  - new-mexico
-title: NextCare - Petroglyph
-uniqueName: nextcare-petroglyph
-state: New Mexico
-stateAbbr: NM
-hood: "Petroglyph"
-address: "8201 Gold Course Rd NW Ste A3"
-city: "Albuquerque"
-zip: "87120"
-zipsNearby: "87101 87102 87103 87104 87105 87106 87107 87108 87109 87110 87111 87112 87113 87114 87115 87116 87117 87119 87120 87121 87122 87123 87124 87125 87131 87144 87151 87153 87154 87158 87174 87176 87181 87184 87185 87187 87190 87191 87192 87193 87194 87195 87196 87197 87198 87199 87002 87001 87004 87006 87007 87008 87010 87048 87014 87015 87016 87063 87535 87022 87023 87024 87025 87026 87028 87544 87545 87031 87032 87035 87056 87070 87036 87038 87040 87041 87072 87083 87042 87068 87043 87562 87831 87047 87034 87049 87501 87502 87503 87504 87505 87506 87507 87508 87509 87540 87592 87594 87052 87044 87053 87574 87059 87060 87061 87062 87165" 
-mapUrl: "http://maps.apple.com/?q=NextCare+-+Petroglyph&address=8201+Gold+Course+Rd+NW+Ste+A3,Albuquerque,New+Mexico,87120"
-locationType: Drive-thru or walk-in
-phone: "505-800-7077"
-website: "https://nextcare.com/locations/nm/petroglyph/"
-onlineBooking: true
+  - missouri
+title: Ozark Valley Medical Clinic
+uniqueName: ozark-valley-medical-clinic
+state: Missouri
+stateAbbr: MO
+hood: "Branson"
+address: "1140 W State Hwy 76"
+city: "Branson"
+zip: "65616"
+zipsNearby: "65604 65605 65608 65701 65715 65609 65766 65610 65611 65612 65614 65615 65616 65617 65618 65619 65620 65624 65623 65625 65627 65629 65657 65631 65633 65635 65636 65637 65641 65644 65646 65647 65648 64842 65652 65653 65654 65655 65656 65658 64844 65664 65666 65667 65669 65672 65673 65675 65676 65686 65679 65680 65681 64848 65702 65704 65705 65706 65707 65708 65645 65710 65638 65768 65712 65713 65714 65717 65720 65721 65723 65725 65726 65728 65729 65730 65731 65733 65734 64859 65737 65738 65739 65740 65741 64861 65742 65744 64862 65745 65746 65747 65752 65753 65630 65754 65801 65802 65803 65804 65805 65806 65807 65808 65809 65810 65814 65817 65890 65897 65898 65899 65755 64853 64866 64867 65756 65757 65759 65760 65761 65762 65765 65769 65770 65771 65772 65773 64873 64874 65781 65784 72611 72711 72613 72712 72714 72715 72716 72615 72616 72619 72718 72719 72623 72624 72626 72628 72648 72727 72728 72631 72632 72633 72634 72537 72732 72635 72733 72636 72735 72638 72639 72601 72602 72640 72544 72738 72740 72641 72742 72642 72630 72644 72745 72650 72651 72653 72654 72655 72658 72659 72660 72661 72662 72666 72751 72668 72752 72669 72670 72672 72756 72757 72758 72675 72762 72764 72765 72766 72677 72682 72683 72773 72685 72776 72687" 
+mapUrl: "http://maps.apple.com/?q=Ozark+Valley+Medical+Clinic&address=1140+W+State+Hwy+76,Branson,Missouri,65616"
+locationType: Drive-thru
+phone: "417-317-5318"
+website: "http://www.ozarkvalleymedical.com/"
+onlineBooking: undefined
 closed: undefined
-closedUpdate: April 18th, 2020
-notes: "For all members of the community."
-days: Weekends
-hours: 9 am-4PM
-altDays: Weekdays
-altHours: 8AM-8PM
-ctaMessage: Schedule a test
-ctaUrl: "https://nextcare.com/locations/nm/petroglyph/"
+closedUpdate: April 20th, 2020
+notes: "By appointment only. Requires phone screen."
+days: Contact for hours of operation.
+ctaMessage: Learn more
+ctaUrl: "http://www.ozarkvalleymedical.com/"
 ---

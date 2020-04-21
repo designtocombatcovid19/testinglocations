@@ -1,30 +1,32 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Lehi Clinic InstaCare in Lehi, Utah, USA."
-permalink: "locations/utah/lehi/lehi-clinic-instacare/"
+description: "Local COVID-19 testing is available at NextCare - Petroglyph in Albuquerque, New Mexico, USA."
+permalink: "locations/new-mexico/albuquerque/nextcare-petroglyph/"
 tags:
   - locations
-  - utah
-title: Lehi Clinic InstaCare
-uniqueName: lehi-clinic-instacare
-state: Utah
-stateAbbr: UT
-hood: "Lehi"
-address: "3249 N 1200 W Ste A"
-city: "Lehi"
-zip: "84043"
-zipsNearby: "84003 84004 84006 84010 84011 84054 84087 84013 84014 84015 84016 84056 84075 84089 84017 84024 84638 84020 84027 84022 84626 84628 84629 84025 84632 84633 84029 84032 84033 84315 84036 84061 84037 84040 84041 84005 84043 84045 84639 84044 84047 84049 84645 84018 84050 84646 84647 84648 84055 84401 84403 84405 84408 84409 84057 84058 84059 84097 84060 84068 84098 84651 84042 84062 84601 84602 84603 84604 84605 84606 84065 84095 84096 84067 84069 84653 84101 84102 84103 84104 84105 84106 84107 84108 84109 84110 84111 84112 84113 84114 84115 84116 84117 84118 84119 84120 84121 84122 84123 84124 84125 84126 84127 84128 84129 84130 84131 84132 84133 84134 84136 84138 84139 84141 84143 84145 84147 84148 84150 84151 84152 84157 84158 84165 84170 84171 84180 84184 84189 84190 84199 84070 84090 84091 84092 84093 84094 84655 84660 84663 84664 84071 84074 84080 84082 84081 84084 84088 84144" 
-mapUrl: "http://maps.apple.com/?q=Lehi+Clinic+InstaCare&address=3249+N+1200+W+Ste+A,Lehi,Utah,84043"
-locationType: Drive-thru
-phone: "801-753-4310"
-website: "https://intermountainhealthcare.org/locations/lehi-clinic/medical-services/instacare/"
-onlineBooking: undefined
+  - new-mexico
+title: NextCare - Petroglyph
+uniqueName: nextcare-petroglyph
+state: New Mexico
+stateAbbr: NM
+hood: "Petroglyph"
+address: "8201 Gold Course Rd NW Ste A3"
+city: "Albuquerque"
+zip: "87120"
+zipsNearby: "87101 87102 87103 87104 87105 87106 87107 87108 87109 87110 87111 87112 87113 87114 87115 87116 87117 87119 87120 87121 87122 87123 87124 87125 87131 87144 87151 87153 87154 87158 87174 87176 87181 87184 87185 87187 87190 87191 87192 87193 87194 87195 87196 87197 87198 87199 87002 87001 87004 87006 87007 87008 87010 87048 87014 87015 87016 87063 87535 87022 87023 87024 87025 87026 87028 87544 87545 87031 87032 87035 87056 87070 87036 87038 87040 87041 87072 87083 87042 87068 87043 87562 87831 87047 87034 87049 87501 87502 87503 87504 87505 87506 87507 87508 87509 87540 87592 87594 87052 87044 87053 87574 87059 87060 87061 87062 87165" 
+mapUrl: "http://maps.apple.com/?q=NextCare+-+Petroglyph&address=8201+Gold+Course+Rd+NW+Ste+A3,Albuquerque,New+Mexico,87120"
+locationType: Drive-thru or walk-in
+phone: "505-800-7077"
+website: "https://nextcare.com/locations/nm/petroglyph/"
+onlineBooking: true
 closed: undefined
-closedUpdate: April 18th, 2020
-notes: "Requires phone screen."
-days: Everyday
-hours: 9AM-5PM
-ctaMessage: Learn more
-ctaUrl: "https://intermountainhealthcare.org/locations/lehi-clinic/medical-services/instacare/"
+closedUpdate: April 20th, 2020
+notes: "For all members of the community."
+days: Weekends
+hours: 9 am-4PM
+altDays: Weekdays
+altHours: 8AM-8PM
+ctaMessage: Schedule a test
+ctaUrl: "https://nextcare.com/locations/nm/petroglyph/"
 ---

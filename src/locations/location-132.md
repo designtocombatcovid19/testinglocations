@@ -1,30 +1,29 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Sterling Urgent Care in Richmond, Utah, USA."
-permalink: "locations/utah/richmond/sterling-urgent-care-3/"
+description: "Local COVID-19 testing is available at Holy Cross Hospital in Taos, New Mexico, USA."
+permalink: "locations/new-mexico/taos/holy-cross-hospital/"
 tags:
   - locations
-  - utah
-title: Sterling Urgent Care
-uniqueName: sterling-urgent-care-3
-state: Utah
-stateAbbr: UT
-hood: "Richmond"
-address: "700 S. Highway 91"
-city: "Richmond"
-zip: "84333"
-zipsNearby: "83114 83212 83214 83217 83223 83228 83232 83234 83237 83238 83239 83241 83283 83246 83250 83243 83252 83220 83254 83233 83261 83263 83272 83287 83230 83276 83281 83286 84301 84302 84304 84309 84324 84305 84015 84016 84056 84075 84089 84307 84310 84311 84028 84306 84312 84331 84314 84315 84317 84318 84319 84037 84038 84040 84041 84308 84320 84321 84322 84323 84341 84325 84326 84018 84050 84327 84201 84244 84401 84402 84403 84404 84405 84407 84408 84409 84412 84414 84415 84328 84330 84332 84064 84333 84334 84067 84335 84336 84316 84337 84338 84339 84340 84086" 
-mapUrl: "http://maps.apple.com/?q=Sterling+Urgent+Care&address=700+S+Highway+91,Richmond,Utah,84333"
-locationType: Walk-in
-phone: "435-294-3215"
-website: "https://www.sterlingurgentcare.com/coronavirus-covid-19/"
+  - new-mexico
+title: Holy Cross Hospital 
+uniqueName: holy-cross-hospital
+state: New Mexico
+stateAbbr: NM
+hood: "Taos"
+address: "1397 Weimer Road"
+city: "Taos"
+zip: "87571"
+zipsNearby: "81120 81126 81129 81138 81141 81148 81152 81091 87510 87516 87511 87512 87513 87514 87712 87515 87517 87518 87519 87713 87521 87576 87522 87714 87715 87523 87578 87524 87012 87527 87710 87718 87529 87530 87531 87532 87533 87537 87535 87722 87723 87539 87701 87745 87544 87545 87551 87728 87548 87731 87732 87734 87549 87552 87553 87554 87556 87736 87557 87558 87742 87562 87564 87565 87566 87567 87501 87502 87503 87504 87505 87506 87507 87509 87592 87594 87729 87747 87525 87571 87580 87573 87574 87575 87577 87749 87543 87579 87581 87582 87735 87752 87750 87753 87064 81134 81153" 
+mapUrl: "http://maps.apple.com/?q=Holy+Cross+Hospital&address=1397+Weimer+Road,Taos,New+Mexico,87571"
+locationType: Drive-thru
+phone: "800-755-6236"
+website: "https://holycrossmedicalcenter.org/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 18th, 2020
-notes: "By appointment only. Limited test kits available."
-days: Weekdays
-hours: 9AM-9PM
+closedUpdate: April 20th, 2020
+notes: "Requires phone screen."
+days: Contact for hours of operation.
 ctaMessage: Learn more
-ctaUrl: "https://www.sterlingurgentcare.com/coronavirus-covid-19/"
+ctaUrl: "https://holycrossmedicalcenter.org/"
 ---

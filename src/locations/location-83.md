@@ -1,32 +1,29 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at NextCare - Unser in Albuquerque, New Mexico, USA."
-permalink: "locations/new-mexico/albuquerque/nextcare-unser/"
+description: "Local COVID-19 testing is available at Pershing Memorial Hospital in Brookfield, Missouri, USA."
+permalink: "locations/missouri/brookfield/pershing-memorial-hospital/"
 tags:
   - locations
-  - new-mexico
-title: NextCare - Unser
-uniqueName: nextcare-unser
-state: New Mexico
-stateAbbr: NM
-hood: "Unser "
-address: "1800 Unser Blvd NW Ste 500"
-city: "Albuquerque"
-zip: "87120"
-zipsNearby: "87101 87102 87103 87104 87105 87106 87107 87108 87109 87110 87111 87112 87113 87114 87115 87116 87117 87119 87120 87121 87122 87123 87124 87125 87131 87144 87151 87153 87154 87158 87174 87176 87181 87184 87185 87187 87190 87191 87192 87193 87194 87195 87196 87197 87198 87199 87002 87001 87004 87006 87007 87008 87010 87048 87014 87015 87016 87063 87535 87022 87023 87024 87025 87026 87028 87544 87545 87031 87032 87035 87056 87070 87036 87038 87040 87041 87072 87083 87042 87068 87043 87562 87831 87047 87034 87049 87501 87502 87503 87504 87505 87506 87507 87508 87509 87540 87592 87594 87052 87044 87053 87574 87059 87060 87061 87062 87165" 
-mapUrl: "http://maps.apple.com/?q=NextCare+-+Unser&address=1800+Unser+Blvd+NW+Ste+500,Albuquerque,New+Mexico,87120"
-locationType: Drive-thru or walk-in
-phone: "505-395-5520"
-website: "https://nextcare.com/locations/nm/urgent-care-clinic-albuquerque-new-mexico-unser/"
-onlineBooking: true
+  - missouri
+title: Pershing Memorial Hospital 
+uniqueName: pershing-memorial-hospital
+state: Missouri
+stateAbbr: MO
+hood: "Brookfield"
+address: "130 E Lockling Ave"
+city: "Brookfield"
+zip: "64628"
+zipsNearby: "50052 52549 52555 50147 64001 64620 64424 64622 64623 64624 64625 64628 64630 64631 64632 64429 64633 64601 64654 64635 64636 64020 64021 64637 64638 64639 64022 64640 64641 64642 64643 64644 64035 64036 64037 64646 64647 64648 64649 64650 64651 64652 64067 64653 64655 64656 64658 64659 64660 64661 64664 64645 64667 64668 64680 64670 64671 64672 64673 64674 64084 64085 64481 64676 64679 64681 64682 64683 64686 64096 64688 64689 65230 65320 63530 63531 63532 65321 65322 65233 63533 65236 65246 65286 65239 63534 63431 63437 65243 65244 63536 63537 63538 65327 63539 65247 65248 65250 65330 65254 63541 63544 63545 63546 65256 65257 65258 65259 63547 65260 65261 63501 63446 63535 63548 63540 63549 63451 63551 63552 65263 65339 65340 65344 63556 65270 65347 63458 63557 63558 65274 63460 63559 65275 63464 63560 63561 65278 65281 63450 63468 63434 63469 65349 65284 65351 63565 63566 63567" 
+mapUrl: "http://maps.apple.com/?q=Pershing+Memorial+Hospital&address=130+E+Lockling+Ave,Brookfield,Missouri,64628"
+locationType: Please contact for drive-thru/walk-in availability.
+phone: "660-258-2222"
+website: "http://www.phsmo.org/"
+onlineBooking: undefined
 closed: undefined
-closedUpdate: April 18th, 2020
-notes: "For all members of the community."
-days: Weekends
-hours: 9 am-4PM
-altDays: Weekdays
-altHours: 8AM-8PM
-ctaMessage: Schedule a test
-ctaUrl: "https://nextcare.com/locations/nm/urgent-care-clinic-albuquerque-new-mexico-unser/"
+closedUpdate: April 20th, 2020
+notes: "By appointment only. Only for individuals with symptoms. Requires phone screen."
+days: Contact for hours of operation.
+ctaMessage: Learn more
+ctaUrl: "http://www.phsmo.org/"
 ---

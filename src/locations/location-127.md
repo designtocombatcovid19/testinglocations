@@ -1,30 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Cottonwood InstaCare in Murray, Utah, USA."
-permalink: "locations/utah/murray/cottonwood-instacare/"
+description: "Local COVID-19 testing is available at Rehoboth McKinley Christian Health Services in Gallup, New Mexico, USA."
+permalink: "locations/new-mexico/gallup/rehoboth-mckinley-christian-health-services/"
 tags:
   - locations
-  - utah
-title: Cottonwood InstaCare
-uniqueName: cottonwood-instacare
-state: Utah
-stateAbbr: UT
-hood: "Murray"
-address: "181 E Medical Tower Dr"
-city: "Murray"
-zip: "84107"
-zipsNearby: "84003 84004 84006 84010 84011 84054 84087 84302 84324 84013 84014 84015 84016 84056 84075 84089 84017 84024 84020 84027 84022 84310 84626 84628 84025 84633 84029 84032 84033 84315 84317 84036 84061 84037 84040 84041 84005 84043 84045 84044 84047 84049 84645 84018 84050 84055 84201 84244 84401 84402 84403 84404 84405 84407 84408 84409 84412 84414 84415 84057 84058 84059 84097 84328 84060 84068 84098 84651 84042 84062 84601 84602 84603 84604 84605 84606 84065 84095 84096 84067 84069 84653 84101 84102 84103 84104 84105 84106 84107 84108 84109 84110 84111 84112 84113 84114 84115 84116 84117 84118 84119 84120 84121 84122 84123 84124 84125 84126 84127 84128 84129 84130 84131 84132 84133 84134 84136 84138 84139 84141 84143 84145 84147 84148 84150 84151 84152 84157 84158 84165 84170 84171 84180 84184 84189 84190 84199 84070 84090 84091 84092 84093 84094 84655 84660 84663 84664 84071 84031 84074 84080 84082 84081 84084 84088 84340 84086 84144" 
-mapUrl: "http://maps.apple.com/?q=Cottonwood+InstaCare&address=181+E+Medical+Tower+Dr,Murray,Utah,84107"
+  - new-mexico
+title: Rehoboth McKinley Christian Health Services
+uniqueName: rehoboth-mckinley-christian-health-services
+state: New Mexico
+stateAbbr: NM
+hood: "Gallup"
+address: "1901 Redrock Dr"
+city: "Gallup"
+zip: "87301"
+zipsNearby: "86502 86556 86504 86505 86540 86506 86508 86511 86512 86515 87005 87311 87312 87347 87313 87315 87316 87301 87302 87305 87310 87317 87319 87326 87328 87375 87020 87021 87045 87321 87357 87322 87051 87455 87323 87365 87320 87325 87364 87327" 
+mapUrl: "http://maps.apple.com/?q=Rehoboth+McKinley+Christian+Health+Services&address=1901+Redrock+Dr,Gallup,New+Mexico,87301"
 locationType: Drive-thru
-phone: "801-314-7700"
-website: "https://intermountainhealthcare.org/locations/cottonwood-clinic/"
+phone: "505-236-1074"
+website: "http://www.rmch.org/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 18th, 2020
-notes: "Requires phone screen."
+closedUpdate: April 20th, 2020
+notes: "By appointment only. Requires phone screen."
 days: Everyday
-hours: 9AM-5PM
+hours: 8AM-7PM
 ctaMessage: Learn more
-ctaUrl: "https://intermountainhealthcare.org/locations/cottonwood-clinic/"
+ctaUrl: "http://www.rmch.org/"
 ---

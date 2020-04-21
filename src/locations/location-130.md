@@ -1,32 +1,29 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Park City Ice Rink in Park City, Utah, USA."
-permalink: "locations/utah/park-city/park-city-ice-rink/"
+description: "Local COVID-19 testing is available at Guadalupe County Hospital in Santa Rosa, New Mexico, USA."
+permalink: "locations/new-mexico/santa-rosa/guadalupe-county-hospital/"
 tags:
   - locations
-  - utah
-title: Park City Ice Rink
-uniqueName: park-city-ice-rink
-state: Utah
-stateAbbr: UT
-hood: "Park City"
-address: "600 Gillmor Wa"
-city: "Park City"
-zip: "84060"
-zipsNearby: "82930 82931 84003 84004 84006 84010 84011 84054 84087 84013 84014 84015 84016 84056 84075 84089 84017 84024 84020 84027 84051 84073 84310 84626 84628 84629 84025 84633 84032 84033 84315 84317 84036 84061 84037 84040 84041 84005 84043 84045 84044 84047 84049 84645 84018 84050 84055 84201 84244 84401 84402 84403 84404 84405 84407 84408 84409 84412 84414 84415 84057 84058 84059 84097 84328 84060 84068 84098 84651 84042 84062 84601 84602 84603 84604 84605 84606 84065 84095 84096 84067 84069 84653 84101 84102 84103 84104 84105 84106 84107 84108 84109 84110 84111 84112 84113 84114 84115 84116 84117 84118 84119 84120 84121 84122 84123 84124 84125 84126 84127 84128 84129 84130 84131 84132 84133 84134 84136 84138 84139 84141 84143 84145 84147 84148 84150 84151 84152 84157 84158 84165 84170 84171 84180 84184 84189 84190 84199 84070 84090 84091 84092 84093 84094 84655 84660 84663 84664 84071 84031 84072 84074 84080 84082 84081 84084 84088 84340 84086 84144" 
-mapUrl: "http://maps.apple.com/?q=Park+City+Ice+Rink&address=600+Gillmor+Wa,Park+City,Utah,84060"
-locationType: Please contact for drive-thru/walk-in availability.
-phone: "435-615-5707"
-website: "https://www.parkcity.org/departments/park-city-ice-arena"
+  - new-mexico
+title: Guadalupe County Hospital
+uniqueName: guadalupe-county-hospital
+state: New Mexico
+stateAbbr: NM
+hood: "Guadalupe County"
+address: "117 Camino De Vida #100"
+city: "Santa Rosa"
+zip: "88435"
+zipsNearby: "87711 88417 88321 88119 88421 88121 87724 87701 88427 87731 87070 88431 87560 87538 88435 87569 88134 88439 88401 88416 88433 88353 87583 87750 87753 88136" 
+mapUrl: "http://maps.apple.com/?q=Guadalupe+County+Hospital&address=117+Camino+De+Vida+100,Santa+Rosa,New+Mexico,88435"
+locationType: Walk-in
+phone: "575-472-3417"
+website: "https://www.gchnm.org/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 18th, 2020
-notes: "Requires phone screen."
-days: Weekdays
-hours: 9AM-5PM
-altDays: Weekends
-altHours: Noon-6PM
+closedUpdate: April 20th, 2020
+notes: "By appointment only. Requires phone screen."
+days: Contact for hours of operation.
 ctaMessage: Learn more
-ctaUrl: "https://www.parkcity.org/departments/park-city-ice-arena"
+ctaUrl: "https://www.gchnm.org/"
 ---

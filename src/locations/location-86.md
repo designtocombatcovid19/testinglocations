@@ -1,29 +1,29 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Cibola General Hospital in Grants, New Mexico, USA."
-permalink: "locations/new-mexico/grants/cibola-general-hospital/"
+description: "Local COVID-19 testing is available at Saint Francis Medical Center - Arena Park in Cape Giradeau, Missouri, USA."
+permalink: "locations/missouri/cape-giradeau/saint-francis-medical-center-arena-park/"
 tags:
   - locations
-  - new-mexico
-title: Cibola General Hospital
-uniqueName: cibola-general-hospital
-state: New Mexico
-stateAbbr: NM
-hood: "Cibola"
-address: "1016 Roosevelt Ave"
-city: "Grants"
-zip: "87020"
-zipsNearby: "87005 87007 87311 87312 87347 87313 87014 87315 87316 87301 87302 87305 87310 87317 87326 87375 87020 87021 87022 87026 87038 87040 87045 87321 87357 87322 87034 87049 87051 87323 87365 87327" 
-mapUrl: "http://maps.apple.com/?q=Cibola+General+Hospital&address=1016+Roosevelt+Ave,Grants,New+Mexico,87020"
-locationType: Walk-in
-phone: "505-287-4446"
-website: "https://cibolahospital.com"
+  - missouri
+title: Saint Francis Medical Center - Arena Park
+uniqueName: saint-francis-medical-center-arena-park
+state: Missouri
+stateAbbr: MO
+hood: "Cape Giradeau"
+address: "410 Kiwanis Dr."
+city: "Cape Giradeau"
+zip: "63701"
+zipsNearby: "42021 42022 42023 42024 42027 42031 42032 42035 42039 42050 42051 42053 42056 42058 42060 42061 42069 42070 42001 42002 42003 42086 42087 63730 63732 63820 63621 63735 63736 63822 63823 63824 63825 63627 63737 63932 63738 63739 63828 63701 63702 63703 63632 63833 63740 63834 63742 63743 63744 63636 63841 63637 63936 63745 63845 63846 63640 63746 63940 63645 63748 63848 63750 63751 63752 63850 63944 63963 63755 63758 63860 63651 63760 63862 63950 63951 63763 63863 63764 63655 63866 63867 63766 63868 63767 63869 63769 63770 63771 63870 63956 63662 63774 63747 63775 63776 63783 63779 63901 63902 63873 63960 63874 63962 63670 63673 63780 63781 63801 63934 63964 63782 63878 63784 63675 63966 63785 63967 63881 63882 63787 62905 62906 62907 62908 62812 62909 62910 62819 62912 62914 62915 62916 62901 62902 62903 62917 62918 62233 62822 62920 62825 62921 62237 62922 62238 62923 62924 62926 62927 62832 62928 62932 62241 62933 62242 62840 62841 62938 62939 62940 62941 62942 62943 62947 62948 62949 62950 62951 62952 62953 62956 62856 62957 62958 62959 62259 62960 62961 62962 62963 62964 62865 62966 62967 62969 62970 62971 62874 62972 62272 62973 62274 62974 62975 62261 62277 62976 62280 62983 62884 62985 62286 62288 62987 62888 62988 62993 62990 62890 62992 62891 62994 62995 62996 62297 62896 62997 62998 62999" 
+mapUrl: "http://maps.apple.com/?q=Saint+Francis+Medical+Center+-+Arena+Park&address=410+Kiwanis+Dr,Cape+Giradeau,Missouri,63701"
+locationType: Drive-thru
+phone: "573-331-4200"
+website: "https://www.sfmc.net/covid19/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 18th, 2020
-notes: "By appointment only. Requires phone screen."
+closedUpdate: April 20th, 2020
+notes: "By appointment only. Only for individuals with symptoms. Requires phone screen."
 days: Contact for hours of operation.
 ctaMessage: Learn more
-ctaUrl: "https://cibolahospital.com"
+ctaUrl: "https://www.sfmc.net/covid19/"
 ---

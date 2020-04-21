@@ -1,29 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Traceway Park in Clinton, Mississippi, USA."
-permalink: "locations/mississippi/clinton/traceway-park/"
+description: "Local COVID-19 testing is available at Larkin Community Hospital Palm Springs Campus in Hialeah, Florida, USA."
+permalink: "locations/florida/hialeah/larkin-community-hospital-palm-springs-campus/"
 tags:
   - locations
-  - mississippi
-title: Traceway Park
-uniqueName: traceway-park
-state: Mississippi
-stateAbbr: MS
-hood: "Clinton"
-address: ""
-city: "Clinton"
-zip: ""
-zipsNearby: "" 
-mapUrl: "http://maps.apple.com/?q=Traceway+Park&address=,Clinton,Mississippi,"
-locationType: Please contact for drive-thru/walk-in availability.
-phone: "601-496-7200"
-website: "undefined"
-onlineBooking: undefined
-closed: true
-closedUpdate: April 17th, 2020
-notes: ""
-days: Contact for hours of operation.
-ctaMessage: Call 601-496-7200
-ctaUrl: "tel:601-496-7200"
+  - florida
+title: Larkin Community Hospital Palm Springs Campus
+uniqueName: larkin-community-hospital-palm-springs-campus
+state: Florida
+stateAbbr: FL
+hood: "Hialeah"
+address: "1475 W 49th St"
+city: "Hialeah"
+zip: "33012"
+zipsNearby: "33430 33427 33428 33429 33431 33432 33433 33434 33464 33481 33486 33487 33488 33496 33497 33498 33499 33424 33425 33426 33435 33436 33437 33472 33473 33474 33004 33441 33442 33443 33444 33445 33446 33448 33482 33483 33484 33301 33302 33303 33304 33305 33306 33307 33308 33309 33310 33311 33312 33313 33314 33315 33316 33317 33318 33319 33320 33321 33322 33323 33324 33325 33326 33327 33328 33329 33330 33331 33332 33334 33335 33336 33337 33338 33339 33340 33345 33346 33348 33349 33351 33355 33359 33388 33394 33008 33009 33002 33010 33011 33012 33013 33014 33015 33016 33017 33018 33019 33020 33021 33022 33023 33024 33025 33026 33027 33028 33029 33081 33083 33084 33030 33031 33032 33033 33034 33035 33039 33090 33092 33037 33449 33454 33460 33461 33462 33463 33465 33466 33467 33101 33102 33106 33111 33112 33114 33116 33122 33124 33125 33126 33127 33128 33129 33130 33131 33132 33133 33134 33135 33136 33137 33138 33142 33143 33144 33145 33146 33147 33149 33150 33151 33152 33153 33155 33156 33157 33158 33159 33160 33161 33162 33163 33164 33165 33166 33167 33168 33169 33170 33172 33173 33174 33175 33176 33177 33178 33179 33180 33181 33182 33183 33184 33185 33186 33187 33188 33189 33190 33193 33194 33196 33197 33199 33206 33222 33231 33233 33234 33238 33242 33243 33245 33247 33255 33256 33257 33261 33265 33266 33269 33280 33283 33296 33299 33109 33119 33139 33140 33141 33154 33239 33054 33055 33056 33480 33060 33061 33062 33063 33064 33065 33066 33067 33068 33069 33071 33072 33073 33074 33075 33076 33077 33093 33097 33493 33082 33070 33401 33402 33403 33404 33405 33406 33407 33409 33410 33411 33412 33413 33414 33415 33416 33417 33418 33419 33420 33421 33422 33107 33110 33121 33148 33195 33447" 
+mapUrl: "http://maps.apple.com/?q=Larkin+Community+Hospital+Palm+Springs+Campus&address=1475+W+49th+St,Hialeah,Florida,33012"
+locationType: Drive-thru
+phone: "305-830-0790"
+website: "https://cvtesting.larkinhospital.com/en/"
+onlineBooking: true
+closed: undefined
+closedUpdate: April 20th, 2020
+notes: "By appointment only. Prioritizes health care workers. Prioritizes first responders. Only for individuals with symptoms."
+days: Everyday
+hours: 9AM-5PM
+ctaMessage: Schedule a test
+ctaUrl: "https://cvtesting.larkinhospital.com/en/"
 ---

@@ -1,32 +1,32 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Bear River Clinic in Tremonton, Utah, USA."
-permalink: "locations/utah/tremonton/bear-river-clinic/"
+description: "Local COVID-19 testing is available at Allegheny Health Network - West Side Health + Wellness Pavilion in Erie, Pennsylvania, USA."
+permalink: "locations/pennsylvania/erie/allegheny-health-network-west-side-health-wellness-pavilion/"
 tags:
   - locations
-  - utah
-title: Bear River Clinic
-uniqueName: bear-river-clinic
-state: Utah
-stateAbbr: UT
-hood: "Tremonton"
-address: "935 N 1000 W"
-city: "Tremonton"
-zip: "84337"
-zipsNearby: "83212 83214 83223 83228 83232 83234 83237 83283 83243 83252 83261 83263 83272 83287 83281 83286 84301 84010 84011 84054 84087 84302 84304 84309 84324 84014 84305 84015 84016 84056 84075 84089 84307 84310 84025 84311 84028 84306 84312 84331 84314 84315 84317 84318 84319 84037 84038 84040 84041 84308 84320 84321 84322 84323 84341 84325 84326 84018 84050 84327 84201 84244 84401 84402 84403 84404 84405 84407 84408 84409 84412 84414 84415 84328 84329 84330 84332 84064 84333 84334 84067 84335 84336 84316 84337 84338 84339 84340 84086" 
-mapUrl: "http://maps.apple.com/?q=Bear+River+Clinic&address=935+N+1000+W,Tremonton,Utah,84337"
+  - pennsylvania
+title: Allegheny Health Network - West Side Health + Wellness Pavilion
+uniqueName: allegheny-health-network-west-side-health-wellness-pavilion
+state: Pennsylvania
+stateAbbr: PA
+hood: "Allegheny County"
+address: "4247 West Ridge Road"
+city: "Erie"
+zip: "16506"
+zipsNearby: "14710 14712 14716 14718 14720 14722 14723 14724 14726 14751 14041 14728 14756 14048 14166 14730 14732 14733 14061 14736 14062 14063 14738 14740 14742 14081 14701 14702 14747 14750 14752 14757 14758 14767 14129 14769 14772 14775 14135 14781 14136 14782 14138 14783 14784 14785 14168 14787 16110 16401 16475 16111 16402 16403 16311 16404 16432 16312 16313 16113 16114 16314 16405 16316 16406 16317 16407 16410 16411 16412 16444 16413 16321 16322 16501 16502 16503 16504 16505 16506 16507 16508 16509 16510 16511 16512 16514 16515 16522 16530 16531 16534 16538 16541 16544 16546 16550 16553 16563 16565 16415 16323 16124 16416 16417 16420 16125 16327 16130 16421 16422 16131 16328 16329 16133 16134 16374 16423 16424 16426 16335 16388 16427 16428 16430 16301 16340 16341 16342 16343 16344 16345 16433 16145 16319 16346 16151 16434 16435 16436 16153 16350 16351 16352 16353 16354 16360 16154 16438 16362 16440 16364 16365 16366 16367 16368 16369 16441 16442 16370 16443 16371 44003 44004 44005 44010 44404 44030 44032 44417 44418 44041 44424 44047 44048 44428 44057 44064 44450 44068 44453 44076 44081 44082 44084 44085 44086 44088 44093 44099 16532 16533 16554" 
+mapUrl: "http://maps.apple.com/?q=Allegheny+Health+Network+-+West+Side+Health+Wellness+Pavilion&address=4247+West+Ridge+Road,Erie,Pennsylvania,16506"
 locationType: Drive-thru
-phone: "435-207-4800"
-website: "https://intermountainhealthcare.org/locations/bear-river-clinic/"
+phone: "412-689-7348"
+website: "https://www.ahn.org/coronavirus/where-to-go-for-help/testing"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 18th, 2020
-notes: "Requires phone screen."
+closedUpdate: April 20th, 2020
+notes: "By appointment only. Requires doctor's referral. Only for individuals with symptoms. Requires phone screen."
 days: Weekdays
 hours: 9AM-5PM
 altDays: Saturdays
-altHours: 9AM-Noon
+altHours: 9AM-1PM
 ctaMessage: Learn more
-ctaUrl: "https://intermountainhealthcare.org/locations/bear-river-clinic/"
+ctaUrl: "https://www.ahn.org/coronavirus/where-to-go-for-help/testing"
 ---

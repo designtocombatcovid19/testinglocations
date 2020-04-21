@@ -21,7 +21,7 @@ phone: ""
 website: "https://coronavirus.lacity.org/Testing"
 onlineBooking: true
 closed: undefined
-closedUpdate: April 18th, 2020
+closedUpdate: April 20th, 2020
 notes: "By appointment only. Limited test kits available."
 days: Contact for hours of operation.
 ctaMessage: Schedule a test
