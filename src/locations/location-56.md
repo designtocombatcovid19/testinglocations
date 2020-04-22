@@ -21,7 +21,7 @@ phone: "855-282-4860"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 20th, 2020
+closedUpdate: April 21st, 2020
 notes: "By appointment only. Requires phone screen."
 days: Weekdays
 hours: 9AM-5PM

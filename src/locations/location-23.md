@@ -21,7 +21,7 @@ phone: "800-945-6171"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 20th, 2020
+closedUpdate: April 21st, 2020
 notes: "By appointment only. Only for individuals with symptoms. Open to all."
 days: Contact for hours of operation.
 ctaMessage: Call 800-945-6171

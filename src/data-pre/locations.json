@@ -1790,6 +1790,166 @@
     "Verified": true
   },
   {
+    "Name": "Public Health",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen.",
+      "Limited test kits available.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders."
+    ],
+    "State": "Georgia",
+    "Address": "1710 S Slappey Blvd",
+    "City": "Albany",
+    "Zip": "31701",
+    "Neighborhood": "Dougherty",
+    "Phone": "(229) 352-6567",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Call center open from 8AM to 4PM",
+    "Verified": true
+  },
+  {
+    "Name": "Georgia Tech",
+    "Notes": [
+      "By appointment only.",
+      "Only for individuals with symptoms."
+    ],
+    "State": "Georgia",
+    "Address": "352 Peachtree Place",
+    "City": "Atlanta",
+    "Zip": "30332",
+    "Website": "https://www.cvs.com/minuteclinic/covid-19-testing",
+    "OnlineBooking": true,
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Pre-register online with CVS minute clinic. Limited appointments on a first-come, first served basis",
+    "Verified": true
+  },
+  {
+    "Name": "Hunter Memorial Park",
+    "Notes": [
+      "By appointment only.",
+      "Requires referral from a primary health provider.",
+      "Requires doctor's referral.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "Only for individuals with symptoms."
+    ],
+    "State": "Georgia",
+    "Address": "8830 Gurley Rd",
+    "City": "Douglasville",
+    "Zip": "30134",
+    "Phone": "(844) 442-2681",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Jim Miller Park",
+    "Notes": [
+      "By appointment only.",
+      "Only for high risk individuals."
+    ],
+    "State": "Georgia",
+    "Address": "2245 Callaway Rd SW",
+    "City": "Marietta",
+    "Zip": "30008",
+    "Phone": "(844) 442-2681",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Not provided to the general community at this time",
+    "Verified": true
+  },
+  {
+    "Name": "Public Health",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders."
+    ],
+    "State": "Georgia",
+    "Address": "484 Smith Ave",
+    "City": "Thomasville",
+    "Zip": "31792",
+    "Neighborhood": "Thomas",
+    "Phone": "(229) 352-6567",
+    "DaysOfWeek": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Call center open from 8AM to 4PM",
+    "Verified": true
+  },
+  {
+    "Name": "South Georgia Medical Center",
+    "Notes": [
+      "For all members of the community.",
+      "Free."
+    ],
+    "State": "Georgia",
+    "Address": "4280 North Valdosta Rd",
+    "City": "Valdosta",
+    "Zip": " 31602",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "This is a screening station to determine which patients require lab testing. All community members are encouraged to drive through.",
+    "Verified": true
+  },
+  {
+    "Name": "Piedmont Athens",
+    "Notes": [
+      "By appointment only.",
+      "Only for individuals with symptoms."
+    ],
+    "State": "Georgia",
+    "Address": "1305 Jennings Mill Rd",
+    "City": "Watkinsville",
+    "Zip": "30677",
+    "Phone": "(866) 460-1119",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "3PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
     "Name": "Sterling Urgent Care",
     "Notes": [
       "By appointment only.",
@@ -1821,6 +1981,80 @@
     "Verified": true
   },
   {
+    "Name": "Physicians Immediate Care",
+    "Notes": [
+      "Must have fever and other symptoms.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "Only for individuals with direct and unprotected exposure to a known positive case.",
+      "Open to all."
+    ],
+    "State": "Illinois",
+    "Address": "1702 N. Milwaukee",
+    "City": "Chicago",
+    "Zip": "60647",
+    "Neighborhood": "Bucktown",
+    "Phone": "(773) 770-4056",
+    "Website": "https://physiciansimmediatecare.com/clinic/bucktown/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "6PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "8AM",
+    "AltClosesAt": "2PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Physicians Immediate Care",
+    "Notes": [
+      "Must have fever and other symptoms.",
+      "Only for individuals with direct and unprotected exposure to a known positive case.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "Open to all."
+    ],
+    "State": "Illinois",
+    "Address": "6140 N. Broadway",
+    "City": "Chicago",
+    "Zip": "60660",
+    "Neighborhood": "Edgewater",
+    "Phone": "(773) 435-9028",
+    "Website": "https://physiciansimmediatecare.com/clinic/edgewater/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "6PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "8AM",
+    "AltClosesAt": "2PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
     "Name": "UChicago Medicine",
     "Notes": [
       "By appointment only.",
@@ -1843,6 +2077,105 @@
     ],
     "OpensAt": "9AM",
     "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Physicians Immediate Care",
+    "Notes": [
+      "Must have fever and other symptoms.",
+      "Only for individuals with direct and unprotected exposure to a known positive case.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "Open to all."
+    ],
+    "State": "Illinois",
+    "Address": "5228 N. Northwest Highway",
+    "City": "Chicago",
+    "Zip": "60630",
+    "Neighborhood": "Jefferson Park",
+    "Phone": "(773) 770-4707",
+    "Website": "https://physiciansimmediatecare.com/clinic/jefferson-park/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "6PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "8AM",
+    "AltClosesAt": "2PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Physicians Immediate Care",
+    "Notes": [
+      "Must have fever and other symptoms.",
+      "Only for individuals with direct and unprotected exposure to a known positive case.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "Open to all."
+    ],
+    "State": "Illinois",
+    "Address": "5961 North Lincoln Avenue",
+    "City": "Chicago",
+    "Zip": "60659",
+    "Neighborhood": "Lincoln & Peterson",
+    "Phone": "(312) 702-3923",
+    "Website": "https://physiciansimmediatecare.com/clinic/lincoln-peterson/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "4:30PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Physicians Immediate Care copy",
+    "Notes": [
+      "Must have fever and other symptoms.",
+      "Only for individuals with direct and unprotected exposure to a known positive case.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "Open to all."
+    ],
+    "State": "Illinois",
+    "Address": "933 West Diversey Parkway",
+    "City": "Chicago",
+    "Zip": "60614",
+    "Neighborhood": "Lincoln Park",
+    "Phone": "(312) 445-8805",
+    "Website": "https://physiciansimmediatecare.com/clinic/lincoln-peterson/https://physiciansimmediatecare.com/clinic/lincoln-park/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "4:30PM",
     "LocationType": [
       "Drive-thru"
     ],
@@ -3950,6 +4283,501 @@
     "Verified": true
   },
   {
+    "Name": "AnMed Health Oglesby Center A",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "South Carolina",
+    "Address": "2000 East Greenville St",
+    "City": "Anderson",
+    "Zip": "29621",
+    "Phone": "(864) 512-1000",
+    "Website": "https://anmedhealth.org/Coronavirus",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "Noon",
+    "AltDaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "AltOpensAt": "1PM",
+    "AltClosesAt": "3:30PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "please call your AnMed Health primary care provider or use AnMed Health E-Visits (https://anmedhealth.org/Services/Additional-Services/E-Visits) so we can determine the best option of care for you.",
+    "Verified": true,
+    "Alt2DaysOfWeek": [
+      "Saturday"
+    ],
+    "Alt2OpensAt": "9AM",
+    "Alt2ClosesAt": "Noon"
+  },
+  {
+    "Name": "Beaufort Memorial Hospital",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "South Carolina",
+    "Address": "955 Ribaut Rd",
+    "City": "Beaufort",
+    "Zip": "29902",
+    "Phone": "(877) 532-6472",
+    "Website": "https://www.bmhsc.org/news/coronavirus-covid-19-preparations-and-recommendations",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "By appointment only. Only patients who meet the following criteria may receive a physician order for COVID-19 testing: Fever, dry cough and shortness of breath, and Recent travel to a high-activity country, and/or Close contact with anyone diagnosed with or awaiting results for COVID-19. It is important to note that Beaufort Memorial does not have COVID-19 test kits and cannot process COVID-19 tests at the hospital. We may collect specimens and send them to the DHEC state lab.",
+    "Verified": true
+  },
+  {
+    "Name": "MUSC Health West Ashley Medical Pavilion",
+    "Notes": [
+      "Other"
+    ],
+    "State": "South Carolina",
+    "Address": "2075 Charlie Hall Blvd",
+    "City": "Charleston",
+    "Zip": "29414",
+    "Website": "https://campaigns.muschealth.org/virtual-care/index.html",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "MUSC Health is offering free virtual care consultations and screenings to anyone experiencing COVID-19-like symptoms with the promo code COVID19. Following a referral for testing, you will be contacted within 24 hours to schedule an appointment for specimen collection. NOTE: Individuals who report to the site for specimen collection, but do not have a testing order and scheduled appointment through the MUSC Health Virtual Urgent Care platform, will not be allowed to enter the secure site.",
+    "Verified": true
+  },
+  {
+    "Name": "Prisma Health Richland Hospital",
+    "Notes": [
+      "By appointment only.",
+      "Requires referral from a primary health provider.",
+      "Requires doctor's referral."
+    ],
+    "State": "South Carolina",
+    "Address": "5 Richland Medical Park Dr",
+    "City": "Columbia",
+    "Zip": "29203",
+    "Phone": "(803) 434-7000",
+    "Website": "https://www.prismahealth.org/coronavirus/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "By appointment only. Prisma Health is offering drive-through COVID-19 testing for patients with orders from their Prisma Health provider or from a Prisma Health Virtual Visit provider. In Columbia, testing also is available to patients sent from the SC Department of Health and Environmental Control (SC DHEC).",
+    "Verified": true
+  },
+  {
+    "Name": "Prisma Health Greenville Memorial Medical Campus",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Requires referral from a primary health provider."
+    ],
+    "State": "South Carolina",
+    "Address": "701 Grove Rd",
+    "City": "Greenville",
+    "Zip": "29605",
+    "Phone": "(864) 455-7000",
+    "Website": "https://www.prismahealth.org/virtual-visit/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "6PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Start with a free Prisma Health Virtual Visit, call your primary care provider, or call our community outreach hotline at 1-833-2PRISMA. Call ahead before visiting any Prisma Health location. ",
+    "Verified": true
+  },
+  {
+    "Name": "Self Regional Healthcare",
+    "Notes": [
+      "By appointment only.",
+      "Local residents only.",
+      "Requires phone screen."
+    ],
+    "State": "South Carolina",
+    "Address": "1325 Spring St",
+    "City": "Greenwood",
+    "Zip": "29646",
+    "Phone": "(864) 725-4200",
+    "Website": "https://www.selfregional.org/coronavirus-information/",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "screening phone line will be available Monday – Friday, 9:00 AM – 5:00 PM SPECIMEN COLLECTION IS BY APPOINTMENT ONLY. INDIVIDUALS MUST CALL TO SCHEDULE APT. screening line and specimen collection site are only for residents of our 7-county service area in South Carolina: Greenwood, Laurens, Newberry, Saluda, Edgefield, McCormick and Abbeville counties.",
+    "Verified": true
+  },
+  {
+    "Name": "McLeod Health Seacoast",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "South Carolina",
+    "Address": "4000 Hwy 9 E",
+    "City": "Little River",
+    "Zip": "29566",
+    "Phone": "(843) 777-2919",
+    "Website": "https://www.mcleodhealth.org/coronavirus/coronavirus-overview/",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "All patients should first call their doctor or contact the McLeod COVID-19 screening hotline at (843) 777-2919 for more information. You may call the hotline 7 days a week from 8AM to 6PM. In order to receive a test at this site, you must be screened through this hotline. If you meet the testing criteria, an appointment will be scheduled for you to complete a drive-thru COVID-19 test. If you seek care through your primary care doctor first, he/she may schedule the appointment on your behalf if he/she determines that you meet the testing criteria. In addition, McLeod Health is offering free virtual screening for the Coronavirus through McLeod Telehealth (instructions to schedule an appointment are on their website).",
+    "Verified": true
+  },
+  {
+    "Name": "Market Pavilion Behind Delta Pharmacy-Fetter Healthcare Network",
+    "Notes": [
+      "Other",
+      "By appointment only."
+    ],
+    "State": "South Carolina",
+    "Address": "402 E Main St",
+    "City": "Moncks Corner",
+    "Zip": "29461",
+    "Phone": "(843) 722-4112",
+    "Website": "https://www.fettercovid19screening.org/",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "In order to receive a test, you must first be screened through Fetter Healthcare Network: https://www.fettercovid19screening.org/. If you meet the testing criteria, you will be given a test code to take to the test site. There will be signs that will guide you towards the testing. You will not have to leave your vehicle, and the testing is free. If you do have health insurance, there is no co-pay.",
+    "Verified": true
+  },
+  {
+    "Name": "Oconee Memorial Hospital Emergency Department",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Requires referral from a primary health provider."
+    ],
+    "State": "South Carolina",
+    "Address": "298 Memorial Dr.",
+    "City": "Seneca",
+    "Zip": "29672",
+    "Phone": "(864) 882-3351",
+    "Website": "https://www.prismahealth.org/coronavirus/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "1PM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Start with a free Prisma Health Virtual Visit, call your primary care provider, or call our community outreach hotline at 1-833-2PRISMA. Call ahead before visiting any Prisma Health location. ",
+    "Verified": true
+  },
+  {
+    "Name": "Prisma Health Tuomey Hospital",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Requires referral from a primary health provider."
+    ],
+    "State": "South Carolina",
+    "Address": "129 N Washington St",
+    "City": "Sumter",
+    "Zip": "29150",
+    "Phone": "(803) 774-9000",
+    "Website": "https://www.prismahealth.org/coronavirus/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "The site is not designed for general public. We are not able to provide testing to community members without a provider order at this site. Upon arrival at the drive-through location, patients will remain in their car as a sample is collected. The results from samples collected from this location will be sent to the provider or SC DHEC. Care providers will provide results to the patient. The Sumter site is at Prisma Health Tuomey Hospital’s Calhoun St./Day Surgery entrance.",
+    "Verified": true
+  },
+  {
+    "Name": "Vanderbilt Health Walk-In Clinic",
+    "Notes": [
+      "By appointment only.",
+      "For previously established patients only.",
+      "Only for individuals with symptoms."
+    ],
+    "State": "Tennessee",
+    "Address": "2608 8th Ave S Suite 102A",
+    "City": "Berry Hill",
+    "Zip": "37204",
+    "Phone": "(615) 875-5515",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "Only treating patients at walk-in clinics",
+    "Verified": true
+  },
+  {
+    "Name": "Hardeman County Health Department",
+    "Notes": [
+      "Open to all.",
+      "Free."
+    ],
+    "State": "Tennessee",
+    "Address": "10825 Old Highway 64",
+    "City": "Bolivar",
+    "Zip": "38008",
+    "Phone": "(731) 658-5291",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "Noon",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Memphis Health Center",
+    "Notes": [
+      "By appointment only.",
+      "Only for individuals with symptoms.",
+      "Only for individuals with direct and unprotected exposure to a known positive case.",
+      "Prioritizes health care workers."
+    ],
+    "State": "Tennessee",
+    "Address": "360 E H Crump Blvd",
+    "City": "Memphis",
+    "Zip": "38126",
+    "Phone": "(901) 261-2042",
+    "OpensAt": "1PM",
+    "ClosesAt": "3PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Methodist University",
+    "Notes": [
+      "Open to all."
+    ],
+    "State": "Tennessee",
+    "Address": "1265 Union Ave",
+    "City": "Memphis",
+    "Zip": "38104",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "11AM",
+    "ClosesAt": "7PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "No appointment required",
+    "Verified": true
+  },
+  {
+    "Name": "Methodist South",
+    "Notes": [
+      "Open to all."
+    ],
+    "State": "Tennessee",
+    "Address": "1300 Wesley Dr",
+    "City": "Memphis",
+    "Zip": "38116",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "6PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "Noon",
+    "AltClosesAt": "6PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "No appointment required",
+    "Verified": true
+  },
+  {
+    "Name": "Case Management Inc",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Tennessee",
+    "Address": "3171 Directors Row",
+    "City": "Memphis",
+    "Zip": "38116",
+    "Phone": "(901) 821-5880",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Call or email covid-19testcmi@cmiofmemphis.org",
+    "Verified": true
+  },
+  {
+    "Name": "Church Health",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Tennessee",
+    "Address": "1350 Concourse Ave",
+    "City": "Memphis",
+    "Zip": "38104",
+    "Phone": "(901) 272-0003",
+    "DaysOfWeek": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Tiger Lane",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Tennessee",
+    "Address": "450 Early Maxwell Blvd",
+    "City": "Memphis",
+    "Zip": "38104",
+    "Phone": "(901) 203-5526",
+    "DaysOfWeek": [
+      "Monday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Text \"COVID\"",
+    "Verified": true
+  },
+  {
+    "Name": "Mcnairy County Health Department",
+    "Notes": [
+      "Open to all.",
+      "Free."
+    ],
+    "State": "Tennessee",
+    "Address": "725 East Poplar Ave",
+    "City": "Selmer",
+    "Zip": "38375",
+    "Phone": "(731) 645-3473",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "Noon",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Fayette County Health Department",
+    "Notes": [
+      "Open to all.",
+      "Free."
+    ],
+    "State": "Tennessee",
+    "Address": "90 Yum Yum Rd",
+    "City": "Somerville",
+    "Zip": "38068",
+    "Phone": "(901) 465-5243",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "Noon",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "City of Amarillo/Texas Tech University Health Sciences Center",
+    "Notes": [
+      "Only for individuals with symptoms.",
+      "Requires phone screen.",
+      "By appointment only."
+    ],
+    "State": "Texas",
+    "Address": "3401 SE 10th Ave",
+    "City": "Amarillo",
+    "Zip": "79104",
+    "Phone": "(806) 378-6300",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "3PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
     "Name": "Austin Emergency Center Far West",
     "Notes": [
       "Open to all."
@@ -4264,6 +5092,36 @@
     "Verified": true
   },
   {
+    "Name": "Goose Creek ISD - Stallworth",
+    "Notes": [
+      "Must have fever and other symptoms.",
+      "Only for individuals with direct and unprotected exposure to a known positive case."
+    ],
+    "State": "Texas",
+    "Address": "2102 East Archer Road",
+    "City": "Baytown",
+    "Zip": "77521",
+    "Phone": "832-927-7575",
+    "Website": "https://checkforcorona.com/harris-county#/welcome",
+    "NotesOther": "Requires online screening",
+    "Verified": true
+  },
+  {
+    "Name": "Valley Med Urgent Care",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Texas",
+    "Address": "\t1000 Sports Park Blvd",
+    "City": "Brownsville",
+    "Zip": "78526",
+    "Phone": "(956) 518-7444",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
     "Name": "ARC Cedar Park",
     "Notes": [
       "By appointment only.",
@@ -4340,6 +5198,53 @@
     "Verified": true
   },
   {
+    "Name": "UMC Health System",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "Texas",
+    "Address": "602 Indiana Avenue",
+    "City": "Lubbock",
+    "Zip": "79415",
+    "Phone": "(806) 761-0111",
+    "Website": "https://myteamcarenow.com/landing.htm",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "6PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "1PM",
+    "AltClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Valley Med Urgent Care",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Texas",
+    "Address": "\t101 E Expressway 83 #170",
+    "City": "McAllen",
+    "Zip": "78501",
+    "Phone": "(956) 731-6699",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
     "Name": "ARC Round Rock",
     "Notes": [
       "By appointment only.",
@@ -4398,6 +5303,162 @@
       "Drive-thru"
     ],
     "NotesOther": "To schedule your routine or urgent appointments during Saturday extended hours, call 512.509.0200.",
+    "Verified": true
+  },
+  {
+    "Name": "Angelo State University",
+    "Notes": [
+      "Open to all."
+    ],
+    "State": "Texas",
+    "Address": "2601 W Ave N",
+    "City": "San Angelo",
+    "Zip": "76909",
+    "Phone": "(325) 481-2050",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Foster Field baseball stadium parking lo",
+    "Verified": true
+  },
+  {
+    "Name": "Shannon Medical Center",
+    "Notes": [
+      "Open to all."
+    ],
+    "State": "Texas",
+    "Address": "120 E Harris Ave",
+    "City": "San Angelo",
+    "Zip": "76903",
+    "Neighborhood": "Downtown San Angelo",
+    "Phone": "(844) 674-2666",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Corner of Beauregard and Oakes St",
+    "Verified": true
+  },
+  {
+    "Name": "Geneus",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Texas",
+    "Address": "5726 West Hausman Road, Suite 112",
+    "City": "San Antonio",
+    "Zip": "78248",
+    "Phone": "(844) 800-2334",
+    "Website": "https://www.geneushealth.com/contact-us",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Email: info@GeneusHealth.com",
+    "Verified": true
+  },
+  {
+    "Name": "Oakbend Medical Center",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Texas",
+    "Address": "4911 Sandhill Dr",
+    "City": "Sugarland",
+    "Zip": "77479",
+    "Phone": "281-238-7870",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "1PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "The test costs $100 for people without insurance. People with insurance will have to pay a $40 deductible",
+    "Verified": true
+  },
+  {
+    "Name": "Smart Financial Centre at Sugar Land",
+    "Notes": [
+      "Free.",
+      "Must have fever and other symptoms."
+    ],
+    "State": "Texas",
+    "Address": "18111 Lexington Blvd",
+    "City": "Sugarland",
+    "Zip": "7779",
+    "Phone": "(877) 470-7787",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "No appointment necessary. First come, first served.",
+    "Verified": true
+  },
+  {
+    "Name": "Baylor Scott & White Medical Center",
+    "Notes": [
+      "By appointment only.",
+      "For previously established patients only."
+    ],
+    "State": "Texas",
+    "Address": "\t2401 S 31st St.",
+    "City": "Temple",
+    "Zip": "76508",
+    "Phone": "(254) 724-2111",
+    "Website": "https://www.bswhealth.com/Pages/coronavirus-information.aspx",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Requires online screening",
+    "Verified": true
+  },
+  {
+    "Name": "America’s ER Medical Centers",
+    "Notes": [
+      "Open to all."
+    ],
+    "State": "Texas",
+    "Address": "1 Stonebridge Church Dr.",
+    "City": "The Woodlands",
+    "Zip": "77382",
+    "Website": "https://americaser.com/whats-happening/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "6PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Insurance accepted. Self pay $150",
     "Verified": true
   },
   {

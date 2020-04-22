@@ -21,7 +21,7 @@ phone: "954-412-7300"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 20th, 2020
+closedUpdate: April 21st, 2020
 notes: "Only for individuals with symptoms."
 days: M-W, F-Sun
 hours: 9AM-6PM

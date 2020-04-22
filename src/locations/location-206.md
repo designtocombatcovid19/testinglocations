@@ -1,29 +1,32 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Grays Harbor Public Health in Aberdeen, Washington, USA."
-permalink: "locations/washington/aberdeen/grays-harbor-public-health/"
+description: "Local COVID-19 testing is available at UMC Health System in Lubbock, Texas, USA."
+permalink: "locations/texas/lubbock/umc-health-system/"
 tags:
   - locations
-  - washington
-title: Grays Harbor Public Health
-uniqueName: grays-harbor-public-health
-state: Washington
-stateAbbr: WA
-hood: "Aberdeen"
-address: ""
-city: "Aberdeen"
-zip: "98520"
-zipsNearby: "97103 97121 97146 98612 98614 98624 98631 98637 98638 98640 98641 98621 98643 98644 98647 98520 98522 98526 98527 98530 98531 98532 98535 98536 98537 98538 98539 98540 98541 98544 98546 98547 98548 98550 98552 98351 98554 98556 98557 98559 98560 98561 98562 98563 98565 98566 98568 98569 98501 98502 98503 98504 98505 98506 98507 98508 98509 98511 98512 98513 98516 98599 98571 98572 98575 98577 98579 98581 98583 98584 98586 98587 98588 98589 98590 98592 98593 98595 98596" 
-mapUrl: "http://maps.apple.com/?q=Grays+Harbor+Public+Health&address=,Aberdeen,Washington,98520"
+  - texas
+title: UMC Health System
+uniqueName: umc-health-system
+state: Texas
+stateAbbr: TX
+hood: "Lubbock"
+address: "602 Indiana Avenue"
+city: "Lubbock"
+zip: "79415"
+zipsNearby: "79311 79312 79313 79316 79376 79021 79322 79229 79231 79031 79032 79324 79235 79041 79043 79329 79052 79331 79336 79338 79326 79339 79221 79241 79342 79343 79401 79402 79403 79404 79406 79407 79408 79409 79410 79411 79412 79413 79414 79415 79416 79423 79424 79430 79452 79453 79457 79464 79490 79491 79493 79499 79243 79344 79345 79346 79350 79351 79064 79353 79250 79355 79072 79073 79330 79356 79357 79358 79359 79363 79364 79366 79367 79258 79369 79082 79370 79371 79372 79373 79377 79378 79379 79380 79381 79383 79382 79738 79320 79405" 
+mapUrl: "http://maps.apple.com/?q=UMC+Health+System&address=602+Indiana+Avenue,Lubbock,Texas,79415"
 locationType: Drive-thru
-phone: "360-964-1850"
-website: "undefined"
+phone: "806-761-0111"
+website: "https://myteamcarenow.com/landing.htm"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 20th, 2020
-notes: "By appointment only. Prioritizes health care workers. Only for individuals with symptoms. Only for individuals with direct and unprotected exposure to a known positive case. Requires phone screen."
-days: Contact for hours of operation.
-ctaMessage: Call 360-964-1850
-ctaUrl: "tel:360-964-1850"
+closedUpdate: April 21st, 2020
+notes: "By appointment only. Requires phone screen."
+days: Weekdays
+hours: 8AM-6PM
+altDays: Weekends
+altHours: 1PM-5PM
+ctaMessage: Learn more
+ctaUrl: "https://myteamcarenow.com/landing.htm"
 ---

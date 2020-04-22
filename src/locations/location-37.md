@@ -21,7 +21,7 @@ phone: "305-830-0790"
 website: "https://cvtesting.larkinhospital.com/en/"
 onlineBooking: true
 closed: undefined
-closedUpdate: April 20th, 2020
+closedUpdate: April 21st, 2020
 notes: "By appointment only. Prioritizes health care workers. Prioritizes first responders. Only for individuals with symptoms."
 days: Everyday
 hours: 9AM-5PM

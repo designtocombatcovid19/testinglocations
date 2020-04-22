@@ -21,7 +21,7 @@ phone: "305-960-5050"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 20th, 2020
+closedUpdate: April 21st, 2020
 notes: "By appointment only. Free."
 days: Contact for hours of operation.
 ctaMessage: Call 305-960-5050

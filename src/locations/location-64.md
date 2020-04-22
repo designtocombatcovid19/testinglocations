@@ -21,7 +21,7 @@ phone: "904-230-6988"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 20th, 2020
+closedUpdate: April 21st, 2020
 notes: "By appointment only."
 days: Weekdays
 hours: 8AM-8PM

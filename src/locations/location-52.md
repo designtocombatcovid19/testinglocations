@@ -21,7 +21,7 @@ phone: "305-499-8767"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 20th, 2020
+closedUpdate: April 21st, 2020
 notes: "By appointment only. Prioritizes health care workers. Prioritizes first responders. Open to all."
 days: Everyday
 hours: 9AM-5PM

@@ -1,30 +1,29 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Ephraim Clinic in Ephraim, Utah, USA."
-permalink: "locations/utah/ephraim/ephraim-clinic/"
+description: "Local COVID-19 testing is available at McLeod Health Seacoast in Little River, South Carolina, USA."
+permalink: "locations/south-carolina/little-river/mcleod-health-seacoast/"
 tags:
   - locations
-  - utah
-title: Ephraim Clinic
-uniqueName: ephraim-clinic
-state: Utah
-stateAbbr: UT
-hood: "Ephraim"
-address: "525 N Main St"
-city: "Ephraim"
-zip: "84627"
-zipsNearby: "84711 84620 84513 84516 84518 84624 84638 84640 84520 84626 84521 84724 84522 84627 84628 84629 84523 84631 84636 84656 84632 84633 84525 84621 84622 84630 84634 84526 84529 84635 84528 84637 84639 84642 84665 84643 84644 84645 84754 84623 84646 84667 84647 84648 84649 84537 84651 84501 84601 84602 84603 84605 84606 84652 84657 84701 84730 84744 84653 84654 84655 84660 84662 84663 84664 84539 84542" 
-mapUrl: "http://maps.apple.com/?q=Ephraim+Clinic&address=525+N+Main+St,Ephraim,Utah,84627"
+  - south-carolina
+title: McLeod Health Seacoast
+uniqueName: mcleod-health-seacoast
+state: South Carolina
+stateAbbr: SC
+hood: "Little River"
+address: "4000 Hwy 9 E"
+city: "Little River"
+zip: "29566"
+zipsNearby: "28459 28467 28468 28469 28420 28421 28320 28422 28423 28424 28428 28429 28430 28431 28432 28433 28434 28435 28436 28332 28337 28438 28439 28340 28442 28447 28448 28449 28450 28451 28452 28358 28359 28360 28362 28455 28319 28369 28375 28456 28457 28383 28470 28461 28465 28462 28463 28392 28399 28472 28401 28402 28403 28404 28405 28406 28407 28408 28409 28410 28411 28412 28479 28480 29510 29511 29544 29519 29526 29527 29528 29536 29543 29440 29442 29545 29546 29554 29555 29563 29565 29566 29567 29568 29569 29571 29574 29576 29572 29575 29577 29578 29579 29587 29588 29580 29581 29582 29597 29598 29583 29585 29589 29592" 
+mapUrl: "http://maps.apple.com/?q=McLeod+Health+Seacoast&address=4000+Hwy+9+E,Little+River,South+Carolina,29566"
 locationType: Drive-thru
-phone: "435-283-4076"
-website: "https://intermountainhealthcare.org/locations/ephraim-clinic/"
+phone: "843-777-2919"
+website: "https://www.mcleodhealth.org/coronavirus/coronavirus-overview/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 20th, 2020
-notes: "Requires phone screen."
-days: Weekdays
-hours: 9AM-4:30PM
+closedUpdate: April 21st, 2020
+notes: "By appointment only."
+days: Contact for hours of operation.
 ctaMessage: Learn more
-ctaUrl: "https://intermountainhealthcare.org/locations/ephraim-clinic/"
+ctaUrl: "https://www.mcleodhealth.org/coronavirus/coronavirus-overview/"
 ---

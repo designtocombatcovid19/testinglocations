@@ -1,30 +1,29 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at North Cache Valley InstaCare in Hyde Park, Utah, USA."
-permalink: "locations/utah/hyde-park/north-cache-valley-instacare/"
+description: "Local COVID-19 testing is available at Vanderbilt Health Walk-In Clinic in Berry Hill, Tennessee, USA."
+permalink: "locations/tennessee/berry-hill/vanderbilt-health-walk-in-clinic/"
 tags:
   - locations
-  - utah
-title: North Cache Valley InstaCare
-uniqueName: north-cache-valley-instacare
-state: Utah
-stateAbbr: UT
-hood: "Hyde Park"
-address: "4088 N HWY 91"
-city: "Hyde Park"
-zip: "84318"
-zipsNearby: "83114 82930 82931 83121 83214 83223 83228 83232 83234 83237 83238 83239 83241 83283 83246 83243 83252 83220 83254 83233 83261 83263 83272 83287 83281 83286 84301 84302 84304 84309 84324 84014 84305 84015 84016 84056 84075 84089 84024 84307 84310 84025 84311 84028 84306 84312 84331 84033 84314 84315 84317 84318 84319 84037 84038 84040 84041 84308 84320 84321 84322 84323 84341 84325 84326 84018 84050 84327 84201 84244 84401 84402 84403 84404 84405 84407 84408 84409 84412 84414 84415 84328 84330 84332 84064 84333 84334 84067 84335 84336 84316 84337 84338 84339 84340 84086" 
-mapUrl: "http://maps.apple.com/?q=North+Cache+Valley+InstaCare&address=4088+N+HWY+91,Hyde+Park,Utah,84318"
-locationType: Drive-thru
-phone: "435-563-4888"
-website: "https://intermountainhealthcare.org/locations/location-details/north-cache-valley-clinic/north-cache-valley-instacare/"
+  - tennessee
+title: Vanderbilt Health Walk-In Clinic
+uniqueName: vanderbilt-health-walk-in-clinic
+state: Tennessee
+stateAbbr: TN
+hood: "Berry Hill"
+address: "2608 8th Ave S Suite 102A"
+city: "Berry Hill"
+zip: "37204"
+zipsNearby: "37010 37012 37011 37013 37014 37015 37016 37018 37019 37020 37063 37022 37023 37025 37026 37024 37027 38547 38548 37029 37030 37031 37032 37033 37034 37035 37036 38552 37037 37040 37041 37042 37043 37044 37171 37046 38401 38402 37047 37048 37049 38451 37050 37051 37052 37055 37056 37057 37059 38454 37060 38560 37061 37062 37064 37065 37067 37068 37069 37066 37071 37070 37072 38563 38564 37073 38461 37074 37075 37077 37076 38567 38569 38462 37078 37079 37080 37082 37083 37085 37086 37089 37087 37088 37090 37091 37095 37098 38472 37101 37115 37116 37118 37119 37121 37122 38474 37127 37128 37129 37130 37131 37132 37133 37201 37202 37203 37204 37205 37206 37207 37208 37209 37210 37211 37212 37213 37214 37215 37216 37217 37218 37219 37220 37221 37222 37224 37227 37228 37229 37230 37232 37234 37235 37236 37238 37240 37241 37242 37243 37244 37246 37250 37135 37136 37360 37137 37138 37140 37141 37142 37143 37144 37145 37146 37148 37149 37150 37151 37152 37153 38482 37160 37161 37162 38582 37165 37166 37167 37172 37174 38483 37178 37179 37180 37181 37183 37184 37185 37186 37187 37188 37189 38476 38487 37190 37191 42202 42120 42204 42122 42206 42123 42101 42102 42103 42104 42128 42216 42220 42280 42221 42223 42133 42134 42135 42234 42236 42153 42240 42241 42254 42256 42262 42265 42266 42274 42276 42164 42286 42170 42283 37237 37245 37247 37248 37249" 
+mapUrl: "http://maps.apple.com/?q=Vanderbilt+Health+Walk-In+Clinic&address=2608+8th+Ave+S+Suite+102A,Berry+Hill,Tennessee,37204"
+locationType: Walk-in
+phone: "615-875-5515"
+website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 20th, 2020
-notes: "Requires phone screen."
-days: Everyday
-hours: 9AM-5PM
-ctaMessage: Learn more
-ctaUrl: "https://intermountainhealthcare.org/locations/location-details/north-cache-valley-clinic/north-cache-valley-instacare/"
+closedUpdate: April 21st, 2020
+notes: "By appointment only. For previously established patients only. Only for individuals with symptoms."
+days: Contact for hours of operation.
+ctaMessage: Call 615-875-5515
+ctaUrl: "tel:615-875-5515"
 ---

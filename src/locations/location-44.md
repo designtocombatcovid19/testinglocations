@@ -21,7 +21,7 @@ phone: "305-216-2107"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 20th, 2020
+closedUpdate: April 21st, 2020
 notes: "Local residents only. By appointment only. Only for individuals with symptoms."
 days: Saturdays
 hours: 11AM-12:30PM

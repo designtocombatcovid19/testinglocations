@@ -1,30 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Fillmore Clinic in Fillmore, Utah, USA."
-permalink: "locations/utah/fillmore/fillmore-clinic/"
+description: "Local COVID-19 testing is available at Oconee Memorial Hospital Emergency Department in Seneca, South Carolina, USA."
+permalink: "locations/south-carolina/seneca/oconee-memorial-hospital-emergency-department/"
 tags:
   - locations
-  - utah
-title: Fillmore Clinic
-uniqueName: fillmore-clinic
-state: Utah
-stateAbbr: UT
-hood: "Fillmore"
-address: "700 S Hwy 99 Ste 3"
-city: "Fillmore"
-zip: "84631"
-zipsNearby: "84711 84620 84713 84731 84715 84723 84624 84638 84640 84724 84627 84523 84631 84636 84656 84632 84621 84622 84630 84634 84635 84740 84743 84637 84639 84747 84749 84642 84665 84750 84643 84644 84739 84754 84766 84623 84646 84667 84647 84648 84649 84652 84657 84701 84730 84732 84744 84654 84662" 
-mapUrl: "http://maps.apple.com/?q=Fillmore+Clinic&address=700+S+Hwy+99+Ste+3,Fillmore,Utah,84631"
+  - south-carolina
+title: Oconee Memorial Hospital Emergency Department
+uniqueName: oconee-memorial-hospital-emergency-department
+state: South Carolina
+stateAbbr: SC
+hood: "Seneca"
+address: "298 Memorial Dr."
+city: "Seneca"
+zip: "29672"
+zipsNearby: "29819 29840 29848 28773 28774 28775 28702 28901 28704 28707 28708 28902 28712 28713 28715 28716 28717 28718 28719 28721 28722 28723 28724 28725 28726 28727 28729 28731 28732 28734 28744 28736 28904 28739 28791 28792 28793 28741 28742 28759 28745 28747 28750 28751 28756 28758 28760 28763 28766 28768 28772 28776 28779 28781 28782 28783 28909 28738 28786 28788 28789 28784 28790 29620 29621 29622 29623 29624 29625 29626 29320 29627 29628 29322 29630 29631 29632 29633 29634 29635 29636 29332 29638 29639 29334 29640 29641 29642 29335 29336 29643 29644 29348 29645 29601 29602 29603 29604 29605 29606 29607 29608 29609 29610 29611 29612 29613 29614 29615 29616 29617 29646 29647 29648 29649 29650 29651 29652 29653 29695 29654 29349 29655 29656 29356 29360 29657 29658 29659 29365 29661 29662 29369 29664 29370 29665 29667 29669 29670 29671 29673 29375 29675 29376 29676 29677 29672 29678 29679 29680 29681 29682 29683 29301 29302 29303 29304 29305 29306 29307 29316 29318 29319 29684 29377 29685 29686 29687 29688 29689 29690 29691 29692 29384 29385 29693 29696 29697 29388 30510 30619 30601 30602 30603 30604 30605 30606 30607 30608 30609 30612 30511 30512 30514 30622 30516 30624 30517 30520 30627 30521 30523 30525 30527 30528 30628 30629 30529 30530 30599 30531 30630 30533 30597 30633 30535 30544 30634 30537 30538 30635 30639 30501 30503 30504 30506 30507 30543 30643 30545 30546 30547 30548 30646 30647 30549 30552 30553 30648 30554 30557 30558 30562 30563 30564 30565 30502 30566 30567 30568 30660 30662 30571 30666 30573 30575 30576 30668 30577 30598 30580 30581 30683 30582 29390 29391 29698 30596" 
+mapUrl: "http://maps.apple.com/?q=Oconee+Memorial+Hospital+Emergency+Department&address=298+Memorial+Dr,Seneca,South+Carolina,29672"
 locationType: Drive-thru
-phone: "435-743-5555"
-website: "https://intermountainhealthcare.org/locations/location-details/fillmore-clinic/fillmore-clinic/"
+phone: "864-882-3351"
+website: "https://www.prismahealth.org/coronavirus/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 20th, 2020
-notes: "Requires phone screen."
+closedUpdate: April 21st, 2020
+notes: "By appointment only. Requires doctor's referral. Requires referral from a primary health provider."
 days: Weekdays
-hours: 9AM-4:30PM
+hours: 1PM-5PM
 ctaMessage: Learn more
-ctaUrl: "https://intermountainhealthcare.org/locations/location-details/fillmore-clinic/fillmore-clinic/"
+ctaUrl: "https://www.prismahealth.org/coronavirus/"
 ---

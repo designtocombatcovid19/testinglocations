@@ -21,7 +21,7 @@ phone: "833-973-0649"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 20th, 2020
+closedUpdate: April 21st, 2020
 notes: "By appointment only. Requires doctor's referral. Requires phone screen."
 days: Weekdays
 hours: 8AM-Noon

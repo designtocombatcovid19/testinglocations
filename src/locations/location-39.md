@@ -21,7 +21,7 @@ phone: ""
 website: "https://www.telescopehealth.com"
 onlineBooking: true
 closed: undefined
-closedUpdate: April 20th, 2020
+closedUpdate: April 21st, 2020
 notes: "By appointment only. Privately owned. Requires doctor's referral."
 days: Everyday
 hours: 11AM-7PM

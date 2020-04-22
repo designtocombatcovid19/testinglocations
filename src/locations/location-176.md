@@ -1,32 +1,29 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Farmington Health Center in Farmington, Utah, USA."
-permalink: "locations/utah/farmington/farmington-health-center/"
+description: "Local COVID-19 testing is available at Market Pavilion Behind Delta Pharmacy-Fetter Healthcare Network in Moncks Corner, South Carolina, USA."
+permalink: "locations/south-carolina/moncks-corner/market-pavilion-behind-delta-pharmacy-fetter-healthcare-network/"
 tags:
   - locations
-  - utah
-title: Farmington Health Center
-uniqueName: farmington-health-center
-state: Utah
-stateAbbr: UT
-hood: "Farmington"
-address: "165 N. University Ave"
-city: "Farmington"
-zip: "84025"
-zipsNearby: "82930 82931 84003 84004 84301 84006 84010 84011 84054 84087 84302 84304 84309 84324 84013 84014 84015 84016 84056 84075 84089 84017 84024 84307 84020 84310 84025 84311 84306 84312 84029 84032 84033 84314 84315 84317 84318 84319 84036 84061 84037 84040 84041 84005 84043 84045 84321 84322 84323 84341 84044 84325 84047 84049 84326 84018 84050 84327 84055 84201 84244 84401 84402 84403 84404 84405 84407 84408 84409 84412 84414 84415 84057 84058 84059 84097 84328 84060 84068 84098 84042 84062 84332 84601 84602 84603 84604 84605 84606 84064 84334 84065 84095 84096 84067 84069 84101 84102 84103 84104 84105 84106 84107 84108 84109 84110 84111 84112 84113 84114 84115 84116 84117 84118 84119 84120 84121 84122 84123 84124 84125 84126 84127 84128 84129 84130 84131 84132 84133 84134 84136 84138 84139 84141 84143 84145 84147 84148 84150 84151 84152 84157 84158 84165 84170 84171 84180 84184 84189 84190 84199 84070 84090 84091 84092 84093 84094 84335 84663 84071 84074 84337 84082 84339 84081 84084 84088 84340 84086 84144" 
-mapUrl: "http://maps.apple.com/?q=Farmington+Health+Center&address=165+N+University+Ave,Farmington,Utah,84025"
-locationType: Drive-thru
-phone: "801-213-3200"
-website: "https://healthcare.utah.edu/locations/farmington/"
+  - south-carolina
+title: Market Pavilion Behind Delta Pharmacy-Fetter Healthcare Network
+uniqueName: market-pavilion-behind-delta-pharmacy-fetter-healthcare-network
+state: South Carolina
+stateAbbr: SC
+hood: "Moncks Corner"
+address: "402 E Main St"
+city: "Moncks Corner"
+zip: "29461"
+zipsNearby: "29929 29931 29914 29940 29941 29945 29426 29001 29510 29429 29003 29431 29018 29432 29518 29030 29401 29402 29403 29404 29405 29406 29407 29409 29410 29412 29413 29414 29415 29416 29417 29418 29419 29420 29422 29423 29424 29425 29492 29038 29434 29039 29435 29530 29436 29041 29437 29044 29438 29541 29081 29047 29048 29439 29051 29143 29440 29442 29445 29056 29446 29546 29447 29448 29554 29059 29449 29450 29451 29452 29453 29455 29457 29555 29556 29456 29560 29564 29082 29080 29458 29102 29104 29430 29461 29464 29465 29466 29576 29580 29111 29114 29115 29116 29117 29118 29583 29585 29468 29125 29469 29470 29471 29472 29474 29133 29475 29476 29477 29135 29479 29590 29142 29591 29481 29482 29148 29483 29484 29485 29150 29151 29152 29153 29154 29162 29163 29487 29433 29488 29168 29493" 
+mapUrl: "http://maps.apple.com/?q=Market+Pavilion+Behind+Delta+Pharmacy-Fetter+Healthcare+Network&address=402+E+Main+St,Moncks+Corner,South+Carolina,29461"
+locationType: Walk-in
+phone: "843-722-4112"
+website: "https://www.fettercovid19screening.org/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 20th, 2020
-notes: ""
-days: Weekdays
-hours: 8AM-6PM
-altDays: Weekends
-altHours: 10AM-3PM
+closedUpdate: April 21st, 2020
+notes: "By appointment only."
+days: Contact for hours of operation.
 ctaMessage: Learn more
-ctaUrl: "https://healthcare.utah.edu/locations/farmington/"
+ctaUrl: "https://www.fettercovid19screening.org/"
 ---

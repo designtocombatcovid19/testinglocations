@@ -28,3 +28,6 @@ package = "netlify-plugin-a11y"
   checkPaths = ['/'] # you can give an array of directories or paths to html files, that you want to run a11y checks on
   # optional config
   resultMode = "warn" # is "error" by default
+
+[[plugins]]
+package = "netlify-plugin-checklinks"

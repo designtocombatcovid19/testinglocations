@@ -1,30 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Sterling Urgent Care in Richmond, Utah, USA."
-permalink: "locations/utah/richmond/sterling-urgent-care-3/"
+description: "Local COVID-19 testing is available at City of Amarillo/Texas Tech University Health Sciences Center in Amarillo, Texas, USA."
+permalink: "locations/texas/amarillo/city-of-amarillotexas-tech-university-health-sciences-center/"
 tags:
   - locations
-  - utah
-title: Sterling Urgent Care
-uniqueName: sterling-urgent-care-3
-state: Utah
-stateAbbr: UT
-hood: "Richmond"
-address: "700 S. Highway 91"
-city: "Richmond"
-zip: "84333"
-zipsNearby: "83114 83212 83214 83217 83223 83228 83232 83234 83237 83238 83239 83241 83283 83246 83250 83243 83252 83220 83254 83233 83261 83263 83272 83287 83230 83276 83281 83286 84301 84302 84304 84309 84324 84305 84015 84016 84056 84075 84089 84307 84310 84311 84028 84306 84312 84331 84314 84315 84317 84318 84319 84037 84038 84040 84041 84308 84320 84321 84322 84323 84341 84325 84326 84018 84050 84327 84201 84244 84401 84402 84403 84404 84405 84407 84408 84409 84412 84414 84415 84328 84330 84332 84064 84333 84334 84067 84335 84336 84316 84337 84338 84339 84340 84086" 
-mapUrl: "http://maps.apple.com/?q=Sterling+Urgent+Care&address=700+S+Highway+91,Richmond,Utah,84333"
-locationType: Walk-in
-phone: "435-294-3215"
-website: "https://www.sterlingurgentcare.com/coronavirus-covid-19/"
+  - texas
+title: City of Amarillo/Texas Tech University Health Sciences Center
+uniqueName: city-of-amarillotexas-tech-university-health-sciences-center
+state: Texas
+stateAbbr: TX
+hood: "Amarillo"
+address: "3401 SE 10th Ave"
+city: "Amarillo"
+zip: "79104"
+zipsNearby: "79001 79002 79101 79102 79103 79104 79105 79106 79107 79108 79109 79110 79111 79114 79116 79117 79118 79119 79120 79121 79124 79159 79166 79168 79172 79174 79178 79185 79189 79007 79008 79012 79013 79015 79016 79018 79058 79226 79019 79025 79027 79029 79036 79039 79042 79094 79043 79044 79045 79085 79052 79054 79063 79065 79066 79068 79078 79257 79080 79083 79086 79088 79091 79010 79092 79097 79098 79187" 
+mapUrl: "http://maps.apple.com/?q=City+of+AmarilloTexas+Tech+University+Health+Sciences+Center&address=3401+SE+10th+Ave,Amarillo,Texas,79104"
+locationType: Drive-thru
+phone: "806-378-6300"
+website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 20th, 2020
-notes: "By appointment only. Limited test kits available."
+closedUpdate: April 21st, 2020
+notes: "Only for individuals with symptoms. Requires phone screen. By appointment only."
 days: Weekdays
-hours: 9AM-9PM
-ctaMessage: Learn more
-ctaUrl: "https://www.sterlingurgentcare.com/coronavirus-covid-19/"
+hours: 9AM-3PM
+ctaMessage: Call 806-378-6300
+ctaUrl: "tel:806-378-6300"
 ---

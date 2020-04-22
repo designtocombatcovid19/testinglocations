@@ -1,32 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Bear River Clinic in Tremonton, Utah, USA."
-permalink: "locations/utah/tremonton/bear-river-clinic/"
+description: "Local COVID-19 testing is available at ARC Cedar Park in Cedar Park, Texas, USA."
+permalink: "locations/texas/cedar-park/arc-cedar-park/"
 tags:
   - locations
-  - utah
-title: Bear River Clinic
-uniqueName: bear-river-clinic
-state: Utah
-stateAbbr: UT
-hood: "Tremonton"
-address: "935 N 1000 W"
-city: "Tremonton"
-zip: "84337"
-zipsNearby: "83212 83214 83223 83228 83232 83234 83237 83283 83243 83252 83261 83263 83272 83287 83281 83286 84301 84010 84011 84054 84087 84302 84304 84309 84324 84014 84305 84015 84016 84056 84075 84089 84307 84310 84025 84311 84028 84306 84312 84331 84314 84315 84317 84318 84319 84037 84038 84040 84041 84308 84320 84321 84322 84323 84341 84325 84326 84018 84050 84327 84201 84244 84401 84402 84403 84404 84405 84407 84408 84409 84412 84414 84415 84328 84329 84330 84332 84064 84333 84334 84067 84335 84336 84316 84337 84338 84339 84340 84086" 
-mapUrl: "http://maps.apple.com/?q=Bear+River+Clinic&address=935+N+1000+W,Tremonton,Utah,84337"
+  - texas
+title: ARC Cedar Park
+uniqueName: arc-cedar-park
+state: Texas
+stateAbbr: TX
+hood: "Cedar Park"
+address: "801 East Whitestone Blvd Building C"
+city: "Cedar Park"
+zip: " 78613"
+zipsNearby: "76824 76831 76832 76853 77853 73301 73344 78701 78702 78703 78704 78705 78708 78709 78710 78711 78712 78713 78714 78715 78716 78717 78718 78719 78720 78721 78722 78723 78724 78725 78726 78727 78728 78729 78730 78731 78732 78733 78734 78735 78736 78737 78738 78739 78741 78742 78744 78745 78746 78747 78748 78749 78750 78751 78752 78753 78754 78755 78756 78757 78758 78759 78760 78761 78762 78763 78764 78765 78766 78767 78768 78769 78772 78773 78774 78778 78779 78780 78781 78783 78785 78789 78799 76511 78602 76513 78605 78606 78607 78608 78609 76518 78610 78611 76520 78612 78613 78630 76522 78615 78616 76523 78617 78619 78620 78621 78622 78623 76526 76527 78626 78627 78628 78633 78115 78942 76530 76533 76534 78634 78635 76537 78636 76539 78027 76540 76541 76542 76543 76544 76547 76548 76549 78638 78639 78640 76550 78641 78645 78646 78947 78642 78948 76554 78643 78644 78648 78650 78651 78652 78653 78654 78657 78655 78656 76556 76557 76558 78130 78131 78132 78133 78135 76559 78659 76564 78660 78691 78661 78662 76567 76569 78953 78663 78664 78665 78680 78681 78682 78683 76571 78666 78667 76573 78957 78669 78070 78670 78671 76574 76501 76502 76503 76504 76505 76508 76577 76578 78672 76579 78673 78674 78963 78675 78676 78786 78788 78798 76545 76546" 
+mapUrl: "http://maps.apple.com/?q=ARC+Cedar+Park&address=801+East+Whitestone+Blvd+Building+C,Cedar+Park,Texas, 78613"
 locationType: Drive-thru
-phone: "435-207-4800"
-website: "https://intermountainhealthcare.org/locations/bear-river-clinic/"
-onlineBooking: undefined
+phone: "512-259-3467"
+website: "https://www.austinregionalclinic.com/make-an-appointment/"
+onlineBooking: true
 closed: undefined
-closedUpdate: April 20th, 2020
-notes: "Requires phone screen."
+closedUpdate: April 21st, 2020
+notes: "By appointment only. Requires phone screen."
 days: Weekdays
-hours: 9AM-5PM
-altDays: Saturdays
-altHours: 9AM-Noon
-ctaMessage: Learn more
-ctaUrl: "https://intermountainhealthcare.org/locations/bear-river-clinic/"
+hours: 8AM-5PM
+ctaMessage: Schedule a test
+ctaUrl: "https://www.austinregionalclinic.com/make-an-appointment/"
 ---

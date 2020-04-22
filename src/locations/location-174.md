@@ -1,30 +1,29 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Cedar City InstaCare in Cedar City, Utah, USA."
-permalink: "locations/utah/cedar-city/cedar-city-instacare/"
+description: "Local COVID-19 testing is available at Self Regional Healthcare in Greenwood, South Carolina, USA."
+permalink: "locations/south-carolina/greenwood/self-regional-healthcare/"
 tags:
   - locations
-  - utah
-title: Cedar City InstaCare
-uniqueName: cedar-city-instacare
-state: Utah
-stateAbbr: UT
-hood: "Cedar City"
-address: "1501 Hiland Ave"
-city: "Cedar City"
-zip: "84720"
-zipsNearby: "84713 84731 84720 84721 84722 84742 84781 84723 84725 84710 84729 84735 84762 84737 84746 84784 84740 84745 84751 84752 84714 84753 84756 84757 84755 84758 84759 84764 84719 84760 84761 84772 84733 84738 84765 84763 84767 84779 84770 84771 84782 84783 84790 84791 84774 84780 86021 89042 84717" 
-mapUrl: "http://maps.apple.com/?q=Cedar+City+InstaCare&address=1501+Hiland+Ave,Cedar+City,Utah,84720"
+  - south-carolina
+title: Self Regional Healthcare
+uniqueName: self-regional-healthcare
+state: South Carolina
+stateAbbr: SC
+hood: "Greenwood"
+address: "1325 Spring St"
+city: "Greenwood"
+zip: "29646"
+zipsNearby: "30802 30901 30903 30904 30905 30906 30907 30909 30912 30914 30916 30917 30919 30999 30806 30807 30808 30809 30812 30813 30814 30817 30819 30821 30824 30828 29801 29802 29803 29804 29805 29808 29816 29819 29821 29822 29824 29828 29829 29832 29834 29835 29899 29838 29839 29840 29809 29841 29842 29860 29861 29844 29845 29847 29848 29850 29851 29856 29620 29621 29622 29623 29624 29625 29626 29320 29627 29015 29321 29628 29031 29630 29036 29037 29631 29632 29633 29634 29324 29325 29636 29329 29330 29331 29332 29638 29333 29639 29334 29640 29641 29642 29335 29336 29643 29644 29054 29346 29348 29645 29601 29602 29603 29604 29605 29606 29607 29608 29609 29610 29611 29612 29613 29614 29615 29616 29617 29646 29647 29648 29649 29650 29651 29652 29653 29695 29654 29349 29063 29655 29065 29351 29353 29395 29355 29656 29360 29006 29070 29071 29072 29073 29657 29075 29364 29659 29365 29661 29662 29105 29369 29370 29108 29665 29666 29667 29372 29373 29374 29122 29123 29669 29670 29671 29673 29126 29127 29375 29675 29129 29132 29376 29138 29677 29672 29678 29679 29145 29680 29681 29682 29301 29302 29303 29304 29305 29306 29307 29316 29318 29319 29684 29377 29687 29689 29690 29378 29379 29164 29166 29692 29384 29385 29386 29178 29697 29388 30516 30624 30520 30627 30628 30629 30630 30631 30633 30634 30635 30639 30643 30553 30648 30660 30662 30664 30667 30668 30673 29390 29391 29698 30911 30913" 
+mapUrl: "http://maps.apple.com/?q=Self+Regional+Healthcare&address=1325+Spring+St,Greenwood,South+Carolina,29646"
 locationType: Drive-thru
-phone: "435-865-3440"
-website: "https://intermountainhealthcare.org/locations/location-details/cedar-city-instacare-workmed/cedar-city-instacare/"
+phone: "864-725-4200"
+website: "https://www.selfregional.org/coronavirus-information/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 20th, 2020
-notes: "Requires phone screen."
-days: M-Sat
-hours: 9AM-5PM
+closedUpdate: April 21st, 2020
+notes: "By appointment only. Local residents only. Requires phone screen."
+days: Contact for hours of operation.
 ctaMessage: Learn more
-ctaUrl: "https://intermountainhealthcare.org/locations/location-details/cedar-city-instacare-workmed/cedar-city-instacare/"
+ctaUrl: "https://www.selfregional.org/coronavirus-information/"
 ---

@@ -21,7 +21,7 @@ phone: ""
 website: "https://urldefense.proofpoint.com/v2/url?u=https-3A__ahsonline.sharepoint.com_sites_CorporateCommunications_Shared-2520Documents_Media-2520Team_Issues_2020-2520Issues_Infectious-2520Disease_Coronavirus_Media-2520Documents_Media-2520Statements_Drive-2520up-2520testing_AdventHealthCoronaVirusTesting.com&d=DwMFAg&c=QvQrCjPtO9cKGOfGYlNgXQ&r=DmdlUcUiEq3zO1hHvbFpmg&m=BAUMwEkfj9lDYZP9bRUpCc-b4vkYAqWUGywhHApPfXA&s=BL1gP7z5k6cDhJkzTIfBvYr_XF7VKB8hoFVq3WoLGIU&e="
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 20th, 2020
+closedUpdate: April 21st, 2020
 notes: "By appointment only. Only for individuals with symptoms. Only for individuals with direct and unprotected exposure to a known positive case."
 days: Everyday
 hours: 9AM-2PM

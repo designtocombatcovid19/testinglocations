@@ -1,30 +1,29 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Tooele InstaCare in Tooele, Utah, USA."
-permalink: "locations/utah/tooele/tooele-instacare/"
+description: "Local COVID-19 testing is available at Valley Med Urgent Care in Brownsville, Texas, USA."
+permalink: "locations/texas/brownsville/valley-med-urgent-care/"
 tags:
   - locations
-  - utah
-title: Tooele InstaCare
-uniqueName: tooele-instacare
-state: Utah
-stateAbbr: UT
-hood: "Tooele"
-address: "777 N Main St"
-city: "Tooele"
-zip: "84074"
-zipsNearby: "84003 84004 84006 84010 84011 84054 84087 84013 84014 84015 84016 84056 84075 84089 84017 84024 84307 84020 84022 84310 84626 84628 84025 84633 84029 84032 84033 84315 84317 84036 84061 84037 84040 84041 84005 84043 84045 84044 84047 84049 84645 84018 84050 84201 84244 84401 84402 84403 84404 84405 84407 84408 84409 84412 84414 84415 84057 84058 84059 84097 84060 84068 84098 84651 84042 84062 84601 84602 84603 84604 84605 84606 84065 84095 84096 84067 84069 84653 84101 84102 84103 84104 84105 84106 84107 84108 84109 84110 84111 84112 84113 84114 84115 84116 84117 84118 84119 84120 84121 84122 84123 84124 84125 84126 84127 84128 84129 84130 84131 84132 84133 84134 84136 84138 84139 84141 84143 84145 84147 84148 84150 84151 84152 84157 84158 84165 84170 84171 84180 84184 84189 84190 84199 84070 84090 84091 84092 84093 84094 84655 84660 84663 84664 84071 84074 84080 84082 84081 84084 84088 84340 84144" 
-mapUrl: "http://maps.apple.com/?q=Tooele+InstaCare&address=777+N+Main+St,Tooele,Utah,84074"
+  - texas
+title: Valley Med Urgent Care
+uniqueName: valley-med-urgent-care
+state: Texas
+stateAbbr: TX
+hood: "Brownsville"
+address: "	1000 Sports Park Blvd"
+city: "Brownsville"
+zip: "78526"
+zipsNearby: "78516 78520 78521 78522 78523 78526 78535 78537 78538 78539 78540 78541 78542 78543 78549 78550 78551 78552 78553 78557 78558 78559 78561 78562 78566 78567 78568 78569 78501 78502 78503 78504 78505 78570 78572 78573 78574 78575 78577 78578 78597 78579 78580 78598 78583 78586 78589 78590 78592 78593 78594 78596 78599" 
+mapUrl: "http://maps.apple.com/?q=Valley+Med+Urgent+Care&address=1000+Sports+Park+Blvd,Brownsville,Texas,78526"
 locationType: Drive-thru
-phone: "435-228-1200"
-website: "https://intermountainhealthcare.org/locations/tooele-instacare/"
+phone: "956-518-7444"
+website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 20th, 2020
-notes: "Requires phone screen."
-days: Everyday
-hours: 9AM-5PM
-ctaMessage: Learn more
-ctaUrl: "https://intermountainhealthcare.org/locations/tooele-instacare/"
+closedUpdate: April 21st, 2020
+notes: "By appointment only."
+days: Contact for hours of operation.
+ctaMessage: Call 956-518-7444
+ctaUrl: "tel:956-518-7444"
 ---

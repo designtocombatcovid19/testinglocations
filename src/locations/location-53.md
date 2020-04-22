@@ -21,7 +21,7 @@ phone: "941-861-2883"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 20th, 2020
+closedUpdate: April 21st, 2020
 notes: "By appointment only. Only for individuals with symptoms. Limited test kits available."
 days: Fridays
 hours: 9AM-1PM

@@ -21,7 +21,7 @@ phone: ""
 website: "https://www.hillsboroughcounty.org/en/residents/public-safety/emergency-management/stay-safe/getting-tested"
 onlineBooking: true
 closed: undefined
-closedUpdate: April 20th, 2020
+closedUpdate: April 21st, 2020
 notes: "By appointment only. Requires phone screen. Privately owned."
 days: Tu, F
 hours: 8AM-11AM
