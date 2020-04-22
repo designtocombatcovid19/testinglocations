@@ -146,8 +146,12 @@ function callToAction(location) {
 
 function typeOfLocation(location) {
   if (location.LocationType) {
-    if (location.LocationType.length === 2) {
-      return "Drive-thru or walk-in"
+    if (location.LocationType.length === 4) {
+      return `${location.LocationType[0]}, ${location.LocationType[1].charAt(0).toLowerCase() + location.LocationType[1].substring(1)}, ${location.LocationType[2].charAt(0).toLowerCase() + location.LocationType[2].substring(1)}, or ${location.LocationType[3].charAt(0).toLowerCase() + location.LocationType[3].substring(1)}`
+    } else if (location.LocationType.length === 3) {
+      return `${location.LocationType[0]}, ${location.LocationType[1].chatAt(0).toLowerCase() + location.LocationType[1].substring(1)}, or ${location.LocationType[2].charAt(0).toLowerCase() + location.LocationType[2].substring(1)}`
+    } else if (location.LocationType.length === 2) {
+      return `${location.LocationType[0]} or ${location.LocationType[1].charAt(0).toLowerCase() + location.LocationType[1].substring(1)}`
     } else if (location.LocationType.length === 1) {
       return location.LocationType[0]
     } else {

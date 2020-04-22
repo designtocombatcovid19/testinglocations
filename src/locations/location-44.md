@@ -1,30 +1,29 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at CHI Marathon Health Center in Marathon, Florida, USA."
-permalink: "locations/florida/marathon/chi-marathon-health-center/"
+description: "Local COVID-19 testing is available at Marathon Community Park in Marathon, Florida, USA."
+permalink: "locations/florida/marathon/marathon-community-park/"
 tags:
   - locations
   - florida
-title: CHI Marathon Health Center
-uniqueName: chi-marathon-health-center
+title: Marathon Community Park
+uniqueName: marathon-community-park
 state: Florida
 stateAbbr: FL
 hood: "Marathon"
-address: "2805 Overseas Highway"
+address: "200 City Marina"
 city: "Marathon"
-zip: "33050"
-zipsNearby: "33036 33037 33040 33041 33045 33001 33050 33051 33052 33042 33043 33070" 
-mapUrl: "http://maps.apple.com/?q=CHI+Marathon+Health+Center&address=2805+Overseas+Highway,Marathon,Florida,33050"
+zip: ""
+zipsNearby: "" 
+mapUrl: "http://maps.apple.com/?q=Marathon+Community+Park&address=200+City+Marina,Marathon,Florida,"
 locationType: Drive-thru
-phone: "305-216-2107"
+phone: "305-252-4820"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 21st, 2020
+closedUpdate: April 22nd, 2020
 notes: "Local residents only. By appointment only. Only for individuals with symptoms."
-days: Saturdays
-hours: 11AM-12:30PM
-ctaMessage: Call 305-216-2107
-ctaUrl: "tel:305-216-2107"
+days: Contact for hours of operation.
+ctaMessage: Call 305-252-4820
+ctaUrl: "tel:305-252-4820"
 ---

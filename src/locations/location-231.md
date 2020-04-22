@@ -1,32 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Park City Ice Rink in Park City, Utah, USA."
-permalink: "locations/utah/park-city/park-city-ice-rink/"
+description: "Local COVID-19 testing is available at Fillmore Clinic in Fillmore, Utah, USA."
+permalink: "locations/utah/fillmore/fillmore-clinic/"
 tags:
   - locations
   - utah
-title: Park City Ice Rink
-uniqueName: park-city-ice-rink
+title: Fillmore Clinic
+uniqueName: fillmore-clinic
 state: Utah
 stateAbbr: UT
-hood: "Park City"
-address: "600 Gillmor Wa"
-city: "Park City"
-zip: "84060"
-zipsNearby: "82930 82931 84003 84004 84006 84010 84011 84054 84087 84013 84014 84015 84016 84056 84075 84089 84017 84024 84020 84027 84051 84073 84310 84626 84628 84629 84025 84633 84032 84033 84315 84317 84036 84061 84037 84040 84041 84005 84043 84045 84044 84047 84049 84645 84018 84050 84055 84201 84244 84401 84402 84403 84404 84405 84407 84408 84409 84412 84414 84415 84057 84058 84059 84097 84328 84060 84068 84098 84651 84042 84062 84601 84602 84603 84604 84605 84606 84065 84095 84096 84067 84069 84653 84101 84102 84103 84104 84105 84106 84107 84108 84109 84110 84111 84112 84113 84114 84115 84116 84117 84118 84119 84120 84121 84122 84123 84124 84125 84126 84127 84128 84129 84130 84131 84132 84133 84134 84136 84138 84139 84141 84143 84145 84147 84148 84150 84151 84152 84157 84158 84165 84170 84171 84180 84184 84189 84190 84199 84070 84090 84091 84092 84093 84094 84655 84660 84663 84664 84071 84031 84072 84074 84080 84082 84081 84084 84088 84340 84086 84144" 
-mapUrl: "http://maps.apple.com/?q=Park+City+Ice+Rink&address=600+Gillmor+Wa,Park+City,Utah,84060"
-locationType: Please contact for drive-thru/walk-in availability.
-phone: "435-615-5707"
-website: "https://www.parkcity.org/departments/park-city-ice-arena"
+hood: "Fillmore"
+address: "700 S Hwy 99 Ste 3"
+city: "Fillmore"
+zip: "84631"
+zipsNearby: "84711 84620 84713 84731 84715 84723 84624 84638 84640 84724 84627 84523 84631 84636 84656 84632 84621 84622 84630 84634 84635 84740 84743 84637 84639 84747 84749 84642 84665 84750 84643 84644 84739 84754 84766 84623 84646 84667 84647 84648 84649 84652 84657 84701 84730 84732 84744 84654 84662" 
+mapUrl: "http://maps.apple.com/?q=Fillmore+Clinic&address=700+S+Hwy+99+Ste+3,Fillmore,Utah,84631"
+locationType: Drive-thru
+phone: "435-743-5555"
+website: "https://intermountainhealthcare.org/locations/location-details/fillmore-clinic/fillmore-clinic/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 21st, 2020
+closedUpdate: April 22nd, 2020
 notes: "Requires phone screen."
 days: Weekdays
-hours: 9AM-5PM
-altDays: Weekends
-altHours: Noon-6PM
+hours: 9AM-4:30PM
 ctaMessage: Learn more
-ctaUrl: "https://www.parkcity.org/departments/park-city-ice-arena"
+ctaUrl: "https://intermountainhealthcare.org/locations/location-details/fillmore-clinic/fillmore-clinic/"
 ---

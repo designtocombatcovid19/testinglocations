@@ -1,30 +1,32 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Garfield Memorial Hospital in Panguitch, Utah, USA."
-permalink: "locations/utah/panguitch/garfield-memorial-hospital/"
+description: "Local COVID-19 testing is available at Farmington Health Center in Farmington, Utah, USA."
+permalink: "locations/utah/farmington/farmington-health-center/"
 tags:
   - locations
   - utah
-title: Garfield Memorial Hospital
-uniqueName: garfield-memorial-hospital
+title: Farmington Health Center
+uniqueName: farmington-health-center
 state: Utah
 stateAbbr: UT
-hood: "Panguitch"
-address: "200 N 400 E"
-city: "Panguitch"
-zip: "84759"
-zipsNearby: "84711 84713 84731 84715 84720 84721 84742 84723 84724 84716 84726 84710 84729 84735 84762 84736 84737 84712 84740 84743 84741 84745 84747 84749 84750 84751 84752 84739 84766 84755 84758 84759 84764 84719 84760 84761 84772 84732 84744 84767 84779 84773 84718 84776 84717" 
-mapUrl: "http://maps.apple.com/?q=Garfield+Memorial+Hospital&address=200+N+400+E,Panguitch,Utah,84759"
+hood: "Farmington"
+address: "165 N. University Ave"
+city: "Farmington"
+zip: "84025"
+zipsNearby: "82930 82931 84003 84004 84301 84006 84010 84011 84054 84087 84302 84304 84309 84324 84013 84014 84015 84016 84056 84075 84089 84017 84024 84307 84020 84310 84025 84311 84306 84312 84029 84032 84033 84314 84315 84317 84318 84319 84036 84061 84037 84040 84041 84005 84043 84045 84321 84322 84323 84341 84044 84325 84047 84049 84326 84018 84050 84327 84055 84201 84244 84401 84402 84403 84404 84405 84407 84408 84409 84412 84414 84415 84057 84058 84059 84097 84328 84060 84068 84098 84042 84062 84332 84601 84602 84603 84604 84605 84606 84064 84334 84065 84095 84096 84067 84069 84101 84102 84103 84104 84105 84106 84107 84108 84109 84110 84111 84112 84113 84114 84115 84116 84117 84118 84119 84120 84121 84122 84123 84124 84125 84126 84127 84128 84129 84130 84131 84132 84133 84134 84136 84138 84139 84141 84143 84145 84147 84148 84150 84151 84152 84157 84158 84165 84170 84171 84180 84184 84189 84190 84199 84070 84090 84091 84092 84093 84094 84335 84663 84071 84074 84337 84082 84339 84081 84084 84088 84340 84086 84144" 
+mapUrl: "http://maps.apple.com/?q=Farmington+Health+Center&address=165+N+University+Ave,Farmington,Utah,84025"
 locationType: Drive-thru
-phone: "435-676-8811"
-website: "https://intermountainhealthcare.org/locations/garfield-memorial-hospital/"
+phone: "801-213-3200"
+website: "https://healthcare.utah.edu/locations/farmington/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 21st, 2020
-notes: "Requires phone screen."
+closedUpdate: April 22nd, 2020
+notes: ""
 days: Weekdays
-hours: 9AM-5PM
+hours: 8AM-6PM
+altDays: Weekends
+altHours: 10AM-3PM
 ctaMessage: Learn more
-ctaUrl: "https://intermountainhealthcare.org/locations/garfield-memorial-hospital/"
+ctaUrl: "https://healthcare.utah.edu/locations/farmington/"
 ---

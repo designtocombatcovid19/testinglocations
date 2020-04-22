@@ -1,29 +1,29 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Holy Cross Hospital in Taos, New Mexico, USA."
-permalink: "locations/new-mexico/taos/holy-cross-hospital/"
+description: "Local COVID-19 testing is available at Union County General Hospital in Clayton, New Mexico, USA."
+permalink: "locations/new-mexico/clayton/union-county-general-hospital/"
 tags:
   - locations
   - new-mexico
-title: Holy Cross Hospital 
-uniqueName: holy-cross-hospital
+title: Union County General Hospital
+uniqueName: union-county-general-hospital
 state: New Mexico
 stateAbbr: NM
-hood: "Taos"
-address: "1397 Weimer Road"
-city: "Taos"
-zip: "87571"
-zipsNearby: "81120 81126 81129 81138 81141 81148 81152 81091 87510 87516 87511 87512 87513 87514 87712 87515 87517 87518 87519 87713 87521 87576 87522 87714 87715 87523 87578 87524 87012 87527 87710 87718 87529 87530 87531 87532 87533 87537 87535 87722 87723 87539 87701 87745 87544 87545 87551 87728 87548 87731 87732 87734 87549 87552 87553 87554 87556 87736 87557 87558 87742 87562 87564 87565 87566 87567 87501 87502 87503 87504 87505 87506 87507 87509 87592 87594 87729 87747 87525 87571 87580 87573 87574 87575 87577 87749 87543 87579 87581 87582 87735 87752 87750 87753 87064 81134 81153" 
-mapUrl: "http://maps.apple.com/?q=Holy+Cross+Hospital&address=1397+Weimer+Road,Taos,New+Mexico,87571"
-locationType: Drive-thru
-phone: "800-755-6236"
-website: "https://holycrossmedicalcenter.org/"
+hood: "Clayton"
+address: "300 Wilson St"
+city: "Clayton"
+zip: "88415"
+zipsNearby: "81027 81029 81049 88410 88415 88414 88418 88419 88422 88424 88430 88436 73933 73937 73946 73947 79022 79044 79051 79084 79087" 
+mapUrl: "http://maps.apple.com/?q=Union+County+General+Hospital&address=300+Wilson+St,Clayton,New+Mexico,88415"
+locationType: Walk-in
+phone: "575-374-2584"
+website: "http://ucgh.net/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 21st, 2020
-notes: "Requires phone screen."
+closedUpdate: April 22nd, 2020
+notes: "By appointment only. Requires phone screen."
 days: Contact for hours of operation.
 ctaMessage: Learn more
-ctaUrl: "https://holycrossmedicalcenter.org/"
+ctaUrl: "http://ucgh.net/"
 ---

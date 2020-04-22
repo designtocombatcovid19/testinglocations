@@ -21,7 +21,7 @@ phone: "800-945-6171"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 21st, 2020
+closedUpdate: April 22nd, 2020
 notes: "Must have fever and other symptoms. By appointment only."
 days: Tu-Sat
 hours: 9AM-3PM

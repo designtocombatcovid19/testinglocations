@@ -1,30 +1,29 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Mall at Millenia in Orlando, Florida, USA."
-permalink: "locations/florida/orlando/mall-at-millenia/"
+description: "Local COVID-19 testing is available at Orange County Convention Center in Orlando, Florida, USA."
+permalink: "locations/florida/orlando/orange-county-convention-center/"
 tags:
   - locations
   - florida
-title: Mall at Millenia
-uniqueName: mall-at-millenia
+title: Orange County Convention Center
+uniqueName: orange-county-convention-center
 state: Florida
 stateAbbr: FL
 hood: "Orlando"
-address: "4200 Conroy Rd"
+address: "9800 International Dr"
 city: "Orlando"
-zip: "32839"
+zip: "32819"
 zipsNearby: "34420 34421 34436 34484 34491 34492 32701 32714 32715 32716 32702 33820 32703 32704 32712 34705 32102 33823 33827 32105 33830 33831 33835 34601 34602 34603 34605 34609 34610 34613 34614 33513 32111 32920 32706 32707 32708 32718 32719 32730 33514 32709 32710 34711 34712 34713 34714 34715 32922 32923 32924 32926 32927 32931 32932 33521 33524 33523 33525 33526 33836 33837 33896 33897 32114 32115 32116 32117 32118 32119 32120 32121 32122 32124 32125 32126 32198 32713 32753 32720 32721 32722 32723 32724 32130 32725 32728 32738 32739 33838 33839 32133 33840 32132 32141 32726 32727 32736 33841 33843 34731 32732 32733 34734 32735 34736 33844 33845 33846 33847 34737 33848 34636 33849 34739 34741 34742 34743 34744 34745 34746 34747 34758 34759 33537 32158 32159 32162 32163 33850 33851 32744 33801 33802 33803 33804 33805 33806 33807 33809 33810 33811 33812 33813 33815 32746 32795 32747 33538 33853 33854 33855 33856 33859 33867 33898 34748 34749 34788 34789 32750 32752 32779 32791 33858 32751 32794 32950 34753 32901 32902 32903 32904 32905 32906 32907 32908 32909 32910 32911 32912 32919 32925 32934 32935 32936 32937 32940 32941 32951 32952 32953 32954 32745 32799 32754 34755 34729 34756 32756 32757 33860 32168 32169 32170 33863 34661 32759 34740 34760 32179 32183 34761 34762 32763 32774 32801 32802 32803 32804 32805 32806 32807 32808 32809 32810 32811 32812 32814 32815 32816 32817 32818 32819 32820 32821 32822 32824 32825 32826 32827 32828 32829 32830 32831 32832 32833 32834 32835 32836 32837 32839 32853 32854 32855 32856 32857 32858 32859 32860 32861 32862 32867 32868 32869 32872 32877 32878 32885 32886 32887 32891 32896 32897 32899 32173 32174 32175 32176 32764 32762 32765 32766 32767 32180 33563 33564 33565 33566 33567 32768 33868 32123 32127 32128 32129 32955 32956 34769 34770 34771 34772 34773 33574 33576 32771 32772 32773 32775 32190 32959 32776 33585 32777 32778 32780 32781 32783 32796 33593 32784 33877 33597 32195 34785 34786 34777 34778 34787 33880 33881 33882 33883 33884 33885 33888 32789 32790 32792 32793 34797 32798 33539 33540 33541 33542 33543 33544 33545 32782 32890 32893 32898" 
-mapUrl: "http://maps.apple.com/?q=Mall+at+Millenia&address=4200+Conroy+Rd,Orlando,Florida,32839"
+mapUrl: "http://maps.apple.com/?q=Orange+County+Convention+Center&address=9800+International+Dr,Orlando,Florida,32819"
 locationType: Drive-thru
 phone: ""
-website: "https://urldefense.proofpoint.com/v2/url?u=https-3A__ahsonline.sharepoint.com_sites_CorporateCommunications_Shared-2520Documents_Media-2520Team_Issues_2020-2520Issues_Infectious-2520Disease_Coronavirus_Media-2520Documents_Media-2520Statements_Drive-2520up-2520testing_AdventHealthCoronaVirusTesting.com&d=DwMFAg&c=QvQrCjPtO9cKGOfGYlNgXQ&r=DmdlUcUiEq3zO1hHvbFpmg&m=BAUMwEkfj9lDYZP9bRUpCc-b4vkYAqWUGywhHApPfXA&s=BL1gP7z5k6cDhJkzTIfBvYr_XF7VKB8hoFVq3WoLGIU&e="
+website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 21st, 2020
-notes: "By appointment only. Only for individuals with symptoms. Only for individuals with direct and unprotected exposure to a known positive case."
+closedUpdate: April 22nd, 2020
+notes: "Only for individuals with symptoms. Limited test kits available. Prioritizes first responders. Free."
 days: Everyday
-hours: 9AM-2PM
-ctaMessage: Learn more
-ctaUrl: "https://urldefense.proofpoint.com/v2/url?u=https-3A__ahsonline.sharepoint.com_sites_CorporateCommunications_Shared-2520Documents_Media-2520Team_Issues_2020-2520Issues_Infectious-2520Disease_Coronavirus_Media-2520Documents_Media-2520Statements_Drive-2520up-2520testing_AdventHealthCoronaVirusTesting.com&d=DwMFAg&c=QvQrCjPtO9cKGOfGYlNgXQ&r=DmdlUcUiEq3zO1hHvbFpmg&m=BAUMwEkfj9lDYZP9bRUpCc-b4vkYAqWUGywhHApPfXA&s=BL1gP7z5k6cDhJkzTIfBvYr_XF7VKB8hoFVq3WoLGIU&e="
+hours: 9AM-5PM
+ctaMessage: No contact info available.
 ---

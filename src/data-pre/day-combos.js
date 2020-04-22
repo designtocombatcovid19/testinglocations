@@ -115,6 +115,8 @@ module.exports = function (arr) {
     range = "M-Tu"
   } else if (equals(days, mtuw)) {
     range = "M, Tu, W"
+  } else if (equals(days, mtuth)) {
+    range = "M, Tu, Th"
   } else if (equals(days, mtuwth)) {
     range = "M, Tu, W, Th"
   } else if (equals(days, mw)) {

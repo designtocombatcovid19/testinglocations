@@ -1,30 +1,29 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at American Fork Hospital in American Fork, Utah, USA."
-permalink: "locations/utah/american-fork/american-fork-hospital/"
+description: "Local COVID-19 testing is available at Valley Med Urgent Care in McAllen, Texas, USA."
+permalink: "locations/texas/mcallen/valley-med-urgent-care-1/"
 tags:
   - locations
-  - utah
-title: American Fork Hospital
-uniqueName: american-fork-hospital
-state: Utah
-stateAbbr: UT
-hood: "American Fork"
-address: "170 N 1100 E"
-city: "American Fork"
-zip: "84003"
-zipsNearby: "84003 84004 84006 84010 84011 84054 84087 84013 84014 84015 84016 84056 84075 84089 84017 84024 84020 84027 84022 84626 84628 84629 84025 84632 84633 84029 84032 84033 84315 84317 84036 84061 84037 84040 84041 84005 84043 84045 84639 84044 84047 84049 84645 84018 84050 84646 84647 84648 84055 84201 84244 84401 84402 84403 84404 84405 84407 84408 84409 84415 84057 84058 84059 84097 84060 84068 84098 84651 84042 84062 84601 84602 84603 84604 84605 84606 84065 84095 84096 84067 84069 84653 84101 84102 84103 84104 84105 84106 84107 84108 84109 84110 84111 84112 84113 84114 84115 84116 84117 84118 84119 84120 84121 84122 84123 84124 84125 84126 84127 84128 84129 84130 84131 84132 84133 84134 84136 84138 84139 84141 84143 84145 84147 84148 84150 84151 84152 84157 84158 84165 84170 84171 84180 84184 84189 84190 84199 84070 84090 84091 84092 84093 84094 84655 84660 84663 84664 84071 84031 84072 84074 84080 84082 84081 84084 84088 84144" 
-mapUrl: "http://maps.apple.com/?q=American+Fork+Hospital&address=170+N+1100+E,American+Fork,Utah,84003"
+  - texas
+title: Valley Med Urgent Care
+uniqueName: valley-med-urgent-care-1
+state: Texas
+stateAbbr: TX
+hood: "McAllen"
+address: "	101 E Expressway 83 #170"
+city: "McAllen"
+zip: "78501"
+zipsNearby: "78516 78338 78520 78521 78522 78523 78526 78535 78536 78537 78538 78539 78540 78541 78542 78543 78353 78545 78547 78548 78360 78549 78550 78551 78552 78553 78557 78558 78559 78560 78561 78562 78563 78565 78566 78567 78568 78569 78501 78502 78503 78504 78505 78570 78572 78573 78574 78575 78576 78577 78579 78580 78598 78582 78583 78584 78585 78586 78588 78589 78590 78591 78592 78593 78594 78595 78596 78599" 
+mapUrl: "http://maps.apple.com/?q=Valley+Med+Urgent+Care&address=101+E+Expressway+83+170,McAllen,Texas,78501"
 locationType: Drive-thru
-phone: "801-855-3300"
-website: "https://intermountainhealthcare.org/locations/american-fork-hospital/"
+phone: "956-731-6699"
+website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 21st, 2020
-notes: "Requires phone screen."
-days: Everyday
-hours: 8AM-8PM
-ctaMessage: Learn more
-ctaUrl: "https://intermountainhealthcare.org/locations/american-fork-hospital/"
+closedUpdate: April 22nd, 2020
+notes: "By appointment only."
+days: Contact for hours of operation.
+ctaMessage: Call 956-731-6699
+ctaUrl: "tel:956-731-6699"
 ---

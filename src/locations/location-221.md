@@ -1,30 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Fillmore Clinic in Fillmore, Utah, USA."
-permalink: "locations/utah/fillmore/fillmore-clinic/"
+description: "Local COVID-19 testing is available at Shannon Medical Center in San Angelo, Texas, USA."
+permalink: "locations/texas/san-angelo/shannon-medical-center/"
 tags:
   - locations
-  - utah
-title: Fillmore Clinic
-uniqueName: fillmore-clinic
-state: Utah
-stateAbbr: UT
-hood: "Fillmore"
-address: "700 S Hwy 99 Ste 3"
-city: "Fillmore"
-zip: "84631"
-zipsNearby: "84711 84620 84713 84731 84715 84723 84624 84638 84640 84724 84627 84523 84631 84636 84656 84632 84621 84622 84630 84634 84635 84740 84743 84637 84639 84747 84749 84642 84665 84750 84643 84644 84739 84754 84766 84623 84646 84667 84647 84648 84649 84652 84657 84701 84730 84732 84744 84654 84662" 
-mapUrl: "http://maps.apple.com/?q=Fillmore+Clinic&address=700+S+Hwy+99+Ste+3,Fillmore,Utah,84631"
+  - texas
+title: Shannon Medical Center
+uniqueName: shannon-medical-center
+state: Texas
+stateAbbr: TX
+hood: "Downtown San Angelo"
+address: "120 E Harris Ave"
+city: "San Angelo"
+zip: "76903"
+zipsNearby: "76821 76930 76932 79506 76933 76934 76935 76836 76837 76936 76937 76841 76845 76939 76855 79535 76858 76859 76940 76941 76861 76862 79537 76865 79538 76866 76945 76875 76901 76902 76903 76904 76905 76906 76908 76909 76949 76950 76951 76882 76953 76884 76888 76955 76886 76957 76958 79566 79567" 
+mapUrl: "http://maps.apple.com/?q=Shannon+Medical+Center&address=120+E+Harris+Ave,San+Angelo,Texas,76903"
 locationType: Drive-thru
-phone: "435-743-5555"
-website: "https://intermountainhealthcare.org/locations/location-details/fillmore-clinic/fillmore-clinic/"
+phone: "844-674-2666"
+website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 21st, 2020
-notes: "Requires phone screen."
-days: Weekdays
-hours: 9AM-4:30PM
-ctaMessage: Learn more
-ctaUrl: "https://intermountainhealthcare.org/locations/location-details/fillmore-clinic/fillmore-clinic/"
+closedUpdate: April 22nd, 2020
+notes: "Open to all."
+days: Everyday
+hours: 9AM-5PM
+ctaMessage: Call 844-674-2666
+ctaUrl: "tel:844-674-2666"
 ---

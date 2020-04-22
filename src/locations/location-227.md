@@ -1,30 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Sterling Urgent Care in Logan, Utah, USA."
-permalink: "locations/utah/logan/sterling-urgent-care-2/"
+description: "Local COVID-19 testing is available at American Fork Hospital in American Fork, Utah, USA."
+permalink: "locations/utah/american-fork/american-fork-hospital/"
 tags:
   - locations
   - utah
-title: Sterling Urgent Care
-uniqueName: sterling-urgent-care-2
+title: American Fork Hospital
+uniqueName: american-fork-hospital
 state: Utah
 stateAbbr: UT
-hood: "South Logan"
-address: "1201 S. Main St."
-city: "Logan"
-zip: "84321"
-zipsNearby: "83114 82930 82931 83214 83223 83228 83232 83234 83237 83238 83241 83283 83243 83252 83220 83254 83233 83261 83263 83272 83287 83281 83286 84301 84010 84011 84054 84087 84302 84304 84309 84324 84014 84305 84015 84016 84056 84075 84089 84024 84307 84310 84025 84311 84028 84306 84312 84331 84033 84314 84315 84317 84318 84319 84037 84038 84040 84041 84308 84320 84321 84322 84323 84341 84325 84326 84018 84050 84327 84201 84244 84401 84402 84403 84404 84405 84407 84408 84409 84412 84414 84415 84328 84330 84332 84064 84333 84334 84067 84116 84335 84336 84316 84337 84338 84339 84340 84086" 
-mapUrl: "http://maps.apple.com/?q=Sterling+Urgent+Care&address=1201+S+Main+St,Logan,Utah,84321"
-locationType: Walk-in
-phone: "435-787-8504"
-website: "https://www.sterlingurgentcare.com/coronavirus-covid-19/"
+hood: "American Fork"
+address: "170 N 1100 E"
+city: "American Fork"
+zip: "84003"
+zipsNearby: "84003 84004 84006 84010 84011 84054 84087 84013 84014 84015 84016 84056 84075 84089 84017 84024 84020 84027 84022 84626 84628 84629 84025 84632 84633 84029 84032 84033 84315 84317 84036 84061 84037 84040 84041 84005 84043 84045 84639 84044 84047 84049 84645 84018 84050 84646 84647 84648 84055 84201 84244 84401 84402 84403 84404 84405 84407 84408 84409 84415 84057 84058 84059 84097 84060 84068 84098 84651 84042 84062 84601 84602 84603 84604 84605 84606 84065 84095 84096 84067 84069 84653 84101 84102 84103 84104 84105 84106 84107 84108 84109 84110 84111 84112 84113 84114 84115 84116 84117 84118 84119 84120 84121 84122 84123 84124 84125 84126 84127 84128 84129 84130 84131 84132 84133 84134 84136 84138 84139 84141 84143 84145 84147 84148 84150 84151 84152 84157 84158 84165 84170 84171 84180 84184 84189 84190 84199 84070 84090 84091 84092 84093 84094 84655 84660 84663 84664 84071 84031 84072 84074 84080 84082 84081 84084 84088 84144" 
+mapUrl: "http://maps.apple.com/?q=American+Fork+Hospital&address=170+N+1100+E,American+Fork,Utah,84003"
+locationType: Drive-thru
+phone: "801-855-3300"
+website: "https://intermountainhealthcare.org/locations/american-fork-hospital/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 21st, 2020
-notes: "By appointment only. Limited test kits available."
-days: M-Sat
-hours: 9AM-9PM
+closedUpdate: April 22nd, 2020
+notes: "Requires phone screen."
+days: Everyday
+hours: 8AM-8PM
 ctaMessage: Learn more
-ctaUrl: "https://www.sterlingurgentcare.com/coronavirus-covid-19/"
+ctaUrl: "https://intermountainhealthcare.org/locations/american-fork-hospital/"
 ---

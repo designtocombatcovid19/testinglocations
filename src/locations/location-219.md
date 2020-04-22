@@ -1,30 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Ephraim Clinic in Ephraim, Utah, USA."
-permalink: "locations/utah/ephraim/ephraim-clinic/"
+description: "Local COVID-19 testing is available at Baylor Scott & White in Round Rock, Texas, USA."
+permalink: "locations/texas/round-rock/baylor-scott-and-white-1/"
 tags:
   - locations
-  - utah
-title: Ephraim Clinic
-uniqueName: ephraim-clinic
-state: Utah
-stateAbbr: UT
-hood: "Ephraim"
-address: "525 N Main St"
-city: "Ephraim"
-zip: "84627"
-zipsNearby: "84711 84620 84513 84516 84518 84624 84638 84640 84520 84626 84521 84724 84522 84627 84628 84629 84523 84631 84636 84656 84632 84633 84525 84621 84622 84630 84634 84526 84529 84635 84528 84637 84639 84642 84665 84643 84644 84645 84754 84623 84646 84667 84647 84648 84649 84537 84651 84501 84601 84602 84603 84605 84606 84652 84657 84701 84730 84744 84653 84654 84655 84660 84662 84663 84664 84539 84542" 
-mapUrl: "http://maps.apple.com/?q=Ephraim+Clinic&address=525+N+Main+St,Ephraim,Utah,84627"
+  - texas
+title: Baylor Scott & White
+uniqueName: baylor-scott-and-white-1
+state: Texas
+stateAbbr: TX
+hood: "Round Rock"
+address: "425 University Blvd"
+city: "Round Rock"
+zip: "78665"
+zipsNearby: "76831 77836 77838 77852 77853 77857 73301 73344 78701 78702 78703 78704 78705 78708 78709 78710 78711 78712 78713 78714 78715 78716 78717 78718 78719 78720 78721 78722 78723 78724 78725 78726 78727 78728 78729 78730 78731 78732 78733 78734 78735 78736 78737 78738 78739 78741 78742 78744 78745 78746 78747 78748 78749 78750 78751 78752 78753 78754 78755 78756 78757 78758 78759 78760 78761 78762 78763 78764 78765 78766 78767 78768 78769 78772 78773 78774 78778 78779 78780 78781 78783 78785 78789 78799 76511 78602 76513 78605 78606 78607 78608 76630 78609 76518 78610 76519 78611 76520 78612 78613 78630 76632 76522 78615 78616 76523 78617 78619 78620 76524 78621 78622 78623 76526 76527 78626 78627 78628 78633 78942 76530 78632 76533 76534 78634 78635 76537 78636 76539 76540 76541 76542 76543 76544 76547 76548 76549 78639 78640 76550 78641 78645 78646 78946 78947 78642 78948 76554 78644 76656 78648 78650 78651 78652 78653 78654 78657 78655 78656 76556 76557 76558 78949 78133 76559 76561 78659 76564 78660 78691 78952 78661 78662 76567 76569 78953 76570 78663 78664 78665 78680 78681 78682 78683 76571 78666 78667 76573 78957 78669 78670 76574 76501 76502 76503 76504 76505 76508 76577 76578 78672 76579 78673 78960 78674 78963 78676 78786 78788 78798 76545 76546" 
+mapUrl: "http://maps.apple.com/?q=Baylor+Scott+and+White&address=425+University+Blvd,Round+Rock,Texas,78665"
 locationType: Drive-thru
-phone: "435-283-4076"
-website: "https://intermountainhealthcare.org/locations/ephraim-clinic/"
+phone: "512-509-0200"
+website: "https://www.bswhealth.com/locations/round-rock-425-university-clinic/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 21st, 2020
-notes: "Requires phone screen."
+closedUpdate: April 22nd, 2020
+notes: "By appointment only. Requires phone screen. Privately owned."
 days: Weekdays
-hours: 9AM-4:30PM
+hours: 8AM-5PM
 ctaMessage: Learn more
-ctaUrl: "https://intermountainhealthcare.org/locations/ephraim-clinic/"
+ctaUrl: "https://www.bswhealth.com/locations/round-rock-425-university-clinic/"
 ---

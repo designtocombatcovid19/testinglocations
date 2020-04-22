@@ -21,7 +21,7 @@ phone: "813-925-1903"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 21st, 2020
+closedUpdate: April 22nd, 2020
 notes: "By appointment only. Requires phone screen. For previously established patients only. Only for individuals with symptoms."
 days: Contact for hours of operation.
 ctaMessage: Call 813-925-1903

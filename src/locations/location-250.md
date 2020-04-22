@@ -1,29 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Grays Harbor Public Health in Aberdeen, Washington, USA."
-permalink: "locations/washington/aberdeen/grays-harbor-public-health/"
+description: "Local COVID-19 testing is available at Alta View InstaCare in Sandy, Utah, USA."
+permalink: "locations/utah/sandy/alta-view-instacare/"
 tags:
   - locations
-  - washington
-title: Grays Harbor Public Health
-uniqueName: grays-harbor-public-health
-state: Washington
-stateAbbr: WA
-hood: "Aberdeen"
-address: ""
-city: "Aberdeen"
-zip: "98520"
-zipsNearby: "97103 97121 97146 98612 98614 98624 98631 98637 98638 98640 98641 98621 98643 98644 98647 98520 98522 98526 98527 98530 98531 98532 98535 98536 98537 98538 98539 98540 98541 98544 98546 98547 98548 98550 98552 98351 98554 98556 98557 98559 98560 98561 98562 98563 98565 98566 98568 98569 98501 98502 98503 98504 98505 98506 98507 98508 98509 98511 98512 98513 98516 98599 98571 98572 98575 98577 98579 98581 98583 98584 98586 98587 98588 98589 98590 98592 98593 98595 98596" 
-mapUrl: "http://maps.apple.com/?q=Grays+Harbor+Public+Health&address=,Aberdeen,Washington,98520"
+  - utah
+title: Alta View InstaCare
+uniqueName: alta-view-instacare
+state: Utah
+stateAbbr: UT
+hood: "Sandy"
+address: "9450 S 1300 E "
+city: "Sandy"
+zip: "84094"
+zipsNearby: "84003 84004 84006 84010 84011 84054 84087 84013 84014 84015 84016 84056 84075 84089 84017 84024 84020 84027 84022 84310 84626 84628 84629 84025 84633 84029 84032 84033 84315 84317 84036 84061 84037 84040 84041 84005 84043 84045 84044 84047 84049 84645 84018 84050 84648 84055 84201 84244 84401 84402 84403 84404 84405 84407 84408 84409 84412 84414 84415 84057 84058 84059 84097 84060 84068 84098 84651 84042 84062 84601 84602 84603 84604 84605 84606 84065 84095 84096 84067 84069 84653 84101 84102 84103 84104 84105 84106 84107 84108 84109 84110 84111 84112 84113 84114 84115 84116 84117 84118 84119 84120 84121 84122 84123 84124 84125 84126 84127 84128 84129 84130 84131 84132 84133 84134 84136 84138 84139 84141 84143 84145 84147 84148 84150 84151 84152 84157 84158 84165 84170 84171 84180 84184 84189 84190 84199 84070 84090 84091 84092 84093 84094 84655 84660 84663 84664 84071 84031 84074 84080 84082 84081 84084 84088 84340 84144" 
+mapUrl: "http://maps.apple.com/?q=Alta+View+InstaCare&address=9450+S+1300+E,Sandy,Utah,84094"
 locationType: Drive-thru
-phone: "360-964-1850"
-website: "undefined"
+phone: "801-501-2110"
+website: "https://intermountainhealthcare.org/locations/alta-view-clinic/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 21st, 2020
-notes: "By appointment only. Prioritizes health care workers. Only for individuals with symptoms. Only for individuals with direct and unprotected exposure to a known positive case. Requires phone screen."
-days: Contact for hours of operation.
-ctaMessage: Call 360-964-1850
-ctaUrl: "tel:360-964-1850"
+closedUpdate: April 22nd, 2020
+notes: ""
+days: Everyday
+hours: 9AM-5PM
+ctaMessage: Learn more
+ctaUrl: "https://intermountainhealthcare.org/locations/alta-view-clinic/"
 ---

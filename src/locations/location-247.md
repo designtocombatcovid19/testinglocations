@@ -1,32 +1,32 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Bear River Clinic in Tremonton, Utah, USA."
-permalink: "locations/utah/tremonton/bear-river-clinic/"
+description: "Local COVID-19 testing is available at Sugar House Health Center in Salt Lake City, Utah, USA."
+permalink: "locations/utah/salt-lake-city/sugar-house-health-center/"
 tags:
   - locations
   - utah
-title: Bear River Clinic
-uniqueName: bear-river-clinic
+title: Sugar House Health Center
+uniqueName: sugar-house-health-center
 state: Utah
 stateAbbr: UT
-hood: "Tremonton"
-address: "935 N 1000 W"
-city: "Tremonton"
-zip: "84337"
-zipsNearby: "83212 83214 83223 83228 83232 83234 83237 83283 83243 83252 83261 83263 83272 83287 83281 83286 84301 84010 84011 84054 84087 84302 84304 84309 84324 84014 84305 84015 84016 84056 84075 84089 84307 84310 84025 84311 84028 84306 84312 84331 84314 84315 84317 84318 84319 84037 84038 84040 84041 84308 84320 84321 84322 84323 84341 84325 84326 84018 84050 84327 84201 84244 84401 84402 84403 84404 84405 84407 84408 84409 84412 84414 84415 84328 84329 84330 84332 84064 84333 84334 84067 84335 84336 84316 84337 84338 84339 84340 84086" 
-mapUrl: "http://maps.apple.com/?q=Bear+River+Clinic&address=935+N+1000+W,Tremonton,Utah,84337"
+hood: "Salt Lake City"
+address: "1280 E Stringham Ave"
+city: "Salt Lake City"
+zip: "84106"
+zipsNearby: "82930 82931 84003 84004 84006 84010 84011 84054 84087 84302 84324 84013 84014 84015 84016 84056 84075 84089 84017 84024 84307 84020 84027 84022 84310 84626 84628 84025 84633 84029 84032 84033 84315 84317 84036 84061 84037 84040 84041 84005 84043 84045 84044 84047 84049 84645 84018 84050 84055 84201 84244 84401 84402 84403 84404 84405 84407 84408 84409 84412 84414 84415 84057 84058 84059 84097 84328 84060 84068 84098 84651 84042 84062 84601 84602 84603 84604 84605 84606 84065 84095 84096 84067 84069 84653 84101 84102 84103 84104 84105 84106 84107 84108 84109 84110 84111 84112 84113 84114 84115 84116 84117 84118 84119 84120 84121 84122 84123 84124 84125 84126 84127 84128 84129 84130 84131 84132 84133 84134 84136 84138 84139 84141 84143 84145 84147 84148 84150 84151 84152 84157 84158 84165 84170 84171 84180 84184 84189 84190 84199 84070 84090 84091 84092 84093 84094 84655 84660 84663 84664 84071 84031 84074 84080 84082 84081 84084 84088 84340 84086 84144" 
+mapUrl: "http://maps.apple.com/?q=Sugar+House+Health+Center&address=1280+E+Stringham+Ave,Salt+Lake+City,Utah,84106"
 locationType: Drive-thru
-phone: "435-207-4800"
-website: "https://intermountainhealthcare.org/locations/bear-river-clinic/"
+phone: "801-587-0712"
+website: "https://healthcare.utah.edu/locations/sugar-house/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 21st, 2020
-notes: "Requires phone screen."
+closedUpdate: April 22nd, 2020
+notes: ""
 days: Weekdays
-hours: 9AM-5PM
-altDays: Saturdays
-altHours: 9AM-Noon
+hours: 8AM-6PM
+altDays: Weekends
+altHours: 10AM-3PM
 ctaMessage: Learn more
-ctaUrl: "https://intermountainhealthcare.org/locations/bear-river-clinic/"
+ctaUrl: "https://healthcare.utah.edu/locations/sugar-house/"
 ---
