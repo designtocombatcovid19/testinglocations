@@ -29,5 +29,9 @@ package = "netlify-plugin-a11y"
   # optional config
   resultMode = "warn" # is "error" by default
 
-[[plugins]]
-package = "netlify-plugin-checklinks"
+# [[plugins]]
+# package = "netlify-plugin-checklinks"
+#   # Report on all broken links to external pages.
+#   # Enabling this will make your tests more brittle, since you can't control
+#   # external pages.
+#   checkExternal = true
