@@ -12,5 +12,23 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 
+{# Facebook + Open Graph #}
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="COVID-19 Test Finder" />
+<meta property="og:title" content="{{ title or meta.title }}" />
+<meta property="og:description" content="{{ description or meta.description }}" />
+<meta property="og:url" content="https://covid19testfinder.info" />
+{# <meta property="og:image" content="open-graph-logo-1200x1200.png" />
+<meta property="og:image:alt" content="Image description" /> #}
+	
+{# Twitter Card #}
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@combatcovid19" />
+<meta name="twitter:title" content="{{ title or meta.title }}" />
+<meta name="twitter:description" content="{{ description or meta.description }}" />
+{# <meta name="twitter:image" content="twitter-card-logo-1024x512.png" />
+<meta name="twitter:image:alt" content="Image description" /> #}
+
 {# RSS Feed #}
 {# <link type="application/atom+xml" rel="alternate" href="{{ meta.url }}/feed.xml" title="{{ meta.title }}"> #}
