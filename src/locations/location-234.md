@@ -1,30 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Layton Clinic in Layton, Utah, USA."
-permalink: "locations/utah/layton/layton-clinic/"
+description: "Local COVID-19 testing is available at CARD Clinic in Libby, Montana, USA."
+permalink: "locations/montana/libby/card-clinic/"
 tags:
   - locations
-  - utah
-title: Layton Clinic
-uniqueName: layton-clinic
-state: Utah
-stateAbbr: UT
-hood: "Layton"
-address: "2075 N University Park Blvd"
-city: "Layton"
-zip: "84041"
-zipsNearby: "82930 82931 84003 84004 84301 84006 84010 84011 84054 84087 84302 84304 84309 84324 84013 84014 84305 84015 84016 84056 84075 84089 84017 84024 84307 84020 84310 84025 84311 84306 84312 84331 84029 84032 84033 84314 84315 84317 84318 84319 84036 84061 84037 84038 84040 84041 84005 84043 84045 84308 84320 84321 84322 84323 84341 84044 84325 84047 84049 84326 84018 84050 84327 84055 84201 84244 84401 84402 84403 84404 84405 84407 84408 84409 84412 84414 84415 84057 84058 84059 84097 84328 84060 84068 84098 84042 84062 84330 84332 84601 84602 84603 84604 84605 84064 84333 84334 84065 84095 84096 84067 84069 84101 84102 84103 84104 84105 84106 84107 84108 84109 84110 84111 84112 84113 84114 84115 84116 84117 84118 84119 84120 84121 84122 84123 84124 84125 84126 84127 84128 84129 84130 84131 84132 84133 84134 84136 84138 84139 84141 84143 84145 84147 84148 84150 84151 84152 84157 84158 84165 84170 84171 84180 84184 84189 84190 84199 84070 84090 84091 84092 84093 84094 84335 84071 84074 84316 84337 84338 84082 84339 84081 84084 84088 84340 84086 84144" 
-mapUrl: "http://maps.apple.com/?q=Layton+Clinic&address=2075+N+University+Park+Blvd,Layton,Utah,84041"
+  - montana
+title: CARD Clinic
+uniqueName: card-clinic
+state: Montana
+stateAbbr: MT
+hood: "Libby"
+address: "214 E 3rd St"
+city: "Libby"
+zip: "59923"
+zipsNearby: "59912 59919 59928 59914 59929 59915 59917 59918 59844 59845 59848 59901 59903 59904 59920 59922 59931 59923 59925 59853 59927 59859 59930 59932 59933 59873 59934 59874 59935 59937 83803 83805 83811 83825 83826 83836 83845 83846 83847 83865 83840 83852 83809 83860 83864 83873 83874" 
+mapUrl: "http://maps.apple.com/?q=CARD+Clinic&address=214+E+3rd+St,Libby,Montana,59923"
 locationType: Drive-thru
-phone: "801-779-6200"
-website: "https://intermountainhealthcare.org/locations/layton-clinic/"
+phone: "406-293-6295"
+website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 22nd, 2020
-notes: "Requires phone screen."
+closedUpdate: May 18th, 2020
+notes: "For individuals with symptoms. By appointment only."
 days: Everyday
-hours: 9AM-5PM
-ctaMessage: Learn more
-ctaUrl: "https://intermountainhealthcare.org/locations/layton-clinic/"
+hours: 8AM-5PM
+ctaMessage: Call 406-293-6295
+ctaUrl: "tel:406-293-6295"
 ---

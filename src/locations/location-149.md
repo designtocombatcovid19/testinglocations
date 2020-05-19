@@ -1,30 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Silver City Health Care Clinic in Silver City, New Mexico, USA."
-permalink: "locations/new-mexico/silver-city/silver-city-health-care-clinic/"
+description: "Local COVID-19 testing is available at Ali'i Health in Kailua-Kona, Hawaii, USA."
+permalink: "locations/hawaii/kailua-kona/alii-health/"
 tags:
   - locations
-  - new-mexico
-title: Silver City Health Care Clinic
-uniqueName: silver-city-health-care-clinic
-state: New Mexico
-stateAbbr: NM
-hood: "Silver City"
-address: "1600 East 32nd Street"
-city: "Silver City"
-zip: "88061"
-zipsNearby: "85534 87930 88023 88025 87931 88026 88028 88030 88031 87933 88034 87936 88038 88039 88040 88041 88042 88043 88009 88045 88055 88049 88051 87941 88022 88036 88053 88061 88062 88065 87942 87943" 
-mapUrl: "http://maps.apple.com/?q=Silver+City+Health+Care+Clinic&address=1600+East+32nd+Street,Silver+City,New+Mexico,88061"
+  - hawaii
+title: Ali'i Health
+uniqueName: alii-health
+state: Hawaii
+stateAbbr: HI
+hood: "Keauhou Shopping Center"
+address: "78-6831 Alii Drive"
+city: "Kailua-Kona"
+zip: "96740"
+zipsNearby: "96704 96737 96710 96718 96719 96720 96721 96725 96726 96727 96728 96739 96740 96745 96738 96743 96755 96749 96750 96760 96764 96773 96774 96771 96772 96776 96777 96780 96781 96783 96785" 
+mapUrl: "http://maps.apple.com/?q=Alii+Health&address=78-6831+Alii+Drive,Kailua-Kona,Hawaii,96740"
 locationType: Drive-thru
-phone: "575-956-1320"
-website: "https://www.silverhealthcare.org/"
+phone: "808-747-8321"
+website: "https://www.kona-kohala.com/events/details/covid-19-drive-through-testing-in-kona-at-the-keauhou-shopping-center-05-07-2020-3621"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 22nd, 2020
-notes: "By appointment only. Requires phone screen."
-days: Everyday
-hours: 4PM-5PM
+closedUpdate: May 18th, 2020
+notes: "Open to all."
+days: M, Th
+hours: 8AM-Noon
 ctaMessage: Learn more
-ctaUrl: "https://www.silverhealthcare.org/"
+ctaUrl: "https://www.kona-kohala.com/events/details/covid-19-drive-through-testing-in-kona-at-the-keauhou-shopping-center-05-07-2020-3621"
 ---

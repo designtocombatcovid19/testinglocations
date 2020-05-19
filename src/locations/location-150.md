@@ -1,29 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Holy Cross Hospital in Taos, New Mexico, USA."
-permalink: "locations/new-mexico/taos/holy-cross-hospital/"
+description: "Local COVID-19 testing is available at Windward Urgent Care in Kaneohe, Hawaii, USA."
+permalink: "locations/hawaii/kaneohe/windward-urgent-care/"
 tags:
   - locations
-  - new-mexico
-title: Holy Cross Hospital 
-uniqueName: holy-cross-hospital
-state: New Mexico
-stateAbbr: NM
-hood: "Taos"
-address: "1397 Weimer Road"
-city: "Taos"
-zip: "87571"
-zipsNearby: "81120 81126 81129 81138 81141 81148 81152 81091 87510 87516 87511 87512 87513 87514 87712 87515 87517 87518 87519 87713 87521 87576 87522 87714 87715 87523 87578 87524 87012 87527 87710 87718 87529 87530 87531 87532 87533 87537 87535 87722 87723 87539 87701 87745 87544 87545 87551 87728 87548 87731 87732 87734 87549 87552 87553 87554 87556 87736 87557 87558 87742 87562 87564 87565 87566 87567 87501 87502 87503 87504 87505 87506 87507 87509 87592 87594 87729 87747 87525 87571 87580 87573 87574 87575 87577 87749 87543 87579 87581 87582 87735 87752 87750 87753 87064 81134 81153" 
-mapUrl: "http://maps.apple.com/?q=Holy+Cross+Hospital&address=1397+Weimer+Road,Taos,New+Mexico,87571"
+  - hawaii
+title: Windward Urgent Care
+uniqueName: windward-urgent-care
+state: Hawaii
+stateAbbr: HI
+hood: "Kaneohe"
+address: "45-1141 Kamehameha Hwy"
+city: "Kaneohe"
+zip: "96744"
+zipsNearby: "96701 96861 96706 96712 96717 96801 96802 96803 96804 96805 96806 96807 96808 96809 96810 96811 96812 96813 96814 96815 96816 96817 96818 96819 96820 96821 96822 96823 96824 96825 96826 96828 96830 96836 96837 96838 96839 96840 96841 96843 96844 96846 96847 96848 96849 96850 96853 96858 96859 96860 96898 96729 96730 96731 96734 96863 96742 96744 96748 96757 96759 96762 96770 96782 96786 96789 96854 96857 96791 96792 96795 96707 96709 96797 96827 96835" 
+mapUrl: "http://maps.apple.com/?q=Windward+Urgent+Care&address=45-1141+Kamehameha+Hwy,Kaneohe,Hawaii,96744"
 locationType: Drive-thru
-phone: "800-755-6236"
-website: "https://holycrossmedicalcenter.org/"
+phone: "808-234-1094"
+website: "http://windwardurgentcare.com/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 22nd, 2020
-notes: "Requires phone screen."
-days: Contact for hours of operation.
+closedUpdate: May 18th, 2020
+notes: "Must have fever and other symptoms. For individuals with symptoms."
+days: Everyday
+hours: 8AM-9PM
 ctaMessage: Learn more
-ctaUrl: "https://holycrossmedicalcenter.org/"
+ctaUrl: "http://windwardurgentcare.com/"
 ---

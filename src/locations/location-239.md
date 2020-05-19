@@ -1,30 +1,29 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at North Ogden InstaCare in North Ogden, Utah, USA."
-permalink: "locations/utah/north-ogden/north-ogden-instacare/"
+description: "Local COVID-19 testing is available at Mobile Testing Van in Yellowstone, Montana, USA."
+permalink: "locations/montana/yellowstone/mobile-testing-van/"
 tags:
   - locations
-  - utah
-title: North Ogden InstaCare
-uniqueName: north-ogden-instacare
-state: Utah
-stateAbbr: UT
-hood: "North Ogden"
-address: "2400 N Washington Blvd"
-city: "North Ogden"
-zip: "84414"
-zipsNearby: "82930 82931 83228 83232 83237 83287 83286 84004 84301 84006 84010 84011 84054 84087 84302 84304 84309 84324 84014 84305 84015 84016 84056 84075 84089 84017 84024 84307 84020 84310 84025 84311 84028 84306 84312 84331 84029 84033 84314 84315 84317 84318 84319 84061 84037 84038 84040 84041 84308 84320 84321 84322 84323 84341 84044 84325 84047 84049 84326 84018 84050 84327 84055 84201 84244 84401 84402 84403 84404 84405 84407 84408 84409 84412 84414 84415 84328 84060 84068 84098 84062 84330 84332 84064 84333 84334 84065 84095 84096 84067 84101 84102 84103 84104 84105 84106 84107 84108 84109 84110 84111 84112 84113 84114 84115 84116 84117 84118 84119 84120 84121 84122 84123 84124 84125 84126 84127 84128 84129 84130 84131 84132 84133 84134 84136 84138 84139 84141 84143 84145 84147 84148 84150 84151 84152 84157 84158 84165 84170 84171 84180 84184 84189 84190 84199 84070 84090 84091 84092 84093 84094 84335 84336 84074 84316 84337 84338 84339 84081 84084 84088 84340 84086 84144" 
-mapUrl: "http://maps.apple.com/?q=North+Ogden+InstaCare&address=2400+N+Washington+Blvd,North+Ogden,Utah,84414"
-locationType: Drive-thru
-phone: "801-786-7500"
-website: "https://intermountainhealthcare.org/locations/north-ogden-clinic/"
+  - montana
+title: Mobile Testing Van
+uniqueName: mobile-testing-van
+state: Montana
+stateAbbr: MT
+hood: "Yellowstone"
+address: ""
+city: "Yellowstone"
+zip: ""
+zipsNearby: "" 
+mapUrl: "http://maps.apple.com/?q=Mobile+Testing+Van&address=,Yellowstone,Montana,"
+locationType: In-Home
+phone: "406-651-6415"
+website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 22nd, 2020
-notes: "Requires phone screen."
-days: Everyday
-hours: 9AM-5PM
-ctaMessage: Learn more
-ctaUrl: "https://intermountainhealthcare.org/locations/north-ogden-clinic/"
+closedUpdate: May 18th, 2020
+notes: "By appointment only. Requires doctor's referral."
+days: Contact for hours of operation.
+ctaMessage: Call 406-651-6415
+ctaUrl: "tel:406-651-6415"
 ---

@@ -1,29 +1,29 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Valley Med Urgent Care in McAllen, Texas, USA."
-permalink: "locations/texas/mcallen/valley-med-urgent-care-1/"
+description: "Local COVID-19 testing is available at Hedrick Medical Center in Chillicothe, Missouri, USA."
+permalink: "locations/missouri/chillicothe/hedrick-medical-center/"
 tags:
   - locations
-  - texas
-title: Valley Med Urgent Care
-uniqueName: valley-med-urgent-care-1
-state: Texas
-stateAbbr: TX
-hood: "McAllen"
-address: "	101 E Expressway 83 #170"
-city: "McAllen"
-zip: "78501"
-zipsNearby: "78516 78338 78520 78521 78522 78523 78526 78535 78536 78537 78538 78539 78540 78541 78542 78543 78353 78545 78547 78548 78360 78549 78550 78551 78552 78553 78557 78558 78559 78560 78561 78562 78563 78565 78566 78567 78568 78569 78501 78502 78503 78504 78505 78570 78572 78573 78574 78575 78576 78577 78579 78580 78598 78582 78583 78584 78585 78586 78588 78589 78590 78591 78592 78593 78594 78595 78596 78599" 
-mapUrl: "http://maps.apple.com/?q=Valley+Med+Urgent+Care&address=101+E+Expressway+83+170,McAllen,Texas,78501"
-locationType: Drive-thru
-phone: "956-731-6699"
+  - missouri
+title: Hedrick Medical Center
+uniqueName: hedrick-medical-center
+state: Missouri
+stateAbbr: MO
+hood: "Chillicothe"
+address: "2799 N Washington St"
+city: "Chillicothe"
+zip: "64601"
+zipsNearby: "50052 50065 50140 50147 64402 64420 64001 64620 64422 64011 64424 64426 64622 64623 64624 64625 64628 64630 64631 64016 64632 64017 64429 64633 64601 64654 64635 64430 64636 64020 64021 64436 64637 64438 64638 64441 64639 64022 64442 64443 64444 64024 64073 64640 64641 64453 64642 64454 64458 64643 64644 64035 64459 64036 64037 64048 64646 64647 64648 64060 64649 64463 64650 64651 64652 64465 64062 64066 64067 64068 64069 64653 64655 64656 64657 64658 64467 64469 64071 64659 64660 64661 64072 64664 64074 64471 64645 64667 64668 64680 64076 64077 64474 64670 64477 64671 64672 64673 64674 64084 64085 64481 64676 64088 64089 64679 64489 64490 64681 64682 64683 64492 64493 64494 64686 64096 64497 64097 64688 64689 65230 65320 63530 63532 65321 65236 65246 65286 63534 65244 63538 65327 63539 65247 65330 65254 63544 63545 65259 65260 65261 63501 63549 63552 65339 65340 65344 63556 65347 63557 63558 63559 63560 65281 65349 65351 63565 63566 64447" 
+mapUrl: "http://maps.apple.com/?q=Hedrick+Medical+Center&address=2799+N+Washington+St,Chillicothe,Missouri,64601"
+locationType: Walk-in
+phone: "660-646-1480"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 22nd, 2020
-notes: "By appointment only."
+closedUpdate: May 18th, 2020
+notes: "By appointment only. Requires doctor's referral. Must have fever and other symptoms."
 days: Contact for hours of operation.
-ctaMessage: Call 956-731-6699
-ctaUrl: "tel:956-731-6699"
+ctaMessage: Call 660-646-1480
+ctaUrl: "tel:660-646-1480"
 ---

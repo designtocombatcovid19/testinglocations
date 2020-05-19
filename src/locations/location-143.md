@@ -1,32 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at NextCare - Unser in Albuquerque, New Mexico, USA."
-permalink: "locations/new-mexico/albuquerque/nextcare-unser/"
+description: "Local COVID-19 testing is available at Kapiolani Medical Center in Honolulu, Hawaii, USA."
+permalink: "locations/hawaii/honolulu/kapiolani-medical-center/"
 tags:
   - locations
-  - new-mexico
-title: NextCare - Unser
-uniqueName: nextcare-unser
-state: New Mexico
-stateAbbr: NM
-hood: "Unser "
-address: "1800 Unser Blvd NW Ste 500"
-city: "Albuquerque"
-zip: "87120"
-zipsNearby: "87101 87102 87103 87104 87105 87106 87107 87108 87109 87110 87111 87112 87113 87114 87115 87116 87117 87119 87120 87121 87122 87123 87124 87125 87131 87144 87151 87153 87154 87158 87174 87176 87181 87184 87185 87187 87190 87191 87192 87193 87194 87195 87196 87197 87198 87199 87002 87001 87004 87006 87007 87008 87010 87048 87014 87015 87016 87063 87535 87022 87023 87024 87025 87026 87028 87544 87545 87031 87032 87035 87056 87070 87036 87038 87040 87041 87072 87083 87042 87068 87043 87562 87831 87047 87034 87049 87501 87502 87503 87504 87505 87506 87507 87508 87509 87540 87592 87594 87052 87044 87053 87574 87059 87060 87061 87062 87165" 
-mapUrl: "http://maps.apple.com/?q=NextCare+-+Unser&address=1800+Unser+Blvd+NW+Ste+500,Albuquerque,New+Mexico,87120"
-locationType: Drive-thru or walk-in
-phone: "505-395-5520"
-website: "https://nextcare.com/locations/nm/urgent-care-clinic-albuquerque-new-mexico-unser/"
-onlineBooking: true
+  - hawaii
+title: Kapiolani Medical Center
+uniqueName: kapiolani-medical-center
+state: Hawaii
+stateAbbr: HI
+hood: "Honolulu"
+address: "1319 Punahou St"
+city: "Honolulu"
+zip: "96826"
+zipsNearby: "96701 96861 96706 96712 96717 96801 96802 96803 96804 96805 96806 96807 96808 96809 96810 96811 96812 96813 96814 96815 96816 96817 96818 96819 96820 96821 96822 96823 96824 96825 96826 96828 96830 96836 96837 96838 96839 96840 96841 96843 96844 96846 96847 96848 96849 96850 96853 96858 96859 96860 96898 96729 96730 96731 96734 96863 96742 96744 96748 96757 96759 96762 96770 96782 96786 96789 96854 96857 96791 96792 96795 96707 96709 96797 96827 96835" 
+mapUrl: "http://maps.apple.com/?q=Kapiolani+Medical+Center&address=1319+Punahou+St,Honolulu,Hawaii,96826"
+locationType: Drive-thru
+phone: ""
+website: "https://www.hawaiipacifichealth.org/hph-covid-19-updates/covid-19-testing/"
+onlineBooking: undefined
 closed: undefined
-closedUpdate: April 22nd, 2020
-notes: "For all members of the community."
-days: Weekends
-hours: 9 am-4PM
-altDays: Weekdays
-altHours: 8AM-8PM
-ctaMessage: Schedule a test
-ctaUrl: "https://nextcare.com/locations/nm/urgent-care-clinic-albuquerque-new-mexico-unser/"
+closedUpdate: May 18th, 2020
+notes: ""
+days: Everyday
+hours: 8AM-5PM
+ctaMessage: Learn more
+ctaUrl: "https://www.hawaiipacifichealth.org/hph-covid-19-updates/covid-19-testing/"
 ---

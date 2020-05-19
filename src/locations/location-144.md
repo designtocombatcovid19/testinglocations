@@ -1,29 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Union County General Hospital in Clayton, New Mexico, USA."
-permalink: "locations/new-mexico/clayton/union-county-general-hospital/"
+description: "Local COVID-19 testing is available at Straub Medical Center in Honolulu, Hawaii, USA."
+permalink: "locations/hawaii/honolulu/straub-medical-center/"
 tags:
   - locations
-  - new-mexico
-title: Union County General Hospital
-uniqueName: union-county-general-hospital
-state: New Mexico
-stateAbbr: NM
-hood: "Clayton"
-address: "300 Wilson St"
-city: "Clayton"
-zip: "88415"
-zipsNearby: "81027 81029 81049 88410 88415 88414 88418 88419 88422 88424 88430 88436 73933 73937 73946 73947 79022 79044 79051 79084 79087" 
-mapUrl: "http://maps.apple.com/?q=Union+County+General+Hospital&address=300+Wilson+St,Clayton,New+Mexico,88415"
-locationType: Walk-in
-phone: "575-374-2584"
-website: "http://ucgh.net/"
+  - hawaii
+title: Straub Medical Center
+uniqueName: straub-medical-center
+state: Hawaii
+stateAbbr: HI
+hood: "Honolulu"
+address: "888 S King St"
+city: "Honolulu"
+zip: "96813"
+zipsNearby: "96701 96861 96706 96712 96717 96801 96802 96803 96804 96805 96806 96807 96808 96809 96810 96811 96812 96813 96814 96815 96816 96817 96818 96819 96820 96821 96822 96823 96824 96825 96826 96828 96830 96836 96837 96838 96839 96840 96841 96843 96844 96846 96847 96848 96849 96850 96853 96858 96859 96860 96898 96729 96730 96731 96734 96863 96742 96744 96748 96757 96759 96762 96770 96782 96786 96789 96854 96857 96791 96792 96795 96707 96709 96797 96827 96835" 
+mapUrl: "http://maps.apple.com/?q=Straub+Medical+Center&address=888+S+King+St,Honolulu,Hawaii,96813"
+locationType: Drive-thru
+phone: ""
+website: "https://www.hawaiipacifichealth.org/hph-covid-19-updates/covid-19-testing/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 22nd, 2020
-notes: "By appointment only. Requires phone screen."
-days: Contact for hours of operation.
+closedUpdate: May 18th, 2020
+notes: ""
+days: Everyday
+hours: 8AM-5PM
 ctaMessage: Learn more
-ctaUrl: "http://ucgh.net/"
+ctaUrl: "https://www.hawaiipacifichealth.org/hph-covid-19-updates/covid-19-testing/"
 ---

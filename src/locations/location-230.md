@@ -1,32 +1,32 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Farmington Health Center in Farmington, Utah, USA."
-permalink: "locations/utah/farmington/farmington-health-center/"
+description: "Local COVID-19 testing is available at Bozeman Health Belgrade Clinic + UrgentCare in Belgrade, Montana, USA."
+permalink: "locations/montana/belgrade/bozeman-health-belgrade-clinic-urgentcare/"
 tags:
   - locations
-  - utah
-title: Farmington Health Center
-uniqueName: farmington-health-center
-state: Utah
-stateAbbr: UT
-hood: "Farmington"
-address: "165 N. University Ave"
-city: "Farmington"
-zip: "84025"
-zipsNearby: "82930 82931 84003 84004 84301 84006 84010 84011 84054 84087 84302 84304 84309 84324 84013 84014 84015 84016 84056 84075 84089 84017 84024 84307 84020 84310 84025 84311 84306 84312 84029 84032 84033 84314 84315 84317 84318 84319 84036 84061 84037 84040 84041 84005 84043 84045 84321 84322 84323 84341 84044 84325 84047 84049 84326 84018 84050 84327 84055 84201 84244 84401 84402 84403 84404 84405 84407 84408 84409 84412 84414 84415 84057 84058 84059 84097 84328 84060 84068 84098 84042 84062 84332 84601 84602 84603 84604 84605 84606 84064 84334 84065 84095 84096 84067 84069 84101 84102 84103 84104 84105 84106 84107 84108 84109 84110 84111 84112 84113 84114 84115 84116 84117 84118 84119 84120 84121 84122 84123 84124 84125 84126 84127 84128 84129 84130 84131 84132 84133 84134 84136 84138 84139 84141 84143 84145 84147 84148 84150 84151 84152 84157 84158 84165 84170 84171 84180 84184 84189 84190 84199 84070 84090 84091 84092 84093 84094 84335 84663 84071 84074 84337 84082 84339 84081 84084 84088 84340 84086 84144" 
-mapUrl: "http://maps.apple.com/?q=Farmington+Health+Center&address=165+N+University+Ave,Farmington,Utah,84025"
+  - montana
+title: Bozeman Health Belgrade Clinic + UrgentCare
+uniqueName: bozeman-health-belgrade-clinic-urgentcare
+state: Montana
+stateAbbr: MT
+hood: "Belgrade"
+address: "206 Alaska Frontage Rd"
+city: "Belgrade"
+zip: "59714"
+zipsNearby: "59714 59632 59715 59716 59717 59718 59719 59771 59772 59720 59721 59634 59018 59635 59647 59027 59729 59730 59030 59735 59638 59047 59082 59740 59052 59741 59053 59745 59747 59065 59642 59749 59752 59641 59643 59644 59751 59755 59759 59645 59760 59086 59773" 
+mapUrl: "http://maps.apple.com/?q=Bozeman+Health+Belgrade+Clinic+UrgentCare&address=206+Alaska+Frontage+Rd,Belgrade,Montana,59714"
 locationType: Drive-thru
-phone: "801-213-3200"
-website: "https://healthcare.utah.edu/locations/farmington/"
+phone: "406-414-2619"
+website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 22nd, 2020
-notes: ""
+closedUpdate: May 18th, 2020
+notes: "By appointment only. Requires doctor's referral. Requires referral from a primary health provider."
 days: Weekdays
-hours: 8AM-6PM
-altDays: Weekends
-altHours: 10AM-3PM
-ctaMessage: Learn more
-ctaUrl: "https://healthcare.utah.edu/locations/farmington/"
+hours: 8:30AM-6PM
+altDays: Saturdays
+altHours: 8:30AM-6PM
+ctaMessage: Call 406-414-2619
+ctaUrl: "tel:406-414-2619"
 ---

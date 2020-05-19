@@ -1,29 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at UT Health Austin - Health Transformation Building in Austin, Texas, USA."
-permalink: "locations/texas/austin/ut-health-austin-health-transformation-building/"
+description: "Local COVID-19 testing is available at Citizens Memorial Hospital - Butterfield Pharmacy in Bolivar, Missouri, USA."
+permalink: "locations/missouri/bolivar/citizens-memorial-hospital-butterfield-pharmacy/"
 tags:
   - locations
-  - texas
-title: UT Health Austin - Health Transformation Building
-uniqueName: ut-health-austin-health-transformation-building
-state: Texas
-stateAbbr: TX
-hood: "Austin"
-address: "1601 Trinity St Building A"
-city: "Austin"
-zip: "78712"
-zipsNearby: "76831 77838 77852 77853 73301 73344 78701 78702 78703 78704 78705 78708 78709 78710 78711 78712 78713 78714 78715 78716 78717 78718 78719 78720 78721 78722 78723 78724 78725 78726 78727 78728 78729 78730 78731 78732 78733 78734 78735 78736 78737 78738 78739 78741 78742 78744 78745 78746 78747 78748 78749 78750 78751 78752 78753 78754 78755 78756 78757 78758 78759 78760 78761 78762 78763 78764 78765 78766 78767 78768 78769 78772 78773 78774 78778 78779 78780 78781 78783 78785 78789 78799 76511 78602 78604 76513 78605 78606 78607 78004 78608 78609 76518 78610 78611 76520 78612 78613 78630 78108 78109 76522 78614 78615 78616 76523 78617 78619 78620 78621 78622 78623 78941 76527 78626 78627 78628 78633 78115 78942 78629 78658 76530 78632 76533 76534 78634 78635 76537 78636 76539 78027 76540 76541 76542 76543 76544 76547 76548 76549 78638 78639 78640 78945 76550 78641 78645 78646 78946 78122 78947 78642 78948 76554 78644 78648 78650 78651 78123 78652 78653 78654 78657 78124 78655 78656 76556 77975 78949 78130 78131 78132 78133 78135 76559 78659 78660 78691 78952 78661 78662 76567 76569 78953 78663 78664 78665 78680 78681 78682 78683 76571 78666 78667 78154 76573 78155 78156 78957 78669 78070 78163 78670 78671 76574 76501 76502 76503 76504 76505 76508 76577 76578 78672 78148 78150 78959 78673 78960 78674 78963 78675 78676 78786 78788 78798 76545 76546" 
-mapUrl: "http://maps.apple.com/?q=UT+Health+Austin+-+Health+Transformation+Building&address=1601+Trinity+St+Building+A,Austin,Texas,78712"
+  - missouri
+title: Citizens Memorial Hospital - Butterfield Pharmacy
+uniqueName: citizens-memorial-hospital-butterfield-pharmacy
+state: Missouri
+stateAbbr: MO
+hood: "Bolivar"
+address: "1125 N. Butterfield Road"
+city: "Bolivar"
+zip: "65613"
+zipsNearby: "64830 65601 64724 65603 65604 65605 65608 64833 65610 65612 65613 65727 65617 64728 65619 65620 65622 65783 65624 64836 65629 65657 65631 64735 64738 65632 65633 65634 65635 64740 64741 65636 65640 64744 65463 65644 65646 65648 65649 65470 65650 65652 65654 65656 64748 65661 65662 65663 65664 65667 64750 65668 65669 65674 65675 64755 64756 64759 64766 65534 64848 65536 64762 65682 65590 65685 64763 65786 65702 65704 65705 65706 65707 64767 65708 65591 64770 65645 65710 64771 65712 64849 64772 65713 65714 65720 64776 65721 65722 65723 65724 65543 65725 65728 65732 64857 65734 65735 64859 65737 65738 64779 65556 65787 64780 65742 64781 64862 64783 65746 64784 65752 65753 65630 65754 65801 65802 65803 65804 65805 65806 65807 65808 65809 65810 65814 65817 65890 65897 65898 65899 65607 65785 65756 65567 65757 65764 65765 65767 65769 64790 65770 65771 65774 64873 65779 65781 65017 65323 65020 65324 65325 65326 65072 65037 65038 65047 65049 65338 65052 65065 65079 65355 64789" 
+mapUrl: "http://maps.apple.com/?q=Citizens+Memorial+Hospital+-+Butterfield+Pharmacy&address=1125+N+Butterfield+Road,Bolivar,Missouri,65613"
 locationType: Drive-thru
-phone: "833-882-2737"
-website: "https://uthealthaustin.org/request-appointment"
-onlineBooking: true
+phone: "417-328-4300"
+website: "https://www.citizensmemorial.com/about/media-resources/news/2020/cmh-to-offer-drive-thru-covid-19-testing-with-doctors-order.html"
+onlineBooking: undefined
 closed: undefined
-closedUpdate: April 22nd, 2020
-notes: "Limited test kits available. Only for individuals with symptoms. Prioritizes health care workers. Prioritizes first responders. Requires doctor's referral. Requires phone screen."
-days: Contact for hours of operation.
-ctaMessage: Schedule a test
-ctaUrl: "https://uthealthaustin.org/request-appointment"
+closedUpdate: May 18th, 2020
+notes: "By appointment only. Requires phone screen."
+days: Weekdays
+hours: 10AM-2PM
+ctaMessage: Learn more
+ctaUrl: "https://www.citizensmemorial.com/about/media-resources/news/2020/cmh-to-offer-drive-thru-covid-19-testing-with-doctors-order.html"
 ---

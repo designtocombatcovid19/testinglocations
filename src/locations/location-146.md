@@ -1,29 +1,32 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Cibola General Hospital in Grants, New Mexico, USA."
-permalink: "locations/new-mexico/grants/cibola-general-hospital/"
+description: "Local COVID-19 testing is available at Kapiʻolani Medical Center for Women & Children in Honolulu, Hawaii, USA."
+permalink: "locations/hawaii/honolulu/kapiʻolani-medical-center-for-women-and-children/"
 tags:
   - locations
-  - new-mexico
-title: Cibola General Hospital
-uniqueName: cibola-general-hospital
-state: New Mexico
-stateAbbr: NM
-hood: "Cibola"
-address: "1016 Roosevelt Ave"
-city: "Grants"
-zip: "87020"
-zipsNearby: "87005 87007 87311 87312 87347 87313 87014 87315 87316 87301 87302 87305 87310 87317 87326 87375 87020 87021 87022 87026 87038 87040 87045 87321 87357 87322 87034 87049 87051 87323 87365 87327" 
-mapUrl: "http://maps.apple.com/?q=Cibola+General+Hospital&address=1016+Roosevelt+Ave,Grants,New+Mexico,87020"
-locationType: Walk-in
-phone: "505-287-4446"
-website: "https://cibolahospital.com"
+  - hawaii
+title: Kapiʻolani Medical Center for Women & Children
+uniqueName: kapiʻolani-medical-center-for-women-and-children
+state: Hawaii
+stateAbbr: HI
+hood: "Honolulu"
+address: "1319 Punahou St"
+city: "Honolulu"
+zip: "96826"
+zipsNearby: "96701 96861 96706 96712 96717 96801 96802 96803 96804 96805 96806 96807 96808 96809 96810 96811 96812 96813 96814 96815 96816 96817 96818 96819 96820 96821 96822 96823 96824 96825 96826 96828 96830 96836 96837 96838 96839 96840 96841 96843 96844 96846 96847 96848 96849 96850 96853 96858 96859 96860 96898 96729 96730 96731 96734 96863 96742 96744 96748 96757 96759 96762 96770 96782 96786 96789 96854 96857 96791 96792 96795 96707 96709 96797 96827 96835" 
+mapUrl: "http://maps.apple.com/?q=Kapiʻolani+Medical+Center+for+Women+and+Children&address=1319+Punahou+St,Honolulu,Hawaii,96826"
+locationType: Drive-thru
+phone: "808-462-5430"
+website: "https://www.hawaiipacifichealth.org/hph-covid-19-updates/covid-19-testing/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 22nd, 2020
-notes: "By appointment only. Requires phone screen."
-days: Contact for hours of operation.
+closedUpdate: May 18th, 2020
+notes: "Requires phone screen."
+days: Weekdays
+hours: 8AM-5PM
+altDays: Weekends
+altHours: 10AM-3PM
 ctaMessage: Learn more
-ctaUrl: "https://cibolahospital.com"
+ctaUrl: "https://www.hawaiipacifichealth.org/hph-covid-19-updates/covid-19-testing/"
 ---

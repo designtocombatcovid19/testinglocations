@@ -1,30 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Rehoboth McKinley Christian Health Services in Gallup, New Mexico, USA."
-permalink: "locations/new-mexico/gallup/rehoboth-mckinley-christian-health-services/"
+description: "Local COVID-19 testing is available at Tripler Army Medical Center in Honolulu, Hawaii, USA."
+permalink: "locations/hawaii/honolulu/tripler-army-medical-center/"
 tags:
   - locations
-  - new-mexico
-title: Rehoboth McKinley Christian Health Services
-uniqueName: rehoboth-mckinley-christian-health-services
-state: New Mexico
-stateAbbr: NM
-hood: "Gallup"
-address: "1901 Redrock Dr"
-city: "Gallup"
-zip: "87301"
-zipsNearby: "86502 86556 86504 86505 86540 86506 86508 86511 86512 86515 87005 87311 87312 87347 87313 87315 87316 87301 87302 87305 87310 87317 87319 87326 87328 87375 87020 87021 87045 87321 87357 87322 87051 87455 87323 87365 87320 87325 87364 87327" 
-mapUrl: "http://maps.apple.com/?q=Rehoboth+McKinley+Christian+Health+Services&address=1901+Redrock+Dr,Gallup,New+Mexico,87301"
-locationType: Drive-thru
-phone: "505-236-1074"
-website: "http://www.rmch.org/"
+  - hawaii
+title: Tripler Army Medical Center
+uniqueName: tripler-army-medical-center
+state: Hawaii
+stateAbbr: HI
+hood: "Honolulu"
+address: "1 Jarrett White Rd, Medical Center"
+city: "Honolulu"
+zip: "96859"
+zipsNearby: "96701 96861 96706 96712 96717 96801 96802 96803 96804 96805 96806 96807 96808 96809 96810 96811 96812 96813 96814 96815 96816 96817 96818 96819 96820 96821 96822 96823 96824 96825 96826 96828 96830 96836 96837 96838 96839 96840 96841 96843 96844 96846 96847 96848 96849 96850 96853 96858 96859 96860 96898 96729 96730 96731 96734 96863 96742 96744 96748 96757 96759 96762 96770 96782 96786 96789 96854 96857 96791 96792 96795 96707 96709 96797 96827 96835" 
+mapUrl: "http://maps.apple.com/?q=Tripler+Army+Medical+Center&address=1+Jarrett+White+Rd+Medical+Center,Honolulu,Hawaii,96859"
+locationType: Walk-up
+phone: "800-874-2273"
+website: "https://www.tamc.amedd.army.mil/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 22nd, 2020
-notes: "By appointment only. Requires phone screen."
-days: Everyday
-hours: 8AM-7PM
+closedUpdate: May 18th, 2020
+notes: "By appointment only. Requires doctor's referral. Requires phone screen."
+days: Weekdays
+hours: 6:30AM-4PM
 ctaMessage: Learn more
-ctaUrl: "http://www.rmch.org/"
+ctaUrl: "https://www.tamc.amedd.army.mil/"
 ---

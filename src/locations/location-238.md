@@ -1,30 +1,32 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Cottonwood InstaCare in Murray, Utah, USA."
-permalink: "locations/utah/murray/cottonwood-instacare/"
+description: "Local COVID-19 testing is available at Providence Grant Creek Walk In Clinic in Missoula, Montana, USA."
+permalink: "locations/montana/missoula/providence-grant-creek-walk-in-clinic/"
 tags:
   - locations
-  - utah
-title: Cottonwood InstaCare
-uniqueName: cottonwood-instacare
-state: Utah
-stateAbbr: UT
-hood: "Murray"
-address: "181 E Medical Tower Dr"
-city: "Murray"
-zip: "84107"
-zipsNearby: "84003 84004 84006 84010 84011 84054 84087 84302 84324 84013 84014 84015 84016 84056 84075 84089 84017 84024 84020 84027 84022 84310 84626 84628 84025 84633 84029 84032 84033 84315 84317 84036 84061 84037 84040 84041 84005 84043 84045 84044 84047 84049 84645 84018 84050 84055 84201 84244 84401 84402 84403 84404 84405 84407 84408 84409 84412 84414 84415 84057 84058 84059 84097 84328 84060 84068 84098 84651 84042 84062 84601 84602 84603 84604 84605 84606 84065 84095 84096 84067 84069 84653 84101 84102 84103 84104 84105 84106 84107 84108 84109 84110 84111 84112 84113 84114 84115 84116 84117 84118 84119 84120 84121 84122 84123 84124 84125 84126 84127 84128 84129 84130 84131 84132 84133 84134 84136 84138 84139 84141 84143 84145 84147 84148 84150 84151 84152 84157 84158 84165 84170 84171 84180 84184 84189 84190 84199 84070 84090 84091 84092 84093 84094 84655 84660 84663 84664 84071 84031 84074 84080 84082 84081 84084 84088 84340 84086 84144" 
-mapUrl: "http://maps.apple.com/?q=Cottonwood+InstaCare&address=181+E+Medical+Tower+Dr,Murray,Utah,84107"
-locationType: Drive-thru
-phone: "801-314-7700"
-website: "https://intermountainhealthcare.org/locations/cottonwood-clinic/"
+  - montana
+title: Providence Grant Creek Walk In Clinic
+uniqueName: providence-grant-creek-walk-in-clinic
+state: Montana
+stateAbbr: MT
+hood: "Providence Grant Creek"
+address: "3075 N. Reserve Street, Suite Q "
+city: "Missoula"
+zip: "59808"
+zipsNearby: "59820 59821 59863 59910 59823 59824 59825 59826 59828 59914 59733 59831 59832 59915 59833 59834 59846 59837 59835 59840 59841 59843 59845 59848 59847 59851 59801 59802 59803 59804 59806 59807 59808 59812 59854 59855 59856 59858 59859 59860 59864 59865 59866 59868 59870 59872 59875" 
+mapUrl: "http://maps.apple.com/?q=Providence+Grant+Creek+Walk+In+Clinic&address=3075+N+Reserve+Street+Suite+Q,Missoula,Montana,59808"
+locationType: Walk-in
+phone: "406-327-1750"
+website: "https://montana.providence.org/locations-directory/g/grant-creek-walk-in-clinic#llaid=7135"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 22nd, 2020
-notes: "Requires phone screen."
-days: Everyday
-hours: 9AM-5PM
+closedUpdate: May 18th, 2020
+notes: "By appointment only. Requires phone screen. Limited test kits available. For individuals with symptoms."
+days: Weekdays
+hours: 8AM-7PM
+altDays: Weekends
+altHours: 9AM-4PM
 ctaMessage: Learn more
-ctaUrl: "https://intermountainhealthcare.org/locations/cottonwood-clinic/"
+ctaUrl: "https://montana.providence.org/locations-directory/g/grant-creek-walk-in-clinic#llaid=7135"
 ---

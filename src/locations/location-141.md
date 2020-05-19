@@ -1,30 +1,32 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at OPTUM in Albuquerque, New Mexico, USA."
-permalink: "locations/new-mexico/albuquerque/optum/"
+description: "Local COVID-19 testing is available at Pali Momi Medical Center in Aiea, Hawaii, USA."
+permalink: "locations/hawaii/aiea/pali-momi-medical-center-1/"
 tags:
   - locations
-  - new-mexico
-title: OPTUM 
-uniqueName: optum
-state: New Mexico
-stateAbbr: NM
-hood: "Journal Center"
-address: "5150 Journal Center Blvd. SE"
-city: "Albuquerque"
-zip: "87109"
-zipsNearby: "87101 87102 87103 87104 87105 87106 87107 87108 87109 87110 87111 87112 87113 87114 87115 87116 87117 87119 87120 87121 87122 87123 87124 87125 87131 87144 87151 87153 87154 87158 87174 87176 87181 87184 87185 87187 87190 87191 87192 87193 87194 87195 87196 87197 87198 87199 87002 87001 87004 87006 87007 87008 87010 87048 87014 87015 87016 87063 87535 87022 87023 87024 87025 87026 87028 87544 87545 87031 87032 87035 87056 87070 87036 87038 87040 87041 87072 87083 87042 87068 87043 87562 87831 87047 87034 87049 87501 87502 87503 87504 87505 87506 87507 87508 87509 87540 87592 87594 87052 87044 87053 87574 87059 87060 87061 87062 87165" 
-mapUrl: "http://maps.apple.com/?q=OPTUM&address=5150+Journal+Center+Blvd+SE,Albuquerque,New+Mexico,87109"
+  - hawaii
+title: Pali Momi Medical Center
+uniqueName: pali-momi-medical-center-1
+state: Hawaii
+stateAbbr: HI
+hood: "Aiea"
+address: "98-1079 Moanalua Rd"
+city: "Aiea"
+zip: "96701"
+zipsNearby: "96701 96861 96706 96712 96717 96801 96802 96803 96804 96805 96806 96807 96808 96809 96810 96811 96812 96813 96814 96815 96816 96817 96818 96819 96820 96821 96822 96823 96824 96825 96826 96828 96830 96836 96837 96838 96839 96840 96841 96843 96844 96846 96847 96848 96849 96850 96853 96858 96859 96860 96898 96729 96730 96731 96734 96863 96742 96744 96757 96759 96762 96770 96782 96786 96789 96854 96857 96791 96792 96795 96707 96709 96797 96827 96835" 
+mapUrl: "http://maps.apple.com/?q=Pali+Momi+Medical+Center&address=98-1079+Moanalua+Rd,Aiea,Hawaii,96701"
 locationType: Drive-thru
-phone: "505-232-1010"
-website: "https://abqhp.com/clinic/58"
+phone: "808-462-5430"
+website: "https://www.hawaiipacifichealth.org/hph-covid-19-updates/covid-19-testing/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: April 22nd, 2020
-notes: "Only for individuals with symptoms. For all members of the community. Requires phone screen."
-days: Everyday
-hours: 7AM-5PM
+closedUpdate: May 18th, 2020
+notes: "Requires phone screen."
+days: Weekdays
+hours: 8AM-5PM
+altDays: Weekends
+altHours: 10AM-3PM
 ctaMessage: Learn more
-ctaUrl: "https://abqhp.com/clinic/58"
+ctaUrl: "https://www.hawaiipacifichealth.org/hph-covid-19-updates/covid-19-testing/"
 ---

@@ -26,6 +26,82 @@
     "Verified": true
   },
   {
+    "Name": "Southern Immediate Care",
+    "State": "Alabama",
+    "Address": "4100 McClellan Blvd Anniston",
+    "City": "Anniston",
+    "Zip": "36201",
+    "Phone": "(256) 568-8818",
+    "Website": "https://wbhm.org/feature/2020/can-get-tested-covid-19/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "5PM",
+    "Verified": true
+  },
+  {
+    "Name": "Waddell Family Medicine",
+    "State": "Alabama",
+    "Address": "902 W Washington St",
+    "City": "Athens",
+    "Zip": "35611",
+    "Website": "https://wbhm.org/feature/2020/can-get-tested-covid-19/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "4PM",
+    "Verified": true
+  },
+  {
+    "Name": "EAMC-Healthplus Location-Auburn",
+    "State": "Alabama",
+    "Address": "1171 Gatewood Drive",
+    "City": "Auburn",
+    "Zip": "36830",
+    "Phone": "(334) 528-7425",
+    "Website": "https://www.eamc.org/patient-and-guests/covid-19-information/what-should-i-do-if-i-think-i-have-covid-19",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "6PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "1PM",
+    "Verified": true
+  },
+  {
+    "Name": "Infirmary Health-North Baldwin Infirmary",
+    "Notes": [
+      "By appointment only.",
+      "Limited test kits available."
+    ],
+    "State": "Alabama",
+    "Address": "2115 Hand Ave",
+    "City": "Bay Minette",
+    "Zip": "36507",
+    "Phone": "(251) 341-2819",
+    "Website": "https://www.infirmaryhealth.org/coronavirus-covid-19",
+    "Verified": true
+  },
+  {
     "Name": "The University of Alabama Hospital",
     "Notes": [
       "By appointment only."
@@ -53,9 +129,84 @@
     "Verified": true
   },
   {
+    "Name": "Urgent Care for Children",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Alabama",
+    "Address": "500 Cahaba Park Circle Ste 100",
+    "City": "Birmingham",
+    "Zip": "35242",
+    "Phone": "(205) 848-2273",
+    "Website": "https://www.childrensurgent.com/coronavirus-update-and-testing-hotline/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "2PM",
+    "ClosesAt": "10PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "10AM",
+    "AltClosesAt": "8PM",
+    "Verified": true
+  },
+  {
+    "Name": " Christ Health Woodlawn Sick Clinic",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Alabama",
+    "Address": " 5705 First Avenue North",
+    "City": "Birmingham",
+    "Zip": "35212",
+    "Phone": "35212",
+    "Website": "https://christhealthcenter.org/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Whitfield Regional Hospital Coronavirus Collection Site",
+    "State": "Alabama",
+    "Address": "105 US-80 East",
+    "City": "Demopolis",
+    "Zip": "36732",
+    "Phone": "(888) 264-2256",
+    "Website": "https://wbhm.org/feature/2020/can-get-tested-covid-19/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "1PM",
+    "NotesOther": "Email: covid19@bwwmh.com",
+    "Verified": true
+  },
+  {
     "Name": "DCH Regional Medical Center",
     "Notes": [
-      "Only for individuals with symptoms."
+      "For individuals with symptoms."
     ],
     "State": "Alabama",
     "Address": "809 University Blvd",
@@ -142,6 +293,79 @@
     "Verified": true
   },
   {
+    "Name": "Baptist Health - Montgomery",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "Alabama",
+    "Address": "2936 Marti Ln",
+    "City": "Montgomery",
+    "Zip": "36116",
+    "Phone": "(334) 747-0150",
+    "Website": "https://www.baptistfirst.org/services/coronavirus-care-clinic",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Baptist Health - Prattville",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "Alabama",
+    "Address": "350 County Rd 4 W",
+    "City": "Prattville",
+    "Zip": "36067",
+    "Phone": "(334) 747-0150",
+    "Website": "https://www.baptistfirst.org/services/coronavirus-care-clinic",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Hale County Hospital ",
+    "Notes": [
+      "Open to all."
+    ],
+    "State": "Alabama",
+    "Address": "100 Samuel O Moseley Dr",
+    "City": "Selma",
+    "Zip": "36701",
+    "Phone": "(334) 507-2291",
+    "Website": "https://halecountyhospital.com/covid19",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Elmore Community Hospital",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral."
+    ],
+    "State": "Alabama",
+    "Address": "500 Hospital Dr",
+    "City": "Wetumpka",
+    "Zip": "36092",
+    "Phone": "(334) 514-3713",
+    "Website": "https://ivycreekhealth.com/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "7AM",
+    "ClosesAt": "7PM",
+    "Verified": true
+  },
+  {
     "Name": "Lake Otis Pkwy & E 42nd",
     "Notes": [
       "Free.",
@@ -162,6 +386,807 @@
     ],
     "OpensAt": "9AM",
     "ClosesAt": "7PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Delta Junction Public Health Center",
+    "Notes": [
+      "Free."
+    ],
+    "State": "Alaska",
+    "Address": "Milepost 1420.5 Alaska Highway, second floor room 210",
+    "City": "Delta Junction",
+    "Zip": "99737",
+    "Phone": "907-895-4292",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "Noon",
+    "AltDaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "AltOpensAt": "1PM",
+    "AltClosesAt": "4:30PM",
+    "LocationType": [
+      "Walk-up"
+    ],
+    "NotesOther": "Patients are encouraged to contact their primary healthcare provider first. For patients who do not have access to a health system and qualify for testing; there is no fee to have this completed at this location",
+    "Verified": true
+  },
+  {
+    "Name": "Tok Public Health Center",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Alaska",
+    "Address": "1314 Alaska Highway ",
+    "City": "Tok",
+    "Zip": "99780",
+    "Phone": "907-883-4101",
+    "Website": "http://dhss.alaska.gov/dph/Nursing/Pages/Frontier%20Region%20Public%20Health%20Center%20Pages/Tok-Public-Health-Center.aspx",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "Noon",
+    "AltDaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "AltOpensAt": "1PM",
+    "AltClosesAt": "4:30PM",
+    "LocationType": [
+      "Walk-up"
+    ],
+    "NotesOther": "Please call for before going in for instructions and scheduling assistance. Patients are encouraged to contact their primary healthcare provider first. For patients who do not have access to a health system and qualify for testing; there is no fee to have this completed at this location ",
+    "Verified": true
+  },
+  {
+    "Name": "Iliuliuk Family and Health Services, Inc",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Alaska",
+    "Address": "248 Lavelle Ct ",
+    "City": "Unalaska",
+    "Zip": "99685",
+    "Phone": "(907)581-1202",
+    "Website": "http://www.ifhs.org/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8:30AM",
+    "ClosesAt": "6PM",
+    "AltDaysOfWeek": [
+      "Saturday"
+    ],
+    "AltOpensAt": "8AM",
+    "AltClosesAt": "1PM",
+    "LocationType": [
+      "Walk-up"
+    ],
+    "NotesOther": "Please call the clinic for scheduling and instructions before arriving. Clinic will bill insurance, co-pay may apply, sliding fee scale available ",
+    "Verified": true
+  },
+  {
+    "Name": "Urgent Care at Lake Lucille",
+    "Notes": [
+      "Open to all."
+    ],
+    "State": "Alaska",
+    "Address": "185 E Parks Highway",
+    "City": "Wasilla",
+    "Zip": "99654",
+    "Phone": "9073734200",
+    "Website": "https://www.urgentcarealaska.com/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "6PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "5PM",
+    "LocationType": [
+      "Walk-up"
+    ],
+    "NotesOther": "Please call before going in to the clinic for instructions. All patients will be assessed and screened for sample collection and testing as determined by the on-site proffesional medical staff. No appointment is neccesary. Telemedicine and non-covid care also available on-site as needed.",
+    "Verified": true
+  },
+  {
+    "Name": "SEARHC - Alaska Island Community Services (AICS) Medical Clinic",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Alaska",
+    "Address": "232 Wood Street ",
+    "City": "Wrangell",
+    "Zip": "99929",
+    "Phone": "(907) 966-8799",
+    "Website": "https://covid19.searhc.org/",
+    "DaysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "7PM",
+    "AltDaysOfWeek": [
+      "Friday"
+    ],
+    "AltOpensAt": "8AM",
+    "AltClosesAt": "4PM",
+    "LocationType": [
+      "Walk-up"
+    ],
+    "NotesOther": "Please call before going into this clinic for instructions and scheduling assistance.",
+    "Verified": true
+  },
+  {
+    "Name": "HonorHealth Medical Group",
+    "Notes": [
+      "Must have fever and other symptoms."
+    ],
+    "State": "Arizona",
+    "Address": "3648 W Anthem Way Ste A100",
+    "City": "Anthem",
+    "Zip": "85086",
+    "Phone": "(480) 587-6200",
+    "Website": "https://www.honorhealth.com/locations/primary-care/honorhealth-medical-group-gavilan-peak?utm_source=GMB&utm_medium=local&utm_campaign=Honorhealth_Medical_Group_Gavilan_Peak",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "7AM",
+    "ClosesAt": "7PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "If you believe you may have Coronavirus (COVID-19) or have respiratory symptoms including fever, coughing, or shortness of breath, please call the office or 480-587-6200 and they will direct you to the best place for care.",
+    "Verified": true
+  },
+  {
+    "Name": "NextCare Urgent Care",
+    "Notes": [
+      "For individuals with symptoms."
+    ],
+    "State": "Arizona",
+    "Address": "1683 E Florence Blvd",
+    "City": "Casa Grande",
+    "Zip": "85122",
+    "Phone": "(520) 876-0800",
+    "Website": "https://nextcare.com/curbside/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "8AM",
+    "AltClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "We recommend all patients book a time online at www.nextcare.com to help reduce your wait time at the clinic. To access curbside care please contact the clinic prior to visiting.",
+    "Verified": true
+  },
+  {
+    "Name": "NextCare Urgent Care",
+    "Notes": [
+      "For individuals with symptoms."
+    ],
+    "State": "Arizona",
+    "Address": "600 S Dobson Rd",
+    "City": "Chandler",
+    "Zip": "85224",
+    "Phone": "(480) 814-1560",
+    "Website": "https://nextcare.com/curbside/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "We recommend all patients book a time online at www.nextcare.com to help reduce your wait time at the clinic. To access curbside care please contact the clinic prior to visiting.",
+    "Verified": true
+  },
+  {
+    "Name": "NextCare Urgent Care",
+    "Notes": [
+      "For individuals with symptoms."
+    ],
+    "State": "Arizona",
+    "Address": "18589 N 59th Ave",
+    "City": "Glendale",
+    "Zip": "85308",
+    "Phone": "(602) 547-2600",
+    "Website": "https://nextcare.com/curbside/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "We recommend all patients book a time online at www.nextcare.com to help reduce your wait time at the clinic. To access curbside care please contact the clinic prior to visiting.",
+    "Verified": true
+  },
+  {
+    "Name": "NextCare Urgent Care",
+    "Notes": [
+      "For individuals with symptoms."
+    ],
+    "State": "Arizona",
+    "Address": "9494 W Northern Ave #101",
+    "City": "Glendale",
+    "Zip": "85305",
+    "Phone": "(623) 872-2226",
+    "Website": "https://nextcare.com/curbside/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "We recommend all patients book a time online at www.nextcare.com to help reduce your wait time at the clinic. To access curbside care please contact the clinic prior to visiting.",
+    "Verified": true
+  },
+  {
+    "Name": "NextCare Urgent Care",
+    "Notes": [
+      "For individuals with symptoms."
+    ],
+    "State": "Arizona",
+    "Address": "1066 N Power Rd. #101",
+    "City": "Mesa",
+    "Zip": "85205",
+    "Phone": "(480) 807-0130",
+    "Website": "https://nextcare.com/curbside/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "We recommend all patients book a time online at www.nextcare.com to help reduce your wait time at the clinic. To access curbside care please contact the clinic prior to visiting.",
+    "Verified": true
+  },
+  {
+    "Name": "NextCare Urgent Care",
+    "Notes": [
+      "For individuals with symptoms."
+    ],
+    "State": "Arizona",
+    "Address": "298 W Mariposa Rd",
+    "City": "Nogales",
+    "Zip": "85621",
+    "Phone": "(520) 394-7388",
+    "Website": "https://nextcare.com/curbside/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "We recommend all patients book a time online at www.nextcare.com to help reduce your wait time at the clinic. To access curbside care please contact the clinic prior to visiting.",
+    "Verified": true
+  },
+  {
+    "Name": "NextCare Urgent Care",
+    "Notes": [
+      "For individuals with symptoms."
+    ],
+    "State": "Arizona",
+    "Address": "5920 W McDowell Rd",
+    "City": "Phoenix",
+    "Zip": "85035",
+    "Phone": "(623) 245-0440",
+    "Website": "https://nextcare.com/curbside/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "We recommend all patients book a time online at www.nextcare.com to help reduce your wait time at the clinic. To access curbside care please contact the clinic prior to visiting.",
+    "Verified": true
+  },
+  {
+    "Name": "NextCare Urgent Care",
+    "Notes": [
+      "For individuals with symptoms."
+    ],
+    "State": "Arizona",
+    "Address": "1701 E Thomas Rd.",
+    "City": "Phoenix",
+    "Zip": "85016",
+    "Phone": "(602) 845-4445",
+    "Website": "https://nextcare.com/curbside/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "We recommend all patients book a time online at www.nextcare.com to help reduce your wait time at the clinic. To access curbside care please contact the clinic prior to visiting.",
+    "Verified": true
+  },
+  {
+    "Name": "NextCare Urgent Care ",
+    "Notes": [
+      "For individuals with symptoms."
+    ],
+    "State": "Arizona",
+    "Address": "34640 N North Valley Pkwy A104",
+    "City": "Phoenix",
+    "Zip": "85086",
+    "Neighborhood": "Tramonto Marketplace",
+    "Phone": "(623) 444-2001",
+    "Website": "https://nextcare.com/locations/az/tramonto-urgent-care/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "8AM",
+    "AltClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "NextCare is offering a Curbside Care program, which allows you to drive up, stay in your vehicle and let us come to you. We recommend all patients book a time online at https://nextcare.com/curbside. To access curbside care, please contact the clinic prior to visiting. Testing is dependent on availabilty of supplies which may vary daily depending on demand.",
+    "Verified": true
+  },
+  {
+    "Name": "NextCare Urgent Care",
+    "Notes": [
+      "For individuals with symptoms."
+    ],
+    "State": "Arizona",
+    "Address": "2122 N Scottsdale Rd",
+    "City": "Scottdale",
+    "Zip": "85257",
+    "Phone": "(480) 889-3570",
+    "Website": "https://nextcare.com/curbside/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "8AM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "We recommend all patients book a time online at www.nextcare.com to help reduce your wait time at the clinic. To access curbside care please contact the clinic prior to visiting.",
+    "Verified": true
+  },
+  {
+    "Name": "One Medical",
+    "Notes": [
+      "Requires phone screen.",
+      "By appointment only."
+    ],
+    "State": "Arizona",
+    "Address": "4539 N Goldwater Blvd",
+    "City": "Scottsdale",
+    "Zip": "85251",
+    "Phone": "(809) 419-2975",
+    "Website": "https://www.onemedical.com/covid-19-testing-locations/phx/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru",
+      "Walk-up"
+    ],
+    "NotesOther": "We want to do everything we can to help people through this difficult time, so we’re offering testing to anyone with COVID-19 (Coronavirus) concerns and a free 30-day trial membership — which includes free virtual care with our app.",
+    "Verified": true
+  },
+  {
+    "Name": "NextCare Urgent Care",
+    "Notes": [
+      "For individuals with symptoms."
+    ],
+    "State": "Arizona",
+    "Address": "6238 E Pima St",
+    "City": "Tucson",
+    "Zip": "85712",
+    "Phone": "(520) 290-0022",
+    "Website": "https://nextcare.com/curbside/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "We recommend all patients book a time online at www.nextcare.com to help reduce your wait time at the clinic. To access curbside care please contact the clinic prior to visiting.",
+    "Verified": true
+  },
+  {
+    "Name": "NextCare Urgent Care",
+    "Notes": [
+      "For individuals with symptoms."
+    ],
+    "State": "Arizona",
+    "Address": "9525 E Old Spanish Trail",
+    "City": "Tucson",
+    "Zip": "85748",
+    "Phone": "(520) 731-3666",
+    "Website": "https://nextcare.com/curbside/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "We recommend all patients book a time online at www.nextcare.com to help reduce your wait time at the clinic. To access curbside care please contact the clinic prior to visiting.",
+    "Verified": true
+  },
+  {
+    "Name": "NextCare Urgent Care",
+    "Notes": [
+      "For individuals with symptoms."
+    ],
+    "State": "Arizona",
+    "Address": "4280 N Oracle Rd",
+    "City": "Tucson",
+    "Zip": "85705",
+    "Phone": "(520) 887-0095",
+    "Website": "https://nextcare.com/curbside/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "We recommend all patients book a time online at www.nextcare.com to help reduce your wait time at the clinic. To access curbside care please contact the clinic prior to visiting.",
+    "Verified": true
+  },
+  {
+    "Name": "NextCare Urgent Care",
+    "Notes": [
+      "For individuals with symptoms."
+    ],
+    "State": "Arizona",
+    "Address": "5369 S Calle Santa Cruz",
+    "City": "Tucson",
+    "Zip": "85706",
+    "Phone": "520-573-7500",
+    "Website": "https://nextcare.com/curbside/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "We recommend all patients book a time online at www.nextcare.com to help reduce your wait time at the clinic. To access curbside care please contact the clinic prior to visiting.",
+    "Verified": true
+  },
+  {
+    "Name": "NextCare Urgent Care",
+    "Notes": [
+      "For individuals with symptoms."
+    ],
+    "State": "Arizona",
+    "Address": "1570 E Tucson Marketplace Blvd",
+    "City": "Tucson",
+    "Zip": "85713",
+    "Phone": "(520) 301-2300",
+    "Website": "https://nextcare.com/curbside/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "We recommend all patients book a time online at www.nextcare.com to help reduce your wait time at the clinic. To access curbside care please contact the clinic prior to visiting.",
+    "Verified": true
+  },
+  {
+    "Name": "UAMS Health",
+    "Notes": [
+      "For individuals with symptoms.",
+      "Limited test kits available."
+    ],
+    "State": "Arkansas",
+    "Address": "Shuffield Drive & Jack Stephens Drive",
+    "City": "Little Rock",
+    "Zip": "72205",
+    "Phone": "(800) 632-4502",
+    "Website": "https://uamshealth.com/location/covid-19-drive-thru-screening/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Carbon Health Urgent Care",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "California",
+    "Address": "2920 Telegraph Ave",
+    "City": "Berkeley",
+    "Zip": "94705",
+    "Phone": "(510) 686-3621",
+    "Website": "https://carbonhealth.com/berkeley",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "7PM",
+    "LocationType": [
+      "Drive-thru",
+      "Walk-in"
+    ],
+    "NotesOther": "Offers rapid coronavirus testing",
+    "Verified": true
+  },
+  {
+    "Name": "Contra Costa Public Health Services",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Requires phone screen.",
+      "For individuals with symptoms."
+    ],
+    "State": "California",
+    "Address": "2500 Bates Ave",
+    "City": "Concord",
+    "Zip": "94520",
+    "Phone": "844-421-0804",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "3:30PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Solano County Health & Social Services",
+    "Notes": [
+      "By appointment only.",
+      "Prioritizes health care workers.",
+      "Requires phone screen.",
+      "Free."
+    ],
+    "State": "California",
+    "Address": "2101 Courage Dr",
+    "City": "Fairfield",
+    "Zip": "94533",
+    "Phone": "(707) 784-8655",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "4:30PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Limited appointment slots",
+    "Verified": true
+  },
+  {
+    "Name": "Fremont Fire Tactical Training Center",
+    "Notes": [
+      "By appointment only.",
+      "Must have fever and other symptoms.",
+      "Limited test kits available."
+    ],
+    "State": "California",
+    "Address": "7200 Stevenson Blvd",
+    "City": "Fremont",
+    "Zip": "94538",
+    "Phone": "(510) 494-4200",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "5PM",
     "LocationType": [
       "Drive-thru"
     ],
@@ -204,6 +1229,37 @@
       "Drive-thru"
     ],
     "NotesOther": "Download form to have your doctor order the test",
+    "Verified": true
+  },
+  {
+    "Name": "Hayward CSUEB",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Prioritizes health care workers.",
+      "Requires phone screen.",
+      "For individuals with symptoms.",
+      "Free."
+    ],
+    "State": "California",
+    "Address": "25800 Carlos Bee Blvd",
+    "City": "Hayward",
+    "Zip": "94542",
+    "Phone": "(510) 583-4949",
+    "DaysOfWeek": [
+      "Friday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "6PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Parking lot A on West Loop Rd",
     "Verified": true
   },
   {
@@ -259,7 +1315,7 @@
     "Name": "Diamond Stadium Lot C",
     "Notes": [
       "By appointment only.",
-      "Only for individuals with symptoms."
+      "For individuals with symptoms."
     ],
     "State": "California",
     "Address": "500 Diamond Dr",
@@ -287,7 +1343,7 @@
     "Name": "Hansen Dam",
     "Notes": [
       "By appointment only.",
-      "Only for individuals with symptoms."
+      "For individuals with symptoms."
     ],
     "State": "California",
     "Address": "11798 Foothill Blvd",
@@ -305,7 +1361,7 @@
     "Name": "High Desert Medical Group Office",
     "Notes": [
       "By appointment only.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Free."
     ],
     "State": "California",
@@ -362,7 +1418,7 @@
   {
     "Name": "Hotchkins Memorial Training Center",
     "Notes": [
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Employees only."
     ],
     "State": "California",
@@ -385,7 +1441,7 @@
     "Name": "Crenshaw Christian Center",
     "Notes": [
       "By appointment only.",
-      "Only for individuals with symptoms."
+      "For individuals with symptoms."
     ],
     "State": "California",
     "Address": "7901 S. Vermont Avenue",
@@ -482,6 +1538,33 @@
     "Verified": true
   },
   {
+    "Name": "Martinez Health Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Requires phone screen.",
+      "For individuals with symptoms."
+    ],
+    "State": "California",
+    "Address": "2500 Alhambra Ave",
+    "City": "Martinez",
+    "Zip": "94553",
+    "Phone": "844-421-0804",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "3:30PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
     "Name": "Northridge Hospital Medical Center",
     "Notes": [
       "By appointment only."
@@ -519,6 +1602,61 @@
     "OnlineBooking": true,
     "OpensAt": "9AM",
     "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Antelope Valley Mall",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "California",
+    "Address": "1233 Rancho Vista Boulevard",
+    "City": "Palmdale Ca",
+    "Zip": "93551",
+    "Neighborhood": "Palmdale",
+    "Website": "https://lacovidprod.service-now.com/rrs",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9 am",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Pittsburg Health Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Requires phone screen.",
+      "For individuals with symptoms."
+    ],
+    "State": "California",
+    "Address": "2311 Loveridge Rd",
+    "City": "Pittsburg",
+    "Zip": "94565",
+    "Phone": "844-421-0804",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "3:30PM",
     "LocationType": [
       "Drive-thru"
     ],
@@ -570,10 +1708,37 @@
     "Verified": true
   },
   {
+    "Name": "South Bay Galleria",
+    "Notes": [
+      "By appointment only.",
+      "For high risk individuals."
+    ],
+    "State": "California",
+    "Address": "1815 Hawthorne Blvd",
+    "City": "Redondo Beach",
+    "Zip": "90278",
+    "Neighborhood": "Redondo Beach",
+    "Website": "https://lacovidprod.service-now.com/rrs",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
     "Name": "Harvest Christian Fellowship Church",
     "Notes": [
       "By appointment only.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Open to all.",
       "Other"
     ],
@@ -614,6 +1779,86 @@
       "Drive-thru"
     ],
     "NotesOther": "Drive-ups without an appointment will not be tested",
+    "Verified": true
+  },
+  {
+    "Name": "San Francisco General",
+    "Notes": [
+      "Requires doctor's referral.",
+      "By appointment only."
+    ],
+    "State": "California",
+    "Address": "1001 Potrero Ave",
+    "City": "San Francisco",
+    "Zip": "94110",
+    "Phone": "(628) 206-8000",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "6PM",
+    "LocationType": [
+      "Drive-thru",
+      "Walk-up"
+    ],
+    "NotesOther": "Parking lot at 23rd and Potrero",
+    "Verified": true
+  },
+  {
+    "Name": "West County Health Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Requires phone screen.",
+      "For individuals with symptoms."
+    ],
+    "State": "California",
+    "Address": "13601 San Pablo Ave",
+    "City": "San Pablo",
+    "Zip": "94806",
+    "Phone": "844-421-0804",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "3:30PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "PIH Health Whittier Hospital ",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "California",
+    "Address": "12401 Washington Blvd",
+    "City": "Whittier",
+    "Zip": "90602",
+    "Neighborhood": "Whittier",
+    "Website": "https://lacovidprod.service-now.com/rrs",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
     "Verified": true
   },
   {
@@ -790,6 +2035,247 @@
     "Verified": true
   },
   {
+    "Name": "Beebe Healthcare Long Neck",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Requires phone screen."
+    ],
+    "State": "Delaware",
+    "Address": "32060 Long Neck Rd",
+    "City": "Millsboro",
+    "Zip": "19966",
+    "Neighborhood": "Millsboro",
+    "Phone": "(302) 645-3200",
+    "Website": "https://www.beebehealthcare.org/patients-visitors/screening-testing-treatment-beebe",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "ChristianaCare - Physician Referral Center – HCCC",
+    "Notes": [
+      "Requires doctor's referral.",
+      "Prioritizes health care workers.",
+      "Other"
+    ],
+    "State": "Delaware",
+    "Address": "200 Hygeia Drive",
+    "City": "Newark",
+    "Zip": "19713",
+    "Neighborhood": "Newark",
+    "Website": "https://christianacare.org/services/covid-19-testing-locations/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "1PM",
+    "AltDaysOfWeek": [
+      "Sunday"
+    ],
+    "AltOpensAt": "Noon",
+    "AltClosesAt": "2PM",
+    "NotesOther": "Health Care Workers only: 8-9 a.m. on M-F , and Sundays 10 a.m. – noon.",
+    "Verified": true
+  },
+  {
+    "Name": "ChristianaCare -  Physician Referral Center – Wilmington SurgiCenter",
+    "Notes": [
+      "Requires doctor's referral."
+    ],
+    "State": "Delaware",
+    "Address": "625 W 12th St",
+    "City": "Wilmington",
+    "Zip": "19801",
+    "Neighborhood": "Wilmington",
+    "Website": "https://christianacare.org/services/covid-19-testing-locations/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Wednesday"
+    ],
+    "OpensAt": "7AM",
+    "ClosesAt": "1PM",
+    "Verified": true
+  },
+  {
+    "Name": "Saint Francis Healthcare",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Requires phone screen."
+    ],
+    "State": "Delaware",
+    "Address": "701 N Clayton St",
+    "City": "Wilmington",
+    "Zip": "19805",
+    "Neighborhood": "Wilmington",
+    "Phone": "1-866-408-1899",
+    "Website": "https://www.stfrancishealthcare.org/patients-visitors/patient-safety-quality/coronavirus-update/",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "AllCare Family Medical",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "District Of Columbia",
+    "Address": "1710 Rhode Island Ave NW",
+    "City": "Washington, DC",
+    "Zip": "20036",
+    "Phone": "202-787-1979",
+    "Website": "https://allcarefamilymed.com/coronavirus",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "6PM",
+    "ClosesAt": "6:30PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "1PM",
+    "AltClosesAt": "1:30PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Trinity University",
+    "Notes": [
+      "Requires doctor's referral."
+    ],
+    "State": "District Of Columbia",
+    "Address": "125 Michigan Ave. NE",
+    "City": "Washington, DC",
+    "Zip": "20017",
+    "Website": "https://childrensnational.org/visit/schedule-an-appointment",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Thursday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "2PM",
+    "LocationType": [
+      "Drive-thru",
+      "Walk-up"
+    ],
+    "NotesOther": "MAY 21 ONLY, For people aged 22 years or younger. Conducted by Children's National Hospital",
+    "Verified": true
+  },
+  {
+    "Name": "Kaiser Permanente Capitol Hill Medical Center",
+    "Notes": [
+      "For previously established patients only.",
+      "Requires doctor's referral."
+    ],
+    "State": "District Of Columbia",
+    "Address": "700 2nd St. NE",
+    "City": "Washington, DC",
+    "Zip": "20002",
+    "Website": "https://healthy.kaiserpermanente.org",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru",
+      "Walk-up"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "George Washington Hospital",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral."
+    ],
+    "State": "District Of Columbia",
+    "Address": "900 23rd St NW",
+    "City": "Washington, DC",
+    "Zip": "20037",
+    "Phone": "202-741-2765",
+    "Website": "https://forms.office.com/Pages/ResponsePage.aspx?id=dQGE_kV4nkCNB_KAPn0qAb-4-UmmFghJiaKcnpuPSmJUN08wR043V09aWDRBVjMwSFpYVzM3QkMxNS4u",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9:30AM",
+    "ClosesAt": "3:30PM",
+    "LocationType": [
+      "Drive-thru",
+      "Walk-up"
+    ],
+    "NotesOther": "If you have a non-GW provider please call 202-741-3595 and fill out the form",
+    "Verified": true
+  },
+  {
+    "Name": "United Medical Center",
+    "Notes": [
+      "Local residents only.",
+      "Requires doctor's referral.",
+      "By appointment only.",
+      "Prioritizes health care workers."
+    ],
+    "State": "District Of Columbia",
+    "Address": "1310 Southern Ave. SE",
+    "City": "Washington, DC",
+    "Zip": "20032",
+    "Phone": "855-363-0333",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "UDC-CC Bertie Backus Campus",
+    "Notes": [
+      "By appointment only.",
+      "Local residents only.",
+      "Open to all."
+    ],
+    "State": "District Of Columbia",
+    "Address": "5171 South Dakota Ave. NE",
+    "City": "Washington, DC",
+    "Zip": "20017",
+    "Phone": "(855) 363-0333",
+    "DaysOfWeek": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
     "Name": "Aventura Mall Parking Garage",
     "Notes": [
       "By appointment only.",
@@ -847,7 +2333,7 @@
       "By appointment only.",
       "Requires phone screen.",
       "For previously established patients only.",
-      "Only for individuals with symptoms."
+      "For individuals with symptoms."
     ],
     "State": "Florida",
     "Address": "799 W Lumsden Rd",
@@ -888,7 +2374,7 @@
   {
     "Name": "South Dade Government Center",
     "Notes": [
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "By appointment only."
     ],
     "State": "Florida",
@@ -905,7 +2391,7 @@
   {
     "Name": "Loren Roberts Park",
     "Notes": [
-      "Only for individuals with direct and unprotected exposure to a known positive case."
+      "For individuals with direct and unprotected exposure to a known positive case."
     ],
     "State": "Florida",
     "Address": "627 NW Sixth Ave",
@@ -926,7 +2412,7 @@
   {
     "Name": "Urban League",
     "Notes": [
-      "Only for individuals with symptoms."
+      "For individuals with symptoms."
     ],
     "State": "Florida",
     "Address": "560 NW 27 Ave",
@@ -953,7 +2439,7 @@
     "Name": "Amelia Earhart Park",
     "Notes": [
       "By appointment only.",
-      "Only for individuals with symptoms."
+      "For individuals with symptoms."
     ],
     "State": "Florida",
     "Address": "401 E 65th St",
@@ -982,7 +2468,7 @@
       "By appointment only.",
       "Prioritizes health care workers.",
       "Prioritizes first responders.",
-      "Only for individuals with symptoms."
+      "For individuals with symptoms."
     ],
     "State": "Florida",
     "Address": "1475 W 49th St",
@@ -1010,7 +2496,7 @@
   {
     "Name": "Martin Luther King Jr. Clinica Campesina Health Center",
     "Notes": [
-      "Only for individuals with direct and unprotected exposure to a known positive case."
+      "For individuals with direct and unprotected exposure to a known positive case."
     ],
     "State": "Florida",
     "Address": "810 W Mowry Dr",
@@ -1106,7 +2592,7 @@
     "Name": "Laurel Civic Association",
     "Notes": [
       "By appointment only.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Limited test kits available."
     ],
     "State": "Florida",
@@ -1119,19 +2605,21 @@
       "Thursday"
     ],
     "OpensAt": "8AM",
+    "Closed": true,
     "ClosesAt": "Noon",
     "LocationType": [
       "Drive-thru"
     ],
     "NotesOther": "50 tests, April 23 ONLY",
-    "Verified": true
+    "Verified": true,
+    "LastClosedUpdate": "2020-04-29"
   },
   {
     "Name": "Marathon Community Park",
     "Notes": [
       "Local residents only.",
       "By appointment only.",
-      "Only for individuals with symptoms."
+      "For individuals with symptoms."
     ],
     "State": "Florida",
     "Address": "200 City Marina",
@@ -1149,7 +2637,7 @@
     "Notes": [
       "Local residents only.",
       "By appointment only.",
-      "Only for individuals with symptoms."
+      "For individuals with symptoms."
     ],
     "State": "Florida",
     "Address": "2805 Overseas Highway",
@@ -1173,7 +2661,7 @@
       "By appointment only.",
       "Free.",
       "For all members of the community.",
-      "Only for individuals with symptoms."
+      "For individuals with symptoms."
     ],
     "State": "Florida",
     "Address": "1350 NW 50th St",
@@ -1205,7 +2693,7 @@
   {
     "Name": "Marlins Park",
     "Notes": [
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "By appointment only."
     ],
     "State": "Florida",
@@ -1233,7 +2721,7 @@
     "Name": "Miami-Dade County Fairgrounds",
     "Notes": [
       "By appointment only.",
-      "Only for individuals with symptoms."
+      "For individuals with symptoms."
     ],
     "State": "Florida",
     "Address": "SW 107th Ave & SW 20th St",
@@ -1353,7 +2841,7 @@
     "Name": "Heron Creek Middle School",
     "Notes": [
       "By appointment only.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Limited test kits available."
     ],
     "State": "Florida",
@@ -1366,17 +2854,19 @@
       "Friday"
     ],
     "OpensAt": "9AM",
+    "Closed": true,
     "ClosesAt": "1PM",
     "LocationType": [
       "Drive-thru"
     ],
     "NotesOther": "50 tests, April 24 ONLY",
-    "Verified": true
+    "Verified": true,
+    "LastClosedUpdate": "2020-04-29"
   },
   {
     "Name": "Orange County Convention Center",
     "Notes": [
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Limited test kits available.",
       "Prioritizes first responders.",
       "Free."
@@ -1406,8 +2896,8 @@
     "Name": "Mall at Millenia",
     "Notes": [
       "By appointment only.",
-      "Only for individuals with symptoms.",
-      "Only for individuals with direct and unprotected exposure to a known positive case."
+      "For individuals with symptoms.",
+      "For individuals with direct and unprotected exposure to a known positive case."
     ],
     "State": "Florida",
     "Address": "4200 Conroy Rd",
@@ -1487,7 +2977,7 @@
   {
     "Name": "FoundCare",
     "Notes": [
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Limited test kits available.",
       "By appointment only."
     ],
@@ -1519,7 +3009,7 @@
   {
     "Name": "C.B. Smith Park",
     "Notes": [
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Prioritizes health care workers.",
       "Prioritizes first responders."
     ],
@@ -1671,7 +3161,7 @@
   {
     "Name": "Mitchell Moore Park",
     "Notes": [
-      "Only for individuals with symptoms."
+      "For individuals with symptoms."
     ],
     "State": "Florida",
     "Address": "901 NW 10 St",
@@ -1726,7 +3216,7 @@
     "Name": " R L Taylor Community Center",
     "Notes": [
       "By appointment only.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Limited test kits available."
     ],
     "State": "Florida",
@@ -1739,12 +3229,14 @@
       "Tuesday"
     ],
     "OpensAt": "8AM",
+    "Closed": true,
     "ClosesAt": "Noon",
     "LocationType": [
       "Drive-thru"
     ],
     "NotesOther": "50 tests, April 21 ONLY",
-    "Verified": true
+    "Verified": true,
+    "LastClosedUpdate": "2020-04-29"
   },
   {
     "Name": "Avecina Medical",
@@ -1812,7 +3304,7 @@
       "By appointment only.",
       "Requires phone screen.",
       "For previously established patients only.",
-      "Only for individuals with symptoms."
+      "For individuals with symptoms."
     ],
     "State": "Florida",
     "Address": "4505 Gunn Highway",
@@ -1953,7 +3445,7 @@
     "Name": "Georgia Tech",
     "Notes": [
       "By appointment only.",
-      "Only for individuals with symptoms."
+      "For individuals with symptoms."
     ],
     "State": "Georgia",
     "Address": "352 Peachtree Place",
@@ -1975,7 +3467,7 @@
       "Requires doctor's referral.",
       "Prioritizes health care workers.",
       "Prioritizes first responders.",
-      "Only for individuals with symptoms."
+      "For individuals with symptoms."
     ],
     "State": "Georgia",
     "Address": "8830 Gurley Rd",
@@ -1991,7 +3483,7 @@
     "Name": "Gwinnett, Newton & Rockdale County Health Department",
     "Notes": [
       "By appointment only.",
-      "Only for individuals with symptoms."
+      "For individuals with symptoms."
     ],
     "State": "Georgia",
     "Address": "2570 Riverside Pkw",
@@ -2020,7 +3512,7 @@
     "Name": "Jim Miller Park",
     "Notes": [
       "By appointment only.",
-      "Only for high risk individuals."
+      "For high risk individuals."
     ],
     "State": "Georgia",
     "Address": "2245 Callaway Rd SW",
@@ -2088,7 +3580,7 @@
     "Name": "Piedmont Athens",
     "Notes": [
       "By appointment only.",
-      "Only for individuals with symptoms."
+      "For individuals with symptoms."
     ],
     "State": "Georgia",
     "Address": "1305 Jennings Mill Rd",
@@ -2104,6 +3596,410 @@
     ],
     "OpensAt": "9AM",
     "ClosesAt": "3PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Pali Momi Medical Center",
+    "State": "Hawaii",
+    "Address": "98-1079 Moanalua Rd",
+    "City": "Aiea",
+    "Zip": "96701",
+    "Website": "https://www.hawaiipacifichealth.org/hph-covid-19-updates/covid-19-testing/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Pali Momi Medical Center",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Hawaii",
+    "Address": "98-1079 Moanalua Rd",
+    "City": "Aiea",
+    "Zip": "96701",
+    "Phone": "(808) 462-5430",
+    "Website": "https://www.hawaiipacifichealth.org/hph-covid-19-updates/covid-19-testing/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "5PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "10AM",
+    "AltClosesAt": "3PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true,
+    "PhoneExtension": "2"
+  },
+  {
+    "Name": "Kaiser Permanente",
+    "Notes": [
+      "Other",
+      "Requires phone screen."
+    ],
+    "State": "Hawaii",
+    "City": "Call for location",
+    "Phone": "Oahu: 808-432-2000, Maui/Molokai/Lanai: 808-243-6000 Hawaii Island: 808-334-4400",
+    "Website": "https://healthy.kaiserpermanente.org/hawaii/health-wellness/coronavirus-information?kp_shortcut_referrer=kp.org/coronavirus",
+    "LocationType": [
+      "Drive-thru",
+      "Walk-up"
+    ],
+    "NotesOther": "Kaiser insurance holders only",
+    "Verified": true
+  },
+  {
+    "Name": "Kapiolani Medical Center",
+    "State": "Hawaii",
+    "Address": "1319 Punahou St",
+    "City": "Honolulu",
+    "Zip": "96826",
+    "Website": "https://www.hawaiipacifichealth.org/hph-covid-19-updates/covid-19-testing/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Straub Medical Center",
+    "State": "Hawaii",
+    "Address": "888 S King St",
+    "City": "Honolulu",
+    "Zip": "96813",
+    "Website": "https://www.hawaiipacifichealth.org/hph-covid-19-updates/covid-19-testing/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Tripler Army Medical Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Requires phone screen."
+    ],
+    "State": "Hawaii",
+    "Address": "1 Jarrett White Rd, Medical Center",
+    "City": "Honolulu",
+    "Zip": "96859",
+    "Phone": "(800) 874-2273",
+    "Website": "https://www.tamc.amedd.army.mil/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "6:30AM",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Walk-up"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Kapiʻolani Medical Center for Women & Children",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Hawaii",
+    "Address": "1319 Punahou St",
+    "City": "Honolulu",
+    "Zip": "96826",
+    "Phone": "(808) 462-5430",
+    "Website": "https://www.hawaiipacifichealth.org/hph-covid-19-updates/covid-19-testing/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "5PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "10AM",
+    "AltClosesAt": "3PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true,
+    "PhoneExtension": "2"
+  },
+  {
+    "Name": "Straub Medical Center",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Hawaii",
+    "Address": "888 S King St",
+    "City": "Honolulu",
+    "Zip": "96813",
+    "Phone": "(808) 462-5430",
+    "Website": "https://www.hawaiipacifichealth.org/hph-covid-19-updates/covid-19-testing/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "5PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "10AM",
+    "AltClosesAt": "3PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true,
+    "PhoneExtension": "2"
+  },
+  {
+    "Name": "Queen’s Medical Center",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Hawaii",
+    "Address": "1301 Punchbowl St",
+    "City": "Honolulu",
+    "Zip": "96813",
+    "Neighborhood": "Punchbowl",
+    "Phone": "(808) 691-2619",
+    "Website": "https://www.queens.org/covid19/home",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "6PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Ali'i Health",
+    "Notes": [
+      "Open to all."
+    ],
+    "State": "Hawaii",
+    "Address": "78-6831 Alii Drive",
+    "City": "Kailua-Kona",
+    "Zip": "96740",
+    "Neighborhood": "Keauhou Shopping Center",
+    "Phone": "(808) 747-8321",
+    "Website": "https://www.kona-kohala.com/events/details/covid-19-drive-through-testing-in-kona-at-the-keauhou-shopping-center-05-07-2020-3621",
+    "DaysOfWeek": [
+      "Monday",
+      "Thursday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "These free clinics are open to the public. However, individuals must first undergo a screening to determine if they meet the criteria to be tested.  Clinic physicians on site will make the determination regarding testing.  The screening criteria will be based on the guidance of the CDC and the State?s COVID-19 Response Task Force.",
+    "Verified": true,
+    "PhoneExtension": "Option 5 to be screened and expedite testing."
+  },
+  {
+    "Name": "Windward Urgent Care",
+    "Notes": [
+      "Must have fever and other symptoms.",
+      "For individuals with symptoms."
+    ],
+    "State": "Hawaii",
+    "Address": "45-1141 Kamehameha Hwy",
+    "City": "Kaneohe",
+    "Zip": "96744",
+    "Phone": "(808) 234-1094 / (808) 236-8040",
+    "Website": "http://windwardurgentcare.com/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "9PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Molokai General Hospital",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Hawaii",
+    "Address": "280 Home Olu Pl",
+    "City": "Kaunakakai",
+    "Zip": "96748",
+    "Phone": "(808) 691-2619",
+    "Website": "https://www.queens.org/molokai/molokai-general-hospital",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "6PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Tripler Army Medical Center",
+    "Notes": [
+      "For individuals with symptoms.",
+      "For previously established patients only."
+    ],
+    "State": "Hawaii",
+    "Address": "1 Jarrett White Rd",
+    "City": "Oahu",
+    "Zip": " 96859",
+    "Phone": "(800) 874-2273",
+    "Website": "https://www.tamc.amedd.army.mil/ddhc/currentoperations.htm",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "11AM",
+    "ClosesAt": "5PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "7AM",
+    "AltClosesAt": "6:30PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "North Hawaii Community Hospital",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Hawaii",
+    "Address": "67-1125 Mamalahoa Hwy",
+    "City": "Waimea",
+    "Zip": "96743",
+    "Phone": "(808) 691-2619",
+    "Website": "https://www.queens.org/north-hawaii/north-hawaii-community-hospital",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "6PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Queen’s Medical Center",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "Hawaii",
+    "Address": "91-2141 Fort Weaver Rd",
+    "City": "West Oahu",
+    "Zip": "96706",
+    "Neighborhood": "Ewa Beach",
+    "Phone": "(808) 691-2619",
+    "Website": "https://www.queens.org/covid19/west-oahu",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "6PM",
     "LocationType": [
       "Drive-thru"
     ],
@@ -2141,12 +4037,59 @@
     "Verified": true
   },
   {
-    "Name": "Physicians Immediate Care",
+    "Name": "Mountain View Hospital",
     "Notes": [
-      "Must have fever and other symptoms.",
+      "By appointment only.",
+      "Requires referral from a primary health provider.",
+      "For individuals with symptoms."
+    ],
+    "State": "Idaho",
+    "Address": "2325 Coronado St",
+    "City": "Idaho Falls",
+    "Zip": "83404",
+    "Phone": "(208) 557-2700",
+    "Verified": true
+  },
+  {
+    "Name": "Midwest Express Clinic",
+    "Notes": [
       "Prioritizes health care workers.",
       "Prioritizes first responders.",
-      "Only for individuals with direct and unprotected exposure to a known positive case.",
+      "Requires phone screen.",
+      "For high risk individuals.",
+      "For individuals with symptoms.",
+      "Limited test kits available.",
+      "By appointment only."
+    ],
+    "State": "Illinois",
+    "Address": "2070 N, IL-50 #500",
+    "City": "Bourbonnais",
+    "Zip": "60914",
+    "Phone": "(779) 236-4094",
+    "Website": "https://midwestexpressclinic.com/locations/bourbonnais-il/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Physicians Immediate Care",
+    "Notes": [
+      "For individuals with symptoms.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
       "Open to all."
     ],
     "State": "Illinois",
@@ -2178,10 +4121,44 @@
     "Verified": true
   },
   {
+    "Name": "Midwest Express Clinic",
+    "Notes": [
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "Requires phone screen.",
+      "For high risk individuals.",
+      "For individuals with symptoms.",
+      "Limited test kits available.",
+      "By appointment only."
+    ],
+    "State": "Illinois",
+    "Address": "1520 N Damen Ave",
+    "City": "Chicago",
+    "Zip": "60622",
+    "Neighborhood": "Bucktown / Wicker Park",
+    "Phone": "(312) 283-5560",
+    "Website": "https://midwestexpressclinic.com/locations/bucktown-wicker-park-chicago-il-urgent-care/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
     "Name": "Physicians Immediate Care",
     "Notes": [
-      "Must have fever and other symptoms.",
-      "Only for individuals with direct and unprotected exposure to a known positive case.",
+      "For individuals with symptoms.",
       "Prioritizes health care workers.",
       "Prioritizes first responders.",
       "Open to all."
@@ -2218,7 +4195,7 @@
     "Name": "UChicago Medicine",
     "Notes": [
       "By appointment only.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "For all members of the community.",
       "Free.",
       "Requires phone screen."
@@ -2245,8 +4222,7 @@
   {
     "Name": "Physicians Immediate Care",
     "Notes": [
-      "Must have fever and other symptoms.",
-      "Only for individuals with direct and unprotected exposure to a known positive case.",
+      "For individuals with symptoms.",
       "Prioritizes health care workers.",
       "Prioritizes first responders.",
       "Open to all."
@@ -2282,8 +4258,7 @@
   {
     "Name": "Physicians Immediate Care",
     "Notes": [
-      "Must have fever and other symptoms.",
-      "Only for individuals with direct and unprotected exposure to a known positive case.",
+      "For individuals with symptoms.",
       "Prioritizes health care workers.",
       "Prioritizes first responders.",
       "Open to all."
@@ -2311,10 +4286,9 @@
     "Verified": true
   },
   {
-    "Name": "Physicians Immediate Care copy",
+    "Name": "Physicians Immediate Care",
     "Notes": [
-      "Must have fever and other symptoms.",
-      "Only for individuals with direct and unprotected exposure to a known positive case.",
+      "For individuals with symptoms.",
       "Prioritizes health care workers.",
       "Prioritizes first responders.",
       "Open to all."
@@ -2336,6 +4310,868 @@
     ],
     "OpensAt": "8AM",
     "ClosesAt": "4:30PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Midwest Express Clinic",
+    "Notes": [
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "Requires phone screen.",
+      "For high risk individuals.",
+      "For individuals with symptoms.",
+      "Limited test kits available.",
+      "By appointment only."
+    ],
+    "State": "Illinois",
+    "Address": "3258 W 111th St",
+    "City": "Chicago",
+    "Zip": "60655",
+    "Neighborhood": "Mount Greenwood",
+    "Phone": "(773) 629-8217",
+    "Website": "https://midwestexpressclinic.com/locations/mount-greenwood-chicago-il/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Physicians Immediate Care",
+    "Notes": [
+      "For individuals with symptoms.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "Open to all."
+    ],
+    "State": "Illinois",
+    "Address": "3909 N. Western Ave",
+    "City": "Chicago",
+    "Zip": "60618",
+    "Neighborhood": "North Center",
+    "Phone": "(773) 739-9200",
+    "Website": "https://physiciansimmediatecare.com/clinic/north-center/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "4:30PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Physicians Immediate Care",
+    "Notes": [
+      "For individuals with symptoms.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "Open to all."
+    ],
+    "State": "Illinois",
+    "Address": "121 W. North Avenue",
+    "City": "Chicago",
+    "Zip": "60610",
+    "Neighborhood": "Old Town",
+    "Phone": "(312) 643-5606",
+    "Website": "https://physiciansimmediatecare.com/clinic/old-town/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "4:30PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Midwest Express Clinic",
+    "Notes": [
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "Requires phone screen.",
+      "For high risk individuals.",
+      "For individuals with symptoms.",
+      "Limited test kits available.",
+      "By appointment only."
+    ],
+    "State": "Illinois",
+    "Address": "3301 N Ashland Ave",
+    "City": "Chicago",
+    "Zip": "60657",
+    "Neighborhood": "Roscoe Village",
+    "Phone": "(312) 429-5725",
+    "Website": "https://midwestexpressclinic.com/locations/roscoe-village-chicago-il-urgent-care/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Physicians Immediate Care",
+    "Notes": [
+      "For individuals with symptoms.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "Open to all."
+    ],
+    "State": "Illinois",
+    "Address": "4211 North Cicero Avenue (Six Corners Medical Center)",
+    "City": "Chicago",
+    "Zip": "60641",
+    "Neighborhood": "Six Corners",
+    "Phone": "(773) 794-1000",
+    "Website": "https://physiciansimmediatecare.com/clinic/six-corners/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "6PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "8AM",
+    "AltClosesAt": "2PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Walmart Joliet - Parking Lot",
+    "Notes": [
+      "By appointment only.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "For individuals with symptoms.",
+      "Free."
+    ],
+    "State": "Illinois",
+    "Address": "2424 W Jefferson St",
+    "City": "Joliet",
+    "Zip": "60435",
+    "Website": "https://www.doineedacovid19test.com/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9:30AM",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Midwest Express Clinic",
+    "Notes": [
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "Requires phone screen.",
+      "For high risk individuals.",
+      "For individuals with symptoms.",
+      "Limited test kits available.",
+      "By appointment only."
+    ],
+    "State": "Illinois",
+    "Address": "9735 Skokie Blvd",
+    "City": "Skokie",
+    "Zip": "60077",
+    "Phone": "(847) 380-8969",
+    "Website": "https://midwestexpressclinic.com/locations/skokie-il-urgent-care/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Edward-Elmhurst Health Corporate Center",
+    "Notes": [
+      "Requires referral from a primary health provider."
+    ],
+    "State": "Illinois",
+    "Address": "4201 Winfield Rd",
+    "City": "Warrenville",
+    "Zip": "60555",
+    "Website": "https://www.eehealth.org/coronavirus/#cvsection4",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9 am",
+    "ClosesAt": "3PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Midwest Express Clinic",
+    "Notes": [
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "Requires phone screen.",
+      "For high risk individuals.",
+      "For individuals with symptoms.",
+      "Limited test kits available.",
+      "By appointment only."
+    ],
+    "State": "Illinois",
+    "Address": "40 75th St",
+    "City": "Willowbrook",
+    "Zip": "60527",
+    "Phone": "(630) 581-5372",
+    "Website": "https://midwestexpressclinic.com/locations/willowbrook-il/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Franciscan Health",
+    "Notes": [
+      "Requires doctor's referral.",
+      "Patients only."
+    ],
+    "State": "Indiana",
+    "Address": "301 West Homer Street",
+    "City": "Indiana",
+    "Zip": "46360",
+    "Phone": "(219) 877-1474",
+    "Website": "https://www.franciscanhealth.org/news-and-events/news/new-visitor-restrictions-covid-19-testing-begin-franciscan-health-michigan-city",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Boone County Family Medicine Walk-In Clinic",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Iowa",
+    "Address": " 120 S Story St",
+    "City": "Boone",
+    "Zip": "50036",
+    "Phone": "(515) 433-8585",
+    "Website": "https://www.boonehospital.com/services/boone-county-family-medicine",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "8PM",
+    "AltDaysOfWeek": [
+      "Saturday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "7PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true,
+    "Alt2DaysOfWeek": [
+      "Sunday"
+    ],
+    "Alt2OpensAt": "9AM",
+    "Alt2ClosesAt": "5:30PM"
+  },
+  {
+    "Name": "Sartori Memorial Hospital",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral."
+    ],
+    "State": "Iowa",
+    "Address": "515 College St",
+    "City": "Cedar Falls",
+    "Zip": "50613",
+    "Phone": "(319) 268-3000",
+    "Website": "https://carbonhealth.com/coronavirus/covid-19-testing-centers/Iowa",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "We strongly recommend you to call the clinic ahead of the time to schedule and verify that they still do COVID-19 testing. Supplies may be limited.",
+    "Verified": true
+  },
+  {
+    "Name": "Iowa Methodist Medical Center",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Iowa",
+    "Address": "1215 Pleasant St #206",
+    "City": "Des Moines",
+    "Zip": "50309",
+    "Phone": "(515) 323-5680",
+    "Website": "https://www.unitypoint.org/desmoines/coronavirus-where-to-go-for-care.aspx",
+    "DaysOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "OpensAt": "Open 24 hours",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Hansen Family Hospital",
+    "Notes": [
+      "Open to all."
+    ],
+    "State": "Iowa",
+    "Address": "920 S Oak St",
+    "City": "Iowa Falls",
+    "Zip": "50126",
+    "Phone": "(641) 648-7000",
+    "Website": "https://www.mercyonenorthiowaaffiliates.org/hansenfamilyhospital/",
+    "DaysOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "OpensAt": "Open 24 hours",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "We strongly recommend you to call the clinic ahead of the time to schedule and verify that they still do COVID-19 testing. Supplies may be limited.",
+    "Verified": true
+  },
+  {
+    "Name": "Story County Hospital North",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Iowa",
+    "Address": "640 6th St",
+    "City": "Nevada",
+    "Zip": "50201",
+    "Phone": "(515) 382-2111",
+    "Website": "https://carbonhealth.com/coronavirus/covid-19-testing-centers/Iowa",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "We strongly recommend you to call the clinic ahead of the time to schedule and verify that they still do COVID-19 testing. Supplies may be limited.",
+    "Verified": true
+  },
+  {
+    "Name": "MercyOne Newton Medical Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral."
+    ],
+    "State": "Iowa",
+    "Address": "204 N 4th Ave E",
+    "City": "Newton",
+    "Zip": "50208",
+    "Phone": "(641) 792-1273",
+    "Website": "https://www.mercyone.org/health-and-wellness/health-answers/covid-19-what-you-need-to-know/",
+    "DaysOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "OpensAt": "Open 24 hours",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "Testing is based on criteria that changes often based on symptoms, age and exposure. We strongly recommend you to call the clinic ahead of the time to schedule and verify that they still do COVID-19 testing. Supplies may be limited.",
+    "Verified": true
+  },
+  {
+    "Name": "McFarland Clinic Urgent Care-Story City",
+    "Notes": [
+      "Requires doctor's referral."
+    ],
+    "State": "Iowa",
+    "Address": "705 8th St",
+    "City": "Story City",
+    "Zip": "50248",
+    "Phone": "(515) 733-5191",
+    "Website": "https://www.mcfarlandclinic.com/doctors/locations/story-city/story-city-office",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "We strongly recommend you to call the clinic ahead of the time to schedule and verify that they still do COVID-19 testing. Supplies may be limited.",
+    "Verified": true
+  },
+  {
+    "Name": "Kimball Ridge Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral."
+    ],
+    "State": "Iowa",
+    "Address": " 2101 Kimball Ave # Ll5",
+    "City": "Waterloo",
+    "Zip": "50702",
+    "Phone": "(319) 272-0000",
+    "Website": "https://carbonhealth.com/coronavirus/covid-19-testing-centers/Iowa",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "Verify testing center info before going.",
+    "Verified": true
+  },
+  {
+    "Name": "The Iowa Clinic Urgent Care",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Iowa",
+    "Address": "5950 University Avenue",
+    "City": "West Des Moines",
+    "Zip": "50266",
+    "Phone": "(515) 875-9268",
+    "Website": "https://www.iowaclinic.com/coronavirus/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "4PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "8AM",
+    "AltClosesAt": "2PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "The Sharon Lee Family Health Care Clinic",
+    "Notes": [
+      "Free.",
+      "For individuals with symptoms.",
+      "Requires doctor's referral.",
+      "By appointment only."
+    ],
+    "State": "Kansas",
+    "Address": "300-340 Southwest Blvd",
+    "City": "Kansas City",
+    "Zip": "66103",
+    "Phone": "(913) 396-7070",
+    "Website": "http://www.swbfhc.org/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Integrity Extended Healthcare",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Kentucky",
+    "Address": "124 Daniel Dr",
+    "City": "Danville",
+    "Zip": "40422",
+    "Phone": "(606) 303-4389",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "4:30PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "1PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Bluegrass Extended Care Medicine",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Kentucky",
+    "Address": "989 Governors Ln #180",
+    "City": "Lexington",
+    "Zip": "40513",
+    "Phone": "(859) 338-3958",
+    "Website": "bluegrassextendedcare.com",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "ConvenientMD Urgent Care",
+    "Notes": [
+      "Limited test kits available."
+    ],
+    "State": "Maine",
+    "Address": "543 Broadway",
+    "City": "Bangor",
+    "Zip": "04401",
+    "Phone": "(207) 922-1300",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "Call to schedule an appointment",
+    "Verified": true
+  },
+  {
+    "Name": "City Of Bangor-Bass Park",
+    "Notes": [
+      "Requires doctor's referral.",
+      "Requires phone screen.",
+      "Open to all."
+    ],
+    "State": "Maine",
+    "Address": "100 Dutton St",
+    "City": "Bangor",
+    "Zip": "04401",
+    "Phone": " (844) 489-1822",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Waldo County General Hospital",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral."
+    ],
+    "State": "Maine",
+    "Address": "146 Northport Ave",
+    "City": "Belfast",
+    "Zip": "04915",
+    "Phone": " (207) 338-2500",
+    "DaysOfWeek": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "OpensAt": "Open 24 hours",
+    "LocationType": [
+      "Drive-thru",
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Nothern Light Mayo Hospital",
+    "Notes": [
+      "Requires doctor's referral.",
+      "Requires phone screen.",
+      "Open to all."
+    ],
+    "State": "Maine",
+    "Address": " 897 W Main St",
+    "City": "Dover-Foxcroft",
+    "Zip": "04426",
+    "Phone": " (844) 489-1822",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "MRH Walk-In Care",
+    "Notes": [
+      "Requires phone screen.",
+      "Open to all."
+    ],
+    "State": "Maine",
+    "Address": "87 Main St",
+    "City": "East Millinocket",
+    "Zip": "04430",
+    "Phone": "(207) 447-4190",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Northern Light Maine Coast Hospital",
+    "Notes": [
+      "Requires phone screen.",
+      "Open to all."
+    ],
+    "State": "Maine",
+    "Address": "50 Union St",
+    "City": "Ellsworth",
+    "Zip": "04605",
+    "Phone": "844-489-1822",
+    "DaysOfWeek": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "OpensAt": "Open 24 hours",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Franklin Memorial Hospital",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral."
+    ],
+    "State": "Maine",
+    "Address": "111 Franklin Health Commons",
+    "City": "Farmington",
+    "Zip": "04938",
+    "Phone": "(207) 778-6031",
+    "DaysOfWeek": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "OpensAt": "Open 24 hours",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Northern Light CA Dean Hospital",
+    "Notes": [
+      "Requires doctor's referral.",
+      "Requires phone screen.",
+      "Open to all."
+    ],
+    "State": "Maine",
+    "Address": "364 Pritham Ave",
+    "City": "Greenville Junction",
+    "Zip": "04442",
+    "Phone": " (844) 489-1822",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Redington-Fairview General Hospital",
+    "Notes": [
+      "For high risk individuals.",
+      "Must have fever and other symptoms."
+    ],
+    "State": "Maine",
+    "Address": "46 Fairview Ave",
+    "City": "Skowhegan",
+    "Zip": "04976",
+    "Phone": "(207) 474-5121",
+    "DaysOfWeek": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "OpensAt": "Open 24 hours",
+    "LocationType": [
+      "Drive-thru",
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Northern Light Inland Hospital",
+    "Notes": [
+      "Requires doctor's referral.",
+      "Requires phone screen.",
+      "Open to all."
+    ],
+    "State": "Maine",
+    "Address": "200 Kennedy Memorial Dr",
+    "City": "Waterville",
+    "Zip": "04901",
+    "Phone": " (844) 489-1822",
+    "DaysOfWeek": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "OpensAt": "Open 24 hours",
     "LocationType": [
       "Drive-thru"
     ],
@@ -2406,7 +5242,7 @@
     "Notes": [
       "By appointment only.",
       "Requires doctor's referral.",
-      "Only for individuals with symptoms."
+      "For individuals with symptoms."
     ],
     "State": "Maryland",
     "Address": "1631 Robin Cir #3068",
@@ -2500,6 +5336,90 @@
     "Verified": true
   },
   {
+    "Name": "Rite Aid",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Michigan",
+    "Address": "715 South Main Street",
+    "City": "Eaton Rapids",
+    "Zip": "48827",
+    "Website": "http://www.riteaid.com/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "200 tests each day through online appointments",
+    "Verified": true
+  },
+  {
+    "Name": "Rite Aid",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Michigan",
+    "Address": "46977 Romeo Plank Road",
+    "City": "Macomb",
+    "Zip": "48044",
+    "Website": "http://www.riteaid.com/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "200 tests each day through online appointments",
+    "Verified": true
+  },
+  {
+    "Name": "Rite Aid",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Michigan",
+    "Address": "9090 Miller Road",
+    "City": "Swartz Creek",
+    "Zip": "48473",
+    "Website": "http://www.riteaid.com/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "200 tests each day through online appointments",
+    "Verified": true
+  },
+  {
     "Name": "Traceway Park",
     "State": "Mississippi",
     "City": "Clinton",
@@ -2573,7 +5493,7 @@
     "Name": "Pershing Memorial Hospital ",
     "Notes": [
       "By appointment only.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Requires phone screen."
     ],
     "State": "Missouri",
@@ -2652,7 +5572,7 @@
     "Name": "Saint Francis Medical Center - Arena Park",
     "Notes": [
       "By appointment only.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Requires phone screen."
     ],
     "State": "Missouri",
@@ -2687,7 +5607,7 @@
     "Name": "Mercy Virtual Care Center",
     "Notes": [
       "By appointment only.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Limited test kits available.",
       "Requires phone screen.",
       "Requires doctor's referral."
@@ -2708,7 +5628,7 @@
     "Notes": [
       "By appointment only.",
       "Requires doctor's referral.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Requires phone screen."
     ],
     "State": "Missouri",
@@ -2754,7 +5674,7 @@
     "Notes": [
       "Requires referral from a primary health provider.",
       "Requires doctor's referral.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Requires phone screen."
     ],
     "State": "Missouri",
@@ -2832,7 +5752,7 @@
     "Notes": [
       "Requires referral from a primary health provider.",
       "Requires doctor's referral.",
-      "Only for individuals with symptoms."
+      "For individuals with symptoms."
     ],
     "State": "Missouri",
     "Address": "600 E Stadium Blvd",
@@ -2916,7 +5836,7 @@
     "Name": "Mercy Clinic Primary Care",
     "Notes": [
       "By appointment only.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Limited test kits available.",
       "Requires phone screen.",
       "Requires doctor's referral."
@@ -2984,7 +5904,7 @@
     "Notes": [
       "Requires doctor's referral.",
       "Requires phone screen.",
-      "Only for individuals with symptoms."
+      "For individuals with symptoms."
     ],
     "State": "Missouri",
     "Address": "1014 Madion St",
@@ -3034,7 +5954,7 @@
     "Notes": [
       "By appointment only.",
       "Requires doctor's referral.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Requires phone screen."
     ],
     "State": "Missouri",
@@ -3051,7 +5971,7 @@
     "Name": "First Point Urgent Care",
     "Notes": [
       "By appointment only.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Requires phone screen."
     ],
     "State": "Missouri",
@@ -3085,6 +6005,277 @@
     "Alt2ClosesAt": "5PM"
   },
   {
+    "Name": "Bozeman Health Belgrade Clinic + UrgentCare",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Requires referral from a primary health provider."
+    ],
+    "State": "Montana",
+    "Address": "206 Alaska Frontage Rd",
+    "City": "Belgrade",
+    "Zip": "59714",
+    "Phone": "(406) 414-2619",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8:30AM",
+    "ClosesAt": "6PM",
+    "AltDaysOfWeek": [
+      "Saturday"
+    ],
+    "AltOpensAt": "8:30AM",
+    "AltClosesAt": "6PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Big Sky Medical Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Requires referral from a primary health provider."
+    ],
+    "State": "Montana",
+    "Address": "334 Town Center Ave",
+    "City": "Big Sky",
+    "Zip": "59716",
+    "Phone": "(406) 414-2619",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8:30AM",
+    "ClosesAt": "6PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Bozeman Health Deaconess Hospital",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Requires referral from a primary health provider."
+    ],
+    "State": "Montana",
+    "Address": "915 Highland Blvd",
+    "City": "Bozeman",
+    "Zip": "59715",
+    "Phone": "(406) 414-2619",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8:30AM",
+    "ClosesAt": "6PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Lot G",
+    "Verified": true
+  },
+  {
+    "Name": "St. Peter's Health",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "Requires referral from a primary health provider."
+    ],
+    "State": "Montana",
+    "Address": "2475 E Broadway St",
+    "City": "Helena",
+    "Zip": "59601",
+    "Phone": "(406) 442-2480",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "CARD Clinic",
+    "Notes": [
+      "For individuals with symptoms.",
+      "By appointment only."
+    ],
+    "State": "Montana",
+    "Address": "214 E 3rd St",
+    "City": "Libby",
+    "Zip": "59923",
+    "Phone": "(406) 293-6295",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Missoula County Fairgrounds",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Montana",
+    "Address": "1101 South Ave W",
+    "City": "Missoula",
+    "Zip": "59801",
+    "Phone": "(406) 258-4636",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Selection option 2 to speak to a nurse",
+    "Verified": true
+  },
+  {
+    "Name": "CostCare",
+    "Notes": [
+      "By appointment only.",
+      "Other",
+      "Limited test kits available.",
+      "Requires phone screen."
+    ],
+    "State": "Montana",
+    "Address": "3031 S Russell Street",
+    "City": "Missoula",
+    "Zip": "59801",
+    "Phone": "(406) 728-5841",
+    "Website": "https://costcare.com/coronavirus/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "6PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "Call in advance. Cost Care bills for the visit and the test. The clinic bills insurance, including Medicaid/Healthy Montana Kids, but they do not accept Medicare. Patrons are responsible for what insurance doesn't cover. Please call 406-541-3046 if it's the weekend.",
+    "Verified": true
+  },
+  {
+    "Name": "Community FirstCare",
+    "Notes": [
+      "Limited test kits available.",
+      "Other"
+    ],
+    "State": "Montana",
+    "Address": "2230 N. Reserve St., Suite 402",
+    "City": "Missoula",
+    "Zip": "59808",
+    "Neighborhood": "North Reserve",
+    "Website": "https://www.communityfirstcare.com",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "6PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "5PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "The FirstCare Clinic bills for an office visit. The clinic bills all insurance including Medicare/Medicaid. Patron is responsible for what is not covered. ",
+    "Verified": true
+  },
+  {
+    "Name": "Providence Grant Creek Walk In Clinic",
+    "Notes": [
+      "By appointment only.",
+      "Other",
+      "Requires phone screen.",
+      "Limited test kits available.",
+      "For individuals with symptoms."
+    ],
+    "State": "Montana",
+    "Address": "3075 N. Reserve Street, Suite Q ",
+    "City": "Missoula",
+    "Zip": "59808",
+    "Neighborhood": "Providence Grant Creek",
+    "Phone": "(406) 327-1750",
+    "Website": "https://montana.providence.org/locations-directory/g/grant-creek-walk-in-clinic#llaid=7135",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "7PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "4PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "Must call first. The Grant Creek Walk-In Clinic bills for an office visit. The clinic bills all insurance including Medicare/Medicaid. Patron is responsible for what is not covered.",
+    "Verified": true
+  },
+  {
+    "Name": "Mobile Testing Van",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral."
+    ],
+    "State": "Montana",
+    "City": "Yellowstone",
+    "Phone": "(406) 651-6415",
+    "DaysOfWeek": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "OpensAt": "8:30AM",
+    "LocationType": [
+      "In-Home"
+    ],
+    "NotesOther": "For residents in long-term care and congregate living spaces",
+    "Verified": true
+  },
+  {
     "Name": "Serenity Mental Health",
     "Notes": [
       "By appointment only.",
@@ -3102,10 +6293,38 @@
     "Verified": true
   },
   {
+    "Name": "Rite Aid",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "New Jersey",
+    "Address": "501 Clements Bridge Road",
+    "City": "Barrington",
+    "Zip": "08007",
+    "Website": "http://www.riteaid.com/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "200 tests per dat",
+    "Verified": true
+  },
+  {
     "Name": "Cooper's Poynt Park",
     "Notes": [
       "Requires doctor's referral.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Local residents only."
     ],
     "State": "New Jersey",
@@ -3156,7 +6375,7 @@
     "Notes": [
       "By appointment only.",
       "Requires doctor's referral.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Must have fever and other symptoms.",
       "Local residents only."
     ],
@@ -3184,7 +6403,7 @@
   {
     "Name": "PNC Bank Arts Center",
     "Notes": [
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Must have fever and other symptoms.",
       "Local residents only.",
       "Prioritizes health care workers.",
@@ -3232,7 +6451,7 @@
       "By appointment only.",
       "Requires referral from a primary health provider.",
       "Requires doctor's referral.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "18-years-old and up."
     ],
     "State": "New Jersey",
@@ -3293,7 +6512,7 @@
   {
     "Name": "Bergen Community College",
     "Notes": [
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Must have fever and other symptoms.",
       "For all members of the community.",
       "Limited test kits available."
@@ -3321,7 +6540,7 @@
     "Notes": [
       "By appointment only.",
       "Local residents only.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Requires phone screen.",
       "Requires doctor's referral.",
       "Prioritizes health care workers.",
@@ -3377,7 +6596,7 @@
     "Name": "Hudson Regional Hospital ",
     "Notes": [
       "By appointment only.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Local residents only.",
       "Prioritizes first responders."
     ],
@@ -3436,7 +6655,7 @@
     "Notes": [
       "By appointment only.",
       "Requires doctor's referral.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Local residents only.",
       "Prioritizes health care workers.",
       "Prioritizes first responders.",
@@ -3513,7 +6732,7 @@
     "Name": "Warren County Technical School",
     "Notes": [
       "By appointment only.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Local residents only.",
       "Requires phone screen."
     ],
@@ -3573,7 +6792,7 @@
   {
     "Name": "OPTUM ",
     "Notes": [
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "For all members of the community.",
       "Requires phone screen."
     ],
@@ -3839,18 +7058,50 @@
     "Verified": true
   },
   {
-    "Name": "Whitney M. Young, Jr. Health Center",
-    "Verified": true,
+    "Name": "Colonial Quad",
+    "Notes": [
+      "By appointment only.",
+      "Local residents only.",
+      "Requires phone screen."
+    ],
     "State": "New York",
-    "Neighborhood": "Albany County",
+    "Address": "1400 Washington Avenue",
+    "City": "Albany",
+    "Zip": "12206",
+    "Neighborhood": "Albany",
+    "Phone": "(888) 364-3065",
+    "Website": "https://www.columbiacountynyhealth.com/home/coronavirus-covid-19/#Testing-Update-4/6/2020",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "6PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Whitney M. Young, Jr. Health Center",
+    "Notes": [
+      "By appointment only.",
+      "For individuals with symptoms.",
+      "Local residents only.",
+      "Requires phone screen."
+    ],
+    "State": "New York",
     "Address": "920 Lark Drive",
     "City": "Albany",
-    "Website": "https://www.wmyhealth.org/covid-19-updates/covid-19-testing/",
-    "LocationType": [
-      "Drive-thru",
-      "Walk-up"
-    ],
     "Zip": "12207",
+    "Neighborhood": "Albany County",
+    "Phone": "(518) 465-4771",
+    "Website": "https://www.wmyhealth.org/covid-19-updates/covid-19-testing/",
     "DaysOfWeek": [
       "Monday",
       "Thursday",
@@ -3864,28 +7115,56 @@
     ],
     "AltOpensAt": "Noon",
     "AltClosesAt": "4PM",
-    "Phone": "(518) 465-4771",
-    "Notes": [
-      "By appointment only.",
-      "Only for individuals with symptoms.",
-      "Local residents only.",
-      "Requires phone screen."
+    "LocationType": [
+      "Drive-thru",
+      "Walk-up"
     ],
     "NotesOther": "Mobile Unit ",
-    "LastClosedUpdate": "2020-04-22",
-    "PhoneExtension": "3506"
+    "Verified": true,
+    "PhoneExtension": "3506",
+    "LastClosedUpdate": "2020-04-22"
   },
   {
+    "Name": "River Hospital Inc. ",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
     "State": "New York",
+    "Address": " 4 Fuller St",
+    "City": "Alexandria Bay",
+    "Zip": "13607",
+    "Neighborhood": "Alexandria Bay",
+    "Phone": "(315) 482-1299",
+    "Website": "https://riverhospital.org/about/covid-19",
+    "Verified": true
+  },
+  {
+    "Name": "Anthony Wayne Recreation Area",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "New York",
+    "Address": "Palisades Interstate Pkwy",
+    "City": "Bear Mountain",
+    "Zip": "10911",
+    "Phone": "888-364-3065.",
+    "Website": "https://www.orangecountygov.com/1949/Testing",
+    "Verified": true
+  },
+  {
     "Name": "NYC Health + Hospital / Gotham Health, Morrisania",
+    "Notes": [
+      "For high risk individuals."
+    ],
+    "State": "New York",
     "Address": "1225 Gerald Avenue",
     "City": "Bronx",
     "Zip": "10016",
-    "LocationType": [
-      "Walk-in"
-    ],
-    "Verified": true,
     "Neighborhood": "Bronx",
+    "Phone": "(718) 960-2781",
+    "Website": "https://www.nychealthandhospitals.org/covid-19-testing-sites-for-high-risk-patients/?hero",
     "DaysOfWeek": [
       "Friday",
       "Monday",
@@ -3895,31 +7174,238 @@
     ],
     "OpensAt": "9AM",
     "ClosesAt": "3:30PM",
-    "Phone": "(718) 960-2781",
-    "Notes": [
-      "Only for high risk individuals."
-    ]
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
   },
   {
+    "Name": "NYC Health + Hospitals/Gotham Health, East New York",
+    "Notes": [
+      "For high risk individuals."
+    ],
     "State": "New York",
-    "Name": "Statcare Urgent & Walk-In Medical Care (Bronx Bartow Mall)",
-    "Verified": true,
-    "Neighborhood": "Bronx",
-    "Address": "2036A Bartow Ave",
-    "City": "The Bronx",
-    "Zip": "10475",
-    "Website": "https://www.statcarewalkin.com/covid-19-testing-near-me-bronx-10475-ny-coronavirus-cost-test-available/",
+    "Address": "2094 Pitkin Avenue",
+    "City": "Brooklyn",
+    "Zip": "11207",
+    "Neighborhood": "Brooklyn",
+    "Phone": "(718) 388-5889",
+    "Website": "https://www.nychealthandhospitals.org/covid-19-testing-sites-for-high-risk-patients/?hero",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "3:30PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "UPMC Chautauqua - Jones Memorial Health Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires referral from a primary health provider.",
+      "Requires doctor's referral."
+    ],
+    "State": "New York",
+    "Address": "51 Glasgow Ave, Building E",
+    "City": "Jamestown",
+    "Zip": "14701",
+    "Neighborhood": "Jamestown",
+    "Phone": "(800) 533-8762",
+    "Website": "https://www.upmc.com/coronavirus/testing-centers",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Nuvance Health - Tech City",
+    "Notes": [
+      "By appointment only.",
+      "Requires referral from a primary health provider.",
+      "For individuals with symptoms."
+    ],
+    "State": "New York",
+    "Address": "300 Enterprise Dr",
+    "City": "Kingston",
+    "Zip": "12401",
+    "Neighborhood": " Ulster County",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8:30AM",
+    "ClosesAt": "3:30PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Rite Aid",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "New York",
+    "Address": "4854 Commercial Drive",
+    "City": "New Hartford",
+    "Zip": "13413",
+    "Website": "https://www.riteaid.com/",
     "OnlineBooking": true,
-    "Phone": "(917) 310-3371",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "200 tests per day",
+    "Verified": true
+  },
+  {
+    "Name": "NYC Health + Hospitals/Gotham Health, Sydenham",
+    "Notes": [
+      "For high risk individuals."
+    ],
+    "State": "New York",
+    "Address": "264 West 118th Street",
+    "City": "New York",
+    "Zip": "10026",
+    "Neighborhood": "New York",
+    "Phone": "(212) 932-6500",
+    "Website": "https://www.nychealthandhospitals.org/covid-19-testing-sites-for-high-risk-patients/?hero",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "3:30PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "MidHudson Regional Hospital ",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "New York",
+    "Address": "241 North Rd",
+    "City": "Poughkeepsie",
+    "Zip": "12601",
+    "Neighborhood": "Fairview",
+    "Phone": "(845) 303-2727",
+    "Website": "https://www.wmchealth.org/news/coronavirus-update-1409",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8:30AM",
+    "ClosesAt": "6PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "NYC Health + Hospitals/Queens",
+    "Notes": [
+      "For high risk individuals."
+    ],
+    "State": "New York",
+    "Address": "82-68 164th St",
+    "City": "Queens",
+    "Zip": "11432",
+    "Neighborhood": "Queens",
+    "Phone": "(718) 883-3000",
+    "Website": "https://www.nychealthandhospitals.org/covid-19-testing-sites-for-high-risk-patients/?hero",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "NYC Health + Hospitals/Gotham Health, Vanderbilt",
+    "Notes": [
+      "For high risk individuals."
+    ],
+    "State": "New York",
+    "Address": "165 Vanderbilt Avenue",
+    "City": "Staten Island",
+    "Zip": "10304",
+    "Neighborhood": "Staten Island",
+    "Phone": "(844) 692-4692",
+    "Website": "https://www.nychealthandhospitals.org/covid-19-testing-sites-for-high-risk-patients/?hero",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8:30AM",
+    "ClosesAt": "4:30PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Statcare Urgent & Walk-In Medical Care (Bronx Bartow Mall)",
     "Notes": [
       "By appointment only.",
       "Prioritizes health care workers.",
       "Prioritizes first responders.",
       "Requires phone screen."
     ],
-    "LocationType": [
-      "Walk-in"
-    ],
+    "State": "New York",
+    "Address": "2036A Bartow Ave",
+    "City": "The Bronx",
+    "Zip": "10475",
+    "Neighborhood": "Bronx",
+    "Phone": "(917) 310-3371",
+    "Website": "https://www.statcarewalkin.com/covid-19-testing-near-me-bronx-10475-ny-coronavirus-cost-test-available/",
+    "OnlineBooking": true,
     "DaysOfWeek": [
       "Friday",
       "Monday",
@@ -3934,15 +7420,333 @@
       "Sunday"
     ],
     "AltOpensAt": "9AM",
-    "AltClosesAt": "5PM"
+    "AltClosesAt": "5PM",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Nuvance Health - Intermodal Center at Dutchess Stadium ",
+    "Notes": [
+      "By appointment only.",
+      "Requires referral from a primary health provider.",
+      "For individuals with symptoms."
+    ],
+    "State": "New York",
+    "Address": "1500 NY-9D",
+    "City": "Wappingers Falls",
+    "Zip": "12590",
+    "Neighborhood": " Dutchess County",
+    "Website": "https://www.dutchessny.gov/Departments/DBCH/Collection-Sites-for-Testing-in-Dutchess-County.htm#collapse-1",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8:30AM",
+    "ClosesAt": "3:30PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Samaritan Urology Center",
+    "Notes": [
+      "By appointment only.",
+      "For individuals with symptoms.",
+      "Requires phone screen."
+    ],
+    "State": "New York",
+    "Address": "22567 Summit Drive, Building II, Suite A",
+    "City": "Watertown",
+    "Zip": "13601",
+    "Neighborhood": "Jefferson County",
+    "Phone": "(315) 755-3100",
+    "Website": "https://samaritanhealth.com/community-coronavirus-testing-site-now-operational/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "7AM",
+    "ClosesAt": "11PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "UC Health",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "For all members of the community."
+    ],
+    "State": "Ohio",
+    "Address": "3120 Burnet Ave",
+    "City": "Cincinnati",
+    "Zip": "45229",
+    "Phone": "(513) 475-8000",
+    "Website": "https://www.uchealth.com/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Look for two tents outside the West Professional Building",
+    "Verified": true
+  },
+  {
+    "Name": "Cleveland Clinic - Main Campus",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "For previously established patients only."
+    ],
+    "State": "Ohio",
+    "Address": "9500 Euclid Avenue",
+    "City": "Cleveland",
+    "Zip": "44195",
+    "Phone": "(855) 697-3750",
+    "Website": "https://my.clevelandclinic.org/online-services/express-care-online",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "OpensAt": "Open 24 hours",
+    "ClosesAt": "Open 24 hours",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "Testing at multiple Cleveland clinic locations",
+    "Verified": true
+  },
+  {
+    "Name": "University of Dayton",
+    "Notes": [
+      "Requires doctor's referral."
+    ],
+    "State": "Ohio",
+    "Address": "1801 Edwin C. Moses Blvd",
+    "City": "Dayton",
+    "Zip": "45469",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "2PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Located in UD Arena parking lot. In collaboration with CompuNet and Premier Health Urgent Care",
+    "Verified": true
+  },
+  {
+    "Name": "Kettering Medical Center",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Ohio",
+    "Address": "3535 Southern Blvd",
+    "City": "Dayton",
+    "Zip": "45429",
+    "Neighborhood": "Kettering",
+    "Website": "http://krogerhealth.com/covidtesting.",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Saturday",
+      "Thursday"
+    ],
+    "OpensAt": "8:30AM",
+    "Closed": true,
+    "ClosesAt": "5:30PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "April 23 - April 25 ONLY, 330 tests per day",
+    "Verified": true,
+    "LastClosedUpdate": "2020-05-16"
+  },
+  {
+    "Name": "Wayne HealthCare",
+    "Notes": [
+      "Requires doctor's referral."
+    ],
+    "State": "Ohio",
+    "Address": "835 Sweitzer Street",
+    "City": "Greenville",
+    "Zip": "45331",
+    "Neighborhood": "Darke County",
+    "Phone": "(937) 548-1141",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "1PM",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru",
+      "Walk-up"
+    ],
+    "NotesOther": "In collaboration with Family Health",
+    "Verified": true
+  },
+  {
+    "Name": "Rite Aid",
+    "Notes": [
+      "Prioritizes health care workers.",
+      "For individuals with symptoms.",
+      "Prioritizes first responders.",
+      "For high risk individuals.",
+      "By appointment only."
+    ],
+    "State": "Ohio",
+    "Address": "7225 Airport Highway",
+    "City": "Holland",
+    "Zip": "43528",
+    "Website": "https://www.riteaid.com/",
+    "OnlineBooking": true,
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Pre-screen online, 200 tests a day",
+    "Verified": true
+  },
+  {
+    "Name": "UH Landerbrook Health Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral."
+    ],
+    "State": "Ohio",
+    "Address": "5850 Landerbrook Dr",
+    "City": "Mayfield Heights",
+    "Zip": "44124",
+    "Phone": "(866) 581-6112",
+    "Website": "https://virtualvisit.uhhospitals.org/uhvirtualvisit/landing_home?_ga=2.126132941.1126021028.1587675416-2140178756.1587675416",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "11AM",
+    "ClosesAt": "7PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Must have a doctor's order from University Hospitals or Cleveland Clinic",
+    "Verified": true
+  },
+  {
+    "Name": "Nexus Healthcare Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen.",
+      "Local residents only."
+    ],
+    "State": "Ohio",
+    "Address": "1415 Jefferson Ave",
+    "City": "Toledo",
+    "Zip": "43604",
+    "Phone": "419-214-5700",
+    "LocationType": [
+      "Walk-up",
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Metroparks Hawkins Farmhouse",
+    "Notes": [
+      "By appointment only.",
+      "For individuals with symptoms."
+    ],
+    "State": "Ohio",
+    "Address": "5434 W. Bancroft Street",
+    "City": "Toledo",
+    "Zip": "43615",
+    "Website": "https://myquest.questdiagnostics.com/web/mycovid19test",
+    "OnlineBooking": true,
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "Sponsored by Walmart",
+    "Verified": true
+  },
+  {
+    "Name": "Navarre Park Family Care Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen.",
+      "Local residents only."
+    ],
+    "State": "Ohio",
+    "Address": "1020 Varland Ave",
+    "City": "Toledo",
+    "Zip": "43605",
+    "Phone": "419-214-5700",
+    "LocationType": [
+      "Drive-thru",
+      "Walk-up"
+    ],
+    "NotesOther": "Spanish speakers available",
+    "Verified": true
   },
   {
     "Name": "ZOOM+Care",
     "Notes": [
       "By appointment only.",
       "Privately owned.",
-      "Only for individuals with symptoms.",
-      "Only for high risk individuals.",
+      "For individuals with symptoms.",
+      "For high risk individuals.",
       "Prioritizes health care workers.",
       "Prioritizes first responders."
     ],
@@ -3960,7 +7764,7 @@
     "Name": "Central Wellness Outreach Center",
     "Notes": [
       "By appointment only.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Limited test kits available.",
       "Requires phone screen."
     ],
@@ -4051,7 +7855,7 @@
     "Notes": [
       "By appointment only.",
       "Requires doctor's referral.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Requires phone screen."
     ],
     "State": "Pennsylvania",
@@ -4109,7 +7913,7 @@
     "Notes": [
       "By appointment only.",
       "Requires doctor's referral.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Limited test kits available."
     ],
     "State": "Pennsylvania",
@@ -4126,7 +7930,7 @@
     "Notes": [
       "By appointment only.",
       "Requires doctor's referral.",
-      "Only for individuals with symptoms."
+      "For individuals with symptoms."
     ],
     "State": "Pennsylvania",
     "Address": "1 Hospital Way",
@@ -4274,7 +8078,7 @@
     "Notes": [
       "By appointment only.",
       "Requires doctor's referral.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Requires phone screen."
     ],
     "State": "Pennsylvania",
@@ -4338,7 +8142,7 @@
     "Notes": [
       "By appointment only.",
       "Requires doctor's referral.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Requires phone screen."
     ],
     "State": "Pennsylvania",
@@ -4445,7 +8249,7 @@
     "Name": "Central Wellness Outreach Center",
     "Notes": [
       "By appointment only.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Limited test kits available.",
       "Requires phone screen."
     ],
@@ -4484,7 +8288,7 @@
   {
     "Name": "Central Wellness Center - Pittsburg Zoo & PPG Aquarium",
     "Notes": [
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Open to all."
     ],
     "State": "Pennsylvania",
@@ -4531,7 +8335,7 @@
     "Notes": [
       "By appointment only.",
       "Requires doctor's referral.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Requires phone screen."
     ],
     "State": "Pennsylvania",
@@ -4808,7 +8612,7 @@
     "Notes": [
       "By appointment only.",
       "For previously established patients only.",
-      "Only for individuals with symptoms."
+      "For individuals with symptoms."
     ],
     "State": "Tennessee",
     "Address": "2608 8th Ave S Suite 102A",
@@ -4850,8 +8654,8 @@
     "Name": "Memphis Health Center",
     "Notes": [
       "By appointment only.",
-      "Only for individuals with symptoms.",
-      "Only for individuals with direct and unprotected exposure to a known positive case.",
+      "For individuals with symptoms.",
+      "For individuals with direct and unprotected exposure to a known positive case.",
       "Prioritizes health care workers."
     ],
     "State": "Tennessee",
@@ -4980,7 +8784,7 @@
     "Verified": true
   },
   {
-    "Name": "Mcnairy County Health Department",
+    "Name": "McNairy County Health Department",
     "Notes": [
       "Open to all.",
       "Free."
@@ -5032,7 +8836,7 @@
   {
     "Name": "City of Amarillo/Texas Tech University Health Sciences Center",
     "Notes": [
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Requires phone screen.",
       "By appointment only."
     ],
@@ -5288,7 +9092,7 @@
     "Name": "UT Health Austin - Health Transformation Building",
     "Notes": [
       "Limited test kits available.",
-      "Only for individuals with symptoms.",
+      "For individuals with symptoms.",
       "Prioritizes health care workers.",
       "Prioritizes first responders.",
       "Requires doctor's referral.",
@@ -5313,7 +9117,7 @@
       "Requires phone screen.",
       "Limited test kits available.",
       "By appointment only.",
-      "Only for individuals with symptoms."
+      "For individuals with symptoms."
     ],
     "State": "Texas",
     "Address": "Sunset Valley",
@@ -5373,7 +9177,7 @@
     "Name": "Goose Creek ISD - Stallworth",
     "Notes": [
       "Must have fever and other symptoms.",
-      "Only for individuals with direct and unprotected exposure to a known positive case."
+      "For individuals with direct and unprotected exposure to a known positive case."
     ],
     "State": "Texas",
     "Address": "2102 East Archer Road",
@@ -6626,6 +10430,215 @@
     "Verified": true
   },
   {
+    "Name": "Southwestern Vermont Medical Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "For individuals with symptoms."
+    ],
+    "State": "Vermont",
+    "Address": "100 Hospital Dr",
+    "City": "Bennington",
+    "Zip": "05201",
+    "Phone": "(802) 440-8844",
+    "Website": "https://svhealthcare.org/COVID-19/Testing/",
+    "OpensAt": "Open 24 hours",
+    "ClosesAt": "Open 24 hours",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "ClearChoiceMD Urgent Care",
+    "State": "Vermont",
+    "Address": "798 US RT 302",
+    "City": "Berlin",
+    "Zip": "05641",
+    "Phone": "(802) 744-0138",
+    "Website": "https://ccmdcenters.com/coronavirus2019",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "6PM",
+    "Verified": true
+  },
+  {
+    "Name": "ClearChoiceMD Urgent Care",
+    "State": "Vermont",
+    "Address": "1154 Putney Road",
+    "City": "Brattleboro",
+    "Zip": "05301",
+    "Phone": "(802) 490-2100",
+    "Website": "https://ccmdcenters.com/coronavirus2019",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "6PM",
+    "Verified": true
+  },
+  {
+    "Name": "Champlain Valley Exposition - University of Vermont Medical Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral."
+    ],
+    "State": "Vermont",
+    "Address": "3625, 105 Pearl St",
+    "City": "Essex Junction",
+    "Zip": "05452",
+    "Phone": "(802) 847-0000",
+    "Website": "https://www.uvmhealth.org/medcenter/Pages/Coronavirus-Covid-19/Screening-and-Testing.aspx",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Porter Hospital",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral."
+    ],
+    "State": "Vermont",
+    "Address": "115 Porter Dr",
+    "City": "Middlebury",
+    "Zip": "05753",
+    "Phone": "(802) 388-4701",
+    "Website": "https://www.portermedical.org/coronavirus/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "3PM",
+    "AltDaysOfWeek": [
+      "Saturday"
+    ],
+    "AltOpensAt": "11AM",
+    "AltClosesAt": "1PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Landmark College - Vermont Department of Health",
+    "State": "Vermont",
+    "Address": "19 River Rd S Parking Lot D",
+    "City": "Putney",
+    "Zip": "05346",
+    "Phone": "(802) 863-7240",
+    "Website": "https://www.landmark.edu/news/vt-department-of-health-conducting-covid-19-testing",
+    "AltDaysOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "AltOpensAt": "8AM",
+    "AltClosesAt": "6PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true,
+    "Alt2DaysOfWeek": [
+      "Sunday"
+    ],
+    "Alt2OpensAt": "6:30AM",
+    "Alt2ClosesAt": "6PM"
+  },
+  {
+    "Name": "ClearChoiceMD Urgent Care",
+    "State": "Vermont",
+    "Address": "173 South Main Street",
+    "City": "Rutland",
+    "Zip": "05701",
+    "Phone": "(802) 772-4165",
+    "Website": "https://ccmdcenters.com/coronavirus2019",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "6PM",
+    "Verified": true
+  },
+  {
+    "Name": "Champlain Islands Health Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires referral from a primary health provider."
+    ],
+    "State": "Vermont",
+    "Address": "52 Community Ln",
+    "City": "South Hero ",
+    "Zip": "05486",
+    "Phone": "(802) 372-4687",
+    "Website": "https://www.chcb.org/locations-providers/champlain-islands-health-center/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "7:45AM",
+    "ClosesAt": "4:30PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Little Rivers Health Care",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "Vermont",
+    "Address": "65 Main St N",
+    "City": "Wells River",
+    "Zip": "05081",
+    "Phone": "(802) 757-2325",
+    "Website": "https://www.littlerivers.org/",
+    "Verified": true
+  },
+  {
     "Name": "Alexandria Immediate Care",
     "Notes": [
       "By appointment only.",
@@ -6688,12 +10701,26 @@
     "Verified": true
   },
   {
+    "Name": "Providence Hawks Prairie Family Medicine",
+    "Notes": [
+      "Patients only."
+    ],
+    "State": "Washington",
+    "Address": "Providence Hawks Prairie Family Medicine",
+    "City": "2555 Marvin Road N.E.",
+    "Zip": "98516",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
     "Name": "Grays Harbor Public Health",
     "Notes": [
       "By appointment only.",
       "Prioritizes health care workers.",
-      "Only for individuals with symptoms.",
-      "Only for individuals with direct and unprotected exposure to a known positive case.",
+      "For individuals with symptoms.",
+      "For individuals with direct and unprotected exposure to a known positive case.",
       "Requires phone screen."
     ],
     "State": "Washington",
@@ -6702,6 +10729,143 @@
     "Phone": "360-964-1850",
     "LocationType": [
       "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Franciscan Medical Clinic",
+    "Notes": [
+      "For high risk individuals.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "For individuals with direct and unprotected exposure to a known positive case."
+    ],
+    "State": "Washington",
+    "Address": "1344 Wintergreen Lane N.E.",
+    "City": "Bainbridge Island",
+    "Zip": "98110",
+    "Website": "https://www.chifranciscan.org/patients-and-visitors/covid-19.html",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "CHI Franciscan Prompt Care",
+    "Notes": [
+      "For high risk individuals.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "For individuals with direct and unprotected exposure to a known positive case."
+    ],
+    "State": "Washington",
+    "Address": "9230 Sky Island Drive E.",
+    "City": "Bonney Lake",
+    "Zip": "98391",
+    "Website": "https://www.chifranciscan.org/patients-and-visitors/covid-19.html",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Kaiser Permanente",
+    "Notes": [
+      "Patients only."
+    ],
+    "State": "Washington",
+    "Address": "140 S.W. 146th St.",
+    "City": "Burien",
+    "Zip": "98166",
+    "Website": "https://healthy.kaiserpermanente.org/health-wellness/coronavirus-information",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Swedish Hospital",
+    "Notes": [
+      "Patients only."
+    ],
+    "State": "Washington",
+    "Address": "21601 76th Ave. W.",
+    "City": "Edmonds",
+    "Zip": "98026",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "In parking garage.",
+    "Verified": true
+  },
+  {
+    "Name": "Franciscan Medical Clinic",
+    "Notes": [
+      "For high risk individuals.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "For individuals with direct and unprotected exposure to a known positive case."
+    ],
+    "State": "Washington",
+    "Address": "3021 Griffin Ave.",
+    "City": "Enumclaw",
+    "Zip": "98022",
+    "Website": "https://www.chifranciscan.org/patients-and-visitors/covid-19.html",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Providence Medical Group",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Washington",
+    "Address": "12800 Bothell Everett Hwy",
+    "City": "Everett",
+    "Zip": "98208",
+    "Neighborhood": "Mill Creek",
+    "LocationType": [
+      "Walk-in",
+      "Drive-thru"
+    ],
+    "NotesOther": "Drive-thru for patients only. Walk-in for anyone showing symptoms.",
+    "Verified": true
+  },
+  {
+    "Name": "Franciscan Medical Clinic",
+    "Notes": [
+      "For high risk individuals.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "For individuals with direct and unprotected exposure to a known positive case."
+    ],
+    "State": "Washington",
+    "Address": "30809 First Ave. S.",
+    "City": "Federal Way",
+    "Zip": "98003",
+    "Website": "https://www.chifranciscan.org/patients-and-visitors/covid-19.html",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "CHI Franciscan Prompt Care",
+    "Notes": [
+      "For high risk individuals.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "For individuals with direct and unprotected exposure to a known positive case."
+    ],
+    "State": "Washington",
+    "Address": "4700 Pt. Fosdick Drive N.W., Suite 102",
+    "City": "Gig Harbor",
+    "Zip": "98335",
+    "Website": "https://www.chifranciscan.org/patients-and-visitors/covid-19.html",
+    "LocationType": [
+      "Walk-in"
     ],
     "Verified": true
   },
@@ -6723,7 +10887,7 @@
     "Name": "Providence Medical Group Hawk's Prairie Clinic",
     "Notes": [
       "By appointment only.",
-      "Only for individuals with symptoms."
+      "For individuals with symptoms."
     ],
     "State": "Washington",
     "Address": " 2555 Marvin Rd NE",
@@ -6751,10 +10915,50 @@
     "Verified": true
   },
   {
+    "Name": "Kaiser Permanente",
+    "Notes": [
+      "Patients only."
+    ],
+    "State": "Washington",
+    "Address": "20200 54th Ave. W.",
+    "City": "Lynwood",
+    "Zip": "98036",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Harrison Port Orchard Urgent Care",
+    "State": "Washington",
+    "Address": "450 S. Kitsap Blvd.",
+    "City": "Port Orchard",
+    "Zip": "98366",
+    "Verified": true
+  },
+  {
+    "Name": "CHI Franciscan Prompt Care",
+    "Notes": [
+      "For high risk individuals.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "For individuals with direct and unprotected exposure to a known positive case."
+    ],
+    "State": "Washington",
+    "Address": "15214 Canyon Road E.",
+    "City": "Puyallup",
+    "Zip": "98375",
+    "Website": "https://www.chifranciscan.org/patients-and-visitors/covid-19.html",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
     "Name": "PacMed Renton Clinic",
     "Notes": [
-      "Only for individuals with symptoms.",
-      "Only for high risk individuals."
+      "For individuals with symptoms.",
+      "For high risk individuals."
     ],
     "State": "Washington",
     "Address": "601 South Carr Rd Suite 100",
@@ -6780,6 +10984,22 @@
       "Drive-thru"
     ],
     "NotesOther": "In the parking lot.",
+    "Verified": true
+  },
+  {
+    "Name": "HealthPoint",
+    "Notes": [
+      "Requires doctor's referral.",
+      "Patients only."
+    ],
+    "State": "Washington",
+    "Address": "955 Powell Ave. S.W.",
+    "City": "Renton",
+    "Zip": "98057",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "In parking lot behind the HealthPoint administration building",
     "Verified": true
   },
   {
@@ -6815,8 +11035,8 @@
     "Notes": [
       "By appointment only.",
       "Privately owned.",
-      "Only for individuals with symptoms.",
-      "Only for high risk individuals.",
+      "For individuals with symptoms.",
+      "For high risk individuals.",
       "Prioritizes health care workers.",
       "Prioritizes first responders."
     ],
@@ -6832,31 +11052,153 @@
   },
   {
     "Name": "Rainier Beach",
+    "Notes": [
+      "Must have fever and other symptoms."
+    ],
     "State": "Washington",
     "Address": "8702 Seward Park Ave S",
     "City": "Seattle",
     "Zip": "98118",
-    "LocationType": [
-      "Drive-thru",
-      "Walk-up"
-    ],
     "DaysOfWeek": [
       "Saturday",
       "Wednesday"
     ],
     "OpensAt": "10AM",
     "ClosesAt": "3PM",
-    "Notes": [
-      "Must have fever and other symptoms."
+    "LocationType": [
+      "Drive-thru",
+      "Walk-up"
     ],
     "NotesOther": "Asymptomatic health care workers, first responders, and caregivers who have been exposed to the virus.",
     "Verified": true
   },
   {
+    "Name": "University of Washington Medicine",
+    "Notes": [
+      "Patients only."
+    ],
+    "State": "Washington",
+    "Address": "10330 Meridian Ave. N",
+    "City": "Seattle",
+    "Zip": "98133",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Kaiser Permanente",
+    "Notes": [
+      "Patients only."
+    ],
+    "State": "Washington",
+    "Address": "13451 S.E. 36th St.",
+    "City": "Seattle",
+    "Zip": "98006",
+    "Website": "https://healthy.kaiserpermanente.org/health-wellness/coronavirus-information",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "International Community Health Services",
+    "Notes": [
+      "By appointment only.",
+      "For individuals with symptoms."
+    ],
+    "State": "Washington",
+    "Address": "720 Eighth Ave. S.",
+    "City": "Seattle",
+    "Zip": "98104",
+    "Phone": "(206) 788-3700",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Seattle Children's Hospital",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Washington",
+    "Address": "5801 Sand Point Way N.E.",
+    "City": "Seattle",
+    "Zip": "98105",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "For hospital employees only.",
+    "Verified": true
+  },
+  {
+    "Name": "Downtown Public Health Center",
+    "Notes": [
+      "For individuals with symptoms.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders."
+    ],
+    "State": "Washington",
+    "Address": "2124 Fourth Ave.",
+    "City": "Seattle",
+    "Zip": "98121",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8:30AM",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru",
+      "Walk-up"
+    ],
+    "NotesOther": "Free for those without access to health care.",
+    "Verified": true
+  },
+  {
+    "Name": "Kaiser Permanente",
+    "Notes": [
+      "Patients only."
+    ],
+    "State": "Washington",
+    "Address": "201 16th Ave. E.",
+    "City": "Seattle",
+    "Zip": "98112",
+    "Website": "https://healthy.kaiserpermanente.org/health-wellness/coronavirus-information",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "In parking garage.",
+    "Verified": true
+  },
+  {
+    "Name": "CHI Franciscan Prompt Care",
+    "Notes": [
+      "For high risk individuals.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "For individuals with direct and unprotected exposure to a known positive case."
+    ],
+    "State": "Washington",
+    "Address": "16045 First Ave. S.",
+    "City": "Seattle",
+    "Zip": "98166",
+    "Website": "https://www.chifranciscan.org/patients-and-visitors/covid-19.html",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "NotesOther": "On first floor.",
+    "Verified": true
+  },
+  {
     "Name": "PacMed Beacon Hill Clinic",
     "Notes": [
-      "Only for individuals with symptoms.",
-      "Only for high risk individuals."
+      "For individuals with symptoms.",
+      "For high risk individuals."
     ],
     "State": "Washington",
     "Address": "1200 12th Avenue S",
@@ -6890,15 +11232,16 @@
     "Phone": "206-386-9500",
     "Website": "https://www.swedish.org/locations/first-hill-campus",
     "LocationType": [
-      "Drive-thru"
+      "Drive-thru",
+      "Walk-in"
     ],
     "Verified": true
   },
   {
     "Name": "PacMed Northgate Clinic",
     "Notes": [
-      "Only for individuals with symptoms.",
-      "Only for high risk individuals."
+      "For individuals with symptoms.",
+      "For high risk individuals."
     ],
     "State": "Washington",
     "Address": "10416 5th Avenue NE",
@@ -6923,10 +11266,43 @@
     "Verified": true
   },
   {
+    "Name": "International Community Health Services",
+    "Notes": [
+      "By appointment only.",
+      "For individuals with symptoms."
+    ],
+    "State": "Washington",
+    "Address": "16549 Aurora Ave. N.",
+    "City": "Shoreline",
+    "Zip": "98133",
+    "Phone": "(206) 533-2600",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "The Doctors Clinic Ridgetop East",
+    "Notes": [
+      "For high risk individuals.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "For individuals with direct and unprotected exposure to a known positive case."
+    ],
+    "State": "Washington",
+    "Address": "9621 Ridgetop Blvd. N.W.",
+    "City": "Silverdale",
+    "Zip": "98383",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
     "Name": "Snoqualmie Valley Hospital",
     "Notes": [
-      "Only for individuals with symptoms.",
-      "Only for individuals with direct and unprotected exposure to a known positive case."
+      "For individuals with symptoms.",
+      "For individuals with direct and unprotected exposure to a known positive case."
     ],
     "State": "Washington",
     "Address": " 9801 Frontier Ave SE",
@@ -6947,6 +11323,782 @@
       "Drive-thru"
     ],
     "NotesOther": "Registration forms will be delivered to waiting cars.",
+    "Verified": true
+  },
+  {
+    "Name": "CHI Franciscan Prompt Care",
+    "Notes": [
+      "For high risk individuals.",
+      "Prioritizes health care workers.",
+      "Prioritizes first responders.",
+      "For individuals with direct and unprotected exposure to a known positive case."
+    ],
+    "State": "Washington",
+    "Address": "1812 S. J St., Suite 120",
+    "City": "Tacoma",
+    "Zip": "98405",
+    "Website": "https://www.chifranciscan.org/patients-and-visitors/covid-19.html",
+    "LocationType": [
+      "Walk-in"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Amjad Medical Clinic",
+    "State": "West Virginia",
+    "Address": "330 N Eisenhower Drive",
+    "City": "Beckley",
+    "Zip": "25801",
+    "Phone": "(304) 252-5900",
+    "Website": "https://www.manchin.senate.gov/coronavirus/testing",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Beckley ARH Hospital ",
+    "State": "West Virginia",
+    "Address": "306 Stanaford Road",
+    "City": "Beckley",
+    "Zip": "25801",
+    "Phone": "(606) 439-7100",
+    "Website": "https://arhcovid19.com/",
+    "OpensAt": "Open 24 hours",
+    "ClosesAt": "Open 24 hours",
+    "Verified": true
+  },
+  {
+    "Name": "Beckley-Raleigh Health Department",
+    "State": "West Virginia",
+    "Address": "1602 Harper Rd",
+    "City": "Beckley",
+    "Zip": "25801",
+    "Phone": "(304) 252-8531",
+    "Website": "http://www.beckleyraleighhealthdept.org/",
+    "DaysOfWeek": [
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "11AM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "MedExpress Urgent Care Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "520 Beckley Crossing Shopping Center",
+    "City": "Beckley",
+    "Zip": "25801",
+    "Phone": "(304) 252-6639",
+    "Website": "https://www.medexpress.com/plan-your-visit/center-designations-descriptions.html#covid19",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Raleigh General Hospital",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "For individuals with symptoms."
+    ],
+    "State": "West Virginia",
+    "Address": "1710 Harper Road",
+    "City": "Beckley",
+    "Phone": "(304) 256-4100",
+    "Website": "https://www.raleighgeneral.com/coronavirus-covid-19-preparedness-information#Testing%20FAQ",
+    "Verified": true
+  },
+  {
+    "Name": "Prudich Medical Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "5451 Simmons River Rd",
+    "City": "Bluefield",
+    "Zip": "25701",
+    "Phone": "(304) 589-3251",
+    "Website": "https://www.bluestonehealth.net/",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Mercer County Health Department",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "978 Blue Prince Rd",
+    "City": "Bluefield",
+    "Zip": "24701",
+    "Phone": "(304) 324-8367",
+    "Website": "https://www.manchin.senate.gov/coronavirus/testing",
+    "DaysOfWeek": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "OpensAt": "Noon",
+    "ClosesAt": "2PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true,
+    "PhoneExtension": "1229"
+  },
+  {
+    "Name": "Bluestone Health Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "3016 East Cumberland Rd",
+    "City": "Bluefield",
+    "Zip": "24701",
+    "Phone": "(304) 800-5923",
+    "Website": "https://www.bluestonehealth.net/",
+    "DaysOfWeek": [
+      "Monday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "2PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Tug River Riverview Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "556 Mountaineer Highway",
+    "City": "Bradshaw",
+    "Zip": "24817",
+    "Phone": "(304) 448-2300",
+    "Website": "https://www.manchin.senate.gov/coronavirus/testing",
+    "Verified": true
+  },
+  {
+    "Name": "United Hospital Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "For individuals with symptoms.",
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "327 Medical Park Dr",
+    "City": "Bridgeport",
+    "Zip": "26330",
+    "Phone": "(304) 598-6000",
+    "Website": "https://wvumedicine.org/covid/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "4PM",
+    "Verified": true,
+    "PhoneExtension": "4"
+  },
+  {
+    "Name": "Pocahontas Memorial Hospital ",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "150 Duncan Rd",
+    "City": "Buckeye",
+    "Zip": "24924",
+    "Phone": "(304) 799-7400",
+    "Website": "https://www.pmhwv.org/covid-19-information/",
+    "Verified": true
+  },
+  {
+    "Name": "CareXpress & Pediatrics",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "4 Northridge Rd",
+    "City": "Buckhannon",
+    "Zip": "26201",
+    "Phone": "(304) 473-5600",
+    "Website": "http://www.communitycarewv.org/schedule-an-appointment.html",
+    "DaysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "AltDaysOfWeek": [
+      "Friday"
+    ],
+    "AltOpensAt": "8AM",
+    "AltClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "St Joseph's Hospital",
+    "Notes": [
+      "By appointment only.",
+      "Requires doctor's referral.",
+      "For individuals with symptoms.",
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "1 Amalia Dr",
+    "City": "Buckhannon",
+    "Zip": "26201",
+    "Phone": "(304) 473-2000",
+    "Website": "https://wvumedicine.org/covid/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "4PM",
+    "Verified": true
+  },
+  {
+    "Name": "Dr. Khan Internal Medicine Office",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "2 Hartman Plaza",
+    "City": "Buckhannon",
+    "Zip": "26201",
+    "Phone": "(304) 471-3400",
+    "Website": "https://www.manchin.senate.gov/coronavirus/testing",
+    "DaysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "3PM",
+    "AltDaysOfWeek": [
+      "Friday"
+    ],
+    "AltOpensAt": "8AM",
+    "AltClosesAt": "10:30AM",
+    "Verified": true
+  },
+  {
+    "Name": "Camden Family Health",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "10003 Webster Road",
+    "City": "Camden-on-Gauley",
+    "Zip": "26208",
+    "Neighborhood": "Webster County",
+    "Phone": "(304) 226-5725",
+    "Website": "https://www.manchin.senate.gov/coronavirus/testing",
+    "DaysOfWeek": [
+      "Monday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "3PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Bible Center Church",
+    "Notes": [
+      "By appointment only.",
+      "For individuals with symptoms."
+    ],
+    "State": "West Virginia",
+    "Address": "100 Bible Center Dr",
+    "City": "Charlestown",
+    "Zip": "25309",
+    "Phone": "(304) 348-8080",
+    "Website": "https://www.manchin.senate.gov/coronavirus/testing",
+    "DaysOfWeek": [
+      "Friday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "2PM",
+    "Verified": true
+  },
+  {
+    "Name": "CAMC Health System",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "3004 Chesterfield Ave",
+    "City": "Charlestown",
+    "Zip": "25304",
+    "Phone": "(304) 388-9200",
+    "Website": "http://www.camc.org/covid-19-coronavirus",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "MedExpress Urgent Care",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "1416 Maccorkie Ave SW",
+    "City": "Charlestown",
+    "Zip": "25303",
+    "Phone": "(304) 744-7517",
+    "Website": "https://www.medexpress.com/plan-your-visit/center-designations-descriptions.html#covid19",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Sunnyside Health Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "100 Lee St E",
+    "City": "Charlestown",
+    "Zip": "25301",
+    "Phone": "(681) 205-2455",
+    "Website": "https://www.manchin.senate.gov/coronavirus/testing",
+    "DaysOfWeek": [
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "4PM",
+    "Verified": true
+  },
+  {
+    "Name": "Logan Mingo Area Mental Health Inc",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "2954 Buffalo Creek Rd",
+    "City": "Chattaroy",
+    "Zip": "25667",
+    "Phone": "(304) 235-2954",
+    "Website": "https://www.manchin.senate.gov/coronavirus/testing",
+    "Verified": true,
+    "PhoneExtension": "1016"
+  },
+  {
+    "Name": "MedExpress Urgent Care",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "10 Emily Dr",
+    "City": "Clarksburg",
+    "Zip": "26301",
+    "Phone": "(304) 623-5094",
+    "Website": "https://www.medexpress.com/plan-your-visit/center-designations-descriptions.html#covid19",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Community Care of Clarksburg",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "700 Oakmond Rd",
+    "City": "Clarksburg",
+    "Zip": "26301",
+    "Phone": "(304) 623-6330",
+    "Website": "http://www.communitycarewv.org/schedule-an-appointment.html",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "AltDaysOfWeek": [
+      "Saturday"
+    ],
+    "AltOpensAt": "8AM",
+    "AltClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true,
+    "Alt2DaysOfWeek": [
+      "Sunday"
+    ],
+    "Alt2OpensAt": "11AM",
+    "Alt2ClosesAt": "5PM"
+  },
+  {
+    "Name": "Community Care of Clay",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "122 Center St",
+    "City": "Clay",
+    "Zip": "25043",
+    "Phone": "(304) 587-7301",
+    "Website": "http://www.communitycarewv.org/clay-wv2.html",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "7AM",
+    "ClosesAt": "5PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "8AM",
+    "AltClosesAt": "1PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "MedExpress Urgent Care",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "613 Randolph Ave",
+    "City": "Elkins",
+    "Zip": "26241",
+    "Phone": "(304) 636-8422",
+    "Website": "https://www.medexpress.com/plan-your-visit/center-designations-descriptions.html#covid19",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Davis Medical Center",
+    "Notes": [
+      "By appointment only.",
+      "For individuals with symptoms.",
+      "For high risk individuals.",
+      "Requires doctor's referral.",
+      "18-years-old and up."
+    ],
+    "State": "West Virginia",
+    "Address": "812 Gorman Ave",
+    "City": "Elkins",
+    "Zip": "26241",
+    "Phone": "(304) 630-3088",
+    "Website": "https://www.davishealth-covid19.com/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "DirectCare of Elkins",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "720 Beverly Pike",
+    "City": "Elkins",
+    "Zip": "26241",
+    "Phone": "(304) 636-8422",
+    "Website": "https://www.davishealth-covid19.com/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "10AM",
+    "AltDaysOfWeek": [
+      "Saturday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "1PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true,
+    "Alt2DaysOfWeek": [
+      "Sunday"
+    ],
+    "Alt2OpensAt": "Noon",
+    "Alt2ClosesAt": "4PM"
+  },
+  {
+    "Name": "Valley Health Care Inc",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "240 Allegheny Hwy",
+    "City": "Elkins",
+    "Zip": "26241",
+    "Neighborhood": "Randolph County",
+    "Phone": "(304) 335-2050",
+    "Website": "https://vhcwv.org/",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Mon Health Primary Care",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "1840 Locust Ave",
+    "City": "Fairmont",
+    "Zip": "26554",
+    "Neighborhood": "Marion County",
+    "Phone": "(304) 285-3798",
+    "Website": "https://www.monhealth.com/mh/covid-19-information",
+    "DaysOfWeek": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "OpensAt": "3PM",
+    "ClosesAt": "6PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "MedExpress Urgent Care",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "5447 Maple Lane ",
+    "City": "Fayetteville",
+    "Zip": "25840",
+    "Phone": "(304) 658-9397",
+    "Website": "https://www.medexpress.com/plan-your-visit/center-designations-descriptions.html#covid19",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "8PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "MHC Forest Hill Clinic",
+    "Notes": [
+      "By appointment only.",
+      "For individuals with symptoms."
+    ],
+    "State": "West Virginia",
+    "Address": "180 Old Schoolhouse Road",
+    "City": "Forest Hill",
+    "Zip": "24935",
+    "Phone": "(304) 466-1152",
+    "Website": "https://www.manchin.senate.gov/coronavirus/testing",
+    "DaysOfWeek": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "3PM",
+    "Verified": true
+  },
+  {
+    "Name": "Tug River Health Association Inc",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "5883 Black Diamond Highway",
+    "City": "Gary",
+    "Zip": "24836",
+    "Phone": "(304) 448-2300",
+    "Website": "https://www.manchin.senate.gov/coronavirus/testing",
+    "Verified": true
+  },
+  {
+    "Name": "Valley Health Care Inc.",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "46 Town Center Plaza Ste A",
+    "City": "Mill Creek",
+    "Zip": "26280",
+    "Phone": "(304) 614-5473",
+    "Website": "https://vhcwv.org/",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Camden Family Health",
+    "Notes": [
+      "By appointment only.",
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "71 A Ave A",
+    "City": "Richwood",
+    "Zip": "26261",
+    "Phone": "(304) 846-2608",
+    "Website": "https://www.manchin.senate.gov/coronavirus/testing",
+    "DaysOfWeek": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "3PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "CareXpress Flatwoods",
+    "State": "West Virginia",
+    "Address": "273 Skidmore Ln",
+    "City": "Sutton",
+    "Zip": "26601",
+    "Neighborhood": "Braxton County",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Mon Health Stonewall Jackson Memorial Hospital",
+    "Notes": [
+      "Requires phone screen."
+    ],
+    "State": "West Virginia",
+    "Address": "100 Market Place Mall",
+    "City": "Weston",
+    "Zip": "26452",
+    "Neighborhood": "Lewis County",
+    "Phone": "(304) 517-1584",
+    "Website": "https://www.monhealth.com/mh/covid-19-information",
     "Verified": true
   },
   {

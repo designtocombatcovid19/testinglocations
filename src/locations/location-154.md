@@ -1,29 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at ZOOM+Care in Portland, Oregon, USA."
-permalink: "locations/oregon/portland/zoomcare/"
+description: "Local COVID-19 testing is available at Queen’s Medical Center in West Oahu, Hawaii, USA."
+permalink: "locations/hawaii/west-oahu/queens-medical-center-1/"
 tags:
   - locations
-  - oregon
-title: ZOOM+Care
-uniqueName: zoomcare
-state: Oregon
-stateAbbr: OR
-hood: "Portland"
-address: ""
-city: "Portland"
-zip: "97209"
-zipsNearby: "97101 97325 97002 97106 97109 97125 97004 97005 97006 97007 97008 97075 97076 97077 97009 97089 97010 97011 97013 97102 97111 97014 97015 97086 97016 97108 97017 97018 97019 97113 97338 97114 97020 97115 97022 97023 97024 97344 97116 97117 97118 97119 97026 97027 97028 97347 97030 97080 97122 97123 97124 97031 97032 97351 97352 97127 97034 97035 97358 97384 97128 97036 97346 97360 97038 97361 97362 97041 97042 97131 97132 97133 97044 97045 97201 97202 97203 97204 97205 97206 97207 97208 97209 97210 97211 97212 97213 97214 97215 97216 97217 97218 97219 97220 97221 97222 97223 97224 97225 97227 97228 97229 97230 97231 97232 97233 97236 97238 97239 97240 97242 97256 97258 97266 97267 97268 97269 97280 97281 97282 97283 97286 97290 97291 97292 97293 97294 97296 97298 97048 97049 97371 97136 97373 97051 97053 97054 97137 97301 97302 97303 97304 97305 97306 97307 97308 97309 97310 97311 97312 97314 97317 97055 97056 97374 97375 97138 97378 97140 97381 97383 97385 97107 97141 97143 97144 97060 97062 97392 97064 97067 97068 97147 97396 97070 97071 97148 98601 98603 98604 98605 98606 98607 98609 98610 98611 98612 98616 98622 98623 98625 98626 98629 98632 98639 98642 98648 98645 98649 98651 98660 98661 98662 98663 98664 98665 98666 98668 98682 98683 98684 98685 98686 98687 98671 98674 98675 98581 97078 97251 97253 97254 97255 97259 97271 97272 97299 97313 98667" 
-mapUrl: "http://maps.apple.com/?q=ZOOMCare&address=,Portland,Oregon,97209"
+  - hawaii
+title: Queen’s Medical Center
+uniqueName: queens-medical-center-1
+state: Hawaii
+stateAbbr: HI
+hood: "Ewa Beach"
+address: "91-2141 Fort Weaver Rd"
+city: "West Oahu"
+zip: "96706"
+zipsNearby: "96701 96861 96706 96712 96717 96801 96802 96803 96804 96805 96806 96807 96808 96809 96810 96811 96812 96813 96814 96815 96816 96817 96818 96819 96820 96821 96822 96823 96824 96825 96826 96828 96830 96836 96837 96838 96839 96840 96841 96843 96844 96846 96847 96848 96849 96850 96853 96858 96859 96860 96898 96729 96730 96731 96734 96863 96744 96759 96762 96770 96782 96786 96789 96854 96857 96791 96792 96795 96707 96709 96797 96827 96835" 
+mapUrl: "http://maps.apple.com/?q=Queens+Medical+Center&address=91-2141+Fort+Weaver+Rd,West+Oahu,Hawaii,96706"
 locationType: Drive-thru
-phone: ""
-website: "https://www.zoomcare.com/visit/covid-19-testing"
-onlineBooking: true
+phone: "808-691-2619"
+website: "https://www.queens.org/covid19/west-oahu"
+onlineBooking: undefined
 closed: undefined
-closedUpdate: April 22nd, 2020
-notes: "By appointment only. Privately owned. Only for individuals with symptoms. Only for high risk individuals. Prioritizes health care workers. Prioritizes first responders."
-days: Contact for hours of operation.
-ctaMessage: Schedule a test
-ctaUrl: "https://www.zoomcare.com/visit/covid-19-testing"
+closedUpdate: May 18th, 2020
+notes: "Requires phone screen."
+days: Everyday
+hours: 10AM-6PM
+ctaMessage: Learn more
+ctaUrl: "https://www.queens.org/covid19/west-oahu"
 ---
