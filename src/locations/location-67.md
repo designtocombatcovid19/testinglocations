@@ -21,7 +21,7 @@ phone: "628-206-8000"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
+closedUpdate: May 23rd, 2020
 notes: "Requires doctor's referral. By appointment only."
 days: Weekdays
 hours: 9AM-6PM

@@ -21,7 +21,7 @@ phone: "480-587-6200"
 website: "https://www.honorhealth.com/locations/primary-care/honorhealth-medical-group-gavilan-peak?utm_source=GMB&utm_medium=local&utm_campaign=Honorhealth_Medical_Group_Gavilan_Peak"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
+closedUpdate: May 23rd, 2020
 notes: "Must have fever and other symptoms."
 days: Weekdays
 hours: 7AM-7PM

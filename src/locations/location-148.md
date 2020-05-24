@@ -1,30 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Queen’s Medical Center in Honolulu, Hawaii, USA."
-permalink: "locations/hawaii/honolulu/queens-medical-center/"
+description: "Local COVID-19 testing is available at Clay County Health Dept in Fort Gaines, Georgia, USA."
+permalink: "locations/georgia/fort-gaines/clay-county-health-dept/"
 tags:
   - locations
-  - hawaii
-title: Queen’s Medical Center
-uniqueName: queens-medical-center
-state: Hawaii
-stateAbbr: HI
-hood: "Punchbowl"
-address: "1301 Punchbowl St"
-city: "Honolulu"
-zip: "96813"
-zipsNearby: "96701 96861 96706 96712 96717 96801 96802 96803 96804 96805 96806 96807 96808 96809 96810 96811 96812 96813 96814 96815 96816 96817 96818 96819 96820 96821 96822 96823 96824 96825 96826 96828 96830 96836 96837 96838 96839 96840 96841 96843 96844 96846 96847 96848 96849 96850 96853 96858 96859 96860 96898 96729 96730 96731 96734 96863 96742 96744 96748 96757 96759 96762 96770 96782 96786 96789 96854 96857 96791 96792 96795 96707 96709 96797 96827 96835" 
-mapUrl: "http://maps.apple.com/?q=Queens+Medical+Center&address=1301+Punchbowl+St,Honolulu,Hawaii,96813"
+  - georgia
+title: Clay County Health Dept
+uniqueName: clay-county-health-dept
+state: Georgia
+stateAbbr: GA
+hood: "Fort Gaines"
+address: "147 Wilson Street"
+city: "Fort Gaines"
+zip: "39851"
+zipsNearby: "32423 32426 32431 32440 32443 32445 32446 32447 32448 32452 31701 31702 31703 31704 31705 31706 31707 31708 31721 31709 31719 39813 31716 39817 39823 39824 39825 39826 31803 31730 39832 39834 39836 39837 31905 31995 31805 39840 39841 39842 31743 39845 39846 31806 39851 39854 39859 39861 39862 31763 31764 31814 31815 39866 39867 39870 31772 31821 39877 31779 31780 31824 31782 31825 39885 39886 31787 31832 36310 36311 36312 36005 36061 36313 36314 36010 36316 36016 36017 36317 36318 36319 36851 36859 36320 36321 36322 36362 36301 36302 36303 36304 36305 36330 36331 36027 36072 36856 36343 36344 36858 36345 36860 36346 36048 36350 36053 36351 36352 36353 36360 36361 36370 36867 36868 36869 36870 36371 36871 36875 36373 36374 36349 36375 36079 36081 36082 36089 36376" 
+mapUrl: "http://maps.apple.com/?q=Clay+County+Health+Dept&address=147+Wilson+Street,Fort+Gaines,Georgia,39851"
 locationType: Drive-thru
-phone: "808-691-2619"
-website: "https://www.queens.org/covid19/home"
+phone: "229-768-2355"
+website: "https://dph.georgia.gov/locations/clay-county-health-dept"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
+closedUpdate: May 23rd, 2020
 notes: "By appointment only."
-days: Everyday
-hours: 10AM-6PM
+days: Wednesdays
+hours: 2PM-4PM
 ctaMessage: Learn more
-ctaUrl: "https://www.queens.org/covid19/home"
+ctaUrl: "https://dph.georgia.gov/locations/clay-county-health-dept"
 ---

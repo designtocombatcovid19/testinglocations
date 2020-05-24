@@ -1,29 +1,32 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Hansen Family Hospital in Iowa Falls, Iowa, USA."
-permalink: "locations/iowa/iowa-falls/hansen-family-hospital/"
+description: "Local COVID-19 testing is available at Tripler Army Medical Center in Oahu, Hawaii, USA."
+permalink: "locations/hawaii/oahu/tripler-army-medical-center-1/"
 tags:
   - locations
-  - iowa
-title: Hansen Family Hospital
-uniqueName: hansen-family-hospital
-state: Iowa
-stateAbbr: IA
-hood: "Iowa Falls"
-address: "920 S Oak St"
-city: "Iowa Falls"
-zip: "50126"
-zipsNearby: "50601 50005 50006 50043 50227 50420 50007 50602 50009 50010 50011 50012 50013 50014 50021 50023 50604 50608 50649 50605 50516 50518 50028 50609 50031 50421 50032 50034 50519 50035 50036 50037 50099 50039 50040 50041 50520 50423 50612 50521 50523 50046 50613 50614 50616 50620 52215 50524 50525 50526 50619 50428 50051 52217 50054 50055 50056 50621 50430 50431 50432 50529 50064 50530 50622 50623 50624 50071 50611 50625 50532 50626 52224 50533 52225 50627 50073 50075 50629 50538 50078 50434 50435 50436 50501 50569 50631 50101 50102 50438 50632 50633 50105 50634 50106 50541 50635 50542 50439 50543 50440 50107 50109 50636 50112 50638 50657 50441 50444 50544 50545 50120 50642 50122 50643 50548 50124 50645 50126 50647 50648 50130 50446 50132 50447 50134 50135 50448 50449 50552 50651 50452 50141 50142 50557 50453 50652 50148 50558 50152 50560 50154 50156 50456 50653 50158 50401 50402 50467 50161 50162 50457 50127 50168 50169 50173 50566 50658 50201 50659 50661 50660 50206 50208 50458 50212 50664 50460 50461 50570 50665 50217 50223 50666 50464 50226 50230 50231 50667 50668 50669 50577 50234 50468 50469 50236 50470 50471 50582 50472 50239 50427 50433 50475 50243 50670 50244 50586 50246 50247 50672 50248 50673 50249 50477 52339 50591 50479 52342 50675 50676 50258 50259 50482 50594 52348 50701 50702 50703 50704 50707 50677 50595 50680 50483 50269 50271 50484 50276 50599 50278 50706" 
-mapUrl: "http://maps.apple.com/?q=Hansen+Family+Hospital&address=920+S+Oak+St,Iowa+Falls,Iowa,50126"
-locationType: Walk-in
-phone: "641-648-7000"
-website: "https://www.mercyonenorthiowaaffiliates.org/hansenfamilyhospital/"
+  - hawaii
+title: Tripler Army Medical Center
+uniqueName: tripler-army-medical-center-1
+state: Hawaii
+stateAbbr: HI
+hood: "Oahu"
+address: "1 Jarrett White Rd"
+city: "Oahu"
+zip: " 96859"
+zipsNearby: "96701 96861 96706 96712 96717 96801 96802 96803 96804 96805 96806 96807 96808 96809 96810 96811 96812 96813 96814 96815 96816 96817 96818 96819 96820 96821 96822 96823 96824 96825 96826 96828 96830 96836 96837 96838 96839 96840 96841 96843 96844 96846 96847 96848 96849 96850 96853 96858 96859 96860 96898 96729 96730 96731 96734 96863 96742 96744 96748 96757 96759 96762 96770 96782 96786 96789 96854 96857 96791 96792 96795 96707 96709 96797 96827 96835" 
+mapUrl: "http://maps.apple.com/?q=Tripler+Army+Medical+Center&address=1+Jarrett+White+Rd,Oahu,Hawaii, 96859"
+locationType: Drive-thru
+phone: "800-874-2273"
+website: "https://www.tamc.amedd.army.mil/ddhc/currentoperations.htm"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
-notes: "Open to all."
-days: Contact for hours of operation.
+closedUpdate: May 23rd, 2020
+notes: "For individuals with symptoms. For previously established patients only."
+days: Weekdays
+hours: 11AM-5PM
+altDays: Weekends
+altHours: 7AM-6:30PM
 ctaMessage: Learn more
-ctaUrl: "https://www.mercyonenorthiowaaffiliates.org/hansenfamilyhospital/"
+ctaUrl: "https://www.tamc.amedd.army.mil/ddhc/currentoperations.htm"
 ---

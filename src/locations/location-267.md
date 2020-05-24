@@ -1,32 +1,29 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at NextCare - Rio Rancho in Rio Rancho, New Mexico, USA."
-permalink: "locations/new-mexico/rio-rancho/nextcare-rio-rancho/"
+description: "Local COVID-19 testing is available at Thousand Oaks Imaging Center in Joplin, Missouri, USA."
+permalink: "locations/missouri/joplin/thousand-oaks-imaging-center/"
 tags:
   - locations
-  - new-mexico
-title: NextCare - Rio Rancho
-uniqueName: nextcare-rio-rancho
-state: New Mexico
-stateAbbr: NM
-hood: "Rio Rancho"
-address: "1630 Rio Rancho Dr SE #101"
-city: "Rio Rancho"
-zip: "87124"
-zipsNearby: "87101 87102 87103 87104 87105 87106 87107 87108 87109 87110 87111 87112 87113 87114 87115 87116 87117 87119 87120 87121 87122 87123 87124 87125 87131 87144 87151 87153 87154 87158 87174 87176 87181 87184 87185 87187 87190 87191 87192 87193 87194 87195 87196 87197 87198 87199 87002 87001 87004 87006 87007 87008 87010 87048 87012 87013 87014 87015 87532 87533 87016 87063 87535 87022 87023 87024 87025 87026 87027 87544 87545 87031 87032 87035 87056 87070 87036 87018 87038 87040 87552 87041 87072 87083 87042 87068 87043 87562 87047 87034 87049 87565 87567 87501 87502 87503 87504 87505 87506 87507 87508 87509 87540 87592 87594 87052 87044 87053 87574 87059 87060 87061 87062 87165" 
-mapUrl: "http://maps.apple.com/?q=NextCare+-+Rio+Rancho&address=1630+Rio+Rancho+Dr+SE+101,Rio+Rancho,New+Mexico,87124"
-locationType: Drive-thru or walk-in
-phone: "505-395-5520"
-website: "https://nextcare.com/locations/nm/rio-rancho/"
-onlineBooking: true
+  - missouri
+title: Thousand Oaks Imaging Center
+uniqueName: thousand-oaks-imaging-center
+state: Missouri
+stateAbbr: MO
+hood: "Joplin"
+address: "1905 West 32nd Street"
+city: "Joplin"
+zip: "64804"
+zipsNearby: "66711 66741 66712 66735 66713 66778 66724 66725 66728 66733 66734 66701 66739 66740 66743 66746 66753 66732 66756 66760 66762 66763 66769 66770 66771 66773 66772 66775 66776 66779 66780 66781 66782 64830 65601 64831 65603 64832 65604 65605 64833 65610 65612 64728 65619 65624 64834 64835 64836 65623 65625 65631 65633 65635 64741 64840 64841 65641 64744 65646 65647 64842 65654 65656 65658 64748 64843 64844 65661 65664 65675 64755 64756 64801 64802 64803 64804 64759 64766 64847 64848 64762 65682 65705 65707 64767 64769 65708 65645 64771 65712 64849 64850 64772 64854 64855 65723 64856 65730 64857 65734 64858 64859 65738 64778 64861 64864 64862 65745 64865 64784 65747 65752 64863 64853 64866 64867 65785 65756 64868 65769 64869 64790 65770 65772 64870 64873 64874 65781 67330 67332 67335 67336 67341 67342 67351 67354 67356 67357 72711 72613 72712 72714 72715 72716 72718 72719 72722 72732 72733 72734 72736 72739 72745 72747 72751 72756 72757 72758 72768 74330 74331 74332 74333 74338 74339 74340 74342 74343 74344 74345 74346 74349 74350 74354 74355 74358 74335 74360 74363 74366 74367 74301 74369 74370" 
+mapUrl: "http://maps.apple.com/?q=Thousand+Oaks+Imaging+Center&address=1905+West+32nd+Street,Joplin,Missouri,64804"
+locationType: Drive-thru
+phone: "417-347-6444"
+website: "undefined"
+onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
-notes: "For all members of the community."
-days: Weekends
-hours: 9 am-4PM
-altDays: Weekdays
-altHours: 8AM-8PM
-ctaMessage: Schedule a test
-ctaUrl: "https://nextcare.com/locations/nm/rio-rancho/"
+closedUpdate: May 23rd, 2020
+notes: "By appointment only. Requires doctor's referral. For individuals with symptoms. Requires phone screen."
+days: Contact for hours of operation.
+ctaMessage: Call 417-347-6444
+ctaUrl: "tel:417-347-6444"
 ---

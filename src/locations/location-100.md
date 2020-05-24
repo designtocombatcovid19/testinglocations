@@ -21,7 +21,7 @@ phone: "305-252-4820"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
+closedUpdate: May 23rd, 2020
 notes: "Local residents only. By appointment only. For individuals with symptoms."
 days: Contact for hours of operation.
 ctaMessage: Call 305-252-4820

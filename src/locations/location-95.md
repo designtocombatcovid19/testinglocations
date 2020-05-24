@@ -21,7 +21,7 @@ phone: ""
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
+closedUpdate: May 23rd, 2020
 notes: "For individuals with direct and unprotected exposure to a known positive case."
 days: M, W
 hours: 10AM-1PM

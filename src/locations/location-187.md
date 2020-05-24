@@ -1,30 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at ConvenientMD Urgent Care in Bangor, Maine, USA."
-permalink: "locations/maine/bangor/convenientmd-urgent-care/"
+description: "Local COVID-19 testing is available at UChicago Medicine in Chicago, Illinois, USA."
+permalink: "locations/illinois/chicago/uchicago-medicine/"
 tags:
   - locations
-  - maine
-title: ConvenientMD Urgent Care
-uniqueName: convenientmd-urgent-care
-state: Maine
-stateAbbr: ME
-hood: "Bangor"
-address: "543 Broadway"
-city: "Bangor"
-zip: "04401"
-zipsNearby: "04406 04910 04911 04912 04330 04332 04333 04336 04338 04408 04401 04402 04609 04635 04653 04915 04917 04918 04612 04920 04613 04614 04629 04410 04411 04412 04616 04921 04617 04642 04414 04415 04416 04417 04922 04923 04843 04847 04924 04418 04419 04420 04421 04422 04622 04926 04927 04623 04341 04624 04928 04625 04563 04627 04929 04930 04932 04426 04481 04427 04428 04429 04430 04933 04431 04935 04605 04434 04435 04937 04438 04634 04941 04939 04607 04441 04485 04443 04444 04640 04942 04643 04943 04944 04448 04449 04644 04848 04646 04348 04648 04649 04450 04451 04453 04455 04456 04949 04457 04849 04850 04650 04686 04950 04459 04460 04658 04461 04462 04463 04951 04464 04952 04660 04953 04955 04957 04958 04662 04853 04664 04962 04353 04963 04468 04472 04469 04473 04474 04854 04354 04965 04475 04476 04967 04969 04637 04669 04841 04846 04856 04971 04672 04972 04479 04674 04675 04973 04974 04673 04676 04975 04976 04978 04979 04677 04358 04858 04679 04487 04859 04488 04680 04489 04981 04645 04681 04683 04684 04685 04861 04986 04987 04862 04988 04989 04863 04572 04864 04574 04901 04903 04493 04865 04363 04495 04693 04496 04467" 
-mapUrl: "http://maps.apple.com/?q=ConvenientMD+Urgent+Care&address=543+Broadway,Bangor,Maine,04401"
-locationType: Walk-in
-phone: "207-922-1300"
-website: "undefined"
+  - illinois
+title: UChicago Medicine
+uniqueName: uchicago-medicine
+state: Illinois
+stateAbbr: IL
+hood: "Hyde Park"
+address: ""
+city: "Chicago"
+zip: ""
+zipsNearby: "" 
+mapUrl: "http://maps.apple.com/?q=UChicago+Medicine&address=,Chicago,Illinois,"
+locationType: Drive-thru
+phone: "773-702-2800"
+website: "https://www.uchicagomedicine.org/patients-visitors/patient-information/coronavirus-information/coronavirus-patient-education"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
-notes: "Limited test kits available."
-days: Everyday
-hours: 8AM-8PM
-ctaMessage: Call 207-922-1300
-ctaUrl: "tel:207-922-1300"
+closedUpdate: May 23rd, 2020
+notes: "By appointment only. For individuals with symptoms. For all members of the community. Free. Requires phone screen."
+days: Weekdays
+hours: 9AM-4PM
+ctaMessage: Learn more
+ctaUrl: "https://www.uchicagomedicine.org/patients-visitors/patient-information/coronavirus-information/coronavirus-patient-education"
 ---

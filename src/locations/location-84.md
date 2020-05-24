@@ -21,7 +21,7 @@ phone: "855-363-0333"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
+closedUpdate: May 23rd, 2020
 notes: "Local residents only. Requires doctor's referral. By appointment only. Prioritizes health care workers."
 days: Contact for hours of operation.
 ctaMessage: Call 855-363-0333

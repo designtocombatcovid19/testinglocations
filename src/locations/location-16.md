@@ -21,7 +21,7 @@ phone: "334-514-3713"
 website: "https://ivycreekhealth.com/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
+closedUpdate: May 23rd, 2020
 notes: "By appointment only. Requires doctor's referral."
 days: Weekdays
 hours: 7AM-7PM

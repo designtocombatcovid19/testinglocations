@@ -21,7 +21,7 @@ phone: "866-408-1899"
 website: "https://www.stfrancishealthcare.org/patients-visitors/patient-safety-quality/coronavirus-update/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
+closedUpdate: May 23rd, 2020
 notes: "By appointment only. Requires doctor's referral. Requires phone screen."
 days: Contact for hours of operation.
 ctaMessage: Learn more

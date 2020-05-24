@@ -21,7 +21,7 @@ phone: "202-741-2765"
 website: "https://forms.office.com/Pages/ResponsePage.aspx?id=dQGE_kV4nkCNB_KAPn0qAb-4-UmmFghJiaKcnpuPSmJUN08wR043V09aWDRBVjMwSFpYVzM3QkMxNS4u"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
+closedUpdate: May 23rd, 2020
 notes: "By appointment only. Requires doctor's referral."
 days: Weekdays
 hours: 9:30AM-3:30PM

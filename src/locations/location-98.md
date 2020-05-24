@@ -21,7 +21,7 @@ phone: "954-320-5730"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
+closedUpdate: May 23rd, 2020
 notes: "By appointment only. Requires doctor's referral."
 days: Contact for hours of operation.
 ctaMessage: Call 954-320-5730

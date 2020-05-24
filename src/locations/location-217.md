@@ -1,29 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Hedrick Medical Center in Chillicothe, Missouri, USA."
-permalink: "locations/missouri/chillicothe/hedrick-medical-center/"
+description: "Local COVID-19 testing is available at MRH Walk-In Care in East Millinocket, Maine, USA."
+permalink: "locations/maine/east-millinocket/mrh-walk-in-care/"
 tags:
   - locations
-  - missouri
-title: Hedrick Medical Center
-uniqueName: hedrick-medical-center
-state: Missouri
-stateAbbr: MO
-hood: "Chillicothe"
-address: "2799 N Washington St"
-city: "Chillicothe"
-zip: "64601"
-zipsNearby: "50052 50065 50140 50147 64402 64420 64001 64620 64422 64011 64424 64426 64622 64623 64624 64625 64628 64630 64631 64016 64632 64017 64429 64633 64601 64654 64635 64430 64636 64020 64021 64436 64637 64438 64638 64441 64639 64022 64442 64443 64444 64024 64073 64640 64641 64453 64642 64454 64458 64643 64644 64035 64459 64036 64037 64048 64646 64647 64648 64060 64649 64463 64650 64651 64652 64465 64062 64066 64067 64068 64069 64653 64655 64656 64657 64658 64467 64469 64071 64659 64660 64661 64072 64664 64074 64471 64645 64667 64668 64680 64076 64077 64474 64670 64477 64671 64672 64673 64674 64084 64085 64481 64676 64088 64089 64679 64489 64490 64681 64682 64683 64492 64493 64494 64686 64096 64497 64097 64688 64689 65230 65320 63530 63532 65321 65236 65246 65286 63534 65244 63538 65327 63539 65247 65330 65254 63544 63545 65259 65260 65261 63501 63549 63552 65339 65340 65344 63556 65347 63557 63558 63559 63560 65281 65349 65351 63565 63566 64447" 
-mapUrl: "http://maps.apple.com/?q=Hedrick+Medical+Center&address=2799+N+Washington+St,Chillicothe,Missouri,64601"
+  - maine
+title: MRH Walk-In Care
+uniqueName: mrh-walk-in-care
+state: Maine
+stateAbbr: ME
+hood: "East Millinocket"
+address: "87 Main St"
+city: "East Millinocket"
+zip: "04430"
+zipsNearby: "04406 04408 04401 04402 04733 04410 04411 04412 04413 04414 04415 04417 04923 04418 04419 04422 04928 04424 04492 04930 04426 04481 04427 04428 04429 04430 04434 04435 04939 04441 04485 04442 04443 04730 04761 04448 04449 04747 04450 04451 04453 04455 04456 04457 04459 04460 04461 04462 04463 04464 04760 04763 04468 04471 04469 04473 04764 04475 04765 04637 04668 04478 04479 04776 04777 04780 04487 04488 04489 04490 04454 04491 04493 04495 04497 04467" 
+mapUrl: "http://maps.apple.com/?q=MRH+Walk-In+Care&address=87+Main+St,East+Millinocket,Maine,04430"
 locationType: Walk-in
-phone: "660-646-1480"
+phone: "207-447-4190"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
-notes: "By appointment only. Requires doctor's referral. Must have fever and other symptoms."
-days: Contact for hours of operation.
-ctaMessage: Call 660-646-1480
-ctaUrl: "tel:660-646-1480"
+closedUpdate: May 23rd, 2020
+notes: "Requires phone screen. Open to all."
+days: Everyday
+hours: 8AM-5PM
+ctaMessage: Call 207-447-4190
+ctaUrl: "tel:207-447-4190"
 ---

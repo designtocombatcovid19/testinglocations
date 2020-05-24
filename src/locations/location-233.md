@@ -1,29 +1,29 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at St. Peter's Health in Helena, Montana, USA."
-permalink: "locations/montana/helena/st-peters-health/"
+description: "Local COVID-19 testing is available at MidMichigan Urgent Care in Clare, Michigan, USA."
+permalink: "locations/michigan/clare/midmichigan-urgent-care/"
 tags:
   - locations
-  - montana
-title: St. Peter's Health
-uniqueName: st-peters-health
-state: Montana
-stateAbbr: MT
-hood: "Helena"
-address: "2475 E Broadway St"
-city: "Helena"
-zip: "59601"
-zipsNearby: "59711 59713 59631 59632 59701 59702 59703 59707 59750 59721 59421 59634 59722 59731 59733 59727 59832 59635 59647 59728 59636 59837 59735 59601 59602 59604 59620 59623 59624 59625 59626 59633 59843 59638 59639 59640 59854 59747 59748 59752 59641 59643 59644 59751 59756 59759 59645 59760 59648" 
-mapUrl: "http://maps.apple.com/?q=St+Peters+Health&address=2475+E+Broadway+St,Helena,Montana,59601"
+  - michigan
+title: MidMichigan Urgent Care
+uniqueName: midmichigan-urgent-care
+state: Michigan
+stateAbbr: MI
+hood: "Clare"
+address: "700 W 5th St"
+city: "Clare"
+zip: "48617"
+zipsNearby: "48417 48610 48801 48806 48611 48703 49304 48807 49305 48706 48707 48708 48710 48612 48809 48887 49307 49309 49310 49618 48614 48615 48722 49312 49601 48724 48811 48812 49319 49623 48616 49320 48617 48618 49322 48818 48620 48829 48830 48831 48832 48732 48833 49631 49632 48622 48834 48870 49633 48835 48734 48787 48623 48624 49326 49738 49739 48838 48739 49638 48625 48626 48841 49639 48627 48628 48629 48630 49329 48845 49642 48846 49644 48847 48631 48632 49651 48633 48850 49655 48634 48635 49656 48636 48851 49657 48852 49663 48853 49665 49332 48637 49667 49668 48856 48640 48641 48642 48667 48670 48674 48686 49336 48804 48858 48859 48860 48747 48748 49337 48862 48649 48749 48865 48866 49338 48871 48873 49339 48650 48874 48756 48651 49677 48757 49340 48613 48652 48877 49342 48653 48878 48654 48601 48602 48603 48604 48605 48606 48607 48608 48609 48638 48663 48655 48656 48879 48880 49343 48657 49679 48883 48884 48885 48886 49680 48658 48888 49346 48659 48889 49347 48765 49688 48766 48891 48893 48661 48662 49349 48770 48896 48736 48802" 
+mapUrl: "http://maps.apple.com/?q=MidMichigan+Urgent+Care&address=700+W+5th+St,Clare,Michigan,48617"
 locationType: Drive-thru
-phone: "406-442-2480"
+phone: "989-386-9911"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
-notes: "By appointment only. Requires doctor's referral. Requires referral from a primary health provider."
+closedUpdate: May 23rd, 2020
+notes: "Open to all."
 days: Contact for hours of operation.
-ctaMessage: Call 406-442-2480
-ctaUrl: "tel:406-442-2480"
+ctaMessage: Call 989-386-9911
+ctaUrl: "tel:989-386-9911"
 ---

@@ -21,7 +21,7 @@ phone: "334-747-0150"
 website: "https://www.baptistfirst.org/services/coronavirus-care-clinic"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
+closedUpdate: May 23rd, 2020
 notes: "By appointment only. Requires phone screen."
 days: Contact for hours of operation.
 ctaMessage: Learn more

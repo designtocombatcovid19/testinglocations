@@ -21,7 +21,7 @@ phone: "907-581-1202"
 website: "http://www.ifhs.org/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
+closedUpdate: May 23rd, 2020
 notes: "Requires phone screen."
 days: Weekdays
 hours: 8:30AM-6PM

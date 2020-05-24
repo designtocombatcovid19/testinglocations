@@ -3413,6 +3413,20 @@
     "Verified": true
   },
   {
+    "Name": "Albany Civic Center ",
+    "State": "Georgia",
+    "Address": "100 W Oglethorpe Blvd",
+    "City": "Albany",
+    "Zip": "31701",
+    "Website": "www.augustaexpresscare.org",
+    "OnlineBooking": true,
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "NotesOther": "https://dph.georgia.gov/locations/albany-civic-center",
+    "Verified": true
+  },
+  {
     "Name": "Public Health",
     "Notes": [
       "By appointment only.",
@@ -3442,6 +3456,36 @@
     "Verified": true
   },
   {
+    "Name": "Clarke County School District Transportation Department",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Georgia",
+    "Address": "165 Paradise Blvd",
+    "City": "Athens",
+    "Zip": "30607",
+    "Phone": "(706) 340-0996",
+    "Website": "https://dph.georgia.gov/locations/clarke-county-school-district-transportation-department",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8:30AM",
+    "ClosesAt": "5PM",
+    "AltDaysOfWeek": [
+      "Saturday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
     "Name": "Georgia Tech",
     "Notes": [
       "By appointment only.",
@@ -3460,6 +3504,236 @@
     "Verified": true
   },
   {
+    "Name": "Aviation Cultural Center",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Georgia",
+    "Address": "3900 Aviation Circle NW",
+    "City": "Atlanta",
+    "Zip": "30336",
+    "Phone": "(404) 613-8150",
+    "Website": "https://dph.georgia.gov/locations/aviation-cultural-center",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8:30AM",
+    "ClosesAt": "5PM",
+    "AltDaysOfWeek": [
+      "Saturday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Center for Health and Rehabilitation",
+    "State": "Georgia",
+    "Address": "265 Boulevard NE ",
+    "City": "Atlanta",
+    "Zip": "30312 ",
+    "Website": "https://dph.georgia.gov/locations/center-health-and-rehabilitation",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "4PM",
+    "AltDaysOfWeek": [
+      "Saturday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Augusta Fire Station One",
+    "State": "Georgia",
+    "Address": "1 Broad Street",
+    "City": "Augusta",
+    "Zip": "30901",
+    "Website": "https://dph.georgia.gov/locations/augusta-fire-station-one",
+    "Closed": true,
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true,
+    "LastClosedUpdate": "2020-05-24"
+  },
+  {
+    "Name": "Christenberry Fieldhouse",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Georgia",
+    "Address": "3109 Wrightsboro Road",
+    "City": "Augusta",
+    "Zip": "30909",
+    "Phone": "(706) 721-5800",
+    "Website": "https://dph.georgia.gov/locations/christenberry-fieldhouse",
+    "DaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Blue Ridge United Methodist Church",
+    "State": "Georgia",
+    "Address": "235 Orvin Lance Dr",
+    "City": "Blue Ridge",
+    "Zip": "30513",
+    "Website": "https://dph.georgia.gov/locations/blue-ridge-united-methodist-church",
+    "DaysOfWeek": [
+      "Tuesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Camilla First Baptist Church",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Georgia",
+    "Address": "27 E. Broad St",
+    "City": "Camilla",
+    "Zip": "31730",
+    "Phone": "(229) 352-6567",
+    "Website": "https://dph.georgia.gov/locations/camilla-first-baptist-church",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8:30AM",
+    "ClosesAt": "5PM",
+    "AltDaysOfWeek": [
+      "Saturday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Clarence Brown Conference Center",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Georgia",
+    "Address": "5450 GA-20",
+    "City": "Cartersville",
+    "Zip": "30121",
+    "Phone": "(706) 802-5329",
+    "Website": "https://dph.georgia.gov/locations/clarence-brown-conference-center",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "AltDaysOfWeek": [
+      "Saturday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "1PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Clarkston Community Health Center",
+    "State": "Georgia",
+    "Address": "3700 Market Street Suite E-1",
+    "City": "Clarkston",
+    "Zip": "30021",
+    "Website": "https://dph.georgia.gov/locations/clarkston-community-health-center",
+    "DaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Chattahoochee County Health Dept",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Georgia",
+    "Address": "213 McNaughton Street",
+    "City": "Cusseta",
+    "Zip": "31805",
+    "Phone": "(706) 989-3663",
+    "Website": "https://dph.georgia.gov/locations/chattahoochee-county-health-dept",
+    "DaysOfWeek": [
+      "Thursday",
+      "Tuesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Beulah Baptist Church",
+    "State": "Georgia",
+    "Address": "2340 Clifton Springs Road",
+    "City": "Decatur",
+    "Zip": "30034",
+    "Website": "https://dph.georgia.gov/locations/beulah-baptist-church",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "10AM",
+    "ClosesAt": "3PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
     "Name": "Hunter Memorial Park",
     "Notes": [
       "By appointment only.",
@@ -3474,6 +3748,87 @@
     "City": "Douglasville",
     "Zip": "30134",
     "Phone": "(844) 442-2681",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Ben Hill County Health Department",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Georgia",
+    "Address": "251 Appomattox Road",
+    "City": "Fitzgerald",
+    "Zip": "31750",
+    "Phone": "(229) 426-5288",
+    "Website": "https://dph.georgia.gov/locations/ben-hill-county-health-department",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8:30AM",
+    "ClosesAt": "5PM",
+    "AltDaysOfWeek": [
+      "Saturday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Clay County Health Dept",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Georgia",
+    "Address": "147 Wilson Street",
+    "City": "Fort Gaines",
+    "Zip": "39851",
+    "Phone": "(229) 768-2355",
+    "Website": "https://dph.georgia.gov/locations/clay-county-health-dept",
+    "DaysOfWeek": [
+      "Wednesday"
+    ],
+    "OpensAt": "2PM",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Allen Creek Soccer Complex",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Georgia",
+    "Address": "2500 Allen Creek Rd",
+    "City": "Gainesville",
+    "Zip": "30507",
+    "Phone": "(770) 531-5600",
+    "Website": "https://dph.georgia.gov/locations/allen-creek-soccer-complex",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8:30AM",
+    "ClosesAt": "5PM",
+    "AltDaysOfWeek": [
+      "Saturday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "Noon",
     "LocationType": [
       "Drive-thru"
     ],
@@ -3523,6 +3878,209 @@
       "Drive-thru"
     ],
     "NotesOther": "Not provided to the general community at this time",
+    "Verified": true
+  },
+  {
+    "Name": "Baldwin County Health Department",
+    "State": "Georgia",
+    "Address": "953 Barrows Ferry Rd NE",
+    "City": "Milledgeville",
+    "Zip": "31061",
+    "Website": "https://dph.georgia.gov/locations/baldwin-county-health-department",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Childrens at Mount Zion",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Georgia",
+    "Address": "2201 Mt Zion Pkwy",
+    "City": "Morrow",
+    "Zip": "30260",
+    "Phone": "(678) 479-2223",
+    "Website": "https://dph.georgia.gov/locations/childrens-mount-zion",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8:30AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Berrien County Health Department",
+    "State": "Georgia",
+    "Address": "600-A South Jefferson Street",
+    "City": "Nashville",
+    "Zip": "31639",
+    "Website": "https://dph.georgia.gov/locations/berrien-county-health-department",
+    "DaysOfWeek": [
+      "Thursday",
+      "Wednesday"
+    ],
+    "OpensAt": "8:30AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Bryan County Health Dept-Pembroke Clinic",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Georgia",
+    "Address": "430 Ledford St",
+    "City": "Pembroke",
+    "Zip": "31321",
+    "Phone": "(912) 653-4331",
+    "Website": "https://dph.georgia.gov/locations/bryan-county-health-dept-pembroke-clinic",
+    "DaysOfWeek": [
+      "Friday"
+    ],
+    "OpensAt": "8:30AM",
+    "ClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Brooks County Health Department",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Georgia",
+    "Address": "500 East Courtland",
+    "City": "Quitman",
+    "Zip": "31643",
+    "Phone": "(229) 263-7585",
+    "Website": "https://dph.georgia.gov/locations/brooks-county-health-department",
+    "DaysOfWeek": [
+      "Monday",
+      "Tuesday"
+    ],
+    "OpensAt": "8:30AM",
+    "ClosesAt": "5PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Catoosa County Senior Center",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Georgia",
+    "Address": "144 Catoosa Circle",
+    "City": "Ringgold",
+    "Zip": "30736",
+    "Phone": "(706) 935-2541",
+    "Website": "https://dph.georgia.gov/locations/catoosa-county-senior-center",
+    "DaysOfWeek": [
+      "Friday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Catoosa Health Department",
+    "State": "Georgia",
+    "Address": "145 Catoosa Circle",
+    "City": "Ringgold",
+    "Zip": "30736",
+    "Website": "https://dph.georgia.gov/locations/catoosa-health-department",
+    "DaysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "1PM",
+    "ClosesAt": "4PM",
+    "AltDaysOfWeek": [
+      "Friday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "1PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true,
+    "Alt2DaysOfWeek": [
+      "Saturday"
+    ],
+    "Alt2OpensAt": "9AM",
+    "Alt2ClosesAt": "Noon"
+  },
+  {
+    "Name": "West Rome Baptist Church",
+    "State": "Georgia",
+    "Address": "914 Shorter Ave NW",
+    "City": "Rome",
+    "Zip": "30165",
+    "Phone": "(706) 802-5329",
+    "Website": "https://dph.georgia.gov/locations/west-rome-baptist-church",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "AltDaysOfWeek": [
+      "Saturday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "1PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Chattooga County Health Department",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Georgia",
+    "Address": "60 Farrar Drive",
+    "City": "Summerville",
+    "Zip": "30747",
+    "Phone": "(706) 857-3471",
+    "Website": "https://dph.georgia.gov/locations/chattooga-county-health-department",
+    "DaysOfWeek": [
+      "Tuesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
     "Verified": true
   },
   {
@@ -3596,6 +4154,66 @@
     ],
     "OpensAt": "9AM",
     "ClosesAt": "3PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Burke County Middle School",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Georgia",
+    "Address": "356 Southside Dr",
+    "City": "Waynesboro",
+    "Zip": "30830",
+    "Phone": "(706) 721-5800",
+    "Website": "https://dph.georgia.gov/locations/burke-county-middle-school",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8:30AM",
+    "ClosesAt": "5PM",
+    "AltDaysOfWeek": [
+      "Saturday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "Noon",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Cherokee County Health Department",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Georgia",
+    "Address": "7545 Main Street Woodstock",
+    "City": "Woodstock",
+    "Zip": "30188",
+    "Phone": "(888) 881-1474",
+    "Website": "https://dph.georgia.gov/locations/cherokee-county-health-department",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "5PM",
+    "AltDaysOfWeek": [
+      "Saturday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "Noon",
     "LocationType": [
       "Drive-thru"
     ],
@@ -5336,6 +5954,114 @@
     "Verified": true
   },
   {
+    "Name": "Family Health Care",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Michigan",
+    "Address": "1615 Michigan Ave",
+    "City": "Baldwin",
+    "Zip": "49304",
+    "Phone": "(231) 745-4624",
+    "Website": "https://www.familyhealthcare.org/",
+    "Verified": true
+  },
+  {
+    "Name": "Bellaire Family Health Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires referral from a primary health provider.",
+      "For individuals with symptoms.",
+      "Limited test kits available."
+    ],
+    "State": "Michigan",
+    "Address": "4955 S Michigan 88 Hwy",
+    "City": "Bellaire",
+    "Zip": "49615",
+    "Phone": "(231) 222-2320",
+    "Website": "https://ejfhc.org/covid-19/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Wednesday"
+    ],
+    "OpensAt": "Noon",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Spectrum Health Big Rapids Hospital",
+    "State": "Michigan",
+    "Address": "605 Oak St",
+    "City": "Big Rapids",
+    "Zip": "49307",
+    "Phone": "(231) 796-8691",
+    "Website": "https://www.spectrumhealth.org/covid19",
+    "OpensAt": "Open 24 hours",
+    "ClosesAt": "Open 24 hours",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Family Health Care - Cadillac",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Michigan",
+    "Address": "520 Cobb St",
+    "City": "Cadillac",
+    "Zip": "49601",
+    "Phone": "(231) 775-6521",
+    "Website": "https://www.familyhealthcare.org/",
+    "Verified": true
+  },
+  {
+    "Name": "MidMichigan Urgent Care",
+    "Notes": [
+      "Open to all."
+    ],
+    "State": "Michigan",
+    "Address": "700 W 5th St",
+    "City": "Clare",
+    "Zip": "48617",
+    "Phone": "(989) 386-9911",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "East Jordan Family Health Center",
+    "Notes": [
+      "By appointment only.",
+      "Requires referral from a primary health provider.",
+      "For individuals with symptoms.",
+      "Limited test kits available."
+    ],
+    "State": "Michigan",
+    "Address": "601 Bridge St",
+    "City": "East Jordan",
+    "Zip": "49727",
+    "Phone": "(231) 222-2320",
+    "Website": "https://ejfhc.org/covid-19/",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Wednesday"
+    ],
+    "OpensAt": "Noon",
+    "ClosesAt": "4PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
     "Name": "Rite Aid",
     "Notes": [
       "By appointment only."
@@ -5361,6 +6087,84 @@
       "Drive-thru"
     ],
     "NotesOther": "200 tests each day through online appointments",
+    "Verified": true
+  },
+  {
+    "Name": "Spectrum Health Gerber Memorial",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Michigan",
+    "Address": "212 S Sullivan Ave",
+    "City": "Fremont",
+    "Zip": "49412",
+    "Phone": "(231) 924-3300",
+    "Website": "https://findadoctor.spectrumhealth.org/location/profile/7987?sid=5429",
+    "OpensAt": "Open 24 hours",
+    "ClosesAt": "Open 24 hours",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Urgent Care and Occupational Health: MidMichigan Urgent Care - Gladwin",
+    "Notes": [
+      "Requires doctor's referral.",
+      "Open to all."
+    ],
+    "State": "Michigan",
+    "Address": "1105 E. Cedar Avenue M-61",
+    "City": "Gladwin",
+    "Zip": "48624",
+    "Phone": "(989) 246-9430",
+    "Website": "https://www.midmichigan.org/conditions-treatments/UrgentCare/gladwin/?utm_medium=local&utm_source=google_plus-local&utm_campaign=local-Gladwin-MMH237",
+    "DaysOfWeek": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "8AM",
+    "ClosesAt": "7PM",
+    "AltDaysOfWeek": [
+      "Saturday",
+      "Sunday"
+    ],
+    "AltOpensAt": "8AM",
+    "AltClosesAt": "3PM",
+    "Verified": true
+  },
+  {
+    "Name": "MidMichigan Community Health Services",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Michigan",
+    "Address": "9249 W Lake City Rd",
+    "City": "Houghton Lake",
+    "Zip": "48629",
+    "Phone": "(989) 422-5122",
+    "Website": "https://www.healthynorth.org/healthynorth/about-us/",
+    "Verified": true
+  },
+  {
+    "Name": "Spectrum Health Ludington Hospital",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Michigan",
+    "Address": "1 N Atkinson Dr",
+    "City": "Ludington",
+    "Zip": "49431",
+    "Phone": "(231) 843-2591",
+    "Website": "https://www.spectrumhealth.org/locations/spectrum-health-ludington-hospital",
+    "OpensAt": "Open 24 hours",
+    "ClosesAt": "Open 24 hours",
+    "LocationType": [
+      "Drive-thru"
+    ],
     "Verified": true
   },
   {
@@ -5392,6 +6196,24 @@
     "Verified": true
   },
   {
+    "Name": "Spectrum Health Reed City Hospital",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Michigan",
+    "Address": "300 N Patterson Rd",
+    "City": "Reed City",
+    "Zip": "49677",
+    "Phone": "(231) 832-3271",
+    "Website": "https://www.spectrumhealth.org/locations/spectrum-health-reed-city-hospital",
+    "OpensAt": "Open 24 hours",
+    "ClosesAt": "Open 24 hours",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
     "Name": "Rite Aid",
     "Notes": [
       "By appointment only."
@@ -5417,6 +6239,48 @@
       "Drive-thru"
     ],
     "NotesOther": "200 tests each day through online appointments",
+    "Verified": true
+  },
+  {
+    "Name": "Northwest Michigan Health Services - Traverse City",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Michigan",
+    "Address": "10767 E. Traverse Hwy",
+    "City": "Traverse City",
+    "Zip": "49684",
+    "Phone": "(231) 642-5292",
+    "Website": "https://www.nmhsi.org/locations/shelby/?utm_source=gmb&utm_medium=organic&utm_campaign=shelby",
+    "DaysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "OpensAt": "9AM",
+    "ClosesAt": "4PM",
+    "AltDaysOfWeek": [
+      "Friday"
+    ],
+    "AltOpensAt": "9AM",
+    "AltClosesAt": "1PM",
+    "LocationType": [
+      "Drive-thru"
+    ],
+    "Verified": true
+  },
+  {
+    "Name": "Family Health Care White Cloud",
+    "Notes": [
+      "By appointment only."
+    ],
+    "State": "Michigan",
+    "Address": " 1035 E Wilcox Ave",
+    "City": "White Cloud",
+    "Zip": "49349",
+    "Phone": "(231) 689-5943",
+    "Website": "https://www.familyhealthcare.org/covid19/",
     "Verified": true
   },
   {

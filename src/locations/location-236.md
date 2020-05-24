@@ -1,30 +1,29 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at CostCare in Missoula, Montana, USA."
-permalink: "locations/montana/missoula/costcare/"
+description: "Local COVID-19 testing is available at Spectrum Health Gerber Memorial in Fremont, Michigan, USA."
+permalink: "locations/michigan/fremont/spectrum-health-gerber-memorial/"
 tags:
   - locations
-  - montana
-title: CostCare
-uniqueName: costcare
-state: Montana
-stateAbbr: MT
-hood: "Missoula"
-address: "3031 S Russell Street"
-city: "Missoula"
-zip: "59801"
-zipsNearby: "59820 59821 59863 59823 59824 59825 59826 59828 59731 59733 59831 59832 59833 59834 59846 59837 59835 59840 59841 59843 59845 59847 59851 59801 59802 59803 59804 59806 59807 59808 59812 59854 59855 59856 59858 59859 59860 59864 59865 59868 59870 59872 59875" 
-mapUrl: "http://maps.apple.com/?q=CostCare&address=3031+S+Russell+Street,Missoula,Montana,59801"
-locationType: Walk-in
-phone: "406-728-5841"
-website: "https://costcare.com/coronavirus/"
+  - michigan
+title: Spectrum Health Gerber Memorial
+uniqueName: spectrum-health-gerber-memorial
+state: Michigan
+stateAbbr: MI
+hood: "Fremont"
+address: "212 S Sullivan Ave"
+city: "Fremont"
+zip: "49412"
+zipsNearby: "49301 49355 49356 49357 49401 49302 49303 49304 49305 48809 48887 49306 49307 49309 49310 49618 49311 49402 49619 49312 49314 49315 49601 49316 49317 48811 49318 48812 49319 49623 49320 48815 49321 49403 49404 49322 48818 49405 49323 49406 49626 48829 48830 48832 49631 48622 49408 48834 48870 49409 49634 49410 49325 49411 49412 49413 49415 49326 49417 49501 49502 49503 49504 49505 49506 49507 49508 49509 49510 49512 49514 49515 49516 49518 49519 49523 49525 49528 49530 49534 49544 49546 49548 49555 49560 49588 49599 49418 49468 49327 48838 49419 49638 49420 49639 49421 49422 49423 49424 49425 49328 49329 48845 49426 49642 48846 49644 49427 49428 49429 49330 48632 48633 48850 49430 49655 49331 49431 49656 48851 48852 49434 49660 49665 49435 49436 49332 49333 49335 49437 49336 48804 48858 48859 48860 49440 49441 49442 49443 49444 49445 49337 49446 49448 48865 49338 49449 49339 49451 49677 49340 48877 49341 49351 49342 48878 49452 49343 48881 49453 49454 49679 49455 48884 48885 48886 49345 49456 48888 49346 48889 49347 49688 49457 48891 49458 49459 49348 48893 49689 49460 49349 49461 49463 48896 49464 49550" 
+mapUrl: "http://maps.apple.com/?q=Spectrum+Health+Gerber+Memorial&address=212+S+Sullivan+Ave,Fremont,Michigan,49412"
+locationType: Drive-thru
+phone: "231-924-3300"
+website: "https://findadoctor.spectrumhealth.org/location/profile/7987?sid=5429"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
-notes: "By appointment only. Limited test kits available. Requires phone screen."
-days: Weekdays
-hours: 8AM-6PM
+closedUpdate: May 23rd, 2020
+notes: "By appointment only."
+days: Contact for hours of operation.
 ctaMessage: Learn more
-ctaUrl: "https://costcare.com/coronavirus/"
+ctaUrl: "https://findadoctor.spectrumhealth.org/location/profile/7987?sid=5429"
 ---

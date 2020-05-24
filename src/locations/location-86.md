@@ -21,7 +21,7 @@ phone: ""
 website: "http://covidaventura.com/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
+closedUpdate: May 23rd, 2020
 notes: "By appointment only. Prioritizes first responders."
 days: Weekdays
 hours: 9AM-5PM

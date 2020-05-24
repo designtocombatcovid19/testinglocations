@@ -1,32 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Bozeman Health Belgrade Clinic + UrgentCare in Belgrade, Montana, USA."
-permalink: "locations/montana/belgrade/bozeman-health-belgrade-clinic-urgentcare/"
+description: "Local COVID-19 testing is available at Bellaire Family Health Center in Bellaire, Michigan, USA."
+permalink: "locations/michigan/bellaire/bellaire-family-health-center/"
 tags:
   - locations
-  - montana
-title: Bozeman Health Belgrade Clinic + UrgentCare
-uniqueName: bozeman-health-belgrade-clinic-urgentcare
-state: Montana
-stateAbbr: MT
-hood: "Belgrade"
-address: "206 Alaska Frontage Rd"
-city: "Belgrade"
-zip: "59714"
-zipsNearby: "59714 59632 59715 59716 59717 59718 59719 59771 59772 59720 59721 59634 59018 59635 59647 59027 59729 59730 59030 59735 59638 59047 59082 59740 59052 59741 59053 59745 59747 59065 59642 59749 59752 59641 59643 59644 59751 59755 59759 59645 59760 59086 59773" 
-mapUrl: "http://maps.apple.com/?q=Bozeman+Health+Belgrade+Clinic+UrgentCare&address=206+Alaska+Frontage+Rd,Belgrade,Montana,59714"
+  - michigan
+title: Bellaire Family Health Center
+uniqueName: bellaire-family-health-center
+state: Michigan
+stateAbbr: MI
+hood: "Bellaire"
+address: "4955 S Michigan 88 Hwy"
+city: "Bellaire"
+zip: "49615"
+zipsNearby: "49610 49705 49706 49611 49612 49613 49709 49614 49615 49616 49617 49618 49712 49713 49619 49716 49620 49717 49601 49718 49621 49622 49711 49720 49721 48619 49722 49625 49723 49727 49627 49628 49629 49729 49730 49630 48621 49632 49633 49635 49733 49734 49735 49636 49637 49738 49739 49737 49740 49638 48627 49640 48629 48630 49749 49643 49751 49645 49646 49648 49649 49650 49651 49653 49654 49755 49756 48743 48636 49657 49701 49659 49663 49664 49665 49666 49667 49668 49759 48647 49761 49670 49764 49673 49674 49765 49769 49770 48651 49676 48653 48656 49782 49680 49682 49683 49791 49792 49684 49685 49686 49696 49688 49795 49796 49797 49690 49799" 
+mapUrl: "http://maps.apple.com/?q=Bellaire+Family+Health+Center&address=4955+S+Michigan+88+Hwy,Bellaire,Michigan,49615"
 locationType: Drive-thru
-phone: "406-414-2619"
-website: "undefined"
+phone: "231-222-2320"
+website: "https://ejfhc.org/covid-19/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
-notes: "By appointment only. Requires doctor's referral. Requires referral from a primary health provider."
-days: Weekdays
-hours: 8:30AM-6PM
-altDays: Saturdays
-altHours: 8:30AM-6PM
-ctaMessage: Call 406-414-2619
-ctaUrl: "tel:406-414-2619"
+closedUpdate: May 23rd, 2020
+notes: "By appointment only. Requires referral from a primary health provider. For individuals with symptoms. Limited test kits available."
+days: M, W, F
+hours: Noon-4PM
+ctaMessage: Learn more
+ctaUrl: "https://ejfhc.org/covid-19/"
 ---

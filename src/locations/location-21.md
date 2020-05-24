@@ -21,7 +21,7 @@ phone: "907-373-4200"
 website: "https://www.urgentcarealaska.com/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
+closedUpdate: May 23rd, 2020
 notes: "Open to all."
 days: Weekdays
 hours: 8AM-6PM

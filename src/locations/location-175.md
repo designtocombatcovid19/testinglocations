@@ -1,34 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Boone County Family Medicine Walk-In Clinic in Boone, Iowa, USA."
-permalink: "locations/iowa/boone/boone-county-family-medicine-walk-in-clinic/"
+description: "Local COVID-19 testing is available at Ali'i Health in Kailua-Kona, Hawaii, USA."
+permalink: "locations/hawaii/kailua-kona/alii-health/"
 tags:
   - locations
-  - iowa
-title: Boone County Family Medicine Walk-In Clinic
-uniqueName: boone-county-family-medicine-walk-in-clinic
-state: Iowa
-stateAbbr: IA
-hood: "Boone"
-address: " 120 S Story St"
-city: "Boone"
-zip: "50036"
-zipsNearby: "50601 50002 50003 50005 50006 50043 50227 50420 50007 50009 50010 50011 50012 50013 50014 50021 50023 50608 51430 51433 50025 50516 50026 50518 50028 50029 50609 50031 50421 50032 50033 50034 50519 50035 50036 50037 50099 50038 50039 50040 50041 50520 51436 50521 50523 50046 50047 51401 50048 50050 50524 50525 50526 50051 50054 50055 50056 50621 50058 50431 50061 50529 50063 50064 50066 50530 51440 50301 50302 50303 50304 50305 50306 50307 50308 50309 50310 50311 50312 50313 50314 50315 50316 50317 50318 50319 50320 50321 50322 50323 50324 50325 50327 50328 50329 50330 50331 50332 50333 50334 50335 50336 50339 50340 50359 50360 50361 50362 50363 50364 50367 50368 50369 50380 50381 50391 50392 50393 50394 50395 50396 50398 50936 50940 50947 50950 50980 50981 50982 50983 50069 50265 50266 50070 50071 50532 50533 50072 50627 50073 50075 50076 50117 50538 50078 50540 50501 50569 50101 50102 50632 50633 50105 50106 50541 50635 51443 50542 50439 50543 50107 50109 50110 50849 50111 50638 50115 51444 50441 50544 50545 50118 50252 50120 50642 50122 50548 50124 50125 50126 50128 50059 50129 50130 50131 50551 50132 50447 50134 50135 50137 50552 51449 51451 50452 50141 50142 50557 50145 51452 50146 50148 50558 51453 50152 50560 50561 50154 50155 50156 51455 50563 50158 50160 50161 50162 50164 50001 50166 50167 50127 50168 50169 50170 50173 50566 50201 50206 50208 50210 50211 50212 50214 50571 50216 50217 50218 50220 50222 50223 50225 50574 50226 50575 50228 50229 50230 51459 50231 50232 50233 50577 50234 50235 50579 50236 50470 50237 50582 50239 50240 50241 51462 50243 50244 50586 50246 50247 50672 50248 50249 50250 51463 50591 50257 50258 50259 50261 50594 50263 50595 50680 50269 50271 50273 50276 50599 50277 50278 50347 50397" 
-mapUrl: "http://maps.apple.com/?q=Boone+County+Family+Medicine+Walk-In+Clinic&address=120+S+Story+St,Boone,Iowa,50036"
-locationType: Walk-in
-phone: "515-433-8585"
-website: "https://www.boonehospital.com/services/boone-county-family-medicine"
+  - hawaii
+title: Ali'i Health
+uniqueName: alii-health
+state: Hawaii
+stateAbbr: HI
+hood: "Keauhou Shopping Center"
+address: "78-6831 Alii Drive"
+city: "Kailua-Kona"
+zip: "96740"
+zipsNearby: "96704 96737 96710 96718 96719 96720 96721 96725 96726 96727 96728 96739 96740 96745 96738 96743 96755 96749 96750 96760 96764 96773 96774 96771 96772 96776 96777 96780 96781 96783 96785" 
+mapUrl: "http://maps.apple.com/?q=Alii+Health&address=78-6831+Alii+Drive,Kailua-Kona,Hawaii,96740"
+locationType: Drive-thru
+phone: "808-747-8321"
+website: "https://www.kona-kohala.com/events/details/covid-19-drive-through-testing-in-kona-at-the-keauhou-shopping-center-05-07-2020-3621"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
-notes: "By appointment only."
-days: Weekdays
-hours: 9AM-8PM
-altDays: Saturdays
-altHours: 9AM-7PM
-alt2Days: Sundays
-alt2Hours: 9AM-5:30PM
+closedUpdate: May 23rd, 2020
+notes: "Open to all."
+days: M, Th
+hours: 8AM-Noon
 ctaMessage: Learn more
-ctaUrl: "https://www.boonehospital.com/services/boone-county-family-medicine"
+ctaUrl: "https://www.kona-kohala.com/events/details/covid-19-drive-through-testing-in-kona-at-the-keauhou-shopping-center-05-07-2020-3621"
 ---

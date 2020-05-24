@@ -1,32 +1,29 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at NextCare - Petroglyph in Albuquerque, New Mexico, USA."
-permalink: "locations/new-mexico/albuquerque/nextcare-petroglyph/"
+description: "Local COVID-19 testing is available at Hermann Area District Hospital in Hermann, Missouri, USA."
+permalink: "locations/missouri/hermann/hermann-area-district-hospital/"
 tags:
   - locations
-  - new-mexico
-title: NextCare - Petroglyph
-uniqueName: nextcare-petroglyph
-state: New Mexico
-stateAbbr: NM
-hood: "Petroglyph"
-address: "8201 Gold Course Rd NW Ste A3"
-city: "Albuquerque"
-zip: "87120"
-zipsNearby: "87101 87102 87103 87104 87105 87106 87107 87108 87109 87110 87111 87112 87113 87114 87115 87116 87117 87119 87120 87121 87122 87123 87124 87125 87131 87144 87151 87153 87154 87158 87174 87176 87181 87184 87185 87187 87190 87191 87192 87193 87194 87195 87196 87197 87198 87199 87002 87001 87004 87006 87007 87008 87010 87048 87014 87015 87016 87063 87535 87022 87023 87024 87025 87026 87028 87544 87545 87031 87032 87035 87056 87070 87036 87038 87040 87041 87072 87083 87042 87068 87043 87562 87831 87047 87034 87049 87501 87502 87503 87504 87505 87506 87507 87508 87509 87540 87592 87594 87052 87044 87053 87574 87059 87060 87061 87062 87165" 
-mapUrl: "http://maps.apple.com/?q=NextCare+-+Petroglyph&address=8201+Gold+Course+Rd+NW+Ste+A3,Albuquerque,New+Mexico,87120"
-locationType: Drive-thru or walk-in
-phone: "505-800-7077"
-website: "https://nextcare.com/locations/nm/petroglyph/"
-onlineBooking: true
+  - missouri
+title: Hermann Area District Hospital
+uniqueName: hermann-area-district-hospital
+state: Missouri
+stateAbbr: MO
+hood: "Hermann"
+address: "509 West 18th St"
+city: "Hermann"
+zip: "65401"
+zipsNearby: "63622 63623 65439 63625 65440 65441 65443 65444 63629 65689 63630 63631 63633 65446 65452 65453 65456 65457 65459 65436 65462 65463 65464 65466 65468 65589 65470 65473 65584 65660 65662 65479 65483 65564 65484 65486 63648 65501 65532 65534 65535 65536 63654 65542 63656 63660 65591 65461 65529 65550 65722 65543 65552 63664 65555 63666 65556 65787 65557 65401 65402 65409 65541 65559 65449 65560 65565 65566 65567 65570 65571 63674 65580 65582 65583 65586 65001 65011 63013 65013 63014 65014 65062 65016 65017 65042 65020 65023 65024 63342 65026 65072 65032 63030 65035 63037 65038 63041 65039 65040 65041 65043 65101 65102 65103 65104 65105 65106 65107 65108 65109 65110 65111 65047 65048 65049 63056 65051 65052 65053 63060 63061 65054 63357 65058 65059 65036 65061 65063 63068 65064 65065 65066 65067 65069 63071 63072 63091 65074 63077 65075 65076 63079 65077 63080 65079 65080 63378 65082 65083 63084 63089 63090 65085" 
+mapUrl: "http://maps.apple.com/?q=Hermann+Area+District+Hospital&address=509+West+18th+St,Hermann,Missouri,65401"
+locationType: Drive-thru
+phone: "573-569-5049"
+website: "https://www.hadh.org/news-events/news-releases/press-release-covid-19-testing"
+onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
-notes: "For all members of the community."
-days: Weekends
-hours: 9 am-4PM
-altDays: Weekdays
-altHours: 8AM-8PM
-ctaMessage: Schedule a test
-ctaUrl: "https://nextcare.com/locations/nm/petroglyph/"
+closedUpdate: May 23rd, 2020
+notes: "By appointment only. Requires doctor's referral. Requires phone screen."
+days: Contact for hours of operation.
+ctaMessage: Learn more
+ctaUrl: "https://www.hadh.org/news-events/news-releases/press-release-covid-19-testing"
 ---

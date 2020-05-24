@@ -1,29 +1,32 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at University of New Mexico Respiratory Care Center in Albuquerque, New Mexico, USA."
-permalink: "locations/new-mexico/albuquerque/university-of-new-mexico-respiratory-care-center/"
+description: "Local COVID-19 testing is available at University Hospital in Columbia, Missouri, USA."
+permalink: "locations/missouri/columbia/university-hospital/"
 tags:
   - locations
-  - new-mexico
-title: University of New Mexico Respiratory Care Center
-uniqueName: university-of-new-mexico-respiratory-care-center
-state: New Mexico
-stateAbbr: NM
-hood: "Albuquerque"
-address: "2211 Lomas Blvd. NE"
-city: "Albuquerque"
-zip: "87106"
-zipsNearby: "87101 87102 87103 87104 87105 87106 87107 87108 87109 87110 87111 87112 87113 87114 87115 87116 87117 87119 87120 87121 87122 87123 87124 87125 87131 87144 87151 87153 87154 87158 87174 87176 87181 87184 87185 87187 87190 87191 87192 87193 87194 87195 87196 87197 87198 87199 87002 87001 87004 87006 87007 87008 87010 87048 87014 87015 87016 87063 87535 87022 87023 87024 87025 87026 87028 87544 87545 87031 87032 87035 87056 87070 87036 87038 87040 87041 87072 87083 87042 87068 87043 87562 87831 87047 87034 87049 87501 87502 87503 87504 87505 87506 87507 87508 87509 87540 87592 87594 87052 87044 87053 87574 87059 87060 87061 87062 87165" 
-mapUrl: "http://maps.apple.com/?q=University+of+New+Mexico+Respiratory+Care+Center&address=2211+Lomas+Blvd+NE,Albuquerque,New+Mexico,87106"
-locationType: Walk-in
-phone: "505-272-2411"
-website: "https://hsc.unm.edu/covid-19/index.html"
+  - missouri
+title: University Hospital 
+uniqueName: university-hospital
+state: Missouri
+stateAbbr: MO
+hood: "Columbia"
+address: "600 E Stadium Blvd"
+city: "Columbia"
+zip: "65211"
+zipsNearby: "65443 64639 65486 64660 65582 65001 65230 65320 65010 65231 65011 65013 63333 65232 63014 63532 65322 65014 65062 65016 65233 65017 65236 65246 65286 65237 65239 65018 65042 63534 63436 65023 65240 65024 63431 63437 65243 65025 65244 65325 65201 65202 65203 65205 65211 65212 65215 65216 65217 65218 65299 63339 65026 65072 65032 65247 63345 65248 65329 65034 65250 65035 65251 65330 65254 65037 65038 65255 65256 65039 65040 65041 65257 63350 65258 65043 65333 65334 63443 65259 65260 65046 65101 65102 65103 65104 65105 65106 65107 65108 65109 65110 65111 63351 65047 65261 65262 65048 63352 65049 65337 65050 65051 65053 65054 65055 63552 65263 65339 65340 65264 65058 65265 65344 63359 65270 65059 63456 63361 65345 65036 65061 65347 65063 63558 63363 65274 65064 63370 65065 65348 65066 65275 63462 65276 65067 65068 65278 65069 65279 65280 65074 65075 65076 65281 65282 65301 65302 63450 63468 63469 65349 65350 65077 65283 65078 65284 65079 65351 65354 65080 65285 65081 63381 65082 65083 63382 65084 63384 65085 63388 65287" 
+mapUrl: "http://maps.apple.com/?q=University+Hospital&address=600+E+Stadium+Blvd,Columbia,Missouri,65211"
+locationType: Drive-thru
+phone: "573-882-4141"
+website: "https://www.muhealth.org/our-stories/how-do-i-get-tested-covid-19?utm_source=website&utm_medium=homepage&utm_campaign=GetTested"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
-notes: "Requires phone screen."
-days: Contact for hours of operation.
+closedUpdate: May 23rd, 2020
+notes: "Requires referral from a primary health provider. Requires doctor's referral. For individuals with symptoms."
+days: Weekdays
+hours: 7AM-7PM
+altDays: Weekends
+altHours: 7AM-3PM
 ctaMessage: Learn more
-ctaUrl: "https://hsc.unm.edu/covid-19/index.html"
+ctaUrl: "https://www.muhealth.org/our-stories/how-do-i-get-tested-covid-19?utm_source=website&utm_medium=homepage&utm_campaign=GetTested"
 ---

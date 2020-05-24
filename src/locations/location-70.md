@@ -21,7 +21,7 @@ phone: "303-360-6276"
 website: "https://stridechc.org/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
+closedUpdate: May 23rd, 2020
 notes: "Free. Limited test kits available."
 days: Weekdays
 hours: 9AM-4PM

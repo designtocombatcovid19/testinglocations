@@ -1,32 +1,30 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Tripler Army Medical Center in Oahu, Hawaii, USA."
-permalink: "locations/hawaii/oahu/tripler-army-medical-center-1/"
+description: "Local COVID-19 testing is available at Baldwin County Health Department in Milledgeville, Georgia, USA."
+permalink: "locations/georgia/milledgeville/baldwin-county-health-department/"
 tags:
   - locations
-  - hawaii
-title: Tripler Army Medical Center
-uniqueName: tripler-army-medical-center-1
-state: Hawaii
-stateAbbr: HI
-hood: "Oahu"
-address: "1 Jarrett White Rd"
-city: "Oahu"
-zip: " 96859"
-zipsNearby: "96701 96861 96706 96712 96717 96801 96802 96803 96804 96805 96806 96807 96808 96809 96810 96811 96812 96813 96814 96815 96816 96817 96818 96819 96820 96821 96822 96823 96824 96825 96826 96828 96830 96836 96837 96838 96839 96840 96841 96843 96844 96846 96847 96848 96849 96850 96853 96858 96859 96860 96898 96729 96730 96731 96734 96863 96742 96744 96748 96757 96759 96762 96770 96782 96786 96789 96854 96857 96791 96792 96795 96707 96709 96797 96827 96835" 
-mapUrl: "http://maps.apple.com/?q=Tripler+Army+Medical+Center&address=1+Jarrett+White+Rd,Oahu,Hawaii, 96859"
+  - georgia
+title: Baldwin County Health Department
+uniqueName: baldwin-county-health-department
+state: Georgia
+stateAbbr: GA
+hood: "Milledgeville"
+address: "953 Barrows Ferry Rd NE"
+city: "Milledgeville"
+zip: "31061"
+zipsNearby: "31002 31003 30803 30413 30805 31004 31005 30806 31008 31009 30807 31012 31013 31014 31016 31017 31018 30808 31019 31020 31021 31027 31040 31022 31023 31024 31026 31025 31029 31030 30810 31031 31032 31033 31034 30814 31035 31036 31038 31042 31044 31045 31046 31047 30811 30816 31049 31052 30434 31054 31201 31202 31203 31204 31205 31206 31207 31208 31209 31210 31211 31212 31213 31216 31217 31220 31221 31294 31295 31296 31297 31057 30819 30441 31059 31061 31062 30820 31064 31065 31050 31066 30447 30821 31067 31069 31075 31076 31078 30454 31082 31085 31086 30457 31087 30823 31089 30824 31090 30477 31028 31088 31093 31095 31098 31099 30828 31094 30818 30833 31096 31097 30619 30601 30602 30603 30604 30605 30606 30607 30608 30609 30612 30204 30621 30622 30623 30625 30012 30013 30094 30014 30015 30016 30630 30631 30212 30638 30216 30641 30642 30223 30224 30645 30233 30234 30018 30648 30248 30252 30253 30650 30055 30256 30257 30655 30656 30056 30266 30054 30070 30660 30663 30664 30665 30025 30667 30671 30285 30668 30669 30673 30677 30678 30683" 
+mapUrl: "http://maps.apple.com/?q=Baldwin+County+Health+Department&address=953+Barrows+Ferry+Rd+NE,Milledgeville,Georgia,31061"
 locationType: Drive-thru
-phone: "800-874-2273"
-website: "https://www.tamc.amedd.army.mil/ddhc/currentoperations.htm"
+phone: ""
+website: "https://dph.georgia.gov/locations/baldwin-county-health-department"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
-notes: "For individuals with symptoms. For previously established patients only."
-days: Weekdays
-hours: 11AM-5PM
-altDays: Weekends
-altHours: 7AM-6:30PM
+closedUpdate: May 23rd, 2020
+notes: ""
+days: M, F
+hours: 9AM-4PM
 ctaMessage: Learn more
-ctaUrl: "https://www.tamc.amedd.army.mil/ddhc/currentoperations.htm"
+ctaUrl: "https://dph.georgia.gov/locations/baldwin-county-health-department"
 ---

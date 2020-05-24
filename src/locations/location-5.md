@@ -21,7 +21,7 @@ phone: "251-341-2819"
 website: "https://www.infirmaryhealth.org/coronavirus-covid-19"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
+closedUpdate: May 23rd, 2020
 notes: "By appointment only. Limited test kits available."
 days: Contact for hours of operation.
 ctaMessage: Learn more

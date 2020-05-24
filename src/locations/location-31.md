@@ -21,7 +21,7 @@ phone: "602-845-4445"
 website: "https://nextcare.com/curbside/"
 onlineBooking: true
 closed: undefined
-closedUpdate: May 18th, 2020
+closedUpdate: May 23rd, 2020
 notes: "For individuals with symptoms."
 days: Everyday
 hours: 8AM-Noon

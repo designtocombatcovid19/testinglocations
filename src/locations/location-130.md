@@ -21,7 +21,7 @@ phone: "954-659-5951"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
+closedUpdate: May 23rd, 2020
 notes: "By appointment only. Must have fever and other symptoms. Requires phone screen."
 days: Weekdays
 hours: 8AM-5PM

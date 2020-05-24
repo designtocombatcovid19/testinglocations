@@ -1,30 +1,29 @@
 ---
 layout: location-page
 date: Last Modified
-description: "Local COVID-19 testing is available at Big Sky Medical Center in Big Sky, Montana, USA."
-permalink: "locations/montana/big-sky/big-sky-medical-center/"
+description: "Local COVID-19 testing is available at Spectrum Health Big Rapids Hospital in Big Rapids, Michigan, USA."
+permalink: "locations/michigan/big-rapids/spectrum-health-big-rapids-hospital/"
 tags:
   - locations
-  - montana
-title: Big Sky Medical Center
-uniqueName: big-sky-medical-center
-state: Montana
-stateAbbr: MT
-hood: "Big Sky"
-address: "334 Town Center Ave"
-city: "Big Sky"
-zip: "59716"
-zipsNearby: "59710 59714 59715 59716 59717 59718 59719 59771 59772 59720 59721 59018 59027 59729 59730 59030 59735 59047 59740 59052 59741 59745 59747 59065 59749 59752 59751 59754 59755 59758 59759 59760 82190 83429 83433 59773" 
-mapUrl: "http://maps.apple.com/?q=Big+Sky+Medical+Center&address=334+Town+Center+Ave,Big+Sky,Montana,59716"
+  - michigan
+title: Spectrum Health Big Rapids Hospital
+uniqueName: spectrum-health-big-rapids-hospital
+state: Michigan
+stateAbbr: MI
+hood: "Big Rapids"
+address: "605 Oak St"
+city: "Big Rapids"
+zip: "49307"
+zipsNearby: "49301 49355 49356 49357 49401 48801 49302 49303 49304 49305 49614 48612 48809 48887 49306 49307 49309 49310 49618 49402 48615 49619 49312 49620 49601 49317 48811 49318 48812 49319 49623 49320 48617 48815 48618 49321 49403 49404 49625 49322 48818 49405 49626 48620 48829 48830 48832 49631 49632 48622 48834 48870 49409 49633 49634 49410 48835 49411 49412 49413 49415 48624 49326 49417 49501 49502 49503 49504 49505 49506 49507 49508 49509 49510 49512 49514 49515 49516 49518 49519 49523 49525 49528 49530 49534 49544 49546 49548 49555 49560 49588 49599 49418 49468 49327 48838 49638 48625 49420 49639 49421 49425 48628 48629 48630 49329 48845 49426 49642 48846 49644 48847 49428 49429 49645 49330 49649 48632 49651 48633 48850 49430 49655 49331 49431 49656 48851 49657 48852 49660 49663 48853 49665 49435 49666 49436 49332 48637 49667 49668 48856 49437 49336 48804 48858 48859 48860 49440 49441 49442 49443 49444 49445 49337 49446 48862 49448 49675 48865 49338 49449 48871 48873 49339 48874 48651 49451 49677 49340 48877 49341 49351 49342 48878 49452 48880 49343 48657 48881 49454 49679 49455 48883 48884 48885 48886 49345 49456 48888 49346 48889 49683 49347 49688 49457 48891 49458 49459 48893 49689 48662 49349 49461 49463 48896 48802 49550" 
+mapUrl: "http://maps.apple.com/?q=Spectrum+Health+Big+Rapids+Hospital&address=605+Oak+St,Big+Rapids,Michigan,49307"
 locationType: Drive-thru
-phone: "406-414-2619"
-website: "undefined"
+phone: "231-796-8691"
+website: "https://www.spectrumhealth.org/covid19"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
-notes: "By appointment only. Requires doctor's referral. Requires referral from a primary health provider."
-days: Everyday
-hours: 8:30AM-6PM
-ctaMessage: Call 406-414-2619
-ctaUrl: "tel:406-414-2619"
+closedUpdate: May 23rd, 2020
+notes: ""
+days: Contact for hours of operation.
+ctaMessage: Learn more
+ctaUrl: "https://www.spectrumhealth.org/covid19"
 ---

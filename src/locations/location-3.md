@@ -21,7 +21,7 @@ phone: ""
 website: "https://wbhm.org/feature/2020/can-get-tested-covid-19/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 18th, 2020
+closedUpdate: May 23rd, 2020
 notes: ""
 days: Weekdays
 hours: 8AM-4PM
