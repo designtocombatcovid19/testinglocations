@@ -5,6 +5,6 @@ tags:
   - alaska
 title: Alaska
 stateAbbr: AK
-url: "https://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html"
-urlTitle: "alabamapublichealth.gov"
+url: "http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/default.aspx"
+urlTitle: "dhss.alaska.gov"
 ---
