@@ -21,7 +21,7 @@ phone: ""
 website: "https://lacovidprod.service-now.com/rrs"
 onlineBooking: true
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "Requires doctor's referral. Prioritizes first responders."
 days: Contact for hours of operation.
 ctaMessage: Schedule a test

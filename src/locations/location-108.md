@@ -21,7 +21,7 @@ phone: "305-735-3909"
 website: "https://www.clockwisemd.com/hospitals/4836/visits/new"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "By appointment only. Prioritizes health care workers. Prioritizes first responders."
 days: M-F, Sun
 hours: 10AM-6PM

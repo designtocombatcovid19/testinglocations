@@ -21,7 +21,7 @@ phone: ""
 website: "https://www.doineedacovid19test.com/"
 onlineBooking: true
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "By appointment only. Prioritizes health care workers. Prioritizes first responders. For individuals with symptoms. Free."
 days: Everyday
 hours: 9:30AM-4PM

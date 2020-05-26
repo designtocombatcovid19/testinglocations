@@ -21,7 +21,7 @@ phone: "989-422-5122"
 website: "https://www.healthynorth.org/healthynorth/about-us/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "By appointment only."
 days: Contact for hours of operation.
 ctaMessage: Learn more

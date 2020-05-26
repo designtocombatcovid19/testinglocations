@@ -21,7 +21,7 @@ phone: "907-883-4101"
 website: "http://dhss.alaska.gov/dph/Nursing/Pages/Frontier%20Region%20Public%20Health%20Center%20Pages/Tok-Public-Health-Center.aspx"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "Requires phone screen."
 days: Weekdays
 hours: 8AM-Noon

@@ -21,7 +21,7 @@ phone: "229-352-6567"
 website: "https://dph.georgia.gov/locations/camilla-first-baptist-church"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "By appointment only."
 days: Weekdays
 hours: 8:30AM-5PM

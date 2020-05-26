@@ -21,7 +21,7 @@ phone: "319-268-3000"
 website: "https://carbonhealth.com/coronavirus/covid-19-testing-centers/Iowa"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "By appointment only. Requires doctor's referral."
 days: Contact for hours of operation.
 ctaMessage: Learn more

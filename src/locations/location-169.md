@@ -21,7 +21,7 @@ phone: ""
 website: "https://www.hawaiipacifichealth.org/hph-covid-19-updates/covid-19-testing/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: ""
 days: Everyday
 hours: 8AM-5PM

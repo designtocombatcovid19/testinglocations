@@ -21,7 +21,7 @@ phone: ""
 website: "https://dph.georgia.gov/locations/clarkston-community-health-center"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: ""
 days: Weekends
 hours: 9AM-4PM

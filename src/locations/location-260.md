@@ -21,7 +21,7 @@ phone: "573-882-4141"
 website: "https://www.muhealth.org/our-stories/how-do-i-get-tested-covid-19?utm_source=website&utm_medium=homepage&utm_campaign=GetTested"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "Requires referral from a primary health provider. Requires doctor's referral. For individuals with symptoms."
 days: Weekdays
 hours: 7AM-7PM

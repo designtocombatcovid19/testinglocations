@@ -12,11 +12,13 @@
     </title>
     {# <link rel="stylesheet" href="/css/styles.css"> #}
     <style>{% include "../css/styles.css" %}</style>
+    <style>{% include "../css/clusterize.css" %}</style>
     <script>{% include "../static/scripts/list.min.js" %}</script>
+    <script>{% include "../static/scripts/clusterize.min.js" %}</script>
 
     {% include "meta.njk" %}
   </head>
-  <body class="box-border flex flex-col min-h-screen overflow-hidden overflow-y-auto font-sans antialiased bg-white">
+  <body class="flex flex-col min-h-screen overflow-hidden overflow-y-auto font-sans antialiased bg-white box-border">
     {% include "notification.njk" %}
 
     {%- if page.url == "/" -%}

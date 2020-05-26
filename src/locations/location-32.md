@@ -21,7 +21,7 @@ phone: "623-444-2001"
 website: "https://nextcare.com/locations/az/tramonto-urgent-care/"
 onlineBooking: true
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "For individuals with symptoms."
 days: Weekdays
 hours: 8AM-8PM

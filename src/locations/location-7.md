@@ -21,7 +21,7 @@ phone: "205-848-2273"
 website: "https://www.childrensurgent.com/coronavirus-update-and-testing-hotline/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "By appointment only."
 days: Weekdays
 hours: 2PM-10PM

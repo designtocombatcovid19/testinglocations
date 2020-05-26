@@ -21,7 +21,7 @@ phone: "907-895-4292"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "Free."
 days: Weekdays
 hours: 8AM-Noon

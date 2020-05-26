@@ -21,7 +21,7 @@ phone: "314-966-9107"
 website: "https://www.stlukes-stl.com/News-Releases/2020/St-Lukes-to-Open-Drive-Through-COVID-19-Testing-Site/"
 onlineBooking: true
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "By appointment only. Requires doctor's referral. For individuals with symptoms. Requires phone screen."
 days: Weekdays
 hours: 8AM-5PM

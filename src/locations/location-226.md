@@ -21,7 +21,7 @@ phone: "410-721-2333"
 website: "https://www.chesapeakeergentcare.com/"
 onlineBooking: true
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "By appointment only. Requires doctor's referral."
 days: Contact for hours of operation.
 ctaMessage: Schedule a test

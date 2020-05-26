@@ -21,7 +21,7 @@ phone: "913-396-7070"
 website: "http://www.swbfhc.org/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "Free. For individuals with symptoms. Requires doctor's referral. By appointment only."
 days: Weekdays
 hours: 8AM-5PM

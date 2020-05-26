@@ -21,7 +21,7 @@ phone: ""
 website: "https://www.capecodhealth.org/medical-services/infectious-disease/coronavirus/covid-19-testing-process/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "By appointment only. Requires referral from a primary health provider. Requires doctor's referral. For all members of the community."
 days: Everyday
 hours: 8AM-6PM

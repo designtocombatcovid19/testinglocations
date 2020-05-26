@@ -21,7 +21,7 @@ phone: "808-691-2619"
 website: "https://www.queens.org/molokai/molokai-general-hospital"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "Requires phone screen."
 days: Everyday
 hours: 10AM-6PM

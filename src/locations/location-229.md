@@ -21,7 +21,7 @@ phone: "231-745-4624"
 website: "https://www.familyhealthcare.org/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "By appointment only."
 days: Contact for hours of operation.
 ctaMessage: Learn more

@@ -21,7 +21,7 @@ phone: "219-877-1474"
 website: "https://www.franciscanhealth.org/news-and-events/news/new-visitor-restrictions-covid-19-testing-begin-franciscan-health-michigan-city"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "Requires doctor's referral. Patients only."
 days: Weekdays
 hours: 10AM-4PM

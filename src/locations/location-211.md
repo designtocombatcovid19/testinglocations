@@ -21,7 +21,7 @@ phone: "606-303-4389"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "By appointment only."
 days: Weekdays
 hours: 8AM-4:30PM

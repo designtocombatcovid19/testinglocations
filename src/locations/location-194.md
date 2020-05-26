@@ -21,7 +21,7 @@ phone: "312-429-5725"
 website: "https://midwestexpressclinic.com/locations/roscoe-village-chicago-il-urgent-care/"
 onlineBooking: true
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "Prioritizes health care workers. Prioritizes first responders. Requires phone screen. For high risk individuals. For individuals with symptoms. Limited test kits available. By appointment only."
 days: Everyday
 hours: 8AM-8PM

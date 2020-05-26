@@ -16,8 +16,8 @@ buttonSecondUrl: /submit/
     <input class="w-full px-2 text-lg font-thin rounded-sm search focus:outline-none focus:bg-gray-100 md:pl-5 lg:pl-6 xl:pl-8 text-l sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl lg:tracking-wide" type="search" autocomplete="on" autocorrect="on" aria-label="Search by city or state in the USA." placeholder="Which city or state do you live in?">
   </div>
 
-  <div class="flex-1 overflow-hidden overflow-y-auto">
-    <div class="sm:pt-10 md:pt-16 lg:pt-24 list">
+  <div id="scrollArea" class="flex-1 overflow-hidden overflow-y-auto">
+    <div id="contentArea" class="sm:pt-10 md:pt-16 lg:pt-24 list">
 
       {% for tag, locations in collections | dictsort %}
         {% if tag == "all" %}
@@ -97,6 +97,11 @@ buttonSecondUrl: /submit/
     valueNames: [ 'state', 'hood', 'city', 'stateAbbr', 'zipsNearby' ]
   };
   var testingList = new List('testing-list', options);
+
+  var clusterize = new Clusterize({
+    scrollId: 'scrollArea',
+    contentId: 'contentArea'
+  });
 </script>
 
 {# {% include "cta.njk" %} #}

@@ -21,7 +21,7 @@ phone: ""
 website: "https://christianacare.org/services/covid-19-testing-locations/"
 onlineBooking: true
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "Requires doctor's referral."
 days: M, W, F
 hours: 7AM-1PM

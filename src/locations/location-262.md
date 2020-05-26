@@ -21,7 +21,7 @@ phone: "573-569-5049"
 website: "https://www.hadh.org/news-events/news-releases/press-release-covid-19-testing"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "By appointment only. Requires doctor's referral. Requires phone screen."
 days: Contact for hours of operation.
 ctaMessage: Learn more

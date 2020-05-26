@@ -21,7 +21,7 @@ phone: "515-875-9268"
 website: "https://www.iowaclinic.com/coronavirus/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "By appointment only."
 days: Weekdays
 hours: 8AM-4PM

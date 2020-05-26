@@ -21,7 +21,7 @@ phone: "808-432-2000"
 website: "https://healthy.kaiserpermanente.org/hawaii/health-wellness/coronavirus-information?kp_shortcut_referrer=kp.org/coronavirus"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "Requires phone screen."
 days: Contact for hours of operation.
 ctaMessage: Learn more

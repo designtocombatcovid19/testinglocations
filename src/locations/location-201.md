@@ -21,7 +21,7 @@ phone: "515-433-8585"
 website: "https://www.boonehospital.com/services/boone-county-family-medicine"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "By appointment only."
 days: Weekdays
 hours: 9AM-8PM

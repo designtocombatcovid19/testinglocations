@@ -21,7 +21,7 @@ phone: ""
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "For individuals with symptoms. Limited test kits available. Prioritizes first responders. Free."
 days: Everyday
 hours: 9AM-5PM

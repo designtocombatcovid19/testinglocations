@@ -21,7 +21,7 @@ phone: "800-229-2273"
 website: "https://baycare.org/baycareanywhere"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "By appointment only. Requires phone screen. Privately owned."
 days: Tu-Th
 hours: 9AM-Noon

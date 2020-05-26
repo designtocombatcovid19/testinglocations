@@ -21,7 +21,7 @@ phone: "779-236-4094"
 website: "https://midwestexpressclinic.com/locations/bourbonnais-il/"
 onlineBooking: true
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "Prioritizes health care workers. Prioritizes first responders. Requires phone screen. For high risk individuals. For individuals with symptoms. Limited test kits available. By appointment only."
 days: Everyday
 hours: 8AM-8PM

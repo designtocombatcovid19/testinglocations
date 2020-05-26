@@ -21,7 +21,7 @@ phone: "800-874-2273"
 website: "https://www.tamc.amedd.army.mil/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "By appointment only. Requires doctor's referral. Requires phone screen."
 days: Weekdays
 hours: 6:30AM-4PM

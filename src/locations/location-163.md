@@ -21,7 +21,7 @@ phone: "866-460-1119"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "By appointment only. For individuals with symptoms."
 days: Weekdays
 hours: 9AM-3PM

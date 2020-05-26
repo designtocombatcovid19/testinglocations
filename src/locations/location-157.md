@@ -21,7 +21,7 @@ phone: "706-935-2541"
 website: "https://dph.georgia.gov/locations/catoosa-county-senior-center"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "By appointment only."
 days: Fridays
 hours: 9AM-4PM

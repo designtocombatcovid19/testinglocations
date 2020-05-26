@@ -21,7 +21,7 @@ phone: ""
 website: "www.augustaexpresscare.org"
 onlineBooking: true
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: ""
 days: Contact for hours of operation.
 ctaMessage: Schedule a test

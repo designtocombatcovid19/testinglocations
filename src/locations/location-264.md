@@ -21,7 +21,7 @@ phone: "816-795-6000"
 website: "https://www.solvhealth.com/urgent-care-of-kansas-city-independence-mo-AGLeep"
 onlineBooking: true
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "By appointment only. Requires doctor's referral."
 days: Weekdays
 hours: 8:30AM-9PM

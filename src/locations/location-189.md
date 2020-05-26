@@ -21,7 +21,7 @@ phone: "312-702-3923"
 website: "https://physiciansimmediatecare.com/clinic/lincoln-peterson/"
 onlineBooking: true
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "For individuals with symptoms. Prioritizes health care workers. Prioritizes first responders. Open to all."
 days: Weekdays
 hours: 8AM-4:30PM

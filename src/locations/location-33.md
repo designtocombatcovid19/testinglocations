@@ -21,7 +21,7 @@ phone: "480-889-3570"
 website: "https://nextcare.com/curbside/"
 onlineBooking: true
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "For individuals with symptoms."
 days: Weekdays
 hours: 8AM-8PM

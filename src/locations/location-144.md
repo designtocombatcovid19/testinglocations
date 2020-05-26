@@ -21,7 +21,7 @@ phone: "706-989-3663"
 website: "https://dph.georgia.gov/locations/chattahoochee-county-health-dept"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "By appointment only."
 days: Tu, Th
 hours: 10AM-Noon

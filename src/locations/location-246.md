@@ -21,7 +21,7 @@ phone: "816-251-6100"
 website: "https://www.saintlukeskc.org/about/news/saint-lukes-news-three-covid-19-drive-thru-testing-sites-set-qualifying-saint-lukes"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "By appointment only. Requires doctor's referral. Must have fever and other symptoms."
 days: Contact for hours of operation.
 ctaMessage: Learn more

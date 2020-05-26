@@ -21,7 +21,7 @@ phone: "833-763-0444"
 website: "https://www.crmc.org/patients-and-visitors/novel-coronavirus-covid-19/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "Requires doctor's referral. Requires phone screen. For individuals with symptoms."
 days: Weekdays
 hours: 9 am-6PM

@@ -21,7 +21,7 @@ phone: "808-234-1094"
 website: "http://windwardurgentcare.com/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "Must have fever and other symptoms. For individuals with symptoms."
 days: Everyday
 hours: 8AM-9PM

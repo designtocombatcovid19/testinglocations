@@ -21,7 +21,7 @@ phone: "515-733-5191"
 website: "https://www.mcfarlandclinic.com/doctors/locations/story-city/story-city-office"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "Requires doctor's referral."
 days: Weekdays
 hours: 8AM-5PM

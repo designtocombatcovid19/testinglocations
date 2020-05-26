@@ -21,7 +21,7 @@ phone: "770-513-5631"
 website: "http://www.gnrhealth.com/covid-19-info/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "By appointment only. For individuals with symptoms."
 days: Weekdays
 hours: 8AM-7PM

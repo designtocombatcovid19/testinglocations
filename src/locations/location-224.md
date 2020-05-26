@@ -21,7 +21,7 @@ phone: "410-480-9110"
 website: "https://allcarefamilymed.com/coronavirus"
 onlineBooking: true
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "By appointment only. For all members of the community. Requires phone screen."
 days: Everyday
 hours: Noon-1PM

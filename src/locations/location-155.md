@@ -21,7 +21,7 @@ phone: "912-653-4331"
 website: "https://dph.georgia.gov/locations/bryan-county-health-dept-pembroke-clinic"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: "By appointment only."
 days: Fridays
 hours: 8:30AM-Noon

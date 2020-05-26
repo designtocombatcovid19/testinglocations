@@ -21,7 +21,7 @@ phone: ""
 website: "https://dph.georgia.gov/locations/blue-ridge-united-methodist-church"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: May 25th, 2020
 notes: ""
 days: Tuesdays
 hours: 9AM-Noon
