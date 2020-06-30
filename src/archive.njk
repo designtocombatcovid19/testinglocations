@@ -1,0 +1,102 @@
+---
+layout: base
+title: COVID-19 testing locations
+subtitle: Locations and requirements for testing in the United States.
+buttonName: Self Test
+buttonUrl: /self-test/
+buttonSecondName: Submit New Location
+buttonSecondUrl: /submit/
+---
+
+<div id="testing-list">
+  <div class="flex pt-10 pb-2 mx-8 bg-white border-b-2 border-gray-300 sm:pt-12 md:pt-16 lg:pt-20 lg:pb-0 sm:mx-12 xl:mx-16">
+    <span class="items-center justify-end w-auto pt-2 sm:pt-4.5 md:pt-2 md:pt-6 md:pl-5 lg:pt-9 lg:pl-6 xl:pt-11 xl:pl-8">
+      <svg class="w-4 h-4 sm:w-6 sm:h-6 md:w-8 md:h-8 lg:w-10 lg:h-10 xl:w-12 xl:h-12" viewBox="0 0 32 43" xmlns="http://www.w3.org/2000/svg"><g stroke="#272727" stroke-width="2" fill="none" fill-rule="evenodd"><circle cx="14.452" cy="14.452" r="13.452"/><path d="M22.898 26.502l8.358 10.929"/></g></svg>
+    </span>
+    <input class="w-full px-2 text-lg font-thin rounded-sm search focus:outline-none focus:bg-gray-100 md:pl-5 lg:pl-6 xl:pl-8 text-l sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl lg:tracking-wide" type="search" autocomplete="on" autocorrect="on" aria-label="Search by city or state in the USA." placeholder="Which city or state do you live in?">
+  </div>
+
+  <div class="flex-1 overflow-hidden overflow-y-auto">
+    <div class="sm:pt-10 md:pt-16 lg:pt-24 list">
+
+      {% for tag, locations in collections | dictsort %}
+        {% if tag == "all" %}
+          {# TODO: figure out nunjucks version of not and && #}
+        {% elif tag == "locations" %}
+          {# TODO: figure out nunjucks version of not and && #}
+        {% else %}
+          {%- for location in locations -%}
+            {% if loop.first %}
+              {# State health resource link #}
+              <div class="flex flex-wrap mx-8 sm:mx-10 md:mx-12 overflow-hidden lg:text-xl xl:text-1.5xl font-light border-b border-gray-500 border-dashed xl:mx-16 py-1 md:py-2 lg:py-3 xl:py-4">
+                <div class="w-full my-4 overflow-hidden">
+                  <p class="hidden state" aria-hidden="true">{{ location.data.title }}</p>
+                  <p class="hidden stateAbbr" aria-hidden="true">{{ location.data.stateAbbr }}</p>
+                  <p class="hidden city" aria-hidden="true">{% include "cities-by-state.njk" %}</p>
+                  <p class="">For more information on the coronavirus in {{ location.data.title }}, please visit <a class="border-b border-black" href="{{ location.data.url }}">{{ location.data.urlTitle }} </a></p>
+                </div>
+              </div>
+            {% else %}
+              <div class="flex flex-wrap mx-8 sm:mx-10 md:mx-12 overflow-hidden lg:text-xl xl:text-1.5xl font-light border-b border-gray-500 border-dashed xl:mx-16 py-1 md:py-2 lg:py-3 xl:py-4">
+                <div class="w-1/2 my-4 overflow-hidden sm:w-2/12 md:w-2/12">
+                  <p class="font-semibold lg:font-medium state">{{ location.data.state }}</p>
+                  <p class="hood">{{ location.data.hood }}</p>
+                  <p class="hidden city" aria-hidden="true">{{ location.data.city }}</p>
+                  <p class="hidden stateAbbr" aria-hidden="true">{{ location.data.stateAbbr }}</p>
+                  <p class="hidden stateAbbr" aria-hidden="true">{{ location.data.zip }}</p>
+                  <p class="hidden zipsNearby" aria-hidden="true">{{ location.data.zipsNearby }}</p>
+                </div>
+
+                {% if (location.data.address) %}
+                  <div class="w-1/2 pl-4 my-4 overflow-hidden sm:px-4 sm:w-3/12 md:w-3/12">
+                    <a class="" href="{{ location.data.mapUrl }}"><address class="not-italic address"><span class="font-semibold lg:font-medium">{{ location.data.title }}</span><br/>{{ location.data.address }}<br/>{{ location.data.city }}, {{ location.data.stateAbbr }} {{ location.data.zip }}</address></a>
+                  </div>
+                {% else %}
+                  <div class="w-1/2 px-4 my-4 overflow-hidden sm:w-3/12 md:w-3/12">
+                    <p><span class="font-semibold lg:font-medium">{{ location.data.title }}</span><br/>Please contact the provider for their address.</p>
+                  </div>
+                {% endif %}
+
+                <div class="w-1/2 my-4 overflow-hidden sm:px-4 sm:w-3/12 md:w-2/12">
+                  <p class="font-semibold lg:font-medium days">{{ location.data.days }}</p>
+                  <p class="hours">{{ location.data.hours }}</p>
+                  <p class="font-semibold lg:font-medium altDays">{{ location.data.altDays }}</p>
+                  <p class="altHours">{{ location.data.altHours }}</p>
+                  <p class="font-semibold lg:font-medium alt2Days">{{ location.data.alt2Days }}</p>
+                  <p class="alt2Hours">{{ location.data.alt2Hours }}</p>
+                </div>
+
+                <div class="w-1/2 pl-4 my-4 overflow-hidden md:px-4 sm:w-4/12 md:w-3/12">
+                  {% if location.data.closed === true %}
+                    <p class="font-semibold lg:font-medium closed text-red">CLOSED FOR TESTING</p>
+                    <p class="closed text-red">Last updated {{ location.data.closedUpdate }}.</p>
+                  {% else %}
+                    <p class="font-semibold lg:font-medium location-type">{{ location.data.locationType }}</p>
+                    <p class="notes">{{ location.data.notes }}</p>
+                  {% endif%}
+                </div>
+
+                <div class="w-full my-4 overflow-hidden md:pl-4 sm:w-2/10 md:w-2/12">
+                  {% if (location.data.ctaUrl) %}
+                    <a class="border-b border-black learn-more hover:text-gray-700 hover:border-gray-700" href="{{ location.data.ctaUrl }}">{{ location.data.ctaMessage }}</a>
+                  {% else %}
+                    <p class="text-gray-700 no-contact">{{ location.data.ctaMessage }}</p>
+                  {% endif%}
+                </div>
+              </div>
+            {% endif %}
+          {%- endfor -%}
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<script>
+  var options = {
+    valueNames: [ 'state', 'hood', 'city', 'stateAbbr', 'zipsNearby' ]
+  };
+  var testingList = new List('testing-list', options);
+</script>
+
+{# {% include "cta.njk" %} #}
