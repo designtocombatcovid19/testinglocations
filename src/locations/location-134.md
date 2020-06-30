@@ -21,7 +21,7 @@ phone: "706-340-0996"
 website: "https://dph.georgia.gov/locations/clarke-county-school-district-transportation-department"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "By appointment only."
 days: Weekdays
 hours: 8:30AM-5PM

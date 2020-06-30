@@ -21,7 +21,7 @@ phone: "229-768-2355"
 website: "https://dph.georgia.gov/locations/clay-county-health-dept"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "By appointment only."
 days: Wednesdays
 hours: 2PM-4PM

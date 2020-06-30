@@ -21,7 +21,7 @@ phone: "443-262-9900"
 website: "https://www.chesapeake.edu/coronavirus"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "Requires doctor's referral."
 days: M, W, F
 hours: 10AM-2PM

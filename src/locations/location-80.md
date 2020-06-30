@@ -21,7 +21,7 @@ phone: "202-787-1979"
 website: "https://allcarefamilymed.com/coronavirus"
 onlineBooking: true
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "Requires phone screen."
 days: Weekdays
 hours: 6PM-6:30PM

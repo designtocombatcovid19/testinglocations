@@ -21,7 +21,7 @@ phone: "641-792-1273"
 website: "https://www.mercyone.org/health-and-wellness/health-answers/covid-19-what-you-need-to-know/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "By appointment only. Requires doctor's referral."
 days: Contact for hours of operation.
 ctaMessage: Learn more

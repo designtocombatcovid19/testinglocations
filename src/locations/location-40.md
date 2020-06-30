@@ -21,7 +21,7 @@ phone: "800-632-4502"
 website: "https://uamshealth.com/location/covid-19-drive-thru-screening/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "For individuals with symptoms. Limited test kits available."
 days: Everyday
 hours: 8AM-8PM

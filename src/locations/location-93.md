@@ -21,7 +21,7 @@ phone: "305-268-4319"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "By appointment only. For individuals with symptoms."
 days: M-Sat
 hours: 9AM-5PM

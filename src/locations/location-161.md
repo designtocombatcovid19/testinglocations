@@ -21,7 +21,7 @@ phone: "229-352-6567"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "By appointment only. Requires phone screen. Prioritizes health care workers. Prioritizes first responders."
 days: Tu, Th
 hours: 9AM-Noon

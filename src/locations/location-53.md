@@ -21,7 +21,7 @@ phone: ""
 website: "https://docs.google.com/forms/d/e/1FAIpQLScO3zt_Ktf9LWCzvXJeojr3QfbtSI58X969-IP4mQvcs3fC0w/viewform"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "For individuals with symptoms. Employees only."
 days: Mondays
 hours: 9AM-Noon

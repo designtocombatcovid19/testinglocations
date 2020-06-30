@@ -21,7 +21,7 @@ phone: "706-721-5800"
 website: "https://dph.georgia.gov/locations/burke-county-middle-school"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "By appointment only."
 days: Weekdays
 hours: 8:30AM-5PM

@@ -21,7 +21,7 @@ phone: "208-878-8783"
 website: "https://www.sterlingurgentcare.com/coronavirus-covid-19/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "By appointment only. Limited test kits available."
 days: Everyday
 hours: 9AM-9PM

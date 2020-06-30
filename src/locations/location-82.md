@@ -21,7 +21,7 @@ phone: ""
 website: "https://healthy.kaiserpermanente.org"
 onlineBooking: true
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "For previously established patients only. Requires doctor's referral."
 days: Everyday
 hours: 9AM-5PM

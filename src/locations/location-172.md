@@ -21,7 +21,7 @@ phone: "808-462-5430"
 website: "https://www.hawaiipacifichealth.org/hph-covid-19-updates/covid-19-testing/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "Requires phone screen."
 days: Weekdays
 hours: 8AM-5PM

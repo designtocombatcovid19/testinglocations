@@ -21,7 +21,7 @@ phone: "231-796-8691"
 website: "https://www.spectrumhealth.org/covid19"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: ""
 days: Contact for hours of operation.
 ctaMessage: Learn more

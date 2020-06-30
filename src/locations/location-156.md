@@ -21,7 +21,7 @@ phone: "229-263-7585"
 website: "https://dph.georgia.gov/locations/brooks-county-health-department"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "By appointment only."
 days: M-Tu
 hours: 8:30AM-5PM

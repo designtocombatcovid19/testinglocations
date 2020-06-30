@@ -21,7 +21,7 @@ phone: "207-922-1300"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "Limited test kits available."
 days: Everyday
 hours: 8AM-8PM

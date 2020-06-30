@@ -21,7 +21,7 @@ phone: "510-686-3621"
 website: "https://carbonhealth.com/berkeley"
 onlineBooking: true
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "By appointment only."
 days: Everyday
 hours: 9AM-7PM

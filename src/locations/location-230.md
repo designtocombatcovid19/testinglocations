@@ -21,7 +21,7 @@ phone: "231-222-2320"
 website: "https://ejfhc.org/covid-19/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "By appointment only. Requires referral from a primary health provider. For individuals with symptoms. Limited test kits available."
 days: M, W, F
 hours: Noon-4PM

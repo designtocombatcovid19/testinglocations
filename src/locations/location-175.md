@@ -21,7 +21,7 @@ phone: "808-747-8321"
 website: "https://www.kona-kohala.com/events/details/covid-19-drive-through-testing-in-kona-at-the-keauhou-shopping-center-05-07-2020-3621"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "Open to all."
 days: M, Th
 hours: 8AM-Noon

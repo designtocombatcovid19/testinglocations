@@ -21,7 +21,7 @@ phone: "772-226-4846"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "By appointment only. Requires phone screen."
 days: Everyday
 hours: 9AM-5PM

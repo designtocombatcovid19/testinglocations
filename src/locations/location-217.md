@@ -21,7 +21,7 @@ phone: "207-447-4190"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "Requires phone screen. Open to all."
 days: Everyday
 hours: 8AM-5PM

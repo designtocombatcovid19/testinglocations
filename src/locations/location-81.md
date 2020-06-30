@@ -21,7 +21,7 @@ phone: ""
 website: "https://childrensnational.org/visit/schedule-an-appointment"
 onlineBooking: true
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "Requires doctor's referral."
 days: Thursdays
 hours: 10AM-2PM

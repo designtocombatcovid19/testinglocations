@@ -21,7 +21,7 @@ phone: "954-276-4680"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "For individuals with symptoms. Prioritizes health care workers. Prioritizes first responders."
 days: Everyday
 hours: 1PM-5PM

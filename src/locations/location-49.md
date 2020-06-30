@@ -21,7 +21,7 @@ phone: "800-945-6171"
 website: "https://www.projectbaseline.com/study/covid-19/"
 onlineBooking: true
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "By appointment only. For individuals with symptoms."
 days: M-Th, Sun
 hours: 9:30AM-3PM

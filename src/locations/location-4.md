@@ -21,7 +21,7 @@ phone: "334-528-7425"
 website: "https://www.eamc.org/patient-and-guests/covid-19-information/what-should-i-do-if-i-think-i-have-covid-19"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: ""
 days: Weekdays
 hours: 9AM-6PM

@@ -21,7 +21,7 @@ phone: "641-648-7000"
 website: "https://www.mercyonenorthiowaaffiliates.org/hansenfamilyhospital/"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "Open to all."
 days: Contact for hours of operation.
 ctaMessage: Learn more

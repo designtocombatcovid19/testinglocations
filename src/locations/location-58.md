@@ -21,7 +21,7 @@ phone: "844-421-0804"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "By appointment only. Requires doctor's referral. Requires phone screen. For individuals with symptoms."
 days: Weekdays
 hours: 8AM-3:30PM

@@ -21,7 +21,7 @@ phone: ""
 website: "https://www.cvs.com/minuteclinic/covid-19-testing"
 onlineBooking: true
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "By appointment only. For individuals with symptoms."
 days: Contact for hours of operation.
 ctaMessage: Schedule a test

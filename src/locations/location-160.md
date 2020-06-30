@@ -21,7 +21,7 @@ phone: "706-857-3471"
 website: "https://dph.georgia.gov/locations/chattooga-county-health-department"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "By appointment only."
 days: Tuesdays
 hours: 9AM-4PM

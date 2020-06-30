@@ -21,7 +21,7 @@ phone: "661-945-5984"
 website: "https://lacovidprod.service-now.com/rrs"
 onlineBooking: true
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "By appointment only. For individuals with symptoms. Free."
 days: M-Sat
 hours: 9AM-5PM

@@ -21,7 +21,7 @@ phone: "407-723-5004"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "By appointment only."
 days: Everyday
 hours: 8AM-5PM

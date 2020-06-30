@@ -21,7 +21,7 @@ phone: "844-489-1822"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "Requires doctor's referral. Requires phone screen. Open to all."
 days: Contact for hours of operation.
 ctaMessage: Call 844-489-1822

@@ -21,7 +21,7 @@ phone: "510-583-4949"
 website: "undefined"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "By appointment only. Requires doctor's referral. Prioritizes health care workers. Requires phone screen. For individuals with symptoms. Free."
 days: T-Sun
 hours: 9AM-6PM

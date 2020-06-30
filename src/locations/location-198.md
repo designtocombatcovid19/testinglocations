@@ -21,7 +21,7 @@ phone: ""
 website: "https://www.eehealth.org/coronavirus/#cvsection4"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "Requires referral from a primary health provider."
 days: Weekdays
 hours: 9 am-3PM

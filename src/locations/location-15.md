@@ -21,7 +21,7 @@ phone: "334-507-2291"
 website: "https://halecountyhospital.com/covid19"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "Open to all."
 days: Contact for hours of operation.
 ctaMessage: Learn more

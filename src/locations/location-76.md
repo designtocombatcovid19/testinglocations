@@ -21,7 +21,7 @@ phone: "302-645-3200"
 website: "https://www.beebehealthcare.org/patients-visitors/screening-testing-treatment-beebe"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "By appointment only. Requires doctor's referral. Requires phone screen."
 days: Contact for hours of operation.
 ctaMessage: Learn more

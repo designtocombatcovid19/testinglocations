@@ -21,7 +21,7 @@ phone: ""
 website: "https://www.umms.org/uch/coronavirus/mobile-testing"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "By appointment only. Requires doctor's referral. For individuals with symptoms."
 days: M, W, Th, F
 hours: 10AM-2PM

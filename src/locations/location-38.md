@@ -21,7 +21,7 @@ phone: "520-573-7500"
 website: "https://nextcare.com/curbside/"
 onlineBooking: true
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: "For individuals with symptoms."
 days: Everyday
 hours: 8AM-Noon

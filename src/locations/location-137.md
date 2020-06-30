@@ -21,7 +21,7 @@ phone: ""
 website: "https://dph.georgia.gov/locations/center-health-and-rehabilitation"
 onlineBooking: undefined
 closed: undefined
-closedUpdate: May 23rd, 2020
+closedUpdate: June 30th, 2020
 notes: ""
 days: Weekdays
 hours: 9AM-4PM
